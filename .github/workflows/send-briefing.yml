@@ -26,5 +26,5 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
-          PAGE_URL: https://moojungra.github.io/nuclear-news-daily/
+          PAGE_URL: https://nuclear-business-development-team.github.io/nuclear-news-daily/
         run: python scripts/send_mail.py ${{ github.event.inputs.date }}

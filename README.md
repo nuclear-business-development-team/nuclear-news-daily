@@ -8,7 +8,7 @@
 
 ## 보는 법
 
-- 휴대폰·태블릿: GitHub Pages 주소 (설정 후 여기에 기입)
+- 휴대폰·태블릿: https://nuclear-business-development-team.github.io/nuclear-news-daily/
 - 원문 보고서: `reports/` 폴더의 날짜별 Markdown
 - 데이터: `data/` 폴더의 날짜별 JSON (사내 시스템 연동용)
 

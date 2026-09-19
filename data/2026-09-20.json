@@ -1,11 +1,12 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T10:40:00+09:00",
+  "generated_at": "2026-09-20T08:17:24+09:00",
   "period": {
     "from": "2026-09-11",
     "to": "2026-09-20"
   },
-  "overview_ko": "주말(9/19~9/20)이라 World Nuclear News·NucNet·ANS·JAIF 모두 신규 기사가 없어, 수집 구간을 9/11까지 넓히고 현지어 매체를 훑어 앞선 브리핑이 놓친 건을 메웠다. 가장 큰 변화는 신규 시장 두 곳이다 — 태국 EGAT가 미국 USTDA 자금으로 약 600MWe 규모 SMR 타당성 조사에 착수하며 미국 7개 노형을 한꺼번에 저울에 올렸고, 카자흐스탄은 로사톰과 1호기 EPC를 맺은 지 2주 만에 2호기(Moyynkum) 공급사 협상에 들어갔다고 IAEA 총회에서 공식 확인했다. 반대로 루마니아는 총리실 감찰반이 Doicești SMR 사업의 2년 가까운 지연과 파트너 선정 불투명성을 공개 지적하며 기조가 흔들렸고, 네덜란드는 예산서로 신규 4기 재원 경로를 못박았다. 영업 관점: 태국은 미국 벤더 전용 조사라 한국이 초기 판에서 빠져 있고 카자흐스탄 2호기는 협상 초기 단계이므로, 두 건 모두 조사 결과가 굳기 전에 접점을 만드는 것이 이번 주 우선순위다.",
+  "overview_ko": "주말(9/19~9/20)이라 World Nuclear News·NucNet·ANS 모두 신규 기사가 없어 수집 구간을 9/11까지 넓히고 현지어 매체와 각국 공식 발표를 훑었다. 신규 시장에서는 태국 EGAT가 미국 USTDA 자금으로 약 600MWe 규모 SMR 타당성 조사에 착수하며 미국 7개 노형을 한꺼번에 저울에 올렸고, 카자흐스탄은 로사톰과 1호기 EPC를 맺은 지 2주 만에 2호기(Moyynkum) 공급사 협상에 들어갔다고 IAEA 총회에서 공식 확인했다. 반대로 루마니아는 총리실 감찰반이 Doicești SMR 사업의 2년 가까운 지연과 파트너 선정 불투명성을 공개 지적하며 기조가 흔들렸다. 성숙 시장에서는 영국이 대형·SMR 양쪽에서 공급망 발주를 동시에 열었고(Wylfa 부지 롤스로이스 SMR 14억 파운드 협력업체 공모, Sizewell C 해양터널 세그먼트 공장 인가), 네덜란드는 예산서로 신규 4기 재원 경로를 못박았다. 영업 관점: 태국은 미국 벤더 전용 조사라 한국이 초기 판에서 빠져 있고 카자흐스탄 2호기는 협상 초기 단계이므로, 두 건 모두 조사 결과가 굳기 전에 접점을 만드는 것이 이번 주 우선순위다.",
+  "domestic_overview_ko": "체코 두코바니가 실행 단계로 넘어갔다 — 체코 기업 60곳 이상이 한수원 기술·품질 자격심사를 통과했고, 한수원은 11월 보조기기·자재(AE&M) 첫 입찰을 연다. 제도 쪽에서는 SMR 특별법과 시행령이 9월 11일 시행돼 과기정통부가 5년 주기 'SMR 시스템 개발 기본계획'을 세우는 범정부 지원체계가 가동됐고, 과기정통부는 IAEA 총회 기조연설에서 i-SMR과 SMR 선박(K-문샷)을 미래 원자력 비전으로 제시했다. 기후에너지환경부는 고리 1호기 해체 경험을 수출 상품으로 끌어올리는 K-원전 전주기 역량 강화 방안을 내놨고, 원안위는 6개월 멈춰 있던 연구로 하나로의 재가동을 승인했다. 영업 관점: 두코바니 첫 입찰은 한수원이 해외 현지 공급망을 실제로 굴릴 수 있는지 보여주는 첫 시험대이며, 그 수행 실적이 폴란드·슬로베니아·네덜란드 후속 입찰에서 곧바로 레퍼런스로 쓰인다.",
   "countries_pulse": [
     {
       "country": "TH",
@@ -29,32 +30,46 @@
       "article_ids": ["2026-09-20-03"]
     },
     {
+      "country": "CZ",
+      "name_ko": "체코",
+      "stance": "expanding",
+      "signal": "기조 유지·실행 전환 — 체코 기업 60곳 이상이 한수원 자격심사를 통과했고 11월 첫 기자재 입찰 예고. 현지 공급망 참여가 정치 리스크를 낮추는 국면",
+      "article_ids": ["2026-09-20-14"]
+    },
+    {
+      "country": "GB",
+      "name_ko": "영국",
+      "stance": "expanding",
+      "signal": "확대 가속 — 대형(Sizewell C 해양터널 세그먼트 공장 인가)과 SMR(Wylfa 부지 14억 파운드 협력업체 공모)에서 공급망 발주가 동시에 열림",
+      "article_ids": ["2026-09-20-04", "2026-09-20-06"]
+    },
+    {
       "country": "CN",
       "name_ko": "중국",
       "stance": "expanding",
       "signal": "기조 유지 — 하이난 첫 화룽원 창장 3호기 상업운전 진입, 설비 국산화율 98.1%로 자립도 재확인",
-      "article_ids": ["2026-09-20-04"]
+      "article_ids": ["2026-09-20-05"]
     },
     {
       "country": "NL",
       "name_ko": "네덜란드",
       "stance": "expanding",
       "signal": "기조 유지·구체화 — 2027년 예산서에 신규 4기와 SMR 재원을 다년 계획으로 명시, 국영 발주주체 NEO NL 조직 확대",
-      "article_ids": ["2026-09-20-05"]
+      "article_ids": ["2026-09-20-08"]
     },
     {
       "country": "US",
       "name_ko": "미국",
       "stance": "expanding",
-      "signal": "기조 유지 — 주말로 정책 신규 신호 없음. INL의 TRISO 연료 시험, 용융염 확보 등 연료·R&D 인프라 정비가 이어짐",
-      "article_ids": ["2026-09-20-01", "2026-09-20-06", "2026-09-20-07"]
+      "signal": "기조 유지 — 주말로 정책 신규 신호 없음. INL의 TRISO 연료 시험, 용융염 확보, 국방부 우주로 실증 지원 등 연료·R&D 인프라 정비가 이어짐",
+      "article_ids": ["2026-09-20-01", "2026-09-20-10", "2026-09-20-11", "2026-09-20-13"]
     },
     {
       "country": "INT",
       "name_ko": "국제기구",
       "stance": "expanding",
-      "signal": "기조 유지 — IAEA 제70차 총회 진행, 부대 과학포럼 종료. 신규 도입국 발표가 총회를 통해 나오는 흐름 지속",
-      "article_ids": ["2026-09-20-02", "2026-09-20-08"]
+      "signal": "기조 유지 — IAEA 제70차 총회 진행. NEA·IAEA 공동 Red Book은 2050년 수요를 감당하려면 우라늄 개발 투자가 더 필요하다고 지적",
+      "article_ids": ["2026-09-20-07", "2026-09-20-09", "2026-09-20-12"]
     }
   ],
   "articles": [
@@ -66,6 +81,7 @@
       "source": "World Nuclear News",
       "url": "https://www.world-nuclear-news.org/articles/us-funding-for-thai-smr-feasibility-study",
       "published": "2026-09-16",
+      "region": "overseas",
       "category": "smr",
       "countries": ["TH", "US"],
       "importance": 3,
@@ -73,7 +89,8 @@
       "sales_note": "태국이 원전 도입을 실무 단계로 올린 첫 공식 신호인데, 조사 대상이 미국 노형으로 한정돼 초기 판에서 우리가 빠져 있다. 한수원은 2025년 6월 EGAT와 SMR 협력 MOU를 맺은 이력이 있으므로, 조사 결과가 노형 후보군으로 굳기 전에 그 채널을 되살려 i-SMR을 비교군에 넣는 접촉이 필요하다. 미국이 USTDA 타당성 조사 자금을 앞세워 신규국 초기 단계를 선점하는 방식(필리핀 Meralco 사례와 동일)이 반복되고 있다는 점도 함께 볼 것.",
       "related": [
         "https://ustda.gov/ustda-supports-thailands-first-nuclear-energy-infrastructure-project/",
-        "https://www.nationthailand.com/news/policy/40071049"
+        "https://www.nationthailand.com/news/policy/40071049",
+        "https://www.nucnet.org/news/ustda-signs-agreement-to-support-small-modular-reactors-for-thailand-9-3-2026"
       ]
     },
     {
@@ -84,6 +101,7 @@
       "source": "Ритм Евразии",
       "url": "https://www.ritmeurasia.ru/news--2026-09-16--kazahstan-vedet-peregovory-o-stroitelstve-vtoroj-aes-90344",
       "published": "2026-09-16",
+      "region": "overseas",
       "category": "large",
       "countries": ["KZ", "RU"],
       "importance": 3,
@@ -101,6 +119,7 @@
       "source": "Ziare.com",
       "url": "https://ziare.com/reactoare-modulare-mici/nereguli-control-guvern-2034931",
       "published": "2026-09-11",
+      "region": "overseas",
       "category": "smr",
       "countries": ["RO", "US"],
       "importance": 3,
@@ -112,29 +131,84 @@
     },
     {
       "id": "2026-09-20-04",
+      "title": "Sizewell C gets green light for Bristol tunnel segment factory",
+      "title_ko": "Sizewell C, 브리스틀 터널 세그먼트 공장 인허가 취득",
+      "language": "en",
+      "source": "Construction Enquirer",
+      "url": "https://www.constructionenquirer.com/2026/09/18/sizewell-c-gets-green-light-for-bristol-tunnel-segment-factory/",
+      "published": "2026-09-18",
+      "region": "overseas",
+      "category": "large",
+      "countries": ["GB"],
+      "importance": 2,
+      "summary_ko": "영국 Sizewell C 사업이 브리스틀 에이번머스(Avonmouth)에 해양터널용 프리캐스트 콘크리트 세그먼트 공장을 짓는 인허가를 받았다. 해양터널 3본에 들어갈 세그먼트 3만 8,000개와 터널 헤드를 제작하며, 완전 가동 시 400명을 고용한다. 부지는 자매 사업인 Hinkley Point C의 터널 제작장을 재활용해 확장하는 것으로, 초기 공사는 이미 진행 중이고 생산은 2028년 시작 예정이다. 제작물은 철도·해상으로 서퍽 현장까지 옮긴다.",
+      "sales_note": "영국이 대형 원전 건설을 기존 사업의 설비·부지를 재활용해 원가를 낮추는 방식으로 진행하고 있다. 연속 건설(n차호기 효과)을 비용 절감 근거로 쓰는 전형이므로, 우리 쪽도 다수호기 연속 수주 시 같은 논리를 발주처 설득 자료로 정리해 둘 만하다.",
+      "related": [
+        "https://www.newcivilengineer.com/latest/marine-tunnel-parts-for-sizewell-c-to-be-manufactured-in-avonmouth-from-2028-18-09-2026/"
+      ]
+    },
+    {
+      "id": "2026-09-20-05",
       "title": "海南首台\"华龙一号\"核电机组投产商运",
       "title_ko": "하이난 첫 '화룽원' 원전 기기 상업운전 개시",
       "language": "zh",
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698254.shtml",
       "published": "2026-09-17",
+      "region": "overseas",
       "category": "large",
       "countries": ["CN"],
       "importance": 2,
       "summary_ko": "중국화능(China Huaneng)이 지배지분을 가진 첫 대형 가압경수로인 창장(昌江) 원전 2단계 3호기가 9월 17일 하이난에서 상업운전에 들어갔다. 2단계는 화룽원(华龙一号) 노형 120만kW급 2기 구성이며, 전량 준공 시 연간 약 180억kWh를 생산한다. 3호기는 설비 국산화율 98.1%와 86건의 설계 최적화를 적용했고, 화능이 자체 개발한 HAP 생산관리 시스템을 소프트·하드웨어 전량 국산으로 적용했다.",
       "sales_note": "중국이 화룽원 운전 실적을 계속 쌓으며 수출 레퍼런스를 두껍게 하고 있다. 국산화율 98.1%는 중국이 해외 입찰에서 가격·공급망 자립을 내세울 근거가 되므로, 중동·중앙아시아·동남아 경합에서 가격 경쟁 압박이 커지는 요인으로 봐야 한다.",
       "related": [
-        "https://www.nucnet.org/news/china-s-chiangjiang-3-hualong-one-reactor-begins-commercial-operation-9-5-2026"
+        "https://www.nucnet.org/news/china-s-chiangjiang-3-hualong-one-reactor-begins-commercial-operation-9-5-2026",
+        "https://www.world-nuclear-news.org/articles/third-unit-at-changjiang-site-commissioned"
       ]
     },
     {
-      "id": "2026-09-20-05",
+      "id": "2026-09-20-06",
+      "title": "£1.4bn in contracts up for grabs as major Ynys Môn nuclear project gathers pace",
+      "title_ko": "영국 Wylfa SMR 사업, 14억 파운드 규모 협력업체 공모 개시",
+      "language": "en",
+      "source": "Nation.Cymru",
+      "url": "https://nation.cymru/news/1-4bn-in-contracts-up-for-grabs-as-major-ynys-mon-nuclear-project-gathers-pace/",
+      "published": "2026-09-16",
+      "region": "overseas",
+      "category": "smr",
+      "countries": ["GB"],
+      "importance": 2,
+      "summary_ko": "롤스로이스 SMR이 앞으로 1년간 14억 파운드 규모 계약을 영국 기업에 개방하는 협력업체 프로그램을 시작했다. 대상은 옛 Wylfa Newydd 부지(앵글시)에 짓는 Gwyndod 발전소로, 롤스로이스 SMR 3기로 출발하며 추가 확장 여지를 뒀다. 롤스로이스 SMR과 정부 사업주체 Great British Energy–Nuclear(GBE-N)는 영국산 비중 70% 이상을 목표로 하며, 북웨일스 3,000명을 포함해 영국 전역 8,000명 고용을 예상한다. 협력업체 설명회는 10월 22~23일 앵글시에서 열린다.",
+      "sales_note": "영국이 SMR 사업에서 자국 공급망 비중 70%를 명시적 목표로 걸었다. 유럽·영연방 시장에서 현지화율(local content)이 노형 선정만큼 중요한 평가 항목으로 굳어지는 흐름이므로, i-SMR 해외 제안 시 현지 기자재·인력 비중을 수치로 제시할 준비가 필요하다.",
+      "related": [
+        "https://www.rolls-royce.com/media/our-stories/discover/2026/helping-uk-suppliers-bid-for-gbp-1-point-4bn-of-nuclear-work.aspx"
+      ]
+    },
+    {
+      "id": "2026-09-20-07",
+      "title": "Floating SMR-Powered Data Centres: Why Innovation And Collaboration Are Key To Overcoming Barriers",
+      "title_ko": "부유식 SMR 데이터센터 — 혁신과 협업이 걸림돌을 넘는 열쇠",
+      "language": "en",
+      "source": "NucNet",
+      "url": "https://www.nucnet.org/news/floating-smr-powered-data-centres-why-innovation-and-collaboration-are-key-to-overcoming-barriers-9-3-2026",
+      "published": "2026-09-16",
+      "region": "overseas",
+      "category": "smr",
+      "countries": ["INT", "KR", "US"],
+      "importance": 2,
+      "summary_ko": "미국선급협회(ABS)의 데이비드 워커 부사장이 해상 부유 플랫폼과 SMR을 결합해 하이퍼스케일 데이터센터에 전력을 공급하는 구상을 정리한 기고다. ABS는 HD현대중공업과 HD한국조선해양의 개념설계를 승인했고, 미국해양혁신센터(USCMI)가 관련 연구를 진행 중이며 미 해군도 항모를 활용한 개념 검토에 나섰다. 최대 장애물로는 규제·인허가 체계의 부재, 책임과 해상보험 적용의 불명확성, 인력 양성과 해체·금융 모델 미비를 꼽았다.",
+      "sales_note": "해상 원자력은 한국 조선업의 강점과 직접 맞물리는 영역이고, 과기정통부가 IAEA 총회에서 제시한 'SMR 선박'(K-문샷) 방향과도 겹친다. ABS 승인을 이미 확보한 HD현대 사례는 우리 쪽이 국제 선급·규제 논의에 먼저 들어가 있다는 근거로 쓸 수 있다.",
+      "related": []
+    },
+    {
+      "id": "2026-09-20-08",
       "title": "Beleidsartikel 1 Kernenergie — Ontwerpbegroting 2027",
       "title_ko": "2027년 예산안 정책항목 1 '원자력'",
       "language": "nl",
       "source": "Rijksfinanciën (네덜란드 재무부 예산서)",
       "url": "https://www.rijksfinancien.nl/memorie-van-toelichting/2026/OWB/M/onderdeel/9634054",
       "published": "2026-09-15",
+      "region": "overseas",
       "category": "policy",
       "countries": ["NL"],
       "importance": 2,
@@ -145,13 +219,30 @@
       ]
     },
     {
-      "id": "2026-09-20-06",
+      "id": "2026-09-20-09",
+      "title": "Newest Red Book notes the need for more U investment",
+      "title_ko": "최신 Red Book, 우라늄 개발 투자 확대 필요성 지적",
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-09-15/article-8391/",
+      "published": "2026-09-15",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": ["INT"],
+      "importance": 2,
+      "summary_ko": "OECD 원자력기구(NEA)와 IAEA가 공동 발간하는 『Uranium 2026: Resources, Production and Demand』(통칭 Red Book) 제31판이 나왔다. 2025년 초 기준 세계 상업로 418기의 연간 우라늄 소요는 약 6만 4,500톤이고, 2050년 수요는 8만 4,800~14만 3,900톤으로 전망된다. 확인된 회수가능 자원은 810만 톤으로 2050년까지는 충분하지만, 개발 기간이 통상 15~20년인 만큼 \"적시의 대규모 지속 투자\"가 필요하다고 지적했다. 2023~2024년 탐사 지출은 17억 8,000만 달러를 넘겨 2021~2022년 대비 46% 늘었으나 개발 단계 투자는 여전히 부족하다고 봤다.",
+      "sales_note": "자원량이 아니라 개발 투자 속도가 병목이라는 진단이다. 2030년대 인도 예정 사업의 장기 연료 계약 조건이 앞으로 빡빡해질 수 있으므로, 대형 입찰에서 연료 공급 보장을 묶어 제안하는 방식의 가치가 커진다. 우라늄 보유국(카자흐스탄·우즈베키스탄 등)과의 연료 연계 협상 카드로도 활용 가능.",
+      "related": []
+    },
+    {
+      "id": "2026-09-20-10",
       "title": "Industry and INL collaborate to test new varieties of TRISO fuel",
       "title_ko": "산업계와 INL, 새로운 TRISO 연료 변종 시험 협력",
       "language": "en",
       "source": "ANS Nuclear Newswire",
       "url": "https://www.ans.org/news/2026-09-18/article-8328/industry-and-inl-collaborate-to-test-new-varieties-of-triso-fuel/",
       "published": "2026-09-18",
+      "region": "overseas",
       "category": "fuel",
       "countries": ["US"],
       "importance": 1,
@@ -159,13 +250,14 @@
       "sales_note": "HTGR·마이크로로 노형의 연료 인증 경로가 미국 국립연구소를 축으로 정비되고 있다. 해외 SMR 사업에서 연료 조달·인증 일정이 노형 선택을 좌우하는 변수인 만큼 경로 변화를 계속 추적할 필요."
     },
     {
-      "id": "2026-09-20-07",
+      "id": "2026-09-20-11",
       "title": "MSRE FLiBe arrives in Texas for reuse after decades in storage",
       "title_ko": "수십 년 보관돼 온 MSRE FLiBe, 재사용 위해 텍사스 도착",
       "language": "en",
       "source": "ANS Nuclear Newswire",
       "url": "https://www.ans.org/news/2026-09-18/article-8402/msre-flibe-arrives-in-texas-for-reuse-after-decades-in-storage/",
       "published": "2026-09-18",
+      "region": "overseas",
       "category": "fuel",
       "countries": ["US"],
       "importance": 1,
@@ -173,18 +265,175 @@
       "sales_note": "용융염로 상용화의 병목 중 하나인 초기 염(salt) 확보를 기존 재고 재활용으로 푸는 사례. 용융염 노형의 실증 속도를 가늠하는 참고 지표."
     },
     {
-      "id": "2026-09-20-08",
+      "id": "2026-09-20-12",
       "title": "IAEA scientific forum highlights nuclear medicine for countries in need",
       "title_ko": "IAEA 과학포럼, 지원이 필요한 국가의 원자력 의학 조명",
       "language": "en",
       "source": "ANS Nuclear Newswire",
       "url": "https://www.ans.org/news/2026-09-18/article-8401/iaea-scientific-forum-highlights-nuclear-medicine-for-countries-in-need/",
       "published": "2026-09-18",
+      "region": "overseas",
       "category": "policy",
       "countries": ["INT"],
       "importance": 1,
       "summary_ko": "IAEA 총회 기간 오스트리아 빈 국제센터에서 이틀간 열린 2026 과학포럼이 폐막했다. 주제는 암 치료 접근성 확대를 목표로 한 '희망의 빛(Rays of Hope)'이었다.",
       "sales_note": "원자력 도입을 검토하는 신규국과의 초기 접점은 발전 외 분야 협력에서 만들어지는 경우가 많아, 총회 부대행사 의제는 참고 가치가 있다."
+    },
+    {
+      "id": "2026-09-20-13",
+      "title": "DOD funds $161 million space reactor award",
+      "title_ko": "미 국방부, 1억 6,100만 달러 우주 원자로 사업 선정",
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-09-15/article-8390/",
+      "published": "2026-09-15",
+      "region": "overseas",
+      "category": "smr",
+      "countries": ["US"],
+      "importance": 1,
+      "summary_ko": "미 국방부가 우주 원자로 실증·위성 탑재 통합 사업에 1억 6,100만 달러를 지원하기로 하고 Antares를 선정했다. 대상은 마이크로로 R1-S(R1-Space)로, Block 1은 35kWe 이상을 목표로 한다. Antares는 2026년 6월 선행 모델 Mark-0의 영출력 임계를 달성했고, 전력 변환계통을 갖춘 Mark-1 시제기를 2027년에 6개월 넘게 운전할 계획이다.",
+      "sales_note": "미국이 국방 예산으로 마이크로로 실증 속도를 끌어올리고 있다. 같은 회사가 9월 Centrus와 HALEU 다년 공급계약을 맺은 점과 묶어 보면, 미국 선진로 진영이 연료–실증–수요처를 한 묶음으로 조달하는 구도가 뚜렷하다."
+    },
+    {
+      "id": "2026-09-20-14",
+      "title": "Přes 60 českých firem splnilo podmínky pro Dukovany, KHNP chystá první tendr už v listopadu",
+      "title_ko": "체코 기업 60곳 이상 두코바니 자격심사 통과 — 한수원, 11월 첫 입찰 준비",
+      "language": "cs",
+      "source": "oEnergetice.cz",
+      "url": "https://oenergetice.cz/jaderne-elektrarny/pres-60-ceskych-firem-splnilo-podminky-pro-dukovany-khnp-chysta-prvni-tendr-uz-v-listopadu",
+      "published": "2026-09-16",
+      "region": "domestic",
+      "category": "large",
+      "countries": ["KR", "CZ"],
+      "importance": 3,
+      "summary_ko": "체코 기업 60곳 이상이 두코바니 신규 2기 사업에서 한수원이 정한 기술·품질 자격 요건을 통과했다. 한수원은 프라하에서 설명회를 열어 전자조달 시스템 K-PRO, 품질관리 계획, 계약 조건과 평가 기준을 공급사 후보들에게 안내했다. 첫 입찰은 2026년 11월에 나오며 대상은 보조기기·자재(AE&M) 패키지다. 최일경 한수원 부사장은 이번 행사를 \"입찰 준비의 중요한 이정표\"라고 했고, 발주사 Elektrárna Dukovany II의 페트르 자보드스키 대표는 체코 기업들의 경험을 들어 수주 전망을 긍정적으로 평가했다. 사업비는 2025년 가격 기준 2기 합계 4,070억 코루나다.",
+      "sales_note": "두코바니가 설계 문서 단계에서 실제 발주 단계로 넘어간다. 11월 AE&M 입찰은 한수원이 해외 현지 공급망을 실제로 굴릴 수 있는지 보여주는 첫 시험대이고, 현지 기업 참여 실적은 체코 내 정치·여론 리스크를 낮추는 가장 확실한 카드다. 여기서 쌓는 현지화 실적은 폴란드·슬로베니아·네덜란드 후속 입찰에서 곧바로 레퍼런스로 쓸 수 있으므로, 참여 기업 수와 발주 금액을 지표로 관리할 것.",
+      "related": [
+        "https://www.khnpcesko.cz/"
+      ]
+    },
+    {
+      "id": "2026-09-20-15",
+      "title": "소형모듈원자로(SMR) 개발·상용화, 특별법·시행령 시행으로 본격화",
+      "title_ko": "소형모듈원자로(SMR) 개발·상용화, 특별법·시행령 시행으로 본격화",
+      "language": "ko",
+      "source": "과학기술정보통신부 (정책브리핑)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781269",
+      "published": "2026-09-11",
+      "region": "domestic",
+      "category": "smr",
+      "countries": ["KR"],
+      "importance": 3,
+      "summary_ko": "「소형모듈원자로 개발 촉진 및 지원에 관한 특별법」과 시행령이 9월 11일 시행됐다. 특별법은 SMR 연구·개발·실증을 체계적으로 촉진하고 연구개발 성과를 사업화로 잇는 범정부 지원체계를 만들기 위해 지난 3월 제정됐다. 시행령은 과기정통부가 5년마다 'SMR 시스템 개발 기본계획'을 세우고 연도별 시행계획을 마련하도록 했으며, 기본계획에는 정책목표·추진전략, 핵연료 공급망 체계, 국민 수용성 확보, 전문인력 양성, 제도 개선이 들어간다. 과기정통부는 7대 SEED 프로젝트와 연계해 2027년부터 SMR 상세설계에 착수하겠다고 밝혔고, 연내 범정부 'SMR 촉진위원회'를 출범시킬 계획이다.",
+      "sales_note": "SMR 수출에서 발주처가 가장 먼저 확인하는 것이 본국 정부의 제도적 뒷받침과 인허가 경로다. 특별법 시행과 기본계획 수립 의무는 i-SMR 해외 제안서에서 '국가가 보증하는 개발 일정'으로 제시할 수 있는 근거가 되며, 핵연료 공급망 조항은 신규국이 요구하는 연료 보장 질문에 답할 틀이 된다.",
+      "related": [
+        "https://www.mt.co.kr/tech/2026/09/11/2026091111223533987",
+        "https://www.etoday.co.kr/news/view/2624375"
+      ]
+    },
+    {
+      "id": "2026-09-20-16",
+      "title": "원안위, 연구용 원자로 '하나로' 재가동 승인",
+      "title_ko": "원안위, 연구용 원자로 '하나로' 재가동 승인",
+      "language": "ko",
+      "source": "원자력안전위원회 (정책브리핑)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782457",
+      "published": "2026-09-18",
+      "region": "domestic",
+      "category": "policy",
+      "countries": ["KR"],
+      "importance": 2,
+      "summary_ko": "원자력안전위원회가 2026년 3월 12일 자동정지됐던 연구용 원자로 '하나로'의 사건조사를 마무리하고 9월 18일 재가동을 승인했다. 정지 원인은 출력 감시용 방사선 계측기 고장으로 확인됐고, 해외 제작사를 통한 원인 분석과 부품 교체로 조치 완료까지 약 6개월이 걸렸다. 원안위는 교체된 계측기 재설치와 유사 기기 성능 점검, 계측기 건전성 관리체계 개선을 포함한 재발방지대책을 확인했으며 재가동 이후에도 한국원자력연구원의 이행 상황을 계속 점검하기로 했다.",
+      "sales_note": "하나로는 의료·산업용 방사성동위원소 생산과 연구로 수출(요르단 JRTR 등)의 기술 기반이다. 6개월 정지가 해소되면서 연구로 분야 레퍼런스 공백이 줄었다.",
+      "related": [
+        "https://www.news1.kr/it-science/general-science/6295567"
+      ]
+    },
+    {
+      "id": "2026-09-20-17",
+      "title": "건설부터 해체까지 케이(K)-원전 전주기 역량 높인다",
+      "title_ko": "건설부터 해체까지 케이(K)-원전 전주기 역량 높인다",
+      "language": "ko",
+      "source": "기후에너지환경부 (정책브리핑)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782135",
+      "published": "2026-09-17",
+      "region": "domestic",
+      "category": "policy",
+      "countries": ["KR"],
+      "importance": 2,
+      "summary_ko": "기후에너지환경부가 원전 건설부터 해체까지 전주기에 걸쳐 국내 기업 역량을 키우고 해외 진출을 지원하겠다는 방향을 내놨다. 부처는 9월 18일 서울 웨스틴조선호텔에서 한국수력원자력과 공동으로 '2026 원전해체 비즈니스 포럼'을 열었고, 한국원자력산업협회 주관으로 정부·산학연 관계자 약 300명이 참석했다. 올해 11회째인 포럼 주제는 '고리 1호기에서 미래로, 케이-디커미셔닝(K-Decommissioning)의 글로벌 도약'이었으며, 미국·프랑스·일본 해체 전문기업 관계자들이 실제 수행 경험을 공유했다.",
+      "sales_note": "고리 1호기 해체가 실증 단계에 들어가면서 해체를 별도 수출 품목으로 세우려는 정부 방향이 분명해졌다. 계속운전이 끝나가는 유럽 노후 원전 발주처 상대로는 '신규 건설 + 해체'를 한 묶음으로 제안하는 접근이 가능해지고, 영국·독일·일본 해체 시장 진입 시 정부 지원 프로그램을 근거로 쓸 수 있다.",
+      "related": [
+        "https://www.energydaily.co.kr/news/articleView.html?idxno=203324",
+        "https://www.energydaily.co.kr/news/articleView.html?idxno=203409"
+      ]
+    },
+    {
+      "id": "2026-09-20-18",
+      "title": "과기정통부, 제70차 국제원자력기구(IAEA) 총회서 대한민국 미래 원자력 혁신 미래상(비전) 제시",
+      "title_ko": "과기정통부, 제70차 국제원자력기구(IAEA) 총회서 대한민국 미래 원자력 혁신 미래상(비전) 제시",
+      "language": "ko",
+      "source": "과학기술정보통신부 (정책브리핑)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781827",
+      "published": "2026-09-16",
+      "region": "domestic",
+      "category": "smr",
+      "countries": ["KR", "INT"],
+      "importance": 2,
+      "summary_ko": "구혁채 과기정통부 제1차관이 9월 15일 오스트리아 빈에서 열린 제70차 IAEA 총회에 한국 수석대표로 참석해 기조연설을 했다. 원자력을 에너지 안보와 탄소중립의 기반이자 전략기술로 규정하고, SMR 특별법에 따른 혁신형 SMR(i-SMR) 개발 확대와 K-문샷의 하나로 원자력·조선해양 기술을 결합한 SMR 선박 개발을 제시했다. 7대 SEED 프로젝트로 첨단 SMR 기술개발과 미래시장 창출을 추진한다는 내용도 담았다. 총회 기간 라파엘 그로시 IAEA 사무총장과 싱가포르·캐나다 고위급 인사를 만나 SMR 협력 확대를 논의했고, 10월 한국에서 IAEA 원자력 장관회의가 열린다.",
+      "sales_note": "10월 IAEA 원자력 장관회의를 한국이 주최한다는 점이 당장 중요하다. 신규 도입국 대표단이 한자리에 모이는 자리이므로, 두코바니 실적과 i-SMR 일정을 묶은 국가 단위 제안 자료를 그 시점에 맞춰 준비하면 접점을 한 번에 만들 수 있다. SMR 선박은 조선 강점과 결합한 차별화 포지션이라 ABS·IMO 등 국제 선급 논의 참여 여부를 함께 챙길 것.",
+      "related": [
+        "https://biz.heraldcorp.com/article/10875237",
+        "https://www.fnnews.com/news/202609161102011589"
+      ]
+    },
+    {
+      "id": "2026-09-20-19",
+      "title": "제2026-14회 원자력안전위원회 개최",
+      "title_ko": "제2026-14회 원자력안전위원회 개최",
+      "language": "ko",
+      "source": "원자력안전위원회 (정책브리핑)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781370",
+      "published": "2026-09-11",
+      "region": "domestic",
+      "category": "policy",
+      "countries": ["KR"],
+      "importance": 2,
+      "summary_ko": "원자력안전위원회가 9월 11일 제2026-14회 회의를 열어 2건을 심의·의결하고 1건은 재상정하기로 했다. ㈜오르비텍의 핵연료물질 사용 등 허가(안)은 기술능력, 시설 위치·구조·설비의 기술기준 적합성, 배출물 환경영향 등을 검토한 결과 허가기준에 적합하다고 보고 의결했다. 생활주변방사선 안전관리법 시행령·시행규칙 개정안도 의결했다. 한국수력원자력이 신청한 고리 3·4호기와 한빛 1·2호기의 사고관리계획서 승인안 및 운영변경허가안은 추후 재상정해 다시 심의하기로 했다.",
+      "sales_note": "고리 3·4호기와 한빛 1·2호기 사고관리계획서 심의가 미뤄졌다. 계속운전 인허가 일정이 밀리면 해외 입찰에서 내세우는 '설계수명 이후 운영 실적'과 규제 처리 속도 지표에 영향이 있으므로 재상정 시점을 계속 확인할 것.",
+      "related": []
+    },
+    {
+      "id": "2026-09-20-20",
+      "title": "한수원, 'ESG·경영혁신 위원회' 새롭게 출범",
+      "title_ko": "한수원, 'ESG·경영혁신 위원회' 새롭게 출범",
+      "language": "ko",
+      "source": "한국수력원자력 (에너지데일리)",
+      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203422",
+      "published": "2026-09-18",
+      "region": "domestic",
+      "category": "policy",
+      "countries": ["KR"],
+      "importance": 1,
+      "summary_ko": "한국수력원자력이 9월 18일 서울 한수원 방사선보건원에서 제3기 'ESG·경영혁신 위원회' 첫 회의를 열고 공식 출범했다. 기존 ESG 중심 역할에 경영혁신 분야를 더해 기능을 넓혔고, 위원장은 유연백 한수원 비상임이사가 맡았다. 에너지·사회·거버넌스·경영혁신 분야 외부 전문가가 참여해 경영 현안을 진단하고 개선 방향을 자문한다.",
+      "sales_note": "해외 발주처와 금융기관이 입찰 평가에서 사업주 거버넌스와 ESG 체계를 점검하는 사례가 늘고 있어, 자문기구 개편 자체는 제안서 부록 수준의 근거로 활용 가능하다.",
+      "related": []
+    },
+    {
+      "id": "2026-09-20-21",
+      "title": "원안위원장 국제원자력기구(IAEA) 총회 참석 주요국과 원자력 안전규제 협력 강화한다",
+      "title_ko": "원안위원장 국제원자력기구(IAEA) 총회 참석 주요국과 원자력 안전규제 협력 강화한다",
+      "language": "ko",
+      "source": "원자력안전위원회 (정책브리핑)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781593",
+      "published": "2026-09-14",
+      "region": "domestic",
+      "category": "policy",
+      "countries": ["KR", "INT"],
+      "importance": 1,
+      "summary_ko": "원자력안전위원회 위원장이 오스트리아 빈에서 열린 제70차 IAEA 총회에 참석해 주요국 규제기관과 원자력 안전규제 협력을 논의했다.",
+      "sales_note": "규제기관 간 협력 채널은 수출 대상국의 인허가 심사 기간을 좌우한다. 신규 도입국 규제기관과의 양자 협력은 노형 인허가 전 단계에서 미리 깔아둬야 하는 기반이므로 접촉 대상국 목록을 확인할 것.",
+      "related": []
     }
   ]
 }

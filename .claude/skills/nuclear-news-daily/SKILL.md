@@ -60,19 +60,27 @@ description: 원전 해외영업팀용 일일 원자력 뉴스 브리핑을 만�
 | `summary_ko` | 한글 2~3문장. 누가·무엇을·수치·일정. 번역투 피하기 |
 | `sales_note` | 해외영업 관점 시사점 1~2문장. 해외 기사는 경쟁 구도·입찰 일정·금융·규제 협력, 국내 기사는 해외 수주 경쟁력(레퍼런스 실적, 공기·비용, 정부 지원, 공급망, 인허가)에 주는 영향. 억지로 만들지 말고 없으면 빈 문자열 |
 | `title` / `title_ko` | 원문 제목 / 한글 제목 |
+| `title_en` | 영어 제목. 원문이 영어면 `title` 그대로, 아니면 영어로 옮긴 제목 |
+| `summary_en` | `summary_ko`와 같은 내용의 영어 요약 2~3문장. 한글을 직역하지 말고 영어로 자연스럽게. 고유명사는 통용 영문 표기 |
+| `sales_note_en` | `sales_note`의 영어판. 한글이 빈 문자열이면 이것도 빈 문자열 |
 | `language` | 원문 언어 ISO 639-1 코드 |
 
 ## 5. 국가별 정세 (`countries_pulse`)
 
 **해외 국가만** 대상(한국 제외). 이번 기사에 등장한 나라 + `watch_countries` 중 새 소식이 있는 나라. 나라마다:
 - `stance`: `expanding`(확대) / `steady`(유지) / `cautious`(신중·지연) / `retreating`(축소) — 원자력 정책 기조
-- `signal`: 오늘 기사로 본 변화 한 줄 (변화가 없으면 "기조 유지 — …")
+- `signal`: 오늘 기사로 본 변화 한 줄 (변화가 없으면 "기조 유지 — …"), `signal_en`: 같은 내용의 영어 한 줄
+- `name_ko`: 한글 국가명, `name_en`: 영어 국가명(예: Czechia, Slovenia, International)
 - `article_ids`: 근거 기사 id
 
 ## 6. 요약
 
 - `overview_ko` (해외 요약): 3~5문장, 중요한 흐름 순. 마지막 문장은 "영업 관점:"으로 시작하는 한 줄.
+- `overview_en`: 같은 내용의 영어판. 마지막 문장은 "Sales angle:"으로 시작.
 - `domestic_overview_ko` (국내 요약): 2~4문장. 한전·한수원 해외사업, i-SMR, 정책·규제 순으로 중요한 것부터. 마지막 문장은 "영업 관점:"으로 시작. 국내 기사가 없으면 "특이 동향 없음."
+- `domestic_overview_en`: 같은 내용의 영어판. 마지막 문장은 "Sales angle:"으로 시작.
+
+**영어판은 사내 해외 인력용이다.** 한글을 그대로 직역하지 말고 영어 독자가 읽기 자연스럽게 쓰되, 사실·수치·판단은 한글판과 같아야 한다. 한국 고유 제도는 짧은 설명을 괄호로 붙인다(예: "continued operation (life extension) approval by the NSSC").
 
 ## 7. 저장
 

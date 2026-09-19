@@ -49,6 +49,7 @@ button,select,input{font:inherit;color:inherit}
 .datenav{margin-left:auto;display:flex;align-items:center;gap:4px}
 .datenav button,.datenav select{height:34px;border-radius:7px;border:1px solid #2c4652;background:#16323d;color:#e8f1f4;padding:0 10px;cursor:pointer;font:500 13.5px var(--mono)}
 .datenav button:disabled{opacity:.35;cursor:default}
+.lang-switch{font:600 12.5px var(--sans)!important;padding:0 12px!important;margin-right:6px}
 @media (max-width:560px){.logo small{display:none}}
 
 /* ── layout ─────────────────────────── */
@@ -184,12 +185,13 @@ footer{grid-column:1/-1;font-size:12px;color:var(--muted);border-top:1px solid v
   <div class="bar-in">
     <div class="logo">
       <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true"><circle cx="13" cy="13" r="3" fill="#7fc9e4"/><g fill="none" stroke="#7fc9e4" stroke-width="1.4"><ellipse cx="13" cy="13" rx="11" ry="4.2"/><ellipse cx="13" cy="13" rx="11" ry="4.2" transform="rotate(60 13 13)"/><ellipse cx="13" cy="13" rx="11" ry="4.2" transform="rotate(120 13 13)"/></g></svg>
-      <b>원자력 해외동향</b><small>Overseas Nuclear Brief</small>
+      <b id="brand">원자력 해외동향</b><small id="tagline">Overseas Nuclear Brief</small>
     </div>
     <div class="datenav">
-      <button id="prev" aria-label="이전 날짜">‹</button>
-      <select id="date" aria-label="날짜 선택"></select>
-      <button id="next" aria-label="다음 날짜">›</button>
+      <button id="langbtn" class="lang-switch">English</button>
+      <button id="prev" aria-label="prev">‹</button>
+      <select id="date" aria-label="date"></select>
+      <button id="next" aria-label="next">›</button>
     </div>
   </div>
 </header>
@@ -197,49 +199,131 @@ footer{grid-column:1/-1;font-size:12px;color:var(--muted);border-top:1px solid v
 <div class="page">
   <aside class="side">
     <div class="panel filters">
-      <input id="q" class="search" type="search" placeholder="검색: 국가·기업·노형">
-      <label class="chk"><input type="checkbox" id="imp"> 중요 기사만 (★★ 이상)</label>
+      <input id="q" class="search" type="search">
+      <label class="chk"><input type="checkbox" id="imp"> <span id="impLabel"></span></label>
       <div class="catnav" id="catnav"></div>
     </div>
-    <div class="panel toc"><h4>바로가기</h4><div class="catnav" id="toc"></div></div>
-    <div class="panel archive"><h4>지난 브리핑</h4><ul id="archive"></ul></div>
+    <div class="panel toc"><h4 id="tocTitle"></h4><div class="catnav" id="toc"></div></div>
+    <div class="panel archive"><h4 id="archiveTitle"></h4><ul id="archive"></ul></div>
   </aside>
 
-  <main id="main"><p class="empty">불러오는 중…</p></main>
+  <main id="main"><p class="empty">…</p></main>
 
-  <footer>매일 오전 8시(KST) AI 에이전트가 해외 매체·현지어 기사를 수집해 한국어로 요약합니다. 요약과 영업 시사점은 참고용이며, 반드시 원문 링크로 확인하세요.</footer>
+  <footer id="footnote"></footer>
 </div>
 
 <script>
-const CAT = {large:"대형원전", smr:"SMR", policy:"정책·정세", fuel:"연료·공급망"};
 const CAT_ORDER = ["large","smr","policy","fuel"];
-const STANCE = {expanding:"확대", steady:"유지", cautious:"신중", retreating:"축소"};
-const LANG = {cs:"체코어", pl:"폴란드어", sk:"슬로바키아어", sl:"슬로베니아어", hu:"헝가리어", ro:"루마니아어", bg:"불가리아어", nl:"네덜란드어", sv:"스웨덴어", fi:"핀란드어", fr:"프랑스어", de:"독일어", es:"스페인어", tr:"튀르키예어", ar:"아랍어", ru:"러시아어", vi:"베트남어", id:"인도네시아어", th:"태국어", ja:"일본어", zh:"중국어", ko:"한국어"};
-const CN = {US:"미국",CN:"중국",RU:"러시아",JP:"일본",KR:"한국",GB:"영국",FR:"프랑스",DE:"독일",CA:"캐나다",FI:"핀란드",SE:"스웨덴",NL:"네덜란드",CZ:"체코",PL:"폴란드",SK:"슬로바키아",SI:"슬로베니아",HU:"헝가리",RO:"루마니아",BG:"불가리아",TR:"튀르키예",SA:"사우디",AE:"UAE",EG:"이집트",KZ:"카자흐스탄",UZ:"우즈베키스탄",IN:"인도",VN:"베트남",PH:"필리핀",ID:"인도네시아",TH:"태국",NE:"니제르",EU:"EU",INT:"국제"};
-const WD = ["일","월","화","수","목","금","토"];
-
-const REG = {overseas:"해외", domestic:"국내"};
+const I18N = {
+  ko: {
+    html: "ko", title: "원자력 해외동향", tagline: "Overseas Nuclear Brief",
+    cat: {large:"대형원전", smr:"SMR", policy:"정책·정세", fuel:"연료·공급망"},
+    stance: {expanding:"확대", steady:"유지", cautious:"신중", retreating:"축소"},
+    reg: {overseas:"해외", domestic:"국내"},
+    lang: {cs:"체코어", pl:"폴란드어", sk:"슬로바키아어", sl:"슬로베니아어", hu:"헝가리어", ro:"루마니아어", bg:"불가리아어", nl:"네덜란드어", sv:"스웨덴어", fi:"핀란드어", fr:"프랑스어", de:"독일어", es:"스페인어", tr:"튀르키예어", ar:"아랍어", ru:"러시아어", vi:"베트남어", id:"인도네시아어", th:"태국어", ja:"일본어", zh:"중국어", ko:"한국어"},
+    cn: {US:"미국",CN:"중국",RU:"러시아",JP:"일본",KR:"한국",GB:"영국",FR:"프랑스",DE:"독일",CA:"캐나다",FI:"핀란드",SE:"스웨덴",NL:"네덜란드",CZ:"체코",PL:"폴란드",SK:"슬로바키아",SI:"슬로베니아",HU:"헝가리",RO:"루마니아",BG:"불가리아",TR:"튀르키예",SA:"사우디",AE:"UAE",EG:"이집트",KZ:"카자흐스탄",UZ:"우즈베키스탄",IN:"인도",VN:"베트남",PH:"필리핀",ID:"인도네시아",TH:"태국",NE:"니제르",EU:"EU",INT:"국제"},
+    wd: ["일","월","화","수","목","금","토"],
+    date: (y,m,d,w) => `${y}년 ${m}월 ${d}일 (${w})`,
+    briefing: "브리핑", loading: "불러오는 중…", searchPh: "검색: 국가·기업·노형",
+    impOnly: "중요 기사만 (★★ 이상)", toc: "바로가기", archive: "지난 브리핑",
+    collected: (f,t) => `수집 ${f} ~ ${t}`, counts: (o,d) => `해외 ${o}건 · 국내 ${d}건`,
+    regionStats: (r,n,k,c) => `${r} 기사 ${n}건 · 핵심 ${k}건${c !== null ? ` · 국가 ${c}곳` : ""}`,
+    summary: r => `${r} 요약`, salesAngle: "영업 관점", salesNote: "영업 시사점",
+    keyTitle: "핵심 기사", keyCount: n => `★★★ ${n}건`, keyHint: "누르면 본문으로",
+    pulseTitle: "국가별 정세", pulseCount: n => `${n}곳`, pulseHint: "행을 누르면 해외·국내 통틀어 해당 국가 기사",
+    thCountry: "국가", thStance: "기조", thSignal: "오늘의 신호", thArticles: "기사", nArticles: n => `${n}건`,
+    filterLabel: (s,n) => `필터: <b>${s}</b> — ${n}건`, clear: "필터 해제",
+    none: "조건에 맞는 기사가 없습니다.", err: d => `${d} 브리핑을 읽지 못했습니다.`,
+    indexErr: "데이터 목록을 읽지 못했습니다. GitHub Pages 주소로 열었는지 확인하세요.",
+    origLang: l => `원문 ${l}`, related: "관련 보도", noDomestic: "국내 기사 수집 전 브리핑입니다.",
+    impTitle: n => `중요도 ${n}`, prev: "이전 날짜", next: "다음 날짜", pickDate: "날짜 선택",
+    foot: "매일 오전 8시(KST) AI 에이전트가 해외 매체·현지어 기사를 수집해 한국어로 요약합니다. 요약과 영업 시사점은 참고용이며, 반드시 원문 링크로 확인하세요.",
+    other: "English"
+  },
+  en: {
+    html: "en", title: "Overseas Nuclear Brief", tagline: "Daily · Korean nuclear business development",
+    cat: {large:"Large reactors", smr:"SMR", policy:"Policy", fuel:"Fuel & supply chain"},
+    stance: {expanding:"Expanding", steady:"Steady", cautious:"Cautious", retreating:"Retreating"},
+    reg: {overseas:"Overseas", domestic:"Korea"},
+    lang: {cs:"Czech", pl:"Polish", sk:"Slovak", sl:"Slovenian", hu:"Hungarian", ro:"Romanian", bg:"Bulgarian", nl:"Dutch", sv:"Swedish", fi:"Finnish", fr:"French", de:"German", es:"Spanish", tr:"Turkish", ar:"Arabic", ru:"Russian", vi:"Vietnamese", id:"Indonesian", th:"Thai", ja:"Japanese", zh:"Chinese", ko:"Korean"},
+    cn: {US:"USA",CN:"China",RU:"Russia",JP:"Japan",KR:"Korea",GB:"UK",FR:"France",DE:"Germany",CA:"Canada",FI:"Finland",SE:"Sweden",NL:"Netherlands",CZ:"Czechia",PL:"Poland",SK:"Slovakia",SI:"Slovenia",HU:"Hungary",RO:"Romania",BG:"Bulgaria",TR:"Türkiye",SA:"Saudi Arabia",AE:"UAE",EG:"Egypt",KZ:"Kazakhstan",UZ:"Uzbekistan",IN:"India",VN:"Vietnam",PH:"Philippines",ID:"Indonesia",TH:"Thailand",NE:"Niger",EU:"EU",INT:"International"},
+    wd: ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
+    date: (y,m,d,w) => `${w}, ${["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][m-1]} ${d}, ${y}`,
+    briefing: "briefing", loading: "Loading…", searchPh: "Search: country, company, design",
+    impOnly: "Key stories only (★★ and up)", toc: "Jump to", archive: "Past briefings",
+    collected: (f,t) => `Collected ${f} – ${t}`, counts: (o,d) => `${o} overseas · ${d} Korea`,
+    regionStats: (r,n,k,c) => `${n} ${r.toLowerCase()} stories · ${k} key${c !== null ? ` · ${c} countries` : ""}`,
+    summary: r => `${r} summary`, salesAngle: "Sales angle", salesNote: "Sales angle",
+    keyTitle: "Key stories", keyCount: n => `★★★ ${n}`, keyHint: "tap to jump",
+    pulseTitle: "Country pulse", pulseCount: n => `${n} countries`, pulseHint: "tap a row to filter by country",
+    thCountry: "Country", thStance: "Stance", thSignal: "Today's signal", thArticles: "Stories", nArticles: n => `${n}`,
+    filterLabel: (s,n) => `Filter: <b>${s}</b> — ${n} stories`, clear: "Clear filter",
+    none: "No stories match.", err: d => `Could not load the ${d} briefing.`,
+    indexErr: "Could not load the briefing index. Open this page from its GitHub Pages URL.",
+    origLang: l => `${l} original`, related: "Also reported", noDomestic: "No Korean stories in this briefing.",
+    impTitle: n => `importance ${n}`, prev: "Previous day", next: "Next day", pickDate: "Pick a date",
+    foot: "Collected and summarised every day at 08:00 KST by an AI agent from international, local-language and Korean sources. Summaries and sales angles are for orientation — always check the original article.",
+    other: "한국어"
+  }
+};
+let LANGCODE = "ko";
+try { const p = new URLSearchParams(location.search).get("lang"); if (I18N[p]) LANGCODE = p; else if (/(^|\/)en\/?$/.test(location.pathname)) LANGCODE = "en"; } catch(e){}
+try { if (!new URLSearchParams(location.search).has("lang")) { const s = localStorage.getItem("nnd-lang"); if (I18N[s]) LANGCODE = s; } } catch(e){}
+let T = I18N[LANGCODE];
+const CAT = new Proxy({}, {get:(_,k) => T.cat[k]});
+const STANCE = new Proxy({}, {get:(_,k) => T.stance[k]});
+const REG = new Proxy({}, {get:(_,k) => T.reg[k], ownKeys:() => ["overseas","domestic"], getOwnPropertyDescriptor:() => ({enumerable:true, configurable:true})});
+const LANG = new Proxy({}, {get:(_,k) => T.lang[k]});
+const CN = new Proxy({}, {get:(_,k) => T.cn[k]});
+const WD = new Proxy([], {get:(_,k) => T.wd[k]});
 const regionOf = a => a.region || "overseas";
 const state = {days:[], heads:{}, date:null, data:null, region:"overseas", cat:null, country:null, imp:false, q:""};
 try{ const r = localStorage.getItem("nnd-region"); if(REG[r]) state.region = r; }catch(e){}
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const cname = c => CN[c] || c;
-const fmtDate = d => { const [y,m,dd] = d.split("-").map(Number); const w = new Date(Date.UTC(y,m-1,dd)).getUTCDay(); return `${y}년 ${m}월 ${dd}일 (${WD[w]})`; };
+// 영어판에 값이 없으면 한글로 되돌아간다 (영어 항목이 추가되기 전 브리핑도 열리도록)
+const pick = (o, base) => (LANGCODE === "en" ? (o[base + "_en"] || o[base + "_ko"] || o[base]) : (o[base + "_ko"] || o[base])) || "";
+const fmtDate = d => { const [y,m,dd] = d.split("-").map(Number); const w = new Date(Date.UTC(y,m-1,dd)).getUTCDay(); return T.date(y,m,dd,T.wd[w]); };
 
 async function getJSON(p){ const r = await fetch(p, {cache:"no-cache"}); if(!r.ok) throw new Error(p+" "+r.status); return r.json(); }
 
+function applyStatic(){
+  document.documentElement.lang = T.html;
+  document.title = T.title;
+  $("#brand").textContent = T.title;
+  $("#tagline").textContent = T.tagline;
+  $("#langbtn").textContent = T.other;
+  $("#q").placeholder = T.searchPh;
+  $("#impLabel").textContent = T.impOnly;
+  $("#tocTitle").textContent = T.toc;
+  $("#archiveTitle").textContent = T.archive;
+  $("#footnote").textContent = T.foot;
+  $("#prev").setAttribute("aria-label", T.prev);
+  $("#next").setAttribute("aria-label", T.next);
+  $("#date").setAttribute("aria-label", T.pickDate);
+}
+
+function setLang(l){
+  LANGCODE = l; T = I18N[l];
+  try{ localStorage.setItem("nnd-lang", l); }catch(e){}
+  try{ const u = new URL(location.href); u.searchParams.set("lang", l); history.replaceState(null, "", u); }catch(e){}
+  applyStatic();
+  if(state.data) render();
+}
+
 async function boot(){
+  applyStatic();
   try{
     const idx = await getJSON("data/index.json");
     idx.days.forEach(d => state.heads[d.date] = d);
     state.days = idx.days.map(d => d.date).sort().reverse();
   }catch(e){
-    $("#main").innerHTML = '<p class="err">데이터 목록을 읽지 못했습니다. GitHub Pages 주소로 열었는지 확인하세요.</p>';
+    $("#main").innerHTML = `<p class="err">${esc(T.indexErr)}</p>`;
     return;
   }
   $("#date").innerHTML = state.days.map(d => `<option value="${d}">${d}</option>`).join("");
-  $("#archive").innerHTML = state.days.slice(0,14).map(d => `<li><button data-d="${d}"><span class="d">${d}</span><span class="h">${esc(state.heads[d].headline_ko || "")}</span></button></li>`).join("");
+  $("#archive").innerHTML = state.days.slice(0,14).map(d => `<li><button data-d="${d}"><span class="d">${d}</span><span class="h">${esc(pick(state.heads[d], "headline"))}</span></button></li>`).join("");
   $("#archive").onclick = e => { const b = e.target.closest("button[data-d]"); if(b) load(b.dataset.d); };
   let want = null; try{ want = new URLSearchParams(location.search).get("d"); }catch(e){}
   await load(state.days.includes(want) ? want : state.days[0]);
@@ -254,7 +338,7 @@ async function load(date){
   document.querySelectorAll("#archive button").forEach(b => b.setAttribute("aria-current", b.dataset.d === date));
   try{ history.replaceState(null, "", "?d=" + date); }catch(e){}
   try{ state.data = await getJSON(`data/${date}.json`); }
-  catch(e){ $("#main").innerHTML = `<p class="err">${esc(date)} 브리핑을 읽지 못했습니다.</p>`; return; }
+  catch(e){ $("#main").innerHTML = `<p class="err">${esc(T.err(date))}</p>`; return; }
   render();
   window.scrollTo(0,0);
 }
@@ -270,7 +354,7 @@ function filtered(){
     (!state.cat || a.category === state.cat) &&
     (!state.imp || a.importance >= 2) &&
     (!ids || ids.has(a.id) || a.countries.includes(state.country)) &&
-    (!q || [a.title,a.title_ko,a.summary_ko,a.sales_note,a.source,a.countries.map(cname).join(" "),a.countries.join(" ")].join(" ").toLowerCase().includes(q))
+    (!q || [a.title,a.title_ko,a.title_en,a.summary_ko,a.summary_en,a.sales_note,a.sales_note_en,a.source,a.countries.map(cname).join(" "),a.countries.join(" ")].join(" ").toLowerCase().includes(q))
   );
 }
 
@@ -278,16 +362,16 @@ function card(a){
   return `<article class="it cat-${esc(a.category)}" id="${esc(a.id)}">
     <div class="meta">
       ${(state.country || state.q.trim()) ? `<span class="rg">${REG[regionOf(a)]}</span>` : ""}
-      <span class="stars" title="중요도 ${a.importance}">${"★".repeat(a.importance)}${"☆".repeat(3-a.importance)}</span>
+      <span class="stars" title="${T.impTitle(a.importance)}">${"★".repeat(a.importance)}${"☆".repeat(3-a.importance)}</span>
       <span class="flags">${a.countries.map(c => `<span>${esc(cname(c))}</span>`).join("")}</span>
-      ${a.language && a.language !== "en" ? `<span class="lang">원문 ${esc(LANG[a.language] || a.language)}</span>` : ""}
+      ${a.language && a.language !== "en" ? `<span class="lang">${esc(T.origLang(LANG[a.language] || a.language))}</span>` : ""}
       <span class="src">${esc(a.source)} · ${esc(a.published)}</span>
     </div>
-    <h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title_ko)}</a></h3>
+    <h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(pick(a,"title"))}</a></h3>
     <p class="orig">${esc(a.title)}</p>
-    <p class="sum">${esc(a.summary_ko)}</p>
-    ${a.sales_note ? `<div class="note"><b>영업 시사점</b>${esc(a.sales_note)}</div>` : ""}
-    ${a.related && a.related.length ? `<p class="rel">관련 보도 ${a.related.map((u,i) => `<a href="${esc(u)}" target="_blank" rel="noopener">[${i+1}]</a>`).join(" ")}</p>` : ""}
+    <p class="sum">${esc(pick(a,"summary"))}</p>
+    ${pick(a,"sales_note") ? `<div class="note"><b>${T.salesNote}</b>${esc(pick(a,"sales_note"))}</div>` : ""}
+    ${a.related && a.related.length ? `<p class="rel">${T.related} ${a.related.map((u,i) => `<a href="${esc(u)}" target="_blank" rel="noopener">[${i+1}]</a>`).join(" ")}</p>` : ""}
   </article>`;
 }
 
@@ -301,61 +385,61 @@ function render(){
 
   // side: category filter + toc
   $("#catnav").innerHTML = CAT_ORDER.map(k => `<button class="cat-${k}" data-k="${k}" aria-pressed="${state.cat===k}"><span class="dot"></span>${CAT[k]}<span class="n">${c[k]}</span></button>`).join("");
-  $("#toc").innerHTML = [["top", REG[state.region] + " 요약"],["key","핵심 기사"],...(showPulse ? [["pulse","국가별 정세"]] : []),...CAT_ORDER.filter(k => fc[k]).map(k => ["sec-"+k, CAT[k]])]
+  $("#toc").innerHTML = [["top", T.summary(REG[state.region])],["key",T.keyTitle],...(showPulse ? [["pulse",T.pulseTitle]] : []),...CAT_ORDER.filter(k => fc[k]).map(k => ["sec-"+k, CAT[k]])]
     .map(([id,l]) => `<button data-go="${id}">${l}</button>`).join("");
 
-  const ovText = dom ? (d.domestic_overview_ko || "국내 기사 수집 전 브리핑입니다.") : d.overview_ko;
-  const overview = ovText.split("영업 관점:");
+  const ovText = dom ? (pick(d,"domestic_overview") || T.noDomestic) : pick(d,"overview");
+  const overview = ovText.split(LANGCODE === "en" ? "Sales angle:" : "영업 관점:");
   const key = all.filter(a => a.importance === 3);
   const pulseRows = d.countries_pulse.map(p => {
     const n = new Set([...(p.article_ids||[]), ...all.filter(a => a.countries.includes(p.country)).map(a => a.id)]).size;
     return `<tr data-c="${esc(p.country)}" aria-selected="${state.country===p.country}" tabindex="0">
-      <td class="cn">${esc(p.name_ko)}</td>
+      <td class="cn">${esc(LANGCODE === "en" ? (p.name_en || cname(p.country)) : p.name_ko)}</td>
       <td class="st"><span class="stance st-${esc(p.stance)}">${STANCE[p.stance]||esc(p.stance)}</span></td>
-      <td class="sg">${esc(p.signal)}</td>
-      <td class="ct">${n}건</td></tr>`;
+      <td class="sg">${esc(LANGCODE === "en" ? (p.signal_en || p.signal) : p.signal)}</td>
+      <td class="ct">${T.nArticles(n)}</td></tr>`;
   }).join("");
 
-  const filterLabel = [state.cat && CAT[state.cat], state.country && cname(state.country), state.imp && "중요 기사", state.q.trim() && `"${state.q.trim()}"`].filter(Boolean).join(" · ");
+  const filterLabel = [state.cat && CAT[state.cat], state.country && cname(state.country), state.imp && T.impOnly, state.q.trim() && `"${state.q.trim()}"`].filter(Boolean).join(" · ");
 
   $("#main").innerHTML = `
     <section class="headline" id="top">
-      <h1>${fmtDate(d.date)} 브리핑</h1>
-      <p class="sub">수집 ${esc(d.period.from)} ~ ${esc(d.period.to)} · 해외 ${rc.overseas}건 · 국내 ${rc.domestic}건</p>
+      <h1>${fmtDate(d.date)} ${T.briefing}</h1>
+      <p class="sub">${esc(T.collected(d.period.from, d.period.to))} · ${esc(T.counts(rc.overseas, rc.domestic))}</p>
     </section>
 
     <div class="regions" role="tablist">${Object.keys(REG).map(r => `<button role="tab" data-r="${r}" aria-selected="${state.region===r}">${REG[r]}<span class="n">${rc[r]}</span></button>`).join("")}</div>
 
     <section>
-      <p class="sub" style="margin:0;font:500 12.5px var(--mono);color:var(--muted)">${REG[state.region]} 기사 ${all.length}건 · 핵심 ${key.length}건${dom ? "" : ` · 국가 ${d.countries_pulse.length}곳`}</p>
+      <p class="sub" style="margin:0;font:500 12.5px var(--mono);color:var(--muted)">${esc(T.regionStats(REG[state.region], all.length, key.length, dom ? null : d.countries_pulse.length))}</p>
       <div class="dist" aria-hidden="true">${CAT_ORDER.map(k => c[k] ? `<span class="cat-${k}" style="width:${c[k]/total*100}%"></span>` : "").join("")}</div>
       <div class="legend">${CAT_ORDER.map(k => `<span class="cat-${k}"><i></i>${CAT[k]}<b>${c[k]}</b></span>`).join("")}</div>
     </section>
 
     ${active ? "" : `
     <section class="card summary">
-      <div class="sec-h"><h2>${REG[state.region]} 요약</h2></div>
+      <div class="sec-h"><h2>${T.summary(REG[state.region])}</h2></div>
       <p>${esc(overview[0].trim())}</p>
-      ${overview[1] ? `<div class="sales"><b>영업 관점</b><p>${esc(overview[1].trim())}</p></div>` : ""}
+      ${overview[1] ? `<div class="sales"><b>${T.salesAngle}</b><p>${esc(overview[1].trim())}</p></div>` : ""}
     </section>
 
     ${key.length ? `<section id="key">
-      <div class="sec-h"><h2>핵심 기사</h2><span class="n">★★★ ${key.length}건</span><span class="hint">누르면 본문으로</span></div>
-      <ul class="keylist card">${key.map(a => `<li class="cat-${esc(a.category)}"><a href="#${esc(a.id)}"><span class="tag">${CAT[a.category]}</span><span class="t">${esc(a.title_ko)}</span><span class="s">${esc(a.sales_note || a.summary_ko)}</span></a></li>`).join("")}</ul>
+      <div class="sec-h"><h2>${T.keyTitle}</h2><span class="n">${T.keyCount(key.length)}</span><span class="hint">${T.keyHint}</span></div>
+      <ul class="keylist card">${key.map(a => `<li class="cat-${esc(a.category)}"><a href="#${esc(a.id)}"><span class="tag">${CAT[a.category]}</span><span class="t">${esc(pick(a,"title"))}</span><span class="s">${esc(pick(a,"sales_note") || pick(a,"summary"))}</span></a></li>`).join("")}</ul>
     </section>` : ""}`}
 
     ${showPulse ? `<section id="pulse">
-      <div class="sec-h"><h2>국가별 정세</h2><span class="n">${d.countries_pulse.length}곳</span><span class="hint">행을 누르면 해외·국내 통틀어 해당 국가 기사</span></div>
+      <div class="sec-h"><h2>${T.pulseTitle}</h2><span class="n">${T.pulseCount(d.countries_pulse.length)}</span><span class="hint">${T.pulseHint}</span></div>
       <div class="card tbl-wrap"><table class="pulse">
         <thead><tr><th>국가</th><th>기조</th><th>오늘의 신호</th><th style="text-align:right">기사</th></tr></thead>
         <tbody>${pulseRows}</tbody></table></div>
     </section>` : ""}
 
-    ${active ? `<div class="filterbar"><span>필터: <b>${esc(filterLabel)}</b> — ${list.length}건</span><button id="clear">필터 해제</button></div>` : ""}
+    ${active ? `<div class="filterbar"><span>${T.filterLabel(esc(filterLabel), list.length)}</span><button id="clear">${T.clear}</button></div>` : ""}
 
     ${list.length ? CAT_ORDER.filter(k => fc[k]).map(k => `
       <section class="catsec cat-${k}" id="sec-${k}">
-        <div class="sec-h"><h2>${CAT[k]}</h2><span class="n">${fc[k]}건</span></div>
+        <div class="sec-h"><h2>${CAT[k]}</h2><span class="n">${T.nArticles(fc[k])}</span></div>
         <div class="items">${list.filter(a => a.category === k).sort((x,y) => y.importance - x.importance || y.published.localeCompare(x.published)).map(card).join("")}</div>
       </section>`).join("") : '<p class="empty">조건에 맞는 기사가 없습니다.</p>'}
   `;
@@ -377,6 +461,7 @@ $("#catnav").onclick = e => { const b = e.target.closest("button[data-k]"); if(!
 $("#toc").onclick = e => { const b = e.target.closest("button[data-go]"); if(!b) return; const el = document.getElementById(b.dataset.go); if(el) el.scrollIntoView(); };
 $("#imp").onchange = e => { state.imp = e.target.checked; render(); };
 let qt; $("#q").oninput = e => { clearTimeout(qt); qt = setTimeout(() => { state.q = e.target.value; render(); }, 180); };
+$("#langbtn").onclick = () => setLang(LANGCODE === "ko" ? "en" : "ko");
 $("#date").onchange = e => load(e.target.value);
 $("#prev").onclick = () => load(state.days[state.days.indexOf(state.date) + 1]);
 $("#next").onclick = () => load(state.days[state.days.indexOf(state.date) - 1]);

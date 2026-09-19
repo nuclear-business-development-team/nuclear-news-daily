@@ -12,7 +12,9 @@
       "properties": { "from": { "type": "string" }, "to": { "type": "string" } }
     },
     "overview_ko": { "type": "string", "description": "해외 요약" },
+    "overview_en": { "type": "string", "description": "해외 요약 (영어)" },
     "domestic_overview_ko": { "type": "string", "description": "국내 요약" },
+    "domestic_overview_en": { "type": "string", "description": "국내 요약 (영어)" },
     "countries_pulse": {
       "type": "array",
       "items": {
@@ -21,8 +23,10 @@
         "properties": {
           "country": { "type": "string", "description": "ISO alpha-2 or INT" },
           "name_ko": { "type": "string" },
+          "name_en": { "type": "string" },
           "stance": { "enum": ["expanding", "steady", "cautious", "retreating"] },
           "signal": { "type": "string" },
+          "signal_en": { "type": "string" },
           "article_ids": { "type": "array", "items": { "type": "string" } }
         }
       }
@@ -45,6 +49,9 @@
           "countries": { "type": "array", "items": { "type": "string" } },
           "importance": { "enum": [1, 2, 3] },
           "summary_ko": { "type": "string" },
+          "title_en": { "type": "string" },
+          "summary_en": { "type": "string" },
+          "sales_note_en": { "type": "string" },
           "sales_note": { "type": "string" },
           "related": { "type": "array", "items": { "type": "string", "format": "uri" } }
         }

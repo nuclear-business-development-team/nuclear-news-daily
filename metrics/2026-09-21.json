@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-21",
+  "run_started": "2026-09-21T08:02:15+09:00",
+  "run_finished": "2026-09-21T09:05:00+09:00",
+  "run_minutes": 63,
+  "articles": 7,
+  "by_region": { "overseas": 4, "domestic": 3 },
+  "by_importance": { "3": 1, "2": 4, "1": 2 },
+  "detection_lag_hours": { "median": 95.04, "max": 143.04, "n": 7 },
+  "sources_ok": [
+    "World Nuclear News",
+    "NucNet",
+    "ANS Nuclear Newswire",
+    "OECD NEA News",
+    "정책브리핑 (korea.kr)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "전기신문",
+    "한국원자력신문",
+    "SAM.gov",
+    "폴란드 e-Zamówienia",
+    "에스토니아 조달등록부",
+    "핀란드 Hilma",
+    "네덜란드 TenderNed",
+    "체코 NEN",
+    "UK Contracts Finder",
+    "Etimad (사우디)",
+    "OSGE",
+    "CanadaBuys",
+    "Rolls-Royce SMR 공급망"
+  ],
+  "sources_failed": [
+    { "name": "TED (EU 공공조달) 공고 본문", "reason": "empty body — /notice/<no>/pdf, /pdfs, HTML 상세 모두 빈 응답" },
+    { "name": "UK Find a Tender 공고 본문", "reason": "403" },
+    { "name": "IAEA News", "reason": "unreachable 목록에 따라 시도하지 않음" }
+  ],
+  "languages": { "en": 4, "ko": 3 },
+  "note": "수집 구간 2026-09-15~09-21. 9/19~9/21 게재 기사가 어느 출처에도 없어 주말 공백으로 보고 구간을 넓힘. 탐지 지연이 큰 것은 이 공백 때문이며 출처 실패와는 무관하다."
+}

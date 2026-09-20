@@ -113,11 +113,23 @@ description: 원전 해외영업팀용 일일 원자력 뉴스 브리핑을 만�
 - `tenders/open.json`: 마감이 남은 건만 유지, 지난 건 제거
 - python3로 다시 읽어 JSON 문법을 검증한다
 
+### 3-7. 지도 데이터 갱신
+
+`pipeline-watch/data/map-data.js`를 다시 쓴다. 형식은 `window.PIPELINE = { ... };` 한 덩어리다.
+
+- `projects`: `config/watchlist.yaml`의 대상을 그대로 옮긴다. 좌표(`lat`/`lon`)는 기존 파일 값을 유지하고, 새 사업이 추가됐으면 부지 좌표를 넣는다(부지 미확정이면 발주처 소재지나 수도, `note`에 "부지 미확정" 표기).
+- `tenders`: `tenders/open.json`의 마감 전 공고를 `{project_id, title, buyer, portal, url, deadline, days_left}`로 채운다. 어느 사업에도 걸리지 않는 공고는 `project_id`를 비운다.
+- `alerts`: 오늘 알림에서 사업별로 `{project_id, date, title}` 한 줄씩, 사업당 최근 4건까지.
+- `updated`: 오늘 날짜.
+- 파일을 쓴 뒤 `node --check`가 없으므로 python3로 `window.PIPELINE = ` 뒤부터 마지막 `;` 앞까지를 잘라 `json.loads`로 검증한다. 문법이 깨지면 지도가 통째로 비어 보이므로 반드시 확인한다.
+
+`map.html`과 `vendor/world.geo.js`는 건드리지 않는다.
+
 ### 3-6. 보안
 
 - **워치리스트의 사업명·파트너·단계를 공개 저장소(`nuclear-news-daily`) 파일이나 웹페이지에 절대 쓰지 않는다.**
 - 공고 자체가 공개 정보여도, "우리가 이 건을 보고 있다"는 맥락은 비공개 쪽에만 적는다.
-- 커밋: `cd pipeline-watch && git add alerts tenders && git commit -m "watch: DATE (공고 N건 / 동향 M건)" && git push`
+- 커밋: `cd pipeline-watch && git add alerts tenders data && git commit -m "watch: DATE (공고 N건 / 동향 M건)" && git push`
 
 ## 4. 공통 선별 규칙
 

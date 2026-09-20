@@ -89,11 +89,37 @@ description: 원전 해외영업팀용 일일 원자력 뉴스 브리핑을 만�
 3. `data/index.json`의 `days` 맨 앞에 `{date, article_count, headline_ko, headline_en}` 추가(같은 날짜면 교체). 해외·국내 통틀어 가장 중요한 기사 한 줄을 한글과 영어로 각각. 영어는 직역이 아니라 영어 헤드라인답게.
 4. 검증: `python3 -c "import json,sys;json.load(open(sys.argv[1],encoding='utf-8'))" data/DATE.json`. 가능하면 `pip install jsonschema` 후 스키마 검증까지.
 
-## 8. 게시
+## 8. 측정 기록 (MBO 실측용)
+
+브리핑을 저장한 뒤 `metrics/DATE.json`을 남긴다. 이 값이 MBO의 리드타임·처리시간 근거가 되므로 **추정하지 말고 실제 값만** 적는다.
+
+```json
+{
+  "date": "YYYY-MM-DD",
+  "run_started": "<이번 실행 시작 시각, ISO8601 +09:00>",
+  "run_finished": "<저장 직전 시각>",
+  "run_minutes": 0,
+  "articles": 0,
+  "by_region": {"overseas": 0, "domestic": 0},
+  "by_importance": {"3": 0, "2": 0, "1": 0},
+  "detection_lag_hours": {"median": 0, "max": 0, "n": 0},
+  "sources_ok": ["World Nuclear News", "..."],
+  "sources_failed": [{"name": "...", "reason": "EGRESS_BLOCKED | 404 | timeout"}],
+  "languages": {"en": 0, "ko": 0, "cs": 0}
+}
+```
+
+- `detection_lag_hours`: 기사마다 `published`(게재일) → `run_started`(에이전트가 잡은 시각)의 차이를 시간 단위로 계산해 중간값·최댓값·건수를 넣는다. 게재 시각이 날짜까지만 있으면 그날 09:00(현지 기준 대신 UTC+9로 통일)으로 간주한다.
+- `run_minutes`: 실행 시작부터 저장까지 실제 경과 분.
+- `sources_failed`: 열지 못한 출처를 빠짐없이 남긴다. 수집률이 떨어졌을 때 원인을 찾는 근거가 된다.
+- 계산은 python3로 한다. 직접 암산하지 말 것.
+- `git add data reports metrics` 로 함께 커밋한다.
+
+## 9. 게시
 
 git 저장소이면:
 ```
-git add data reports
+git add data reports metrics
 git commit -m "news: DATE (N articles)"
 git push
 ```

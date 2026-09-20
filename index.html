@@ -6,189 +6,232 @@
 <title>원자력 해외동향</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
 <style>
+/* ── tokens ─────────────────────────────────────────── */
 :root{
-  --bg:#eef1f3; --surface:#ffffff; --sunken:#f6f8f9; --ink:#132026; --ink-2:#34454d; --muted:#65757c; --line:#dce2e5; --line-2:#e9edef;
-  --accent:#0a6f96; --accent-soft:#e3f0f6; --navy:#10262f;
-  --large:#2c5a86; --smr:#0d8474; --policy:#946018; --fuel:#6a4c9c;
-  --up:#1f7a4d; --steady:#65757c; --caution:#b0701a; --down:#b23b3b;
-  --star:#c98a12;
+  --paper:#f2f4f6; --card:#ffffff; --sunken:#f6f8fa;
+  --navy:#051c2c; --ink:#051c2c; --ink-2:#33475b; --muted:#6b7c8a;
+  --rule:#d7dee4; --rule-soft:#e8edf1;
+  --accent:#2251ff; --accent-soft:#e8edff;
+  --large:#2251ff; --smr:#00a9f4; --policy:#00848e; --fuel:#7a5195;
+  --up:#00785a; --steady:#6b7c8a; --caution:#b7791f; --down:#c0392b;
+  --star:#b7791f;
   --sans:"IBM Plex Sans KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
   --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+  --bar:52px;
 }
-@media (prefers-color-scheme: dark){
+@media (prefers-color-scheme:dark){
   :root:not([data-theme="light"]){
-    --bg:#0b1215; --surface:#131e23; --sunken:#0f181c; --ink:#e3ebee; --ink-2:#c3d0d5; --muted:#8fa0a7; --line:#24333a; --line-2:#1c292f;
-    --accent:#4cc0e8; --accent-soft:#11303b; --navy:#0f1d23;
-    --large:#80b1e2; --smr:#4fcfbb; --policy:#e2b272; --fuel:#baa3e8;
-    --up:#5fd39a; --steady:#8fa0a7; --caution:#e8b25a; --down:#f07f7f; --star:#f0c24a;
+    --paper:#0a1218; --card:#111c24; --sunken:#0d171e;
+    --navy:#04121b; --ink:#e7edf1; --ink-2:#bccad4; --muted:#8598a6;
+    --rule:#243542; --rule-soft:#1a2831;
+    --accent:#6f95ff; --accent-soft:#16253f;
+    --large:#6f95ff; --smr:#45c2f7; --policy:#3fb3ab; --fuel:#b39ae0;
+    --up:#4cc79c; --steady:#8598a6; --caution:#dfa945; --down:#e8776a; --star:#dfa945;
   }
 }
 :root[data-theme="dark"]{
-  --bg:#0b1215; --surface:#131e23; --sunken:#0f181c; --ink:#e3ebee; --ink-2:#c3d0d5; --muted:#8fa0a7; --line:#24333a; --line-2:#1c292f;
-  --accent:#4cc0e8; --accent-soft:#11303b; --navy:#0f1d23;
-  --large:#80b1e2; --smr:#4fcfbb; --policy:#e2b272; --fuel:#baa3e8;
-  --up:#5fd39a; --steady:#8fa0a7; --caution:#e8b25a; --down:#f07f7f; --star:#f0c24a;
+  --paper:#0a1218; --card:#111c24; --sunken:#0d171e;
+  --navy:#04121b; --ink:#e7edf1; --ink-2:#bccad4; --muted:#8598a6;
+  --rule:#243542; --rule-soft:#1a2831;
+  --accent:#6f95ff; --accent-soft:#16253f;
+  --large:#6f95ff; --smr:#45c2f7; --policy:#3fb3ab; --fuel:#b39ae0;
+  --up:#4cc79c; --steady:#8598a6; --caution:#dfa945; --down:#e8776a; --star:#dfa945;
 }
-*{box-sizing:border-box}
-html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);background:var(--bg);scroll-behavior:smooth;scroll-padding-top:72px}
+*{box-sizing:border-box;min-width:0}
+html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);background:var(--paper);scroll-behavior:smooth;scroll-padding-top:calc(var(--bar) + 16px);-webkit-text-size-adjust:100%}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
-body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 var(--sans);-webkit-text-size-adjust:100%}
-a{color:var(--accent)}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 15px/1.62 var(--sans);font-variant-numeric:tabular-nums;overflow-x:hidden}
+a{color:var(--accent);text-underline-offset:2px}
 button,select,input{font:inherit;color:inherit}
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.eyebrow{font:600 10.5px/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
 
-/* ── top bar ─────────────────────────── */
-.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--navy);color:#e8f1f4}
-.bar-in{max-width:1200px;margin:0 auto;padding-inline:16px;height:56px;display:flex;align-items:center;gap:12px}
-.logo{display:flex;align-items:center;gap:10px;min-width:0}
-.logo svg{flex:none}
-.logo b{font-size:16px;font-weight:700;white-space:nowrap}
-.logo small{font:500 10.5px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:#7fc9e4;white-space:nowrap}
-.datenav{margin-left:auto;display:flex;align-items:center;gap:4px}
-.datenav button,.datenav select{height:34px;border-radius:7px;border:1px solid #2c4652;background:#16323d;color:#e8f1f4;padding:0 10px;cursor:pointer;font:500 13.5px var(--mono)}
-.datenav button:disabled{opacity:.35;cursor:default}
-.lang-switch{font:600 12.5px var(--sans)!important;padding:0 12px!important;margin-right:6px}
-@media (max-width:560px){.logo small{display:none}}
+/* ── masthead ───────────────────────────────────────── */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:30;background:var(--navy);color:#eaf0f4;border-bottom:1px solid rgba(255,255,255,.08)}
+.bar-in{max-width:1180px;margin:0 auto;padding:0 20px;height:var(--bar);display:flex;align-items:center;gap:10px}
+.mark{display:flex;align-items:center;gap:9px;min-width:0;flex:1 1 auto;overflow:hidden}
+.mark svg{flex:none}
+.mark b{font-size:15px;font-weight:600;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mark small{font:600 9.5px/1 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:#7fb2d9;white-space:nowrap;padding-left:9px;border-left:1px solid rgba(255,255,255,.18)}
+.nav{display:flex;align-items:center;gap:6px;flex:none}
+.nav button,.nav select{height:30px;border-radius:2px;border:1px solid rgba(255,255,255,.22);background:transparent;color:#eaf0f4;padding:0 8px;cursor:pointer;font:500 12.5px var(--mono)}
+.nav select{padding-right:4px}
+.nav button:hover:not(:disabled){background:rgba(255,255,255,.1)}
+.nav button:disabled{opacity:.3;cursor:default}
+#langbtn{font:600 11px var(--sans);letter-spacing:.06em;padding:0 9px}
+@media (max-width:719px){
+  .mark small{display:none}
+  .bar-in{padding:0 16px;gap:8px}
+  .nav{gap:4px}
+  .nav button,.nav select{height:28px;font-size:11.5px;padding:0 6px}
+}
+@media (max-width:389px){ .mark b{font-size:13.5px} }
 
-/* ── layout ─────────────────────────── */
-.page{max-width:1200px;margin:0 auto;padding-inline:16px;padding-block:20px 56px;display:grid;grid-template-columns:260px minmax(0,1fr);gap:24px;align-items:start}
-.side{position:sticky;top:calc(env(safe-area-inset-top,0px) + 72px);display:flex;flex-direction:column;gap:14px;max-height:calc(100vh - 90px);overflow:auto;padding-bottom:8px}
-main{min-width:0;display:flex;flex-direction:column;gap:22px}
-@media (max-width:959px){
-  .page{grid-template-columns:minmax(0,1fr)}
-  .side{position:static;max-height:none;overflow:visible}
-  .side .panel.toc,.side .panel.archive{display:none}
+/* ── layout ─────────────────────────────────────────── */
+.page{max-width:1180px;margin:0 auto;padding:0 20px 64px;display:grid;grid-template-columns:238px minmax(0,1fr);gap:40px;align-items:start}
+.rail{grid-column:1;grid-row:1;position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--bar) + 24px);display:flex;flex-direction:column;gap:26px;max-height:calc(100vh - var(--bar) - 48px);overflow:auto;padding:28px 0 8px}
+main{grid-column:2;grid-row:1;min-width:0;display:flex;flex-direction:column;gap:30px;padding-top:28px}
+@media (max-width:899px){
+  .page{grid-template-columns:minmax(0,1fr);gap:0;padding:0 16px 48px}
+  .rail{grid-column:1;grid-row:auto;position:static;max-height:none;overflow:visible;padding:16px 0 0;gap:14px;order:2}
+  main{grid-column:1;grid-row:auto;order:1;padding-top:18px;gap:24px}
+  .rail .jump, .rail .past{display:none}
 }
 
-/* ── side panels ─────────────────────── */
-.panel{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px}
-.panel h4{margin:0 0 8px;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}
-.search{width:100%;height:36px;border:1px solid var(--line);border-radius:8px;background:var(--sunken);padding:0 10px;font-size:14px}
-.chk{display:flex;align-items:center;gap:8px;margin-top:10px;font-size:13.5px;color:var(--ink-2);cursor:pointer}
-.catnav{display:flex;flex-direction:column;gap:2px}
-.catnav button{display:flex;align-items:center;gap:8px;width:100%;text-align:left;background:none;border:0;border-radius:7px;padding:6px 8px;cursor:pointer;font-size:14px}
-.catnav button:hover{background:var(--sunken)}
-.catnav button[aria-pressed="true"]{background:var(--accent-soft);font-weight:600}
-.catnav .dot{width:9px;height:9px;border-radius:2px;background:var(--c,var(--muted));flex:none}
-.catnav .n{margin-left:auto;font:500 12px var(--mono);color:var(--muted)}
-@media (max-width:959px){
-  .side .panel.filters{padding:10px}
-  .catnav{flex-direction:row;flex-wrap:wrap;gap:6px;margin-top:10px}
-  .catnav button{width:auto;border:1px solid var(--line);border-radius:99px;padding:4px 11px;font-size:13px}
-  .catnav .n{margin-left:2px}
+/* ── rail ───────────────────────────────────────────── */
+.rail h4{margin:0 0 10px;font:600 10.5px/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.search{width:100%;height:38px;border:1px solid var(--rule);border-radius:2px;background:var(--card);padding:0 11px;font-size:13.5px}
+.search::placeholder{color:var(--muted)}
+.chk{display:flex;align-items:center;gap:8px;margin-top:10px;font-size:13px;color:var(--ink-2);cursor:pointer}
+.catnav{display:flex;flex-direction:column;border-top:1px solid var(--rule-soft)}
+.catnav button{display:flex;align-items:center;gap:9px;width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--rule-soft);padding:9px 2px;cursor:pointer;font-size:13.5px;color:var(--ink-2)}
+.catnav button:hover{color:var(--ink)}
+.catnav button[aria-pressed="true"]{color:var(--ink);font-weight:600}
+.catnav .dot{width:3px;height:14px;background:var(--c,var(--muted));flex:none}
+.catnav .n{margin-left:auto;font:500 11.5px var(--mono);color:var(--muted)}
+.jump .catnav button{padding:7px 2px;font-size:13px;border-bottom:0;color:var(--muted)}
+.jump .catnav button:hover{color:var(--accent)}
+.past ul{list-style:none;margin:0;padding:0}
+.past li{border-bottom:1px solid var(--rule-soft)}
+.past button{width:100%;text-align:left;background:none;border:0;padding:9px 2px;cursor:pointer}
+.past .d{display:block;font:500 11.5px var(--mono);color:var(--accent);margin-bottom:2px}
+.past .h{display:block;font-size:12.5px;color:var(--ink-2);line-height:1.45;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.past button[aria-current="true"] .h{color:var(--ink);font-weight:500}
+@media (max-width:899px){
+  .rail .filters{border-top:1px solid var(--rule);padding-top:16px}
+  .catnav{flex-direction:row;flex-wrap:wrap;gap:6px;border-top:0;margin-top:12px}
+  .catnav button{width:auto;border:1px solid var(--rule);border-bottom:1px solid var(--rule);border-radius:2px;padding:6px 11px;font-size:12.5px;background:var(--card)}
+  .catnav button[aria-pressed="true"]{border-color:var(--ink);background:var(--ink);color:var(--paper)}
+  .catnav button[aria-pressed="true"] .n{color:var(--paper)}
+  .catnav .dot{height:11px}
 }
-.archive ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:2px}
-.archive button{width:100%;text-align:left;background:none;border:0;border-radius:7px;padding:6px 8px;cursor:pointer}
-.archive button:hover{background:var(--sunken)}
-.archive button[aria-current="true"]{background:var(--accent-soft)}
-.archive .d{display:block;font:500 12.5px var(--mono);color:var(--accent)}
-.archive .h{display:block;font-size:12.5px;color:var(--ink-2);line-height:1.45;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
 
-/* ── main blocks ─────────────────────── */
-.headline h1{margin:0;font-size:26px;line-height:1.25;font-weight:700;text-wrap:balance}
-.headline .sub{margin:4px 0 0;font:500 12.5px var(--mono);color:var(--muted)}
-.dist{margin-top:14px;display:flex;height:8px;border-radius:99px;overflow:hidden;background:var(--line-2)}
-.dist span{display:block;background:var(--c)}
-.legend{display:flex;flex-wrap:wrap;gap:4px 16px;margin-top:8px;font-size:12.5px;color:var(--ink-2)}
-.legend i{display:inline-block;width:9px;height:9px;border-radius:2px;background:var(--c);margin-right:6px;vertical-align:0}
-.legend b{font:500 12px var(--mono);margin-left:4px}
+/* ── masthead of the day ────────────────────────────── */
+.lede{border-bottom:2px solid var(--ink);padding-bottom:14px}
+.lede h1{margin:6px 0 0;font-size:clamp(21px,5.2vw,30px);line-height:1.18;font-weight:600;letter-spacing:-.02em;text-wrap:balance}
+.lede .meta{margin:10px 0 0;display:flex;flex-wrap:wrap;gap:4px 14px;font:500 11.5px var(--mono);color:var(--muted)}
+.lede .meta span{white-space:nowrap}
 
-.regions{display:flex;gap:4px;border-bottom:1px solid var(--line);margin-top:-6px}
-.regions button{position:relative;background:none;border:0;padding:10px 16px 12px;font-size:16px;font-weight:600;color:var(--muted);cursor:pointer}
-.regions button .n{font:500 12px var(--mono);margin-left:6px;color:var(--muted)}
+/* ── region tabs ────────────────────────────────────── */
+.regions{display:flex;gap:26px;border-bottom:1px solid var(--rule);overflow-x:auto;scrollbar-width:none}
+.regions::-webkit-scrollbar{display:none}
+.regions button{position:relative;background:none;border:0;padding:0 0 11px;font-size:15px;font-weight:600;color:var(--muted);cursor:pointer;white-space:nowrap;display:flex;align-items:baseline;gap:7px}
+.regions .n{font:500 11px var(--mono)}
 .regions button[aria-selected="true"]{color:var(--ink)}
-.regions button[aria-selected="true"]::after{content:"";position:absolute;left:10px;right:10px;bottom:-1px;height:3px;border-radius:3px 3px 0 0;background:var(--accent)}
-.it .rg{font-size:11.5px;font-weight:600;color:var(--bg);background:var(--ink-2);border-radius:4px;padding:0 6px}
-.card{background:var(--surface);border:1px solid var(--line);border-radius:12px}
-.sec-h{display:flex;align-items:baseline;gap:10px;margin:0 0 10px}
-.sec-h h2{margin:0;font-size:17px;font-weight:700}
-.sec-h .n{font:500 12px var(--mono);color:var(--muted)}
-.sec-h .hint{margin-left:auto;font-size:12px;color:var(--muted)}
+.regions button[aria-selected="true"]::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:2px;background:var(--ink)}
 
-.summary{padding:18px 20px}
-.summary p{margin:0;max-width:72ch;color:var(--ink-2)}
-.sales{margin-top:14px;display:flex;gap:12px;align-items:flex-start;background:var(--accent-soft);border-radius:8px;padding:12px 14px}
-.sales b{flex:none;font:600 11.5px var(--mono);letter-spacing:.06em;color:var(--accent);padding-top:3px}
-.sales p{margin:0;color:var(--ink);font-weight:500}
+/* ── exhibit: distribution ──────────────────────────── */
+.stats{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 14px;font:500 11.5px var(--mono);color:var(--muted)}
+.dist{margin-top:10px;display:flex;height:6px;background:var(--rule-soft)}
+.dist span{display:block;background:var(--c)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;margin-top:9px;font-size:12px;color:var(--ink-2)}
+.legend i{display:inline-block;width:8px;height:8px;background:var(--c);margin-right:6px}
+.legend b{font:500 11.5px var(--mono);color:var(--muted);margin-left:5px;font-weight:500}
 
-.keylist{list-style:none;margin:0;padding:0}
-.keylist li+li{border-top:1px solid var(--line-2)}
-.keylist a{display:grid;grid-template-columns:auto minmax(0,1fr);gap:4px 12px;padding:12px 16px;text-decoration:none;color:inherit}
+/* ── sections ───────────────────────────────────────── */
+section{scroll-margin-top:calc(var(--bar) + 20px)}
+.sec-h{display:flex;align-items:baseline;gap:10px;margin:0 0 14px;padding-bottom:8px;border-bottom:1px solid var(--rule)}
+.sec-h h2{margin:0;font-size:15px;font-weight:600;letter-spacing:-.01em;display:flex;align-items:baseline;gap:8px}
+.sec-h h2::before{content:attr(data-num);font:600 10.5px var(--mono);color:var(--muted);letter-spacing:.1em}
+.sec-h .n{font:500 11px var(--mono);color:var(--muted)}
+.sec-h .hint{margin-left:auto;font-size:11.5px;color:var(--muted)}
+@media (max-width:599px){.sec-h .hint{display:none}}
+
+.summary{background:var(--card);border:1px solid var(--rule);padding:22px}
+.summary p{margin:0;max-width:70ch;color:var(--ink-2);font-size:15px;line-height:1.75}
+.sales{margin-top:16px;padding-top:14px;border-top:1px solid var(--rule-soft);display:flex;gap:12px;align-items:flex-start}
+.sales b{flex:none;font:600 10px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);padding-top:4px;width:66px}
+.sales p{margin:0;color:var(--ink);font-weight:500;font-size:14.5px}
+@media (max-width:599px){.summary{padding:16px}.sales{flex-direction:column;gap:6px}.sales b{width:auto;padding-top:0}}
+
+.keylist{list-style:none;margin:0;padding:0;background:var(--card);border:1px solid var(--rule)}
+.keylist li+li{border-top:1px solid var(--rule-soft)}
+.keylist a{display:block;padding:13px 16px;text-decoration:none;color:inherit}
 .keylist a:hover{background:var(--sunken)}
-.keylist .tag{grid-row:span 2;align-self:start;margin-top:3px;font:600 11px var(--mono);color:var(--c);border:1px solid currentColor;border-radius:4px;padding:1px 6px;white-space:nowrap}
-.keylist .t{font-weight:600;line-height:1.45}
-.keylist .s{font-size:13.5px;color:var(--muted);line-height:1.5}
+.keylist .tag{font:600 9.5px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--c);display:block;margin-bottom:5px}
+.keylist .t{display:block;font-weight:600;line-height:1.45;font-size:14.5px}
+.keylist .s{display:block;font-size:12.5px;color:var(--muted);line-height:1.5;margin-top:3px}
 
-.tbl-wrap{overflow-x:auto}
-table.pulse{width:100%;border-collapse:collapse;font-size:14px}
-.pulse th{text-align:left;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:700;padding:10px 14px;border-bottom:1px solid var(--line);white-space:nowrap}
-.pulse td{padding:10px 14px;border-bottom:1px solid var(--line-2);vertical-align:top}
+/* ── country pulse ──────────────────────────────────── */
+.tbl{background:var(--card);border:1px solid var(--rule);overflow-x:auto}
+table.pulse{width:100%;border-collapse:collapse;font-size:13.5px}
+.pulse th{text-align:left;font:600 10px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);padding:10px 16px;border-bottom:1px solid var(--rule);white-space:nowrap}
+.pulse td{padding:11px 16px;border-bottom:1px solid var(--rule-soft);vertical-align:top}
 .pulse tr:last-child td{border-bottom:0}
 .pulse tbody tr{cursor:pointer}
 .pulse tbody tr:hover td{background:var(--sunken)}
 .pulse tbody tr[aria-selected="true"] td{background:var(--accent-soft)}
 .pulse .cn{font-weight:600;white-space:nowrap}
-.pulse .sg{color:var(--ink-2);min-width:220px}
-.pulse .ct{font:500 12.5px var(--mono);color:var(--muted);text-align:right;white-space:nowrap}
-.stance{display:inline-flex;align-items:center;gap:5px;font:600 12px var(--sans);white-space:nowrap;color:var(--sc)}
-.stance::before{content:"";width:7px;height:7px;border-radius:50%;background:currentColor}
+.pulse .sg{color:var(--ink-2);min-width:230px;line-height:1.5}
+.pulse .ct{font:500 12px var(--mono);color:var(--muted);text-align:right;white-space:nowrap}
+.stance{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;font-weight:600;white-space:nowrap;color:var(--sc)}
+.stance::before{content:"";width:6px;height:6px;border-radius:50%;background:currentColor}
 .st-expanding{--sc:var(--up)} .st-steady{--sc:var(--steady)} .st-cautious{--sc:var(--caution)} .st-retreating{--sc:var(--down)}
-@media (max-width:640px){
+@media (max-width:659px){
   table.pulse,.pulse tbody,.pulse tr,.pulse td{display:block;width:100%}
   .pulse thead{display:none}
-  .pulse tr{padding:10px 14px;border-bottom:1px solid var(--line-2)}
+  .pulse tr{padding:12px 14px;border-bottom:1px solid var(--rule-soft)}
+  .pulse tr:last-child{border-bottom:0}
   .pulse td{padding:0;border:0}
-  .pulse td.cn{display:inline;margin-right:8px}
-  .pulse td.st{display:inline}
+  .pulse td.cn{display:inline-block;margin-right:10px}
+  .pulse td.st{display:inline-block}
   .pulse td.ct{display:none}
-  .pulse .sg{min-width:0;margin-top:3px;font-size:13.5px}
+  .pulse .sg{min-width:0;margin-top:4px;font-size:13px}
 }
 
-.filterbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:10px 14px;background:var(--accent-soft);border-radius:10px;font-size:14px}
-.filterbar button{margin-left:auto;border:1px solid var(--accent);color:var(--accent);background:var(--surface);border-radius:99px;padding:3px 12px;cursor:pointer;font-size:13px}
+/* ── filter bar ─────────────────────────────────────── */
+.filterbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:11px 14px;background:var(--accent-soft);border-left:2px solid var(--accent);font-size:13.5px}
+.filterbar button{margin-left:auto;border:1px solid var(--accent);color:var(--accent);background:transparent;border-radius:2px;padding:3px 11px;cursor:pointer;font-size:12.5px}
 
-.catsec{scroll-margin-top:72px}
-.catsec .sec-h h2::before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;background:var(--c);margin-right:8px;vertical-align:1px}
-.items{display:flex;flex-direction:column;gap:10px}
-article.it{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 18px;scroll-margin-top:72px}
-article.it:target{box-shadow:0 0 0 2px var(--accent)}
-.it .meta{display:flex;flex-wrap:wrap;align-items:center;gap:4px 10px;font-size:12.5px;color:var(--muted)}
-.it .stars{color:var(--star);letter-spacing:1px;font-size:12px}
-.it .src{font:500 12px var(--mono)}
-.it .lang{font-size:11.5px;color:var(--accent);border:1px solid currentColor;border-radius:4px;padding:0 5px}
-.it .flags{display:flex;flex-wrap:wrap;gap:4px}
-.it .flags span{font-size:11.5px;background:var(--sunken);border:1px solid var(--line-2);border-radius:4px;padding:0 6px;color:var(--ink-2)}
-.it h3{margin:6px 0 0;font-size:16.5px;line-height:1.45;font-weight:700;text-wrap:balance}
+/* ── article ────────────────────────────────────────── */
+.items{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--rule)}
+article.it{padding:18px 20px;border-bottom:1px solid var(--rule-soft);border-left:2px solid var(--c)}
+article.it:last-child{border-bottom:0}
+article.it:target{background:var(--accent-soft)}
+.it .meta{display:flex;flex-wrap:wrap;align-items:center;gap:3px 9px;font-size:11.5px;color:var(--muted);line-height:1.5}
+.it .stars{color:var(--star);letter-spacing:.5px;font-size:11px}
+.it .src{font:500 11px var(--mono)}
+.it .chip{font:600 10px var(--mono);letter-spacing:.06em;text-transform:uppercase;border:1px solid var(--rule);padding:1px 5px;color:var(--ink-2)}
+.it .chip.lang{color:var(--accent);border-color:currentColor}
+.it .chip.rg{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.it h3{margin:7px 0 0;font-size:16px;line-height:1.45;font-weight:600;letter-spacing:-.01em;text-wrap:pretty}
 .it h3 a{color:var(--ink);text-decoration:none}
 .it h3 a:hover{text-decoration:underline;text-decoration-color:var(--accent)}
-.it .orig{margin:2px 0 0;font-size:12.5px;color:var(--muted);overflow-wrap:anywhere}
-.it .sum{margin:10px 0 0;color:var(--ink-2);max-width:72ch}
-.it .note{margin-top:10px;border-left:3px solid var(--accent);background:var(--sunken);padding:8px 12px;border-radius:0 6px 6px 0;font-size:14px}
-.it .note b{display:block;font:600 11px var(--mono);letter-spacing:.06em;color:var(--accent);margin-bottom:2px}
-.it .rel{margin:8px 0 0;font-size:12.5px;color:var(--muted)}
+.it .orig{margin:3px 0 0;font-size:12px;color:var(--muted);overflow-wrap:anywhere}
+.it .sum{margin:9px 0 0;color:var(--ink-2);max-width:70ch;font-size:14.5px;line-height:1.7}
+.it .note{margin-top:11px;padding:10px 13px;background:var(--sunken);border-left:2px solid var(--accent);font-size:13.5px;line-height:1.6}
+.it .note b{display:block;font:600 9.5px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-bottom:3px}
+.it .rel{margin:9px 0 0;font-size:12px;color:var(--muted)}
 .cat-large{--c:var(--large)} .cat-smr{--c:var(--smr)} .cat-policy{--c:var(--policy)} .cat-fuel{--c:var(--fuel)}
-.empty,.err{color:var(--muted);padding:28px 0;text-align:center}
-footer{grid-column:1/-1;font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:14px;margin-top:8px}
-@media (min-width:960px){footer{grid-column:2;max-width:none}}
-@media (max-width:560px){
-  .headline h1{font-size:21px}
-  .summary{padding:16px}
-  article.it{padding:13px 14px}
-  .it h3{font-size:16px}
+@media (max-width:599px){
+  article.it{padding:15px 14px}
+  .it h3{font-size:15.5px}
+  .it .sum{font-size:14px}
 }
+
+.empty,.err{color:var(--muted);padding:32px 0;text-align:center;font-size:14px}
+/* 한글 라벨은 자간을 넓히지 않는다 (영문 대문자 라벨에만 어울리는 조판) */
+html[lang="ko"] .rail h4,
+html[lang="ko"] .sales b,
+html[lang="ko"] .it .note b,
+html[lang="ko"] .keylist .tag,
+html[lang="ko"] .pulse th{font-family:var(--sans);letter-spacing:.02em;text-transform:none;font-size:11px}
+html[lang="ko"] .sales b{font-size:11.5px}
+footer{grid-column:1/-1;order:3;margin-top:34px;padding-top:14px;border-top:1px solid var(--rule);font-size:11.5px;line-height:1.6;color:var(--muted);max-width:76ch}
+@media (min-width:900px){footer{grid-column:2}}
 </style>
 </head>
 <body>
 <header class="bar">
   <div class="bar-in">
-    <div class="logo">
-      <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true"><circle cx="13" cy="13" r="3" fill="#7fc9e4"/><g fill="none" stroke="#7fc9e4" stroke-width="1.4"><ellipse cx="13" cy="13" rx="11" ry="4.2"/><ellipse cx="13" cy="13" rx="11" ry="4.2" transform="rotate(60 13 13)"/><ellipse cx="13" cy="13" rx="11" ry="4.2" transform="rotate(120 13 13)"/></g></svg>
+    <div class="mark">
+      <svg width="22" height="22" viewBox="0 0 26 26" aria-hidden="true"><circle cx="13" cy="13" r="2.6" fill="#7fb2d9"/><g fill="none" stroke="#7fb2d9" stroke-width="1.3"><ellipse cx="13" cy="13" rx="11" ry="4.2"/><ellipse cx="13" cy="13" rx="11" ry="4.2" transform="rotate(60 13 13)"/><ellipse cx="13" cy="13" rx="11" ry="4.2" transform="rotate(120 13 13)"/></g></svg>
       <b id="brand">원자력 해외동향</b><small id="tagline">Overseas Nuclear Brief</small>
     </div>
-    <div class="datenav">
-      <button id="langbtn" class="lang-switch">English</button>
+    <div class="nav">
+      <button id="langbtn">EN</button>
       <button id="prev" aria-label="prev">‹</button>
       <select id="date" aria-label="date"></select>
       <button id="next" aria-label="next">›</button>
@@ -197,17 +240,17 @@ footer{grid-column:1/-1;font-size:12px;color:var(--muted);border-top:1px solid v
 </header>
 
 <div class="page">
-  <aside class="side">
-    <div class="panel filters">
+  <main id="main"><p class="empty">…</p></main>
+
+  <aside class="rail">
+    <div class="filters">
       <input id="q" class="search" type="search">
       <label class="chk"><input type="checkbox" id="imp"> <span id="impLabel"></span></label>
       <div class="catnav" id="catnav"></div>
     </div>
-    <div class="panel toc"><h4 id="tocTitle"></h4><div class="catnav" id="toc"></div></div>
-    <div class="panel archive"><h4 id="archiveTitle"></h4><ul id="archive"></ul></div>
+    <div class="jump"><h4 id="tocTitle"></h4><div class="catnav" id="toc"></div></div>
+    <div class="past"><h4 id="archiveTitle"></h4><ul id="archive"></ul></div>
   </aside>
-
-  <main id="main"><p class="empty">…</p></main>
 
   <footer id="footnote"></footer>
 </div>
@@ -216,7 +259,7 @@ footer{grid-column:1/-1;font-size:12px;color:var(--muted);border-top:1px solid v
 const CAT_ORDER = ["large","smr","policy","fuel"];
 const I18N = {
   ko: {
-    html: "ko", title: "원자력 해외동향", tagline: "Overseas Nuclear Brief",
+    html: "ko", title: "원자력 해외동향", tagline: "Overseas Nuclear Brief", switchTo: "EN",
     cat: {large:"대형원전", smr:"SMR", policy:"정책·정세", fuel:"연료·공급망"},
     stance: {expanding:"확대", steady:"유지", cautious:"신중", retreating:"축소"},
     reg: {overseas:"해외", domestic:"국내"},
@@ -224,24 +267,24 @@ const I18N = {
     cn: {US:"미국",CN:"중국",RU:"러시아",JP:"일본",KR:"한국",GB:"영국",FR:"프랑스",DE:"독일",CA:"캐나다",FI:"핀란드",SE:"스웨덴",NL:"네덜란드",CZ:"체코",PL:"폴란드",SK:"슬로바키아",SI:"슬로베니아",HU:"헝가리",RO:"루마니아",BG:"불가리아",TR:"튀르키예",SA:"사우디",AE:"UAE",EG:"이집트",KZ:"카자흐스탄",UZ:"우즈베키스탄",IN:"인도",VN:"베트남",PH:"필리핀",ID:"인도네시아",TH:"태국",NE:"니제르",EU:"EU",INT:"국제"},
     wd: ["일","월","화","수","목","금","토"],
     date: (y,m,d,w) => `${y}년 ${m}월 ${d}일 (${w})`,
-    briefing: "브리핑", loading: "불러오는 중…", searchPh: "검색: 국가·기업·노형",
-    impOnly: "중요 기사만 (★★ 이상)", toc: "바로가기", archive: "지난 브리핑",
-    collected: (f,t) => `수집 ${f} ~ ${t}`, counts: (o,d) => `해외 ${o}건 · 국내 ${d}건`,
-    regionStats: (r,n,k,c) => `${r} 기사 ${n}건 · 핵심 ${k}건${c !== null ? ` · 국가 ${c}곳` : ""}`,
+    eyebrow: "DAILY BRIEFING", briefing: "브리핑",
+    searchPh: "검색: 국가·기업·노형", impOnly: "중요 기사만 (★★ 이상)",
+    toc: "바로가기", archive: "지난 브리핑",
+    collected: (f,t) => `수집 ${f} – ${t}`, counts: (o,d) => `해외 ${o} · 국내 ${d}`,
+    regionStats: (r,n,k,c) => `${r} ${n}건 · 핵심 ${k}건${c !== null ? ` · 국가 ${c}곳` : ""}`,
     summary: r => `${r} 요약`, salesAngle: "영업 관점", salesNote: "영업 시사점",
     keyTitle: "핵심 기사", keyCount: n => `★★★ ${n}건`, keyHint: "누르면 본문으로",
-    pulseTitle: "국가별 정세", pulseCount: n => `${n}곳`, pulseHint: "행을 누르면 해외·국내 통틀어 해당 국가 기사",
+    pulseTitle: "국가별 정세", pulseCount: n => `${n}곳`, pulseHint: "행을 누르면 해당 국가 기사만",
     thCountry: "국가", thStance: "기조", thSignal: "오늘의 신호", thArticles: "기사", nArticles: n => `${n}건`,
-    filterLabel: (s,n) => `필터: <b>${s}</b> — ${n}건`, clear: "필터 해제",
+    filterLabel: (s,n) => `필터 <b>${s}</b> — ${n}건`, clear: "해제",
     none: "조건에 맞는 기사가 없습니다.", err: d => `${d} 브리핑을 읽지 못했습니다.`,
-    indexErr: "데이터 목록을 읽지 못했습니다. GitHub Pages 주소로 열었는지 확인하세요.",
-    origLang: l => `원문 ${l}`, related: "관련 보도", noDomestic: "국내 기사 수집 전 브리핑입니다.",
-    impTitle: n => `중요도 ${n}`, prev: "이전 날짜", next: "다음 날짜", pickDate: "날짜 선택",
-    foot: "매일 오전 8시(KST) AI 에이전트가 해외 매체·현지어 기사를 수집해 한국어로 요약합니다. 요약과 영업 시사점은 참고용이며, 반드시 원문 링크로 확인하세요.",
-    other: "English"
+    indexErr: "데이터를 읽지 못했습니다. GitHub Pages 주소로 열었는지 확인하세요.",
+    origLang: l => `원문 ${l}`, related: "관련 보도", noDomestic: "국내 기사가 없습니다.",
+    impTitle: n => `중요도 ${n}`,
+    foot: "매일 오전 8시(KST)에 AI 에이전트가 해외 매체·현지어 기사와 국내 공식 발표를 수집해 한국어로 요약합니다. 요약과 영업 시사점은 참고용이며, 반드시 원문으로 확인하세요."
   },
   en: {
-    html: "en", title: "Overseas Nuclear Brief", tagline: "Daily · Korean nuclear business development",
+    html: "en", title: "Overseas Nuclear Brief", tagline: "Nuclear business development", switchTo: "한국어",
     cat: {large:"Large reactors", smr:"SMR", policy:"Policy", fuel:"Fuel & supply chain"},
     stance: {expanding:"Expanding", steady:"Steady", cautious:"Cautious", retreating:"Retreating"},
     reg: {overseas:"Overseas", domestic:"Korea"},
@@ -249,42 +292,46 @@ const I18N = {
     cn: {US:"USA",CN:"China",RU:"Russia",JP:"Japan",KR:"Korea",GB:"UK",FR:"France",DE:"Germany",CA:"Canada",FI:"Finland",SE:"Sweden",NL:"Netherlands",CZ:"Czechia",PL:"Poland",SK:"Slovakia",SI:"Slovenia",HU:"Hungary",RO:"Romania",BG:"Bulgaria",TR:"Türkiye",SA:"Saudi Arabia",AE:"UAE",EG:"Egypt",KZ:"Kazakhstan",UZ:"Uzbekistan",IN:"India",VN:"Vietnam",PH:"Philippines",ID:"Indonesia",TH:"Thailand",NE:"Niger",EU:"EU",INT:"International"},
     wd: ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
     date: (y,m,d,w) => `${w}, ${["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][m-1]} ${d}, ${y}`,
-    briefing: "briefing", loading: "Loading…", searchPh: "Search: country, company, design",
-    impOnly: "Key stories only (★★ and up)", toc: "Jump to", archive: "Past briefings",
+    eyebrow: "DAILY BRIEFING", briefing: "",
+    searchPh: "Search country, company, design", impOnly: "Key stories only (★★ and up)",
+    toc: "Jump to", archive: "Past briefings",
     collected: (f,t) => `Collected ${f} – ${t}`, counts: (o,d) => `${o} overseas · ${d} Korea`,
-    regionStats: (r,n,k,c) => `${n} ${r.toLowerCase()} stories · ${k} key${c !== null ? ` · ${c} countries` : ""}`,
+    regionStats: (r,n,k,c) => `${n} ${r.toLowerCase()} · ${k} key${c !== null ? ` · ${c} countries` : ""}`,
     summary: r => `${r} summary`, salesAngle: "Sales angle", salesNote: "Sales angle",
     keyTitle: "Key stories", keyCount: n => `★★★ ${n}`, keyHint: "tap to jump",
-    pulseTitle: "Country pulse", pulseCount: n => `${n} countries`, pulseHint: "tap a row to filter by country",
+    pulseTitle: "Country pulse", pulseCount: n => `${n} countries`, pulseHint: "tap a row to filter",
     thCountry: "Country", thStance: "Stance", thSignal: "Today's signal", thArticles: "Stories", nArticles: n => `${n}`,
-    filterLabel: (s,n) => `Filter: <b>${s}</b> — ${n} stories`, clear: "Clear filter",
+    filterLabel: (s,n) => `Filter <b>${s}</b> — ${n}`, clear: "Clear",
     none: "No stories match.", err: d => `Could not load the ${d} briefing.`,
-    indexErr: "Could not load the briefing index. Open this page from its GitHub Pages URL.",
-    origLang: l => `${l} original`, related: "Also reported", noDomestic: "No Korean stories in this briefing.",
-    impTitle: n => `importance ${n}`, prev: "Previous day", next: "Next day", pickDate: "Pick a date",
-    foot: "Collected and summarised every day at 08:00 KST by an AI agent from international, local-language and Korean sources. Summaries and sales angles are for orientation — always check the original article.",
-    other: "한국어"
+    indexErr: "Could not load the data. Open this page from its GitHub Pages URL.",
+    origLang: l => `${l} original`, related: "Also reported", noDomestic: "No Korean stories.",
+    impTitle: n => `importance ${n}`,
+    foot: "Collected every day at 08:00 KST by an AI agent from international, local-language and Korean official sources. Summaries and sales angles are for orientation — always check the original article."
   }
 };
 let LANGCODE = "ko";
-try { const p = new URLSearchParams(location.search).get("lang"); if (I18N[p]) LANGCODE = p; else if (/(^|\/)en\/?$/.test(location.pathname)) LANGCODE = "en"; } catch(e){}
-try { if (!new URLSearchParams(location.search).has("lang")) { const s = localStorage.getItem("nnd-lang"); if (I18N[s]) LANGCODE = s; } } catch(e){}
+try {
+  const p = new URLSearchParams(location.search).get("lang");
+  if (I18N[p]) LANGCODE = p;
+  else if (/(^|\/)en\/?$/.test(location.pathname)) LANGCODE = "en";
+  else { const s = localStorage.getItem("nnd-lang"); if (I18N[s]) LANGCODE = s; }
+} catch(e){}
 let T = I18N[LANGCODE];
 const CAT = new Proxy({}, {get:(_,k) => T.cat[k]});
 const STANCE = new Proxy({}, {get:(_,k) => T.stance[k]});
-const REG = new Proxy({}, {get:(_,k) => T.reg[k], ownKeys:() => ["overseas","domestic"], getOwnPropertyDescriptor:() => ({enumerable:true, configurable:true})});
+const REG = new Proxy({}, {get:(_,k) => T.reg[k]});
 const LANG = new Proxy({}, {get:(_,k) => T.lang[k]});
 const CN = new Proxy({}, {get:(_,k) => T.cn[k]});
-const WD = new Proxy([], {get:(_,k) => T.wd[k]});
+
 const regionOf = a => a.region || "overseas";
 const state = {days:[], heads:{}, date:null, data:null, region:"overseas", cat:null, country:null, imp:false, q:""};
-try{ const r = localStorage.getItem("nnd-region"); if(REG[r]) state.region = r; }catch(e){}
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const cname = c => CN[c] || c;
-// 영어판에 값이 없으면 한글로 되돌아간다 (영어 항목이 추가되기 전 브리핑도 열리도록)
-const pick = (o, base) => (LANGCODE === "en" ? (o[base + "_en"] || o[base + "_ko"] || o[base]) : (o[base + "_ko"] || o[base])) || "";
+// 영어 항목이 없으면 한글로 되돌아간다 (영어판 도입 전 브리핑도 열리도록)
+const pick = (o, base) => (o && (LANGCODE === "en" ? (o[base+"_en"] || o[base+"_ko"] || o[base]) : (o[base+"_ko"] || o[base]))) || "";
 const fmtDate = d => { const [y,m,dd] = d.split("-").map(Number); const w = new Date(Date.UTC(y,m-1,dd)).getUTCDay(); return T.date(y,m,dd,T.wd[w]); };
+const num = n => String(n).padStart(2,"0");
 
 async function getJSON(p){ const r = await fetch(p, {cache:"no-cache"}); if(!r.ok) throw new Error(p+" "+r.status); return r.json(); }
 
@@ -293,23 +340,19 @@ function applyStatic(){
   document.title = T.title;
   $("#brand").textContent = T.title;
   $("#tagline").textContent = T.tagline;
-  $("#langbtn").textContent = T.other;
+  $("#langbtn").textContent = T.switchTo;
   $("#q").placeholder = T.searchPh;
   $("#impLabel").textContent = T.impOnly;
   $("#tocTitle").textContent = T.toc;
   $("#archiveTitle").textContent = T.archive;
   $("#footnote").textContent = T.foot;
-  $("#prev").setAttribute("aria-label", T.prev);
-  $("#next").setAttribute("aria-label", T.next);
-  $("#date").setAttribute("aria-label", T.pickDate);
 }
 
 function setLang(l){
   LANGCODE = l; T = I18N[l];
   try{ localStorage.setItem("nnd-lang", l); }catch(e){}
   try{ const u = new URL(location.href); u.searchParams.set("lang", l); history.replaceState(null, "", u); }catch(e){}
-  applyStatic();
-  if(state.data) render();
+  applyStatic(); renderRail(); if(state.data) render();
 }
 
 async function boot(){
@@ -323,10 +366,14 @@ async function boot(){
     return;
   }
   $("#date").innerHTML = state.days.map(d => `<option value="${d}">${d}</option>`).join("");
-  $("#archive").innerHTML = state.days.slice(0,14).map(d => `<li><button data-d="${d}"><span class="d">${d}</span><span class="h">${esc(pick(state.heads[d], "headline"))}</span></button></li>`).join("");
   $("#archive").onclick = e => { const b = e.target.closest("button[data-d]"); if(b) load(b.dataset.d); };
   let want = null; try{ want = new URLSearchParams(location.search).get("d"); }catch(e){}
   await load(state.days.includes(want) ? want : state.days[0]);
+}
+
+function renderRail(){
+  $("#archive").innerHTML = state.days.slice(0,14).map(d =>
+    `<li><button data-d="${d}" aria-current="${d===state.date}"><span class="d">${d}</span><span class="h">${esc(pick(state.heads[d], "headline"))}</span></button></li>`).join("");
 }
 
 async function load(date){
@@ -335,11 +382,10 @@ async function load(date){
   const i = state.days.indexOf(date);
   $("#prev").disabled = i >= state.days.length - 1;
   $("#next").disabled = i <= 0;
-  document.querySelectorAll("#archive button").forEach(b => b.setAttribute("aria-current", b.dataset.d === date));
-  try{ history.replaceState(null, "", "?d=" + date); }catch(e){}
+  try{ const u = new URL(location.href); u.searchParams.set("d", date); history.replaceState(null, "", u); }catch(e){}
   try{ state.data = await getJSON(`data/${date}.json`); }
   catch(e){ $("#main").innerHTML = `<p class="err">${esc(T.err(date))}</p>`; return; }
-  render();
+  renderRail(); render();
   window.scrollTo(0,0);
 }
 
@@ -348,7 +394,7 @@ function counts(list){ const c = {}; CAT_ORDER.forEach(k => c[k] = 0); list.forE
 function filtered(){
   const d = state.data, q = state.q.trim().toLowerCase();
   const ids = state.country ? new Set((d.countries_pulse.find(p => p.country === state.country)||{}).article_ids||[]) : null;
-  const cross = state.country || q;   // 국가·검색 필터는 해외·국내를 가로질러 찾는다
+  const cross = state.country || q;   // 국가·검색은 해외·국내를 가로질러 찾는다
   return d.articles.filter(a =>
     (cross || regionOf(a) === state.region) &&
     (!state.cat || a.category === state.cat) &&
@@ -359,16 +405,17 @@ function filtered(){
 }
 
 function card(a){
+  const crossView = state.country || state.q.trim();
   return `<article class="it cat-${esc(a.category)}" id="${esc(a.id)}">
     <div class="meta">
-      ${(state.country || state.q.trim()) ? `<span class="rg">${REG[regionOf(a)]}</span>` : ""}
+      ${crossView ? `<span class="chip rg">${REG[regionOf(a)]}</span>` : ""}
       <span class="stars" title="${T.impTitle(a.importance)}">${"★".repeat(a.importance)}${"☆".repeat(3-a.importance)}</span>
-      <span class="flags">${a.countries.map(c => `<span>${esc(cname(c))}</span>`).join("")}</span>
-      ${a.language && a.language !== "en" ? `<span class="lang">${esc(T.origLang(LANG[a.language] || a.language))}</span>` : ""}
+      <span>${esc(a.countries.map(cname).join(" · "))}</span>
+      ${a.language && a.language !== "en" ? `<span class="chip lang">${esc(T.origLang(LANG[a.language] || a.language))}</span>` : ""}
       <span class="src">${esc(a.source)} · ${esc(a.published)}</span>
     </div>
     <h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(pick(a,"title"))}</a></h3>
-    <p class="orig">${esc(a.title)}</p>
+    ${pick(a,"title") !== a.title ? `<p class="orig">${esc(a.title)}</p>` : ""}
     <p class="sum">${esc(pick(a,"summary"))}</p>
     ${pick(a,"sales_note") ? `<div class="note"><b>${T.salesNote}</b>${esc(pick(a,"sales_note"))}</div>` : ""}
     ${a.related && a.related.length ? `<p class="rel">${T.related} ${a.related.map((u,i) => `<a href="${esc(u)}" target="_blank" rel="noopener">[${i+1}]</a>`).join(" ")}</p>` : ""}
@@ -382,17 +429,17 @@ function render(){
   const list = filtered(), fc = counts(list);
   const active = state.cat || state.country || state.imp || state.q.trim();
   const showPulse = !dom || state.country;
+  const key = all.filter(a => a.importance === 3);
 
-  // side: category filter + toc
   $("#catnav").innerHTML = CAT_ORDER.map(k => `<button class="cat-${k}" data-k="${k}" aria-pressed="${state.cat===k}"><span class="dot"></span>${CAT[k]}<span class="n">${c[k]}</span></button>`).join("");
   $("#toc").innerHTML = [["top", T.summary(REG[state.region])],["key",T.keyTitle],...(showPulse ? [["pulse",T.pulseTitle]] : []),...CAT_ORDER.filter(k => fc[k]).map(k => ["sec-"+k, CAT[k]])]
     .map(([id,l]) => `<button data-go="${id}">${l}</button>`).join("");
 
-  const ovText = dom ? (pick(d,"domestic_overview") || T.noDomestic) : pick(d,"overview");
-  const overview = ovText.split(LANGCODE === "en" ? "Sales angle:" : "영업 관점:");
-  const key = all.filter(a => a.importance === 3);
+  const overview = (dom ? (pick(d,"domestic_overview") || T.noDomestic) : pick(d,"overview"))
+    .split(LANGCODE === "en" ? "Sales angle:" : "영업 관점:");
+
   const pulseRows = d.countries_pulse.map(p => {
-    const n = new Set([...(p.article_ids||[]), ...all.filter(a => a.countries.includes(p.country)).map(a => a.id)]).size;
+    const n = new Set([...(p.article_ids||[]), ...d.articles.filter(a => a.countries.includes(p.country)).map(a => a.id)]).size;
     return `<tr data-c="${esc(p.country)}" aria-selected="${state.country===p.country}" tabindex="0">
       <td class="cn">${esc(LANGCODE === "en" ? (p.name_en || cname(p.country)) : p.name_ko)}</td>
       <td class="st"><span class="stance st-${esc(p.stance)}">${STANCE[p.stance]||esc(p.stance)}</span></td>
@@ -401,58 +448,60 @@ function render(){
   }).join("");
 
   const filterLabel = [state.cat && CAT[state.cat], state.country && cname(state.country), state.imp && T.impOnly, state.q.trim() && `"${state.q.trim()}"`].filter(Boolean).join(" · ");
+  let sec = 0;
 
   $("#main").innerHTML = `
-    <section class="headline" id="top">
-      <h1>${fmtDate(d.date)} ${T.briefing}</h1>
-      <p class="sub">${esc(T.collected(d.period.from, d.period.to))} · ${esc(T.counts(rc.overseas, rc.domestic))}</p>
+    <section class="lede" id="top">
+      <span class="eyebrow">${esc(T.eyebrow)}</span>
+      <h1>${esc(fmtDate(d.date))}${T.briefing ? " " + T.briefing : ""}</h1>
+      <p class="meta"><span>${esc(T.collected(d.period.from, d.period.to))}</span><span>${esc(T.counts(rc.overseas, rc.domestic))}</span></p>
     </section>
 
-    <div class="regions" role="tablist">${Object.keys(REG).map(r => `<button role="tab" data-r="${r}" aria-selected="${state.region===r}">${REG[r]}<span class="n">${rc[r]}</span></button>`).join("")}</div>
+    <div class="regions" role="tablist">${["overseas","domestic"].map(r => `<button role="tab" data-r="${r}" aria-selected="${state.region===r}">${REG[r]}<span class="n">${rc[r]}</span></button>`).join("")}</div>
 
     <section>
-      <p class="sub" style="margin:0;font:500 12.5px var(--mono);color:var(--muted)">${esc(T.regionStats(REG[state.region], all.length, key.length, dom ? null : d.countries_pulse.length))}</p>
+      <p class="stats">${esc(T.regionStats(REG[state.region], all.length, key.length, dom ? null : d.countries_pulse.length))}</p>
       <div class="dist" aria-hidden="true">${CAT_ORDER.map(k => c[k] ? `<span class="cat-${k}" style="width:${c[k]/total*100}%"></span>` : "").join("")}</div>
       <div class="legend">${CAT_ORDER.map(k => `<span class="cat-${k}"><i></i>${CAT[k]}<b>${c[k]}</b></span>`).join("")}</div>
     </section>
 
     ${active ? "" : `
-    <section class="card summary">
-      <div class="sec-h"><h2>${T.summary(REG[state.region])}</h2></div>
-      <p>${esc(overview[0].trim())}</p>
-      ${overview[1] ? `<div class="sales"><b>${T.salesAngle}</b><p>${esc(overview[1].trim())}</p></div>` : ""}
+    <section id="summary">
+      <div class="sec-h"><h2 data-num="${num(++sec)}">${T.summary(REG[state.region])}</h2></div>
+      <div class="summary">
+        <p>${esc(overview[0].trim())}</p>
+        ${overview[1] ? `<div class="sales"><b>${T.salesAngle}</b><p>${esc(overview[1].trim())}</p></div>` : ""}
+      </div>
     </section>
 
     ${key.length ? `<section id="key">
-      <div class="sec-h"><h2>${T.keyTitle}</h2><span class="n">${T.keyCount(key.length)}</span><span class="hint">${T.keyHint}</span></div>
-      <ul class="keylist card">${key.map(a => `<li class="cat-${esc(a.category)}"><a href="#${esc(a.id)}"><span class="tag">${CAT[a.category]}</span><span class="t">${esc(pick(a,"title"))}</span><span class="s">${esc(pick(a,"sales_note") || pick(a,"summary"))}</span></a></li>`).join("")}</ul>
+      <div class="sec-h"><h2 data-num="${num(++sec)}">${T.keyTitle}</h2><span class="n">${T.keyCount(key.length)}</span><span class="hint">${T.keyHint}</span></div>
+      <ul class="keylist">${key.map(a => `<li class="cat-${esc(a.category)}"><a href="#${esc(a.id)}"><span class="tag">${CAT[a.category]}</span><span class="t">${esc(pick(a,"title"))}</span><span class="s">${esc(pick(a,"sales_note") || pick(a,"summary"))}</span></a></li>`).join("")}</ul>
     </section>` : ""}`}
 
     ${showPulse ? `<section id="pulse">
-      <div class="sec-h"><h2>${T.pulseTitle}</h2><span class="n">${T.pulseCount(d.countries_pulse.length)}</span><span class="hint">${T.pulseHint}</span></div>
-      <div class="card tbl-wrap"><table class="pulse">
-        <thead><tr><th>국가</th><th>기조</th><th>오늘의 신호</th><th style="text-align:right">기사</th></tr></thead>
+      <div class="sec-h"><h2 data-num="${num(++sec)}">${T.pulseTitle}</h2><span class="n">${T.pulseCount(d.countries_pulse.length)}</span><span class="hint">${T.pulseHint}</span></div>
+      <div class="tbl"><table class="pulse">
+        <thead><tr><th>${T.thCountry}</th><th>${T.thStance}</th><th>${T.thSignal}</th><th style="text-align:right">${T.thArticles}</th></tr></thead>
         <tbody>${pulseRows}</tbody></table></div>
     </section>` : ""}
 
     ${active ? `<div class="filterbar"><span>${T.filterLabel(esc(filterLabel), list.length)}</span><button id="clear">${T.clear}</button></div>` : ""}
 
     ${list.length ? CAT_ORDER.filter(k => fc[k]).map(k => `
-      <section class="catsec cat-${k}" id="sec-${k}">
-        <div class="sec-h"><h2>${CAT[k]}</h2><span class="n">${T.nArticles(fc[k])}</span></div>
+      <section class="cat-${k}" id="sec-${k}">
+        <div class="sec-h"><h2 data-num="${num(++sec)}">${CAT[k]}</h2><span class="n">${T.nArticles(fc[k])}</span></div>
         <div class="items">${list.filter(a => a.category === k).sort((x,y) => y.importance - x.importance || y.published.localeCompare(x.published)).map(card).join("")}</div>
-      </section>`).join("") : '<p class="empty">조건에 맞는 기사가 없습니다.</p>'}
+      </section>`).join("") : `<p class="empty">${esc(T.none)}</p>`}
   `;
 
   document.querySelectorAll(".pulse tbody tr").forEach(tr => {
-    const pick = () => { state.country = state.country === tr.dataset.c ? null : tr.dataset.c; render(); document.getElementById("pulse").scrollIntoView(); };
-    tr.onclick = pick;
-    tr.onkeydown = e => { if(e.key === "Enter" || e.key === " "){ e.preventDefault(); pick(); } };
+    const pick2 = () => { state.country = state.country === tr.dataset.c ? null : tr.dataset.c; render(); document.getElementById("pulse").scrollIntoView(); };
+    tr.onclick = pick2;
+    tr.onkeydown = e => { if(e.key === "Enter" || e.key === " "){ e.preventDefault(); pick2(); } };
   });
   document.querySelectorAll(".regions button").forEach(b => b.onclick = () => {
-    state.region = b.dataset.r; state.cat = null; state.country = null;
-    try{ localStorage.setItem("nnd-region", state.region); }catch(e){}
-    render();
+    state.region = b.dataset.r; state.cat = null; state.country = null; render();
   });
   const clr = $("#clear"); if(clr) clr.onclick = () => { state.cat = null; state.country = null; state.imp = false; state.q = ""; $("#q").value = ""; $("#imp").checked = false; render(); };
 }

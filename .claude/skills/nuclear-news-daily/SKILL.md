@@ -24,6 +24,7 @@ description: 원전 해외영업팀용 일일 원자력 뉴스 브리핑을 만�
 
 - `sources.yaml`의 `primary` 출처 목록 페이지를 WebFetch로 열어 기간 내 기사 제목·URL·날짜를 뽑는다.
 - `topics.yaml`의 `search_queries`로 WebSearch를 돌려 통신사·경제지·각국 정부/규제기관 발표를 보강한다. `watch_countries`는 국가명 + nuclear 로 최소 한 번씩 훑는다.
+- **업계 지도**: `topics.yaml`의 `industry_queries`를 매일 돌린다. `large_designs`·`smr_developers`·`mmr_developers`·`epc_and_suppliers`의 업체·노형이 `agreement_signals`(MOU·MOC·NDA·LOI·teaming·JV·preferred bidder·contract award·FEED 계약 등)와 함께 등장하는 기사는 **빠짐없이 싣는다**. 누가 누구와 손잡았는지가 시장 구도를 바꾸므로, 규모가 작아 보여도 중요도 2 이상으로 본다. 발표 주체가 어디든(개발사·EPC·발주처·투자사) 대상이다.
 - **현지어 수집**: `sources.yaml`의 `local` 나라마다 `queries`를 그 나라 말 그대로 검색한다. 사용량을 아끼기 위해 **수주·입찰이 진행 중인 나라(CZ, PL, SK, SI, NL, SE, GB, FR, TR, SA, AE, KZ, UZ, VN, PH, IN)는 매일**, 나머지는 **주 2회(월·목)** 훑는다. 단 그 나라에 큰 사건이 터진 정황이 보이면 요일과 무관하게 확인한다(필요하면 `outlets`를 `allowed_domains`로). 영어권 매체에 아직 안 나온 입찰·정책·여론 기사를 우선 찾는다. 같은 사건의 영문 기사가 있어도 현지 기사가 더 구체적이면 현지 기사를 대표로, 영문은 `related`로.
 - 현지어 기사는 본문을 열어 확인한 뒤 한국어로 번역·요약한다. `title`은 원문 제목(원어), `title_ko`는 번역, `language`는 ISO 639-1 코드. 고유명사는 원어나 통용 영문 표기를 괄호로 병기.
 

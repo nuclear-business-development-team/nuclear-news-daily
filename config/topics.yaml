@@ -66,17 +66,105 @@ search_queries:
   - "Westinghouse OR EDF OR Rosatom nuclear deal {date}"
   - "{country} nuclear power {date}"   # watch_countries 각각에 적용
 
-# 경쟁 구도 파악용 벤더 목록 (sales_note 작성 시 참고)
-vendors:
-  - KHNP / KEPCO / Doosan Enerbility
-  - Westinghouse
-  - EDF
-  - Rosatom
-  - CGN / CNNC / SPIC
-  - GE Vernova Hitachi
+# ── 업계 지도 ────────────────────────────────────────────
+# 아래 이름이 기사에 등장하면 원칙적으로 수집 대상이다. 특히 계약·협약 소식(agreement_signals)과
+# 함께 나오면 중요도 2 이상으로 본다. 누가 누구와 손잡았는지가 시장 구도를 바꾸기 때문이다.
+
+# 노형 — 대형원전
+large_designs:
+  - AP1000
+  - AP300
+  - APR1400
+  - APR1000
+  - EPR
+  - EPR2
+  - VVER-1200
+  - VVER-TOI
+  - Hualong One / HPR1000
+  - CANDU / MONARK
+  - ABWR
+  - ESBWR
+  - ACR / EC6
+
+# 노형 — SMR·AMR·MMR 개발사
+smr_developers:
+  - GE Vernova Hitachi (BWRX-300)
   - Rolls-Royce SMR
-  - NuScale
-  - Holtec
-  - X-energy
-  - TerraPower
-  - Candu Energy (AtkinsRéalis)
+  - NuScale Power
+  - Holtec (SMR-300)
+  - Westinghouse (AP300, eVinci)
+  - X-energy (Xe-100)
+  - TerraPower (Natrium)
+  - Oklo (Aurora)
+  - Kairos Power (Hermes)
+  - BWXT (BANR)
+  - Natura Resources
+  - Terrestrial Energy (IMSR)
+  - Moltex Energy
+  - ARC Clean Technology
+  - newcleo
+  - Steady Energy (LDR-50)
+  - Blykalla
+  - Copenhagen Atomics
+  - Seaborg Technologies
+  - Nuward (EDF)
+  - i-SMR (한국)
+  - CNNC Linglong One (ACP100)
+
+# 마이크로원자로(MMR)
+mmr_developers:
+  - Last Energy
+  - Radiant Nuclear
+  - Nano Nuclear Energy
+  - Aalo Atomics
+  - Valar Atomics
+  - Westinghouse eVinci
+  - USNC
+
+# 시공·기자재 (EPC·건설사·주기기)
+epc_and_suppliers:
+  - 삼성물산 / Samsung C&T
+  - 현대건설 / Hyundai E&C
+  - 대우건설 / Daewoo E&C
+  - DL이앤씨
+  - 두산에너빌리티 / Doosan Enerbility
+  - 한전기술 / KEPCO E&C
+  - Bechtel
+  - Fluor
+  - AtkinsRéalis (Candu Energy)
+  - Aecon / Kiewit
+  - Hitachi / Mitsubishi Heavy Industries / IHI
+  - Škoda JS
+  - Ansaldo Nucleare
+  - Framatome
+  - BWXT
+  - Sarens / Mammoet (중량물)
+
+# 계약·협약 신호 — 이 단어가 업체 이름과 함께 나오면 놓치지 않는다
+agreement_signals:
+  - MOU / Memorandum of Understanding
+  - MOC / Memorandum of Cooperation
+  - NDA / Non-Disclosure Agreement
+  - LOI / Letter of Intent
+  - HOA / Heads of Agreement
+  - teaming agreement
+  - joint development agreement (JDA)
+  - framework agreement
+  - consortium / joint venture
+  - strategic partnership
+  - preferred bidder
+  - contract award
+  - FEED contract
+  - early works agreement
+  - supply agreement
+
+# 위 목록으로 매일 돌릴 검색 (업체명 + 신호어 조합)
+industry_queries:
+  - "SMR developer MOU signed {date}"
+  - "nuclear teaming agreement letter of intent {date}"
+  - "BWRX-300 agreement {date}"
+  - "TerraPower OR X-energy OR Oklo agreement {date}"
+  - "Last Energy OR Radiant OR Nano Nuclear microreactor deal {date}"
+  - "AP1000 OR APR1400 OR CANDU contract award {date}"
+  - "Hyundai E&C OR Daewoo OR Doosan nuclear contract {date}"
+  - "nuclear EPC consortium formed {date}"

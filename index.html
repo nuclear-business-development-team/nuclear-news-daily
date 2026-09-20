@@ -182,6 +182,20 @@ section{scroll-margin-top:calc(var(--bar) + 20px)}
 .keylist .t{display:block;font-weight:600;line-height:1.45;font-size:14.5px}
 .keylist .s{display:block;font-size:12.5px;color:var(--muted);line-height:1.5;margin-top:3px}
 
+/* ── world map ──────────────────────────────────────── */
+.mapwrap{background:var(--card);border:1px solid var(--rule);padding:10px 12px 8px;margin-bottom:12px}
+#map{display:block;width:100%;height:auto;max-height:min(46vh,380px)}
+#map .land{fill:var(--rule-soft);stroke:var(--card);stroke-width:.4;vector-effect:non-scaling-stroke}
+#map .hit{fill:transparent;cursor:pointer}
+#map .land.on{cursor:pointer}
+#map .land.st-expanding{fill:var(--up)} #map .land.st-steady{fill:var(--steady)}
+#map .land.st-cautious{fill:var(--caution)} #map .land.st-retreating{fill:var(--down)}
+#map .land.sel{stroke:var(--ink);stroke-width:1.4}
+#map .lbl{font:600 9px var(--mono);fill:var(--ink);paint-order:stroke;stroke:var(--card);stroke-width:2.5px}
+.maplegend{display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;margin-top:6px;font-size:11.5px}
+.maplegend .mapnote{margin-left:auto;color:var(--muted);font-size:11px}
+@media (max-width:599px){#map{max-height:34vh}.maplegend .mapnote{display:none}}
+
 /* ── country pulse ──────────────────────────────────── */
 .tbl{background:var(--card);border:1px solid var(--rule);overflow-x:auto}
 table.pulse{width:100%;border-collapse:collapse;font-size:13.5px}
@@ -358,6 +372,10 @@ const REG = new Proxy({}, {get:(_,k) => T.reg[k]});
 const LANG = new Proxy({}, {get:(_,k) => T.lang[k]});
 const CN = new Proxy({}, {get:(_,k) => T.cn[k]});
 
+// ISO alpha-2 → alpha-3 (지도 도형의 id가 alpha-3이다)
+const A3 = {US:"USA",CN:"CHN",RU:"RUS",JP:"JPN",KR:"KOR",GB:"GBR",FR:"FRA",DE:"DEU",CA:"CAN",FI:"FIN",SE:"SWE",NO:"NOR",DK:"DNK",NL:"NLD",BE:"BEL",CZ:"CZE",PL:"POL",SK:"SVK",SI:"SVN",HR:"HRV",HU:"HUN",RO:"ROU",BG:"BGR",EE:"EST",LT:"LTU",LV:"LVA",UA:"UKR",TR:"TUR",IT:"ITA",ES:"ESP",CH:"CHE",AT:"AUT",SA:"SAU",AE:"ARE",EG:"EGY",JO:"JOR",QA:"QAT",KW:"KWT",OM:"OMN",MA:"MAR",KZ:"KAZ",UZ:"UZB",IN:"IND",PK:"PAK",BD:"BGD",VN:"VNM",PH:"PHL",ID:"IDN",TH:"THA",MY:"MYS",SG:"SGP",TW:"TWN",AU:"AUS",NZ:"NZL",BR:"BRA",AR:"ARG",MX:"MEX",ZA:"ZAF",NE:"NER",NG:"NGA",GH:"GHA",KE:"KEN",RW:"RWA"};
+let WORLD = null, worldTried = false;
+
 const regionOf = a => a.region || "overseas";
 const state = {days:[], heads:{}, date:null, data:null, region:"overseas", cat:null, country:null, imp:false, q:""};
 const $ = s => document.querySelector(s);
@@ -459,6 +477,69 @@ function card(a){
   </article>`;
 }
 
+// ── 세계지도 ────────────────────────────────────────────
+// 등장방형도법(equirectangular). 남극은 잘라낸다.
+const MAP_W = 1000, MAP_H = 420, LAT_TOP = 84, LAT_BOT = -58;
+const px = lon => (lon + 180) / 360 * MAP_W;
+const py = lat => (LAT_TOP - lat) / (LAT_TOP - LAT_BOT) * MAP_H;
+
+function ringPath(ring){
+  let out = "";
+  for(let i = 0; i < ring.length; i++){
+    const [lon, lat] = ring[i];
+    out += (i ? "L" : "M") + px(lon).toFixed(1) + "," + py(lat).toFixed(1);
+  }
+  return out + "Z";
+}
+function featurePath(f){
+  const g = f.geometry; if(!g) return "";
+  if(g.type === "Polygon") return g.coordinates.map(ringPath).join("");
+  if(g.type === "MultiPolygon") return g.coordinates.map(p => p.map(ringPath).join("")).join("");
+  return "";
+}
+function centroid(f){
+  let x = 0, y = 0, n = 0, best = null, bestLen = 0;
+  const rings = f.geometry.type === "Polygon" ? [f.geometry.coordinates[0]] : f.geometry.coordinates.map(p => p[0]);
+  rings.forEach(r => { if(r.length > bestLen){ bestLen = r.length; best = r; } });
+  (best || []).forEach(([lon, lat]) => { x += px(lon); y += py(lat); n++; });
+  return n ? [x/n, y/n] : null;
+}
+
+async function ensureWorld(){
+  if(WORLD || worldTried) return WORLD;
+  worldTried = true;
+  try{ WORLD = await getJSON("assets/world.geo.json"); }catch(e){ WORLD = null; }
+  return WORLD;
+}
+
+async function drawMap(){
+  const svg = $("#map"); if(!svg) return;
+  const w = await ensureWorld();
+  if(!w){ svg.closest(".mapwrap").hidden = true; return; }
+  const d = state.data;
+  const byA3 = {};
+  d.countries_pulse.forEach(p => { const a3 = A3[p.country]; if(a3) byA3[a3] = p; });
+
+  const parts = [], labels = [];
+  w.features.forEach(f => {
+    const p = byA3[f.id];
+    const cls = ["land"];
+    if(p){ cls.push("on", "st-" + p.stance); if(state.country === p.country) cls.push("sel"); }
+    parts.push(`<path class="${cls.join(" ")}" d="${featurePath(f)}"${p ? ` data-c="${p.country}"><title>${esc((LANGCODE === "en" ? (p.name_en || cname(p.country)) : p.name_ko) + " — " + (T.stance[p.stance] || p.stance))}</title></path>` : "></path>"}`);
+    if(p){
+      const c = centroid(f);
+      if(c) labels.push(`<text class="lbl" x="${c[0].toFixed(1)}" y="${(c[1] + 3).toFixed(1)}" text-anchor="middle">${esc(p.country === "INT" ? "" : p.country)}</text>`);
+    }
+  });
+  svg.innerHTML = parts.join("") + labels.join("");
+  svg.querySelectorAll("path[data-c]").forEach(el => el.onclick = () => {
+    state.country = state.country === el.dataset.c ? null : el.dataset.c;
+    render(); document.getElementById("pulse").scrollIntoView();
+  });
+  const hint = $("#maphint");
+  if(hint) hint.textContent = T.pulseHint;
+}
+
 function render(){
   const d = state.data, dom = state.region === "domestic";
   const all = d.articles.filter(a => regionOf(a) === state.region), c = counts(all), total = all.length || 1;
@@ -534,6 +615,9 @@ function render(){
 
     ${showPulse ? `<section id="pulse">
       <div class="sec-h"><h2 data-num="${num(++sec)}">${T.pulseTitle}</h2><span class="n">${T.pulseCount(d.countries_pulse.length)}</span><span class="hint">${T.pulseHint}</span></div>
+      <div class="mapwrap"><svg id="map" viewBox="0 0 1000 420" preserveAspectRatio="xMidYMid meet" role="img" aria-label="${esc(T.pulseTitle)}"></svg>
+        <div class="maplegend">${Object.keys(T.stance).map(s => `<span class="stance st-${s}">${T.stance[s]}</span>`).join("")}<span class="mapnote" id="maphint"></span></div>
+      </div>
       <div class="tbl"><table class="pulse">
         <thead><tr><th>${T.thCountry}</th><th>${T.thStance}</th><th>${T.thSignal}</th><th style="text-align:right">${T.thArticles}</th></tr></thead>
         <tbody>${pulseRows}</tbody></table></div>
@@ -556,6 +640,7 @@ function render(){
   document.querySelectorAll(".regions button").forEach(b => b.onclick = () => {
     state.region = b.dataset.r; state.cat = null; state.country = null; render();
   });
+  drawMap();
   const clr = $("#clear"); if(clr) clr.onclick = () => { state.cat = null; state.country = null; state.imp = false; state.q = ""; $("#q").value = ""; $("#imp").checked = false; render(); };
 }
 

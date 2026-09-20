@@ -128,12 +128,13 @@ def build(d, page_url):
 {keylist([a for a in dm if a["importance"] == 3])}
 {sections(dm)}
 {btn}
-<p style="margin:24px 0 0;font-size:11.5px;color:#8a979c">AI 에이전트가 해외·국내 매체와 현지어 기사를 수집해 한국어로 요약했습니다. 요약과 시사점은 참고용이며 원문으로 확인하세요.</p>
+<p style="margin:24px 0 0;padding-top:12px;border-top:1px solid #e9edef;font-size:12px;color:#132026;font-weight:bold">내부 참고용 자료입니다. 외부 공유를 금합니다.<br><span style="font-weight:normal;color:#65757c">Internal reference only. Not for external distribution.</span></p>
+<p style="margin:10px 0 0;font-size:11.5px;color:#8a979c">AI 에이전트가 해외·국내 매체와 현지어 기사를 수집해 한국어로 요약했습니다. 요약과 시사점은 참고용이며 원문으로 확인하세요.</p>
 </td></tr></table></td></tr></table></body></html>"""
 
 
 def build_text(d, page_url):
-    lines = [f"{kdate(d['date'])} 원자력 해외동향", "", "[해외] " + d["overview_ko"], "",
+    lines = [f"{kdate(d['date'])} 원자력 해외동향", "내부 참고용 자료입니다. 외부 공유를 금합니다. / Internal reference only.", "", "[해외] " + d["overview_ko"], "",
              "[국내] " + (d.get("domestic_overview_ko") or "국내 기사 없음."), ""]
     for a in d["articles"]:
         rg = "국내" if a.get("region") == "domestic" else "해외"

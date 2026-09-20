@@ -117,7 +117,7 @@ description: 원전 해외영업팀용 일일 원자력 뉴스 브리핑을 만�
 
 `pipeline-watch/data/map-data.js`를 다시 쓴다. 형식은 `window.PIPELINE = { ... };` 한 덩어리다.
 
-- `projects`: `config/watchlist.yaml`의 대상을 그대로 옮긴다. 좌표(`lat`/`lon`)는 기존 파일 값을 유지하고, 새 사업이 추가됐으면 부지 좌표를 넣는다(부지 미확정이면 발주처 소재지나 수도, `note`에 "부지 미확정" 표기).
+- `projects`: `config/watchlist.yaml`의 대상을 그대로 옮긴다. **좌표(`lat`/`lon`)와 `sites` 배열은 기존 파일 값을 그대로 보존한다** — 사람이 확인해 넣은 부지 좌표이므로 임의로 바꾸거나 지우지 않는다. 새 사업이 추가됐을 때만 좌표를 넣는다(부지 미확정이면 발주처 소재지나 수도, `note`에 "부지 미확정"). 새로 확인된 부지가 있으면 `sites`에 `{name, lat, lon, confirmed}`로 더한다. 확정 발표가 없으면 `confirmed:false`로 두고 이름에 "(후보지)"를 붙인다.
 - `tenders`: `tenders/open.json`의 마감 전 공고를 `{project_id, title, buyer, portal, url, deadline, days_left}`로 채운다. 어느 사업에도 걸리지 않는 공고는 `project_id`를 비운다.
 - `alerts`: 오늘 알림에서 사업별로 `{project_id, date, title}` 한 줄씩, 사업당 최근 4건까지.
 - `updated`: 오늘 날짜.

@@ -86,7 +86,7 @@ description: 원전 해외영업팀용 일일 원자력 뉴스 브리핑을 만�
 
 1. `schema/daily.schema.json` 형식에 맞춰 `data/DATE.json` 작성. 기사 id는 `DATE-01`, `DATE-02` … (해외 먼저, 각 영역 안에서 중요도 내림차순, 같으면 날짜 최신순).
 2. `reports/DATE.md` 작성: 제목 → **해외** (요약 → 국가별 정세 표 → 분류별 기사) → **국내** (요약 → 분류별 기사). 각 기사에 원문 링크.
-3. `data/index.json`의 `days` 맨 앞에 `{date, article_count, headline_ko}` 추가(같은 날짜면 교체). `headline_ko`는 해외·국내 통틀어 가장 중요한 기사 한 줄.
+3. `data/index.json`의 `days` 맨 앞에 `{date, article_count, headline_ko, headline_en}` 추가(같은 날짜면 교체). 해외·국내 통틀어 가장 중요한 기사 한 줄을 한글과 영어로 각각. 영어는 직역이 아니라 영어 헤드라인답게.
 4. 검증: `python3 -c "import json,sys;json.load(open(sys.argv[1],encoding='utf-8'))" data/DATE.json`. 가능하면 `pip install jsonschema` 후 스키마 검증까지.
 
 ## 8. 게시

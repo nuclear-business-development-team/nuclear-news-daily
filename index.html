@@ -146,6 +146,34 @@ section{scroll-margin-top:calc(var(--bar) + 20px)}
 .sales p{margin:0;color:var(--ink);font-weight:500;font-size:14.5px}
 @media (max-width:599px){.summary{padding:16px}.sales{flex-direction:column;gap:6px}.sales b{width:auto;padding-top:0}}
 
+/* ── headline strip ─────────────────────────────────── */
+.strip{display:flex;align-items:stretch;border:1px solid var(--rule);background:var(--card)}
+.strip .lbl{flex:none;display:flex;align-items:center;background:var(--ink);color:var(--paper);font:600 10px var(--mono);letter-spacing:.14em;text-transform:uppercase;padding:0 12px}
+.strip .run{display:flex;gap:0;overflow-x:auto;scrollbar-width:none}
+.strip .run::-webkit-scrollbar{display:none}
+.strip a{flex:none;display:flex;align-items:center;gap:8px;padding:10px 16px;font-size:13px;color:var(--ink);text-decoration:none;border-right:1px solid var(--rule-soft);white-space:nowrap}
+.strip a:last-child{border-right:0}
+.strip a:hover{background:var(--sunken)}
+.strip em{font:600 9.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;font-style:normal;color:var(--c)}
+
+/* ── lead story ─────────────────────────────────────── */
+.lead{background:var(--card);border:1px solid var(--rule);border-top:3px solid var(--c);padding:26px 28px}
+.lead .kicker{display:flex;flex-wrap:wrap;align-items:center;gap:10px;font:600 10px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--c)}
+.lead .kicker .rest{color:var(--muted);font-weight:500;letter-spacing:.06em}
+.lead h3{margin:12px 0 0;font-size:clamp(19px,3.1vw,25px);line-height:1.3;font-weight:600;letter-spacing:-.02em;text-wrap:balance}
+.lead h3 a{color:var(--ink);text-decoration:none}
+.lead h3 a:hover{text-decoration:underline;text-decoration-color:var(--c)}
+.lead .orig{margin:6px 0 0;font-size:12.5px;color:var(--muted);overflow-wrap:anywhere}
+.lead .sum{margin:14px 0 0;font-size:15.5px;line-height:1.75;color:var(--ink-2);max-width:66ch}
+.lead .note{margin:16px 0 0;padding:12px 15px;background:var(--sunken);border-left:2px solid var(--accent);font-size:14px;line-height:1.6}
+.lead .note b{display:block;font:600 9.5px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-bottom:3px}
+@media (max-width:599px){.lead{padding:18px 15px}.lead .sum{font-size:14.5px}}
+
+/* ── two-column story grid ──────────────────────────── */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.grid > article{background:var(--card);border-left:0;border-bottom:0;box-shadow:inset 2px 0 0 var(--c)}
+@media (max-width:719px){.grid{grid-template-columns:1fr}}
+
 .keylist{list-style:none;margin:0;padding:0;background:var(--card);border:1px solid var(--rule)}
 .keylist li+li{border-top:1px solid var(--rule-soft)}
 .keylist a{display:block;padding:13px 16px;text-decoration:none;color:inherit}
@@ -278,7 +306,7 @@ const I18N = {
     collected: (f,t) => `수집 ${f} – ${t}`, counts: (o,d) => `해외 ${o} · 국내 ${d}`,
     regionStats: (r,n,k,c) => `${r} ${n}건 · 핵심 ${k}건${c !== null ? ` · 국가 ${c}곳` : ""}`,
     summary: r => `${r} 요약`, salesAngle: "영업 관점", salesNote: "영업 시사점",
-    keyTitle: "핵심 기사", keyCount: n => `★★★ ${n}건`, keyHint: "누르면 본문으로",
+    keyTitle: "오늘의 머리기사", keyCount: n => `★★★ ${n}건`, keyHint: "누르면 본문으로", stripLabel: "헤드라인",
     pulseTitle: "국가별 정세", pulseCount: n => `${n}곳`, pulseHint: "행을 누르면 해당 국가 기사만",
     thCountry: "국가", thStance: "기조", thSignal: "오늘의 신호", thArticles: "기사", nArticles: n => `${n}건`,
     filterLabel: (s,n) => `필터 <b>${s}</b> — ${n}건`, clear: "해제",
@@ -304,7 +332,7 @@ const I18N = {
     collected: (f,t) => `Collected ${f} – ${t}`, counts: (o,d) => `${o} overseas · ${d} Korea`,
     regionStats: (r,n,k,c) => `${n} ${r.toLowerCase()} · ${k} key${c !== null ? ` · ${c} countries` : ""}`,
     summary: r => `${r} summary`, salesAngle: "Sales angle", salesNote: "Sales angle",
-    keyTitle: "Key stories", keyCount: n => `★★★ ${n}`, keyHint: "tap to jump",
+    keyTitle: "Lead story", keyCount: n => `★★★ ${n}`, keyHint: "tap to jump", stripLabel: "Headlines",
     pulseTitle: "Country pulse", pulseCount: n => `${n} countries`, pulseHint: "tap a row to filter",
     thCountry: "Country", thStance: "Stance", thSignal: "Today's signal", thArticles: "Stories", nArticles: n => `${n}`,
     filterLabel: (s,n) => `Filter <b>${s}</b> — ${n}`, clear: "Clear",
@@ -459,12 +487,27 @@ function render(){
   const filterLabel = [state.cat && CAT[state.cat], state.country && cname(state.country), state.imp && T.impOnly, state.q.trim() && `"${state.q.trim()}"`].filter(Boolean).join(" · ");
   let sec = 0;
 
+  // 머리기사: 이 영역에서 가장 중요한 기사 하나를 크게, 나머지 핵심 기사는 목록으로
+  const lead = active ? null : (key[0] || all[0] || null);
+  const restKey = key.filter(a => a !== lead);
+  const strip = d.articles.filter(a => a.importance === 3).slice(0, 6);
+  const leadBlock = lead ? `
+    <article class="lead cat-${esc(lead.category)}" id="${esc(lead.id)}">
+      <div class="kicker">${CAT[lead.category]}<span class="rest">${esc(lead.countries.map(cname).join(" · "))} · ${esc(lead.source)} · ${esc(lead.published)}</span></div>
+      <h3><a href="${esc(lead.url)}" target="_blank" rel="noopener">${esc(pick(lead,"title"))}</a></h3>
+      ${pick(lead,"title") !== lead.title ? `<p class="orig">${esc(lead.title)}</p>` : ""}
+      <p class="sum">${esc(pick(lead,"summary"))}</p>
+      ${pick(lead,"sales_note") ? `<div class="note"><b>${T.salesNote}</b>${esc(pick(lead,"sales_note"))}</div>` : ""}
+    </article>` : "";
+
   $("#main").innerHTML = `
     <section class="lede" id="top">
       <span class="eyebrow">${esc(T.eyebrow)}</span>
       <h1>${esc(fmtDate(d.date))}${T.briefing ? " " + T.briefing : ""}</h1>
       <p class="meta"><span>${esc(T.collected(d.period.from, d.period.to))}</span><span>${esc(T.counts(rc.overseas, rc.domestic))}</span></p>
     </section>
+
+    ${strip.length ? `<div class="strip"><span class="lbl">${T.stripLabel}</span><div class="run">${strip.map(a => `<a class="cat-${esc(a.category)}" href="#${esc(a.id)}"><em>${CAT[a.category]}</em>${esc(pick(a,"title"))}</a>`).join("")}</div></div>` : ""}
 
     <div class="regions" role="tablist">${["overseas","domestic"].map(r => `<button role="tab" data-r="${r}" aria-selected="${state.region===r}">${REG[r]}<span class="n">${rc[r]}</span></button>`).join("")}</div>
 
@@ -483,9 +526,10 @@ function render(){
       </div>
     </section>
 
-    ${key.length ? `<section id="key">
-      <div class="sec-h"><h2 data-num="${num(++sec)}">${T.keyTitle}</h2><span class="n">${T.keyCount(key.length)}</span><span class="hint">${T.keyHint}</span></div>
-      <ul class="keylist">${key.map(a => `<li class="cat-${esc(a.category)}"><a href="#${esc(a.id)}"><span class="tag">${CAT[a.category]}</span><span class="t">${esc(pick(a,"title"))}</span><span class="s">${esc(pick(a,"sales_note") || pick(a,"summary"))}</span></a></li>`).join("")}</ul>
+    ${lead ? `<section id="key">
+      <div class="sec-h"><h2 data-num="${num(++sec)}">${T.keyTitle}</h2>${key.length ? `<span class="n">${T.keyCount(key.length)}</span>` : ""}</div>
+      ${leadBlock}
+      ${restKey.length ? `<ul class="keylist" style="margin-top:14px">${restKey.map(a => `<li class="cat-${esc(a.category)}"><a href="#${esc(a.id)}"><span class="tag">${CAT[a.category]}</span><span class="t">${esc(pick(a,"title"))}</span><span class="s">${esc(pick(a,"sales_note") || pick(a,"summary"))}</span></a></li>`).join("")}</ul>` : ""}
     </section>` : ""}`}
 
     ${showPulse ? `<section id="pulse">
@@ -500,7 +544,7 @@ function render(){
     ${list.length ? CAT_ORDER.filter(k => fc[k]).map(k => `
       <section class="cat-${k}" id="sec-${k}">
         <div class="sec-h"><h2 data-num="${num(++sec)}">${CAT[k]}</h2><span class="n">${T.nArticles(fc[k])}</span></div>
-        <div class="items">${list.filter(a => a.category === k).sort((x,y) => y.importance - x.importance || y.published.localeCompare(x.published)).map(card).join("")}</div>
+        <div class="grid">${list.filter(a => a.category === k && a !== lead).sort((x,y) => y.importance - x.importance || y.published.localeCompare(x.published)).map(card).join("")}</div>
       </section>`).join("") : `<p class="empty">${esc(T.none)}</p>`}
   `;
 

@@ -191,6 +191,15 @@ section{scroll-margin-top:calc(var(--bar) + 20px)}
 #map .land.st-expanding{fill:var(--up)} #map .land.st-steady{fill:var(--steady)}
 #map .land.st-cautious{fill:var(--caution)} #map .land.st-retreating{fill:var(--down)}
 #map .land.sel{stroke:var(--ink);stroke-width:1.4}
+#map .land.on{fill:var(--rule);opacity:.85}
+#map .mk{cursor:pointer}
+#map .mk-dot{stroke:var(--card);stroke-width:1.6;fill:var(--muted)}
+#map .mk.st-expanding .mk-dot{fill:var(--up)} #map .mk.st-steady .mk-dot{fill:var(--steady)}
+#map .mk.st-cautious .mk-dot{fill:var(--caution)} #map .mk.st-retreating .mk-dot{fill:var(--down)}
+#map .mk-n{font:600 9.5px var(--mono);fill:#fff;pointer-events:none}
+#map .mk-lbl{font:600 9.5px var(--sans);fill:var(--ink-2);paint-order:stroke;stroke:var(--card);stroke-width:3px;pointer-events:none}
+#map .mk:hover .mk-dot{stroke:var(--ink);stroke-width:2.2}
+#map .mk.sel .mk-dot{stroke:var(--ink);stroke-width:2.6}
 #map .lbl{font:600 9px var(--mono);fill:var(--ink);paint-order:stroke;stroke:var(--card);stroke-width:2.5px}
 .maplegend{display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;margin-top:6px;font-size:11.5px}
 .maplegend .mapnote{margin-left:auto;color:var(--muted);font-size:11px}
@@ -479,15 +488,25 @@ function card(a){
 
 // ── 세계지도 ────────────────────────────────────────────
 // 등장방형도법(equirectangular). 남극은 잘라낸다.
-const MAP_W = 1000, MAP_H = 420, LAT_TOP = 84, LAT_BOT = -58;
-const px = lon => (lon + 180) / 360 * MAP_W;
-const py = lat => (LAT_TOP - lat) / (LAT_TOP - LAT_BOT) * MAP_H;
+// Natural Earth 도법 (Patterson). 등방형보다 고위도 왜곡이 적고 지도답게 보인다.
+const MAP_W = 1000, MAP_H = 420;
+const NE_X = 2.73539, NE_Y = 1.55215;          // 투영 후 최대 x, y (라디안 기준)
+const NE_S = MAP_W / (2 * NE_X);               // 가로를 맞추는 배율
+function neXY(lon, lat){
+  const l = lon * Math.PI / 180, p = lat * Math.PI / 180;
+  const p2 = p*p, p4 = p2*p2, p6 = p4*p2, p8 = p4*p4;
+  const x = l * (0.8707 - 0.131979*p2 - 0.013791*p4 + 0.003971*p6 - 0.001529*p8);
+  const y = p * (1.007226 + 0.015085*p2 - 0.044475*p4 + 0.028874*p6 - 0.005916*p8);
+  return [MAP_W/2 + x * NE_S, MAP_H/2 - y * NE_S * 1.02 + 26];   // 남극을 잘라내고 위로 당김
+}
+const px = lon => neXY(lon, 0)[0];
+const py = lat => neXY(0, lat)[1];
 
 function ringPath(ring){
   let out = "";
   for(let i = 0; i < ring.length; i++){
-    const [lon, lat] = ring[i];
-    out += (i ? "L" : "M") + px(lon).toFixed(1) + "," + py(lat).toFixed(1);
+    const pt = neXY(ring[i][0], ring[i][1]);
+    out += (i ? "L" : "M") + pt[0].toFixed(1) + "," + pt[1].toFixed(1);
   }
   return out + "Z";
 }
@@ -501,7 +520,7 @@ function centroid(f){
   let x = 0, y = 0, n = 0, best = null, bestLen = 0;
   const rings = f.geometry.type === "Polygon" ? [f.geometry.coordinates[0]] : f.geometry.coordinates.map(p => p[0]);
   rings.forEach(r => { if(r.length > bestLen){ bestLen = r.length; best = r; } });
-  (best || []).forEach(([lon, lat]) => { x += px(lon); y += py(lat); n++; });
+  (best || []).forEach(c => { const p = neXY(c[0], c[1]); x += p[0]; y += p[1]; n++; });
   return n ? [x/n, y/n] : null;
 }
 
@@ -524,15 +543,23 @@ async function drawMap(){
   w.features.forEach(f => {
     const p = byA3[f.id];
     const cls = ["land"];
-    if(p){ cls.push("on", "st-" + p.stance); if(state.country === p.country) cls.push("sel"); }
+    if(p){ cls.push("on"); if(state.country === p.country) cls.push("sel"); }
     parts.push(`<path class="${cls.join(" ")}" d="${featurePath(f)}"${p ? ` data-c="${p.country}"><title>${esc((LANGCODE === "en" ? (p.name_en || cname(p.country)) : p.name_ko) + " — " + (T.stance[p.stance] || p.stance))}</title></path>` : "></path>"}`);
-    if(p){
+    if(p && p.country !== "INT"){
       const c = centroid(f);
-      if(c) labels.push(`<text class="lbl" x="${c[0].toFixed(1)}" y="${(c[1] + 3).toFixed(1)}" text-anchor="middle">${esc(p.country === "INT" ? "" : p.country)}</text>`);
+      if(c){
+        const n = new Set([...(p.article_ids||[]), ...d.articles.filter(a => a.countries.includes(p.country)).map(a => a.id)]).size;
+        const r = Math.min(13, 5 + Math.sqrt(n) * 2.4);
+        labels.push(`<g class="mk st-${esc(p.stance)}" data-c="${esc(p.country)}" transform="translate(${c[0].toFixed(1)},${c[1].toFixed(1)})">
+          <circle class="mk-dot" r="${r.toFixed(1)}"></circle>
+          <text class="mk-n" y="3.3" text-anchor="middle">${n}</text>
+          <text class="mk-lbl" y="${(r + 11).toFixed(1)}" text-anchor="middle">${esc(LANGCODE === "en" ? (p.name_en || cname(p.country)) : p.name_ko)}</text>
+          <title>${esc((LANGCODE === "en" ? (p.name_en || cname(p.country)) : p.name_ko) + " · " + (T.stance[p.stance] || p.stance) + " · " + T.nArticles(n))}</title></g>`);
+      }
     }
   });
   svg.innerHTML = parts.join("") + labels.join("");
-  svg.querySelectorAll("path[data-c]").forEach(el => el.onclick = () => {
+  svg.querySelectorAll("[data-c]").forEach(el => el.onclick = () => {
     state.country = state.country === el.dataset.c ? null : el.dataset.c;
     render(); document.getElementById("pulse").scrollIntoView();
   });
@@ -615,7 +642,7 @@ function render(){
 
     ${showPulse ? `<section id="pulse">
       <div class="sec-h"><h2 data-num="${num(++sec)}">${T.pulseTitle}</h2><span class="n">${T.pulseCount(d.countries_pulse.length)}</span><span class="hint">${T.pulseHint}</span></div>
-      <div class="mapwrap"><svg id="map" viewBox="0 0 1000 420" preserveAspectRatio="xMidYMid meet" role="img" aria-label="${esc(T.pulseTitle)}"></svg>
+      <div class="mapwrap"><svg id="map" viewBox="0 -18 1000 432" preserveAspectRatio="xMidYMid meet" role="img" aria-label="${esc(T.pulseTitle)}"></svg>
         <div class="maplegend">${Object.keys(T.stance).map(s => `<span class="stance st-${s}">${T.stance[s]}</span>`).join("")}<span class="mapnote" id="maphint"></span></div>
       </div>
       <div class="tbl"><table class="pulse">

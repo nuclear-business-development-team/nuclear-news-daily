@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-22",
+  "run_started": "2026-09-22T08:02:20+09:00",
+  "run_finished": "2026-09-22T09:20:00+09:00",
+  "run_minutes": 78,
+  "articles": 13,
+  "by_region": { "overseas": 10, "domestic": 3 },
+  "by_importance": { "3": 4, "2": 7, "1": 2 },
+  "detection_lag_hours": { "median": 23.04, "max": 23.04, "min": -0.96, "n": 13 },
+  "sources_ok": [
+    "World Nuclear News",
+    "NucNet",
+    "ANS Nuclear Newswire",
+    "정책브리핑 (korea.kr)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "전기신문",
+    "한국원자력신문",
+    "에너지데일리",
+    "투데이에너지",
+    "TED (EU 공공조달)",
+    "TED 검색 API",
+    "SAM.gov",
+    "폴란드 e-Zamówienia",
+    "OSGE",
+    "에스토니아 조달등록부",
+    "핀란드 Hilma",
+    "네덜란드 TenderNed",
+    "체코 NEN",
+    "UK Contracts Finder",
+    "CanadaBuys",
+    "OPG 조달"
+  ],
+  "sources_failed": [
+    { "name": "OECD NEA News", "reason": "403" },
+    { "name": "UK Find a Tender 공고 본문 (017237-2026)", "reason": "403 — 2일 연속" },
+    { "name": "Rolls-Royce SMR 공급망 (rolls-royce-smr.com)", "reason": "403 — 검색 색인으로만 확인" },
+    { "name": "IAEA News", "reason": "unreachable 목록에 따라 시도하지 않음" },
+    { "name": "원안위 보도자료 본문 (korea.kr newsId=156782721)", "reason": "본문이 HWP·PDF 첨부로만 제공 — 웹 본문 없음" }
+  ],
+  "languages": { "en": 10, "ko": 3 },
+  "note": "수집 구간 2026-09-19~09-22. 어제 실패했던 TED 공고 본문 열람을 curl(https://ted.europa.eu/en/notice/<번호>/pdf)과 TED 검색 API(api.ted.europa.eu/v3/notices/search)로 해결했다. WebFetch만 빈 응답을 돌려주므로 TED는 앞으로 curl 경로를 쓴다. 이 덕분에 검색엔진 색인이 아니라 게재일 기준 전수 조회가 가능해져, 당일(9/22) 게재된 웨스팅하우스 폴란드 AP1000 자격심사 공고 2건을 잡았다. detection_lag_hours의 min이 음수인 것은 그 공고 건 때문이다 — 게재일만 있는 경우 그날 09:00(+09:00)으로 간주하는 규약을 쓰는데, 실행 시작(08:02)이 그보다 이르러 -0.96h가 나왔다. 계산을 보정하지 않고 그대로 둔다."
+}

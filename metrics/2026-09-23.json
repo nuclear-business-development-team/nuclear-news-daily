@@ -1,0 +1,65 @@
+{
+  "date": "2026-09-23",
+  "run_started": "2026-09-23T08:11:19+09:00",
+  "run_finished": "2026-09-23T08:27:13+09:00",
+  "run_minutes": 16,
+  "articles": 9,
+  "by_region": {
+    "overseas": 6,
+    "domestic": 3
+  },
+  "by_importance": {
+    "3": 2,
+    "2": 5,
+    "1": 2
+  },
+  "detection_lag_hours": {
+    "median": 23.19,
+    "max": 23.19,
+    "min": 23.19,
+    "n": 9
+  },
+  "sources_ok": [
+    "World Nuclear News",
+    "NucNet",
+    "ANS Nuclear Newswire",
+    "POWER Magazine",
+    "UK DESNZ (gov.uk)",
+    "정책브리핑 (korea.kr)",
+    "한국수력원자력 보도자료",
+    "더구루",
+    "더트래커",
+    "파이낸셜뉴스",
+    "전기신문",
+    "에너지데일리",
+    "투데이에너지",
+    "한국원자력신문"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International RSS",
+      "reason": "301 → -L로 200이나 최신 항목이 2026-06-16 (피드 정체)"
+    },
+    {
+      "name": "OECD NEA News",
+      "reason": "403 — 2일 연속"
+    },
+    {
+      "name": "IAEA News",
+      "reason": "unreachable 목록에 따라 본문은 시도하지 않음 (RSS만 사용)"
+    },
+    {
+      "name": "원안위 보도자료 본문 (korea.kr newsId=156782848)",
+      "reason": "본문이 HWPX·PDF 첨부로만 제공 — 웹 본문 없음"
+    },
+    {
+      "name": "korea.kr srchWord=SMR 검색",
+      "reason": "원전 무관 기사만 반환 (검색 필터 미적용) — 원전·원자력 검색으로 대체"
+    }
+  ],
+  "languages": {
+    "en": 5,
+    "ko": 4
+  },
+  "note": "수집 구간 2026-09-22~09-23(하루). NEI RSS는 응답은 오나 콘텐츠가 2026-06-16에서 멈춰 있어 sources_failed에 남긴다. korea.kr의 srchWord=SMR 검색은 원전 무관 기사만 돌려줘 원전·원자력 검색으로 대체했다. 모든 기사 게재일이 09-22 하루에 몰려 detection_lag의 중앙값·최댓값·최솟값이 같다. 공고 포털 관련 수집 기록은 이 공개 저장소가 아니라 비공개 쪽 메트릭에만 남긴다."
+}

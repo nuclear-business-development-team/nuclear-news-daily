@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-09-23",
+      "article_count": 9,
+      "headline_ko": "대미투자 원전, 미국 내 APR1400 최대 2기 합의 — 한국형 원전 수출을 묶어 온 IP 합의도 개정키로",
+      "headline_en": "Korea-US package clears up to two APR1400s for US soil and reopens the IP agreement that has constrained Korean reactor exports"
+    },
+    {
       "date": "2026-09-22",
       "article_count": 15,
       "headline_ko": "웨스팅하우스, 폴란드 AP1000 2·3호기 격납용기·차폐건물 모듈 제작 자격심사 공고 — 마감 10월 12일",

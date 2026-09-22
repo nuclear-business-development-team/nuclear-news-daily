@@ -1,0 +1,274 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T09:40:00+09:00",
+  "period": {
+    "from": "2026-09-22",
+    "to": "2026-09-23"
+  },
+  "overview_ko": "수집 구간이 하루로 짧아 해외 신규 기사는 6건이다. 미국에서는 원자력에 붙는 돈의 성격이 달라지는 신호가 한꺼번에 나왔다 — 구글이 조지아파워의 보글·해치 출력증강(약 96MW)을 새 요금제로 뒷받침하기로 했고, 프라마톰은 미국 가동 원전 선단에 5% 상한을 넘는 LEU+ 연료를 공급하는 첫 상업계약을 맺었으며, 카메코는 퍼두카 레이저농축시설 생산물 전량의 독점 판매권을 확보했다. 유럽에서는 슬로바키아 모호브체 4호기(VVER-440, 471MW)가 9월 21일 발전을 시작해 상업운전 전 마지막 단계에 들어갔다. 미 육군 6개 기지 전력사업 가운데 애버딘의 노형은 테레스트리얼 에너지의 용융염로(IMSR)로 확인됐고 아메레스코가 사업을 주도한다. 필리핀은 바탄 원전 가동을 포함한 도입안을 다시 검토 중이나 일정은 없다. 영업 관점: 신규 건설 못지않게 출력증강·설비개선·연료주기 연장 같은 기존 설비 시장이 상업 자본을 끌어들이고 있으므로, 개보수·주기기 교체 실적을 별도 상품으로 세워 미국·유럽 양쪽에 제안선을 만들 필요가 있다.",
+  "overview_en": "With only a one-day collection window, there are six new overseas items. In the US, several signals landed at once that the money behind nuclear is changing character: Google agreed to underwrite roughly 96 MW of uprates at Georgia Power's Vogtle and Hatch plants through a new tariff; Framatome signed the first commercial contract to supply the US operating fleet with LEU+ fuel enriched above the 5% cap; and Cameco took exclusive marketing rights to all output from the Paducah laser enrichment facility. In Europe, Slovakia's Mochovce 4 (VVER-440, 471 MW) began generating on 21 September, entering the final stage before commercial operation. The reactor choice for the US Army's Aberdeen site is confirmed as Terrestrial Energy's molten salt IMSR, with Ameresco leading. The Philippines is again weighing nuclear options, including reviving Bataan, but with no timeline. Sales angle: the existing-fleet market - uprates, refurbishment, longer fuel cycles - is now attracting commercial capital alongside new build, so refurbishment and major-component replacement credentials deserve to be packaged as their own offering for both the US and Europe.",
+  "domestic_overview_ko": "대미투자 협상의 원전 부분이 9월 22일 국회 보고로 처음 구체화됐다. 미국 신규 원전 8기를 '2 → 4 → 2' 순으로 짓되 2기는 APR1400, 6기는 AP1000을 적용하는 방안이 협의 중이고, 전략투자를 활용하는 사업에 한해 미국 내 APR1400 최대 2기를 허용하면서 그동안 수출을 제약해 온 지식재산권(IP) 합의를 개정하기로 했다. 웨스팅하우스 지분은 5~10% 선에서 협의가 이어지며, 대미투자 1호 사업은 텍사스 가스복합화력(223억 달러)으로 확정돼 원전분은 아직 확정 전이다. 국내에서는 기후에너지환경부가 제12차 전력수급기본계획에 앞서 원전의 역할을 두고 3개월 공론화에 들어가 12월까지 권고안을 낸다. 영업 관점: 미국 내 2기라는 숫자보다 개정될 IP 합의가 제3국 수출에 어떻게 적용되는지가 훨씬 크게 작용하므로, 문안의 적용 범위 확인을 최우선으로 두고 12월 공론화 결론이 연속 건설 실적 논리에 미칠 영향을 함께 관리해야 한다.",
+  "domestic_overview_en": "The nuclear element of the Korea-US investment package took concrete shape for the first time in the 22 September National Assembly briefing. Eight new US reactors would be built in a 2-then-4-then-2 sequence, two of them APR1400s and six AP1000s; for projects funded through the strategic investment package, up to two APR1400s may be built in the US, and the intellectual-property agreement that has long constrained Korean exports will be revised. Talks on a Westinghouse stake continue in the 5-10% range, while the first project under the package is confirmed as a $22.3 billion Texas gas plant, leaving the nuclear portion unsettled. At home, the Ministry of Climate, Energy and Environment has opened three months of public deliberation on nuclear's role ahead of the 12th Basic Plan for Electricity Supply and Demand, with recommendations due in December. Sales angle: how the revised IP terms apply to third-country exports matters far more than the two US units, so confirming the scope of that wording is the priority, alongside watching whether December's conclusions sustain the continuous-build record Korea leans on abroad.",
+  "countries_pulse": [
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "데이터센터 자본이 신규 건설을 넘어 기존 호기 출력증강·고농축 연료까지 떠받치기 시작했다 — 구글·조지아파워 96MW 증강, 프라마톰 LEU+ 첫 상업계약, 카메코의 퍼두카 농축 오프테이크.",
+      "signal_en": "Data-centre capital is now underwriting uprates and higher-enriched fuel, not just new build - a 96 MW Google-Georgia Power uprate deal, Framatome's first commercial LEU+ contract, and Cameco's Paducah enrichment offtake.",
+      "article_ids": [
+        "2026-09-23-02",
+        "2026-09-23-03",
+        "2026-09-23-04",
+        "2026-09-23-05",
+        "2026-09-23-07"
+      ]
+    },
+    {
+      "country": "SK",
+      "name_ko": "슬로바키아",
+      "name_en": "Slovakia",
+      "stance": "expanding",
+      "signal": "모호브체 4호기가 발전을 시작해 상업운전 전 마지막 단계에 들어갔다 — 가동 시 원자력이 국내 전력소비의 77.5%에 해당하는 양을 공급.",
+      "signal_en": "Mochovce 4 has started generating, entering the last stage before commercial operation; once running, nuclear will supply the equivalent of 77.5% of national electricity consumption.",
+      "article_ids": [
+        "2026-09-23-01"
+      ]
+    },
+    {
+      "country": "FR",
+      "name_ko": "프랑스",
+      "name_en": "France",
+      "stance": "expanding",
+      "signal": "기조 유지 — 프라마톰이 미국 가동 원전용 LEU+ 연료 첫 계약을 따내며 연료 공급 쪽에서 미국 시장 비중을 키웠다.",
+      "signal_en": "Steady course - Framatome won its first LEU+ fuel contract for the US operating fleet, deepening its position in the American fuel market.",
+      "article_ids": [
+        "2026-09-23-03"
+      ]
+    },
+    {
+      "country": "CA",
+      "name_ko": "캐나다",
+      "name_en": "Canada",
+      "stance": "expanding",
+      "signal": "기조 유지 — 카메코가 GLE 지분 49%에 더해 퍼두카 레이저농축 생산물 전량의 독점 판매권을 확보, 최대 75%까지 늘릴 선택권도 유지.",
+      "signal_en": "Steady course - Cameco, which holds 49% of GLE, secured exclusive marketing rights to all Paducah laser-enrichment output and keeps an option to go to 75%.",
+      "article_ids": [
+        "2026-09-23-04"
+      ]
+    },
+    {
+      "country": "PH",
+      "name_ko": "필리핀",
+      "name_en": "Philippines",
+      "stance": "cautious",
+      "signal": "마르코스 행정부가 바탄 원전 가동을 포함한 도입안을 다시 검토 중이나 일정·용량은 제시되지 않았다.",
+      "signal_en": "The Marcos administration is again weighing nuclear options including reviving the Bataan plant, but gave no timeline or capacity.",
+      "article_ids": [
+        "2026-09-23-06"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-23-01",
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "title": "Power start-up for Mochovce 4",
+      "title_ko": "슬로바키아 모호브체 4호기 발전 개시 — 상업운전 전 마지막 단계",
+      "title_en": "Power start-up for Mochovce 4",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/power-start-up-for-mochovce-4",
+      "published": "2026-09-22",
+      "language": "en",
+      "countries": [
+        "SK"
+      ],
+      "summary_ko": "슬로벤스케 엘렉트라르네가 운영하는 모호브체 4호기(VVER-440, 471MW)가 9월 21일 15시 33분 발전을 시작했다. 출력 20%에 도달하면 계통에 연결되고, 전출력 144시간 시험을 마쳐야 상업운전에 들어간다. 같은 부지 3호기는 2023년 10월 상업운전을 시작했으며, 4호기까지 가동되면 원자력이 슬로바키아 전력소비의 77.5%에 해당하는 양을 공급하게 된다.",
+      "summary_en": "Mochovce 4 (VVER-440, 471 MW), operated by Slovenske elektrarne, began generating power at 15:33 on 21 September. It will be phased onto the Slovak grid at 20% power and must complete a 144-hour full-power test before commercial operation. Unit 3 on the same site entered commercial operation in October 2023; with unit 4 running, nuclear will supply the equivalent of 77.5% of Slovakia's electricity consumption.",
+      "sales_note": "유럽에서 신규 호기가 계통에 붙는 흐름이 이어진다는 신호다. 슬로바키아는 보후니체 신규 노형 검토가 남아 있어, VVER 완공 경험이 쌓인 현지 공급망이 차기 사업에서 어떤 위치를 차지하는지 지켜볼 만하다.",
+      "sales_note_en": "Another new unit joining the grid in Europe. With Slovakia still weighing a new unit at Bohunice, it is worth watching how a local supply chain that has now completed a VVER build positions itself for the next project."
+    },
+    {
+      "id": "2026-09-23-02",
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "title": "Google agreement to support Georgia plant uprates",
+      "title_ko": "구글–조지아파워, 보글·해치 출력증강 지원 계약 — 약 96MW 추가",
+      "title_en": "Google agreement to support Georgia plant uprates",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/google-agreement-to-support-Georgia-plant-uprates",
+      "published": "2026-09-22",
+      "language": "en",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "조지아파워가 9월 21일 규제당국에 제출한 신청서에 따르면, 구글이 새로 만드는 원자력 출력증강 요금제(NU-1)에 가입해 보글·해치 원전의 출력증강을 뒷받침한다. 터빈·펌프·전동기·냉각계통을 손봐 인가 열출력을 올리는 방식(EPU)으로 약 96MW가 계통에 더해진다. 구글은 증강분의 무탄소 속성을 나타내는 무배출 크레딧(ZEC)을 받고, 요금제에 참여하지 않는 고객은 증강 비용을 부담하지 않는 구조이며, 조지아주 공공서비스위원회 승인이 필요하다.",
+      "summary_en": "In a 21 September filing, Georgia Power set out a deal under which Google subscribes to a new nuclear uprate tariff (NU-1) to underwrite extended power uprates at the Vogtle and Hatch plants. The uprates modify turbines, pumps, motors and cooling systems to raise licensed thermal power, adding about 96 MW. Google receives zero-emission credits for the carbon-free attributes, non-participating customers are shielded from the incremental cost, and the arrangement needs Georgia Public Service Commission approval.",
+      "sales_note": "데이터센터 수요가 신규 건설뿐 아니라 기존 호기 출력증강까지 상업적으로 끌어올리고 있다. 계속운전·출력증강은 신규 건설보다 진입 문턱이 낮은 시장이므로, 설비개선·주기기 교체 실적을 앞세운 수주 접근선을 미국·유럽 양쪽에서 같이 볼 필요가 있다.",
+      "sales_note_en": "Data-centre demand is now underwriting uprates at existing units, not just new build. Life extension and uprate work is a lower barrier to entry than new build, so refurbishment and major-component replacement credentials are worth pushing in both the US and Europe.",
+      "related": [
+        "https://www.powermag.com/google-georgia-power-have-deal-to-support-nuclear-power-plant-uprates/"
+      ]
+    },
+    {
+      "id": "2026-09-23-03",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 2,
+      "title": "Framatome secures first contract for higher enriched fuel",
+      "title_ko": "프라마톰, 미국 상업로용 고농축(LEU+) 연료 첫 계약 — 2028년 초 첫 납품",
+      "title_en": "Framatome secures first contract for higher enriched fuel",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/framatome-secures-first-contract-for-higher-enriched-fuel",
+      "published": "2026-09-22",
+      "language": "en",
+      "countries": [
+        "US",
+        "FR"
+      ],
+      "summary_ko": "프라마톰이 미국 가동 원전 운영사(업체명 비공개)와 기존 5% 상한을 넘어 U-235 10%까지 농축한 LEU+ 산화우라늄 연료 공급 계약을 맺었다고 9월 22일 밝혔다. 미국 가동 원전 선단에 대한 LEU+ 상업 계약으로는 처음이며, 첫 납품은 2028년 초이고 추가 재장전 옵션이 붙어 있다. 연료주기를 18개월에서 24개월로 늘려 계획예방정비 횟수를 줄이는 것이 목적이다. 제작은 4년에 걸쳐 개선한 워싱턴주 리치랜드 공장에서 하며, 미 원자력규제위원회(NRC) 제작 인가는 2026년 7월 받았다.",
+      "summary_en": "Framatome said on 22 September it has signed a contract with an unnamed US operator to supply LEU+ uranium oxide fuel enriched above the usual 5% cap, up to 10% U-235. It is the first commercial LEU+ contract for the US operating fleet, with initial delivery in early 2028 and options for further reloads. The aim is to stretch the fuel cycle from 18 to 24 months and cut outage frequency. Fabrication will be at the Richland, Washington plant, upgraded over four years, with NRC fabrication approval granted in July 2026.",
+      "sales_note": "연료 고농축화는 가동률과 정비 주기를 바꾸는 변수다. 우리 쪽 입찰에서 발주처가 요구하는 연료주기·이용률 전제가 바뀔 수 있으므로, 경쟁 제안서의 운전 경제성 수치를 볼 때 LEU+ 적용 여부를 함께 확인해야 한다.",
+      "sales_note_en": "Higher enrichment changes capacity factors and outage intervals. Owners' assumptions on fuel cycle length and availability may shift, so check whether competing bids assume LEU+ when comparing their operating economics."
+    },
+    {
+      "id": "2026-09-23-04",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 2,
+      "title": "Cameco becomes selling agent for all Global Laser Enrichment output",
+      "title_ko": "카메코, GLE 레이저 농축 생산물 전량 독점 판매 대리인으로 — 퍼두카 공장 2030년 가동 목표",
+      "title_en": "Cameco becomes selling agent for all Global Laser Enrichment output",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-09-22/article-8420/cameco-becomes-selling-agent-for-all-global-laser-enrichment-output/",
+      "published": "2026-09-22",
+      "language": "en",
+      "countries": [
+        "US",
+        "CA"
+      ],
+      "summary_ko": "카메코와 글로벌레이저엔리치먼트(GLE)가 오프테이크 계약을 확정해, 카메코가 켄터키주 퍼두카 레이저농축시설(PLEF) 생산물 전량의 독점 구매·판매자가 된다. GLE 지분은 사일렉스시스템즈 51%, 카메코 49%(2021년 29%에서 확대)이며 카메코는 최대 75%까지 늘릴 선택권을 갖는다. PLEF는 정부 지원·시장 여건·타당성 평가를 전제로 2030년 가동을 목표로 하고, 천연 육불화우라늄(UF6)부터 생산한다. NRC는 2026년 3월 건설·운영 신청에 대한 환경영향평가서 초안을 마쳤고, 켄터키주와 매크래컨 카운티는 최대 9,890만 달러 규모의 성과연동 인센티브를 예비 승인했다.",
+      "summary_en": "Cameco and Global Laser Enrichment have finalised an offtake agreement making Cameco the exclusive buyer and seller of all output from the planned Paducah Laser Enrichment Facility in Kentucky. GLE is 51% owned by Silex Systems and 49% by Cameco (up from 29% in 2021), with Cameco holding an option to go to 75%. PLEF targets start-up by 2030, subject to government support, market conditions and a positive feasibility assessment, beginning with natural-grade UF6. The NRC completed a draft environmental impact statement in March 2026, and Kentucky and McCracken County gave preliminary approval to up to $98.9 million in performance-based incentives.",
+      "sales_note": "서방 농축 역량이 러시아 밖에서 한 축 더 생기는 흐름이다. 발주처가 연료 공급 안정성을 평가 항목에 넣는 사업(특히 유럽·중동)에서 연료 조달 시나리오를 제안서에 붙일 때 참고할 공급원이다.",
+      "sales_note_en": "Another non-Russian Western enrichment route taking shape. Useful as a reference supply option when bids in Europe or the Middle East score fuel-supply security."
+    },
+    {
+      "id": "2026-09-23-05",
+      "region": "overseas",
+      "category": "smr",
+      "importance": 2,
+      "title": "DL이앤씨 파트너 '테레스트리얼', 美육군과 원전 발전시스템 공급 계약",
+      "title_ko": "미 육군 애버딘 노형 확정 — 테레스트리얼 에너지 IMSR, 아메레스코가 사업 주도",
+      "title_en": "Terrestrial Energy's IMSR named for US Army's Aberdeen site, with Ameresco leading",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=107412",
+      "published": "2026-09-22",
+      "language": "ko",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "어제 전한 미 육군 전략자본이니셔티브(SCI) 6개 기지 선정 건의 노형이 확인됐다. 메릴랜드주 애버딘 시험장에는 테레스트리얼 에너지의 일체형 용융염로(IMSR)가 들어가며, 미국 에너지솔루션 기업 아메레스코가 사업을 주도하고 두 회사는 최근 IMSR 사업 파트너십을 맺었다. 건설 목표는 2030년대 초다. 테레스트리얼은 2022년 DL이앤씨와 IMSR 열병합 발전소 개발·구축 협력 업무협약을 맺은 바 있다.",
+      "summary_en": "The reactor choice behind yesterday's US Army Strategic Capital Initiative award for six installations is now confirmed. Terrestrial Energy's Integrated Molten Salt Reactor will go to Aberdeen Proving Ground in Maryland, with US energy solutions firm Ameresco leading the project; the two recently formed an IMSR partnership. Construction is targeted for the early 2030s. Terrestrial signed an MOU with Korea's DL E&C in 2022 to cooperate on developing and building IMSR cogeneration plants.",
+      "sales_note": "발주 주체가 군이 아니라 에너지서비스 기업(아메레스코)이라는 점이 핵심이다. 국내 EPC가 이미 노형사와 협약 관계를 갖고 있으면 그 선을 통해 시공·기자재 범위로 진입할 여지가 생긴다 — 미군 기지 사업의 접근 경로를 다시 볼 필요가 있다.",
+      "sales_note_en": "The buyer here is an energy services company (Ameresco), not the Army itself. Where a Korean EPC already has a standing agreement with the reactor vendor, that relationship is a possible route into construction and equipment scope — worth rethinking how these base projects are approached.",
+      "related": [
+        "https://www.ans.org/news/2026-09-21/article-8416/army-announces-new-power-projects-for-installations/"
+      ]
+    },
+    {
+      "id": "2026-09-23-06",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 1,
+      "title": "International roundup: The Philippines, IAEA remarks, and EDF's SMR plans",
+      "title_ko": "필리핀, 바탄 원전 가동 포함한 원자력 도입안 검토 — 미 에너지장관은 IAEA 총회 연설",
+      "title_en": "Philippines weighs nuclear options including reviving Bataan; US energy secretary addresses IAEA",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-09-22/article-8421/international-roundup-the-philippines-iaea-remarks-and-edfs-smr-plans/",
+      "published": "2026-09-22",
+      "language": "en",
+      "countries": [
+        "PH",
+        "US",
+        "INT"
+      ],
+      "summary_ko": "필리핀 마르코스 행정부가 원자력 도입 방안을 검토 중이며, 1985년 완공됐으나 한 번도 연료를 장전하지 않은 바탄 원전을 가동하는 안도 포함돼 있다. 구체적 일정이나 용량은 제시되지 않았다. 같은 기사에서 크리스 라이트 미 에너지장관은 빈에서 열린 IAEA 총회 연설을 통해 원자로 시범사업(Reactor Pilot Program)과 DOE 제네시스 미션을 성과로 들고, 이란의 안전조치 의무 이행을 촉구했다.",
+      "summary_en": "The Marcos administration in the Philippines is weighing options for introducing nuclear power, including bringing the Bataan plant — completed in 1985 but never fuelled — into operation; no timeline or capacity was given. In the same roundup, US Energy Secretary Chris Wright addressed the IAEA General Conference in Vienna, citing the Reactor Pilot Program and the DOE Genesis Mission, and pressed Iran to meet its safeguards obligations.",
+      "sales_note": "필리핀은 매년 검토 단계에서 머무르는 시장이라 발표 자체보다 예산·법제화 단계 진입 여부를 보는 것이 맞다. 바탄 복원안이 다시 나온 만큼 타당성 용역 발주가 뒤따르는지 확인할 가치가 있다.",
+      "sales_note_en": "The Philippines has hovered at the study stage for years, so what matters is whether this reaches budget and legislation, not the announcement itself. With Bataan revival back on the table, watch for a follow-on feasibility study procurement."
+    },
+    {
+      "id": "2026-09-23-07",
+      "region": "domestic",
+      "category": "large",
+      "importance": 3,
+      "title": "美원전 8기 순차적으로 건설… \"웨스팅하우스 지분 5~10% 사이\"",
+      "title_ko": "대미투자 원전, 미국 내 APR1400 최대 2기 합의 — IP 합의 개정·WEC 지분 5~10% 협의",
+      "title_en": "Korea-US package: up to two APR1400s allowed in the US, IP agreement to be revised, Westinghouse stake at 5-10%",
+      "source": "파이낸셜뉴스",
+      "url": "https://www.fnnews.com/news/202609221917107078",
+      "published": "2026-09-22",
+      "language": "ko",
+      "countries": [
+        "KR",
+        "US"
+      ],
+      "summary_ko": "어제 예고된 국회 산업통상자원중소벤처기업위원회 비공개 보고가 9월 22일 열려 내용이 공개됐다. 미국 신규 원전 8기를 '2기 → 4기 → 2기' 순으로 단계적으로 짓는 방안이 협의 중이며, 이 가운데 2기는 한국형 APR1400, 6기는 웨스팅하우스 AP1000을 적용하는 구도다. 한미는 전략투자를 활용하는 원전 사업에 한해 미국 내 APR1400 건설을 최대 2기까지 허용하기로 하고, 그동안 수출의 제약이던 지식재산권(IP) 합의를 개정하기로 했다. 웨스팅하우스(WEC) 지분 투자는 5~10% 수준에서 협의가 이어진다. 한편 대미투자 1호 사업으로는 텍사스주 엔시날 가스복합화력(223억 달러)이 확정됐고, 원전분은 아직 확정 단계가 아니다.",
+      "summary_en": "The closed-door National Assembly trade committee briefing flagged yesterday took place on 22 September. Korea and the US are discussing building eight new US reactors in a 2-then-4-then-2 sequence, with two of them Korean APR1400s and six Westinghouse AP1000s. For nuclear projects funded through the strategic investment package, the two sides agreed to allow up to two APR1400s to be built in the US and to revise the intellectual-property agreement that has long constrained Korean exports. Talks on a Westinghouse equity stake continue in the 5-10% range. Separately, the first project under the package is confirmed as a $22.3 billion combined-cycle gas plant at Encinal, Texas; the nuclear portion is not yet locked in.",
+      "sales_note": "IP 합의 개정은 지난 10년간 한국형 원전 수출의 가장 큰 구조적 제약을 건드리는 사안이다. 미국 내 2기라는 숫자보다, 개정된 조건이 제3국 수출에 어떻게 적용되는지가 우리 영업에 훨씬 크게 작용한다 — 개정 문안의 적용 범위를 확인하는 것이 최우선이다.",
+      "sales_note_en": "Revising the IP agreement touches the single biggest structural constraint on Korean reactor exports over the past decade. What matters for sales is less the two US units than how the revised terms apply to third-country exports — pinning down the scope of the revised wording is the priority.",
+      "related": [
+        "https://www.ans.org/news/2026-09-22/article-8419/south-korea-invests-in-us-gas-project-nuclear-delayed/",
+        "https://www.polinews.co.kr/news/articleView.html?idxno=743868"
+      ]
+    },
+    {
+      "id": "2026-09-23-08",
+      "region": "domestic",
+      "category": "policy",
+      "importance": 3,
+      "title": "미래 전력수급에서 원자력의 역할, 국민과 함께 논의한다",
+      "title_ko": "미래 전력수급에서 원자력의 역할, 국민과 함께 논의한다 — 3개월 공론화 착수, 12차 전기본 반영",
+      "title_en": "Korea opens a three-month public deliberation on nuclear's role in future power supply, feeding the 12th power plan",
+      "source": "정책브리핑 (기후에너지환경부)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782855",
+      "published": "2026-09-22",
+      "language": "ko",
+      "countries": [
+        "KR"
+      ],
+      "summary_ko": "기후에너지환경부가 제12차 전력수급기본계획 수립에 앞서 원자력의 역할을 두고 약 3개월간 공론화를 벌인다고 9월 22일 밝혔다. 같은 날 국회에 '원전 공론화 추진방안'을 보고했다. 신규 원전 건설의 단순 찬반이 아니라, 반도체·전기차 확대와 AI 확산으로 늘어나는 전력수요를 감당할 여러 대안 가운데 하나로서 원전의 역할을 다루겠다는 것이 정부 설명이다. 위원회는 원자력에 직접적 이해관계가 없는 중립 인사로 위원장 포함 11명 이내로 구성하며, 12월까지 권고안을 낼 예정이다.",
+      "summary_en": "Ahead of drafting the 12th Basic Plan for Electricity Supply and Demand, the Ministry of Climate, Energy and Environment said on 22 September it will run roughly three months of public deliberation on the role of nuclear power, reporting the plan to the National Assembly the same day. The government frames it not as a simple for-or-against vote on new build but as weighing nuclear among several options for meeting demand growth from semiconductors, EVs and AI. The panel will have up to 11 members including a chair, drawn from figures with no direct stake in nuclear, and is due to issue recommendations by December.",
+      "sales_note": "국내 신규 건설 물량은 해외 입찰에서 내세우는 연속 건설 실적의 근거다. 12월 권고안과 12차 전기본의 원전 물량이 해외 제안서의 '지속적 선단 건설' 논리를 뒷받침할지 갈리므로, 연말 결론을 수주 일정과 함께 관리해야 한다.",
+      "sales_note_en": "Domestic new-build volume underpins the continuous-construction record Korea cites in overseas bids. Whether December's recommendations and the 12th plan sustain that 'ongoing fleet build' argument matters directly to proposals abroad, so the year-end outcome should be tracked alongside bid schedules.",
+      "related": [
+        "https://www.fnnews.com/news/202609220928062733",
+        "https://zdnet.co.kr/view/?no=20260922153501"
+      ]
+    },
+    {
+      "id": "2026-09-23-09",
+      "region": "domestic",
+      "category": "policy",
+      "importance": 1,
+      "title": "원자력안전정보를 지역주민에 더 가까이, 고리 및 새울 정보공유센터 개소",
+      "title_ko": "원자력안전정보를 지역주민에 더 가까이, 고리 및 새울 정보공유센터 개소",
+      "title_en": "NSSC opens nuclear safety information-sharing centres at Gori and Saeul",
+      "source": "정책브리핑 (원자력안전위원회)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782848",
+      "published": "2026-09-22",
+      "language": "ko",
+      "countries": [
+        "KR"
+      ],
+      "summary_ko": "원자력안전위원회가 9월 22일 고리·새울 원전 인근에 원자력안전 정보공유센터를 열었다. 지역주민이 원자력안전 정보를 더 가까이에서 접할 수 있게 하는 것이 목적이다. 세부 운영 내용은 보도자료 첨부문서(HWPX·PDF)로만 제공된다.",
+      "summary_en": "The Nuclear Safety and Security Commission opened nuclear safety information-sharing centres near the Gori and Saeul plants on 22 September, intended to bring safety information closer to local residents. Operating details are provided only in the attached HWPX and PDF files.",
+      "sales_note": "",
+      "sales_note_en": ""
+    }
+  ]
+}

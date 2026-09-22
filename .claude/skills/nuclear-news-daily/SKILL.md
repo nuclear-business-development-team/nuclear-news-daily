@@ -187,6 +187,31 @@ description: 원전 해외영업팀용 일일 원자력 뉴스 브리핑을 만�
 3. `data/index.json`의 `days` 맨 앞에 `{date, article_count, headline_ko, headline_en}` 추가(같은 날짜면 교체). 해외·국내 통틀어 가장 중요한 기사 한 줄을 한글과 영어로 각각. 영어는 직역이 아니라 영어 헤드라인답게.
 4. 검증: `python3 -c "import json,sys;json.load(open(sys.argv[1],encoding='utf-8'))" data/DATE.json`. 가능하면 `pip install jsonschema` 후 스키마 검증까지.
 
+## 8-2. 보고서 자동 생성 (★★★ 기사)
+
+`importance: 3`(★★★) 기사는 회사 내부 보고 서식(.docx)으로 각각 만든다. MBO의 '보고서 자동생성' 근거다. `data/DATE.json`을 저장한 뒤 실행한다.
+
+1. **뼈대 생성**: `python3 scripts/build_report.py --from-data data/DATE.json`
+   → ★★★ 기사마다 `reports/docx/DATE_<id>.report.json`이 만들어진다(본문은 안내문만 채워진 상태). ★★★ 기사가 없으면 건너뛴다.
+2. **본문 작성** — 각 `report.json`의 필드를 채운다:
+   - `title`: 기사 `title_ko` 뒤에 `(보고)`. 간결하게.
+   - `date`: 기사 게재일을 `‘26. 9. 21(월)` 형식으로.
+   - `dept`: 그대로 둔다.
+   - `body`는 `{"lv": ..., "t": ...}` 목록. `lv` 값:
+     - `h`  = □ 소제목(굵게). 보통 `보고 배경` / `주요 내용` / `시사점(당사 해외사업 관점)` 3개.
+     - `-`  = 근거·사실 (Level 2).
+     - `d`  = 세부·수치·대상·일정을 분해 (Level 3, ·). 숫자·범위·일정은 여기.
+     - `note` = ※ 참고(11pt). 반드시 `출처 : 매체(게재일)`를 넣는다.
+     - `imp`  = ⇒ 직전 항목에서 도출되는 후속·추적 사항.
+   - 어조는 개조식(명사형 종결: ~함/~필요/~예정), 작성 주체는 "당사".
+   - 확인 못 한 수치는 쓰지 않는다. 영업 판단은 `시사점` 블록에만(`sales_note` 기반).
+   - 뼈대의 `_`로 시작하는 필드(`_summary_ko` 등)는 참고용이며 렌더링되지 않는다.
+3. **렌더링**: `python3 scripts/build_report.py reports/docx/DATE_*.report.json`
+   → 각 옆에 `.docx` 생성. 바탕체·□/-/··※·⇒ 계층·A4·`- 以 上 -` 서식이 자동 적용된다.
+4. `report.json`과 `.docx`를 모두 커밋한다(§10에 `reports/docx` 포함).
+
+※ 서식 규격은 `scripts/build_report.py` 상단에 고정. 서식을 바꾸려면 스크립트만 고친다(문서마다 손대지 않음).
+
 ## 9. 측정 기록 (MBO 실측용)
 
 브리핑을 저장한 뒤 `metrics/DATE.json`을 남긴다. 이 값이 MBO의 리드타임·처리시간 근거가 되므로 **추정하지 말고 실제 값만** 적는다.

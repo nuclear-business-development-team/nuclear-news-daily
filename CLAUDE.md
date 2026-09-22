@@ -10,6 +10,7 @@
 - `schema/daily.schema.json` — 일일 결과 JSON 형식 (다른 시스템 연동 시 이 계약을 기준으로)
 - `data/YYYY-MM-DD.json`, `data/index.json` — 결과 데이터
 - `reports/YYYY-MM-DD.md` — 사람이 읽는 보고서
+- `scripts/build_report.py` — ★★★ 기사를 회사 내부 보고 서식(.docx)으로 생성. 결과는 `reports/docx/`. 서식 규격은 스크립트 상단에 고정
 - `index.html` — GitHub Pages 뷰어 (data/*.json을 읽어 표시, 빌드 없음)
 
 ## 실행

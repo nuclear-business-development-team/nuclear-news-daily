@@ -22,7 +22,8 @@ description: 원전 해외영업팀용 일일 원자력 뉴스 브리핑을 만�
 
 ## 1. 수집 — 해외
 
-- `sources.yaml`의 `primary` 출처 목록 페이지를 WebFetch로 열어 기간 내 기사 제목·URL·날짜를 뽑는다.
+- **RSS 피드 먼저**: `sources.yaml`의 `feeds`를 `curl -s -A "Mozilla/5.0" <url>`로 받아 `<item>`(또는 Atom `<entry>`)의 제목·`<link>`·`<pubDate>`(또는 `<updated>`)를 뽑는다. 피드에 나온 게재일을 정본으로 삼는다 — 검색 색인이 몇 달 전 기사를 최신으로 보여주는 문제를 이걸로 없앤다. 기간 내 항목만 남긴다.
+- 피드로 목록을 잡은 뒤, 내용 확인이 필요한 기사만 본문을 WebFetch로 연다. `sources.yaml`의 `primary` 중 피드가 없는 곳(NucNet·ANS 등)은 종전대로 목록 페이지를 WebFetch로 열어 보완한다.
 - `topics.yaml`의 `search_queries`로 WebSearch를 돌려 통신사·경제지·각국 정부/규제기관 발표를 보강한다. `watch_countries`는 국가명 + nuclear 로 최소 한 번씩 훑는다.
 - **업계 지도**: `topics.yaml`의 `industry_queries`를 매일 돌린다. `large_designs`·`smr_developers`·`mmr_developers`·`epc_and_suppliers`의 업체·노형이 `agreement_signals`(MOU·MOC·NDA·LOI·teaming·JV·preferred bidder·contract award·FEED 계약 등)와 함께 등장하는 기사는 **빠짐없이 싣는다**. 누가 누구와 손잡았는지가 시장 구도를 바꾸므로, 규모가 작아 보여도 중요도 2 이상으로 본다. 발표 주체가 어디든(개발사·EPC·발주처·투자사) 대상이다.
 - **현지어 수집**: `sources.yaml`의 `local` 나라마다 `queries`를 그 나라 말 그대로 검색한다. 사용량을 아끼기 위해 **수주·입찰이 진행 중인 나라(CZ, PL, SK, SI, NL, SE, GB, FR, TR, SA, AE, KZ, UZ, VN, PH, IN)는 매일**, 나머지는 **주 2회(월·목)** 훑는다. 단 그 나라에 큰 사건이 터진 정황이 보이면 요일과 무관하게 확인한다(필요하면 `outlets`를 `allowed_domains`로). 영어권 매체에 아직 안 나온 입찰·정책·여론 기사를 우선 찾는다. 같은 사건의 영문 기사가 있어도 현지 기사가 더 구체적이면 현지 기사를 대표로, 영문은 `related`로.

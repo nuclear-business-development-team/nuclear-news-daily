@@ -13,6 +13,15 @@ primary:
   - name: OECD NEA News
     url: https://www.oecd-nea.org/jcms/c_12886/news
 
+# RSS 피드 — 게재일이 정확하고 목록이 완전하다. 검색보다 이걸 먼저 본다(몇 달 전 기사를 최신으로 오인하는 문제를 없앰).
+# 2026-09-22 접속 확인. curl 로 받아 제목·링크·pubDate 를 뽑는다.
+feeds:
+  - { name: World Nuclear News, url: "https://www.world-nuclear-news.org/RSS", note: "전 분야, 약 49건, pubDate 있음" }
+  - { name: IAEA Top News, url: "https://www.iaea.org/feeds/topnews", note: "IAEA 공식" }
+  - { name: Nuclear Engineering International, url: "https://www.neimagazine.com/feed", note: "전문지" }
+  - { name: POWER Magazine, url: "https://www.powermag.com/feed/", note: "발전 전반, 원자력 포함" }
+  - { name: UK DESNZ (gov.uk), url: "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero", note: "영국 에너지부 발표, Atom 형식" }
+
 secondary:
   - Reuters (energy / nuclear)
   - Bloomberg (energy)

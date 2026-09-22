@@ -134,7 +134,21 @@ description: 원전 해외영업팀용 일일 원자력 뉴스 브리핑을 만�
 
 - **워치리스트의 사업명·파트너·단계를 공개 저장소(`nuclear-news-daily`) 파일이나 웹페이지에 절대 쓰지 않는다.**
 - 공고 자체가 공개 정보여도, "우리가 이 건을 보고 있다"는 맥락은 비공개 쪽에만 적는다.
-- 커밋: `cd pipeline-watch && git add alerts tenders data && git commit -m "watch: DATE (공고 N건 / 동향 M건)" && git push`
+- 커밋: `cd pipeline-watch && git add alerts tenders data metrics poc && git commit -m "watch: DATE (공고 N건 / 동향 M건)" && git push`
+
+### 3-8. PoC 메트릭 기록 (MBO 배점 3)
+
+파이프라인 회차마다 `pipeline-watch/metrics/DATE.json`을 남긴다(형식은 그 폴더 `README.md`). 파이프라인 Agent PoC의 처리시간·정확도 근거다. **추정하지 말고 이번 회차 실제 값만** 적는다.
+
+- `coverage.portals_scanned` / `watchlist_items`: 이번에 훑은 포털·대상 수
+- `sources_failed`: 접근 실패 포털(§3-4 Ⅲ 표와 일치)
+- `found` / `flagged`: 알린 공고·동향 수, 정탐/오탐(오탐은 사람 검수 전이면 0으로 두되 검수 후 갱신)
+- `correct_rejections`: 검색에 떴으나 규칙대로 제외한 건수
+- `detection.same_day_tenders`: 게재 당일에 잡은 공고 수
+- `run_minutes`: 회차 처리 시간(분). 재려면 §0에서 시작 시각을 남긴다
+- `method_changes`: 이번 회차에 바꾼 수집·판정 방식(있을 때만)
+
+알림·제외 건은 `pipeline-watch/poc/evaluation-log.md`에 같은 형식으로 이어 붙인다(판정자·검수일은 사람이 나중에 채움). 오탐이 나오면 판정 규칙 보완을 `poc/README.md §3`에 남긴다. python3로 JSON 문법을 검증한다.
 
 ## 4. 공통 선별 규칙
 

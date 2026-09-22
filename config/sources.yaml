@@ -78,6 +78,10 @@ domestic:
       domain: kaif.or.kr
     - name: 혁신형SMR기술개발사업단
       domain: i-smr.or.kr
+  # 국내 RSS 피드 — 전체 기사 피드라 원전 무관 기사가 섞임. 제목·본문에 원전/SMR/한수원/한전/원자력이 있는 것만 취한다.
+  feeds:
+    - { name: 더구루, url: "https://www.theguru.co.kr/data/rss/news.xml", note: "50건, 해외 산업·수주 동향 빠름, 게재일 정확" }
+    - { name: 더트래커, url: "https://www.thetracker.co.kr/RSS/RSS.aspx", note: "50건, 게재일 정확" }
   # 매체 — 접속 가능한 곳만. 아래 차단 목록은 크롤러를 막아 검색·열람이 안 됨.
   outlets:
     - electimes.com        # 전기신문

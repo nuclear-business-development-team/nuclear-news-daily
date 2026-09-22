@@ -1,6 +1,6 @@
 {
-  "updated": null,
-  "note": "baseline-*.csv 2주 기록이 모이면 채운다. 지금은 전부 대기 상태.",
+  "updated": "2026-09-23",
+  "note": "리드타임 As-Is는 baseline-*.csv 2주 기록 대기. 자동수집률 분모는 2026-09-23 표준 12항목으로 확정(standard-items.md).",
   "lead_time_days": {
     "asis_median": null,
     "target_median": null,
@@ -8,11 +8,12 @@
     "n": 0
   },
   "auto_collection": {
-    "denominator_defined": false,
-    "denominator_items": null,
-    "auto_filled": null,
-    "manual_filled": null,
-    "rate_percent": null,
-    "target_percent": 70
+    "denominator_defined": true,
+    "denominator_items": 12,
+    "auto_filled": 10,
+    "manual_filled": 2,
+    "rate_percent": 83,
+    "target_percent": 70,
+    "basis": "표준 12항목 중 사실수집 10항목 자동, 판단 2항목 수기(분모 포함). 시스템 기준값이며 현장 CSV 실측으로 갱신."
   }
 }

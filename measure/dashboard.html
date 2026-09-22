@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MBO 측정 대시보드 · 원전 해외영업팀</title>
+<style>
+  :root{
+    --navy:#051c2c; --ink:#1a2b3a; --slate:#5a6b7a; --line:#e4e9ee;
+    --bg:#f4f6f8; --card:#ffffff; --accent:#2251ff; --good:#1f9d63;
+    --warn:#b7791f; --pending:#8a97a3; --pendbg:#eef1f4;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:'Malgun Gothic','Apple SD Gothic Neo',system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased}
+  .wrap{max-width:1040px;margin:0 auto;padding:0 16px 64px}
+  header{background:var(--navy);color:#eaf0f4;padding:22px 0 20px;margin-bottom:22px}
+  header .wrap{padding-top:0;padding-bottom:0}
+  .eyebrow{font-size:11px;letter-spacing:.18em;color:#8fb0c8;text-transform:uppercase}
+  h1{font-size:21px;margin:6px 0 4px;font-weight:700}
+  .sub{font-size:12.5px;color:#a9bccc;line-height:1.5}
+  .asof{font-size:11.5px;color:#8fb0c8;margin-top:8px}
+  .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+  @media(max-width:720px){.grid{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:18px 18px 16px;box-shadow:0 1px 2px rgba(5,28,44,.04)}
+  .card.span2{grid-column:1/-1}
+  .ctitle{display:flex;align-items:center;gap:8px;font-size:14px;font-weight:700}
+  .pts{margin-left:auto;font-size:11px;font-weight:700;color:#fff;background:var(--navy);
+    padding:2px 8px;border-radius:20px;white-space:nowrap}
+  .goal{font-size:12px;color:var(--slate);margin:4px 0 14px}
+  .asis-tobe{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:10px}
+  .metric{text-align:center;padding:10px 6px;border-radius:10px;background:#f7f9fb}
+  .metric .lab{font-size:11px;letter-spacing:.04em;color:var(--slate);margin-bottom:6px}
+  .metric .val{font-size:26px;font-weight:800;line-height:1;color:var(--ink)}
+  .metric .val.pending{font-size:14px;font-weight:700;color:var(--pending)}
+  .metric .unit{font-size:12px;font-weight:600;color:var(--slate);margin-left:2px}
+  .arrow{font-size:20px;color:var(--accent);font-weight:800}
+  .metric.target{background:#eef3ff}
+  .metric.target .val{color:var(--accent)}
+  .footnote{font-size:11.5px;color:var(--slate);line-height:1.55;margin-top:12px;
+    padding-top:10px;border-top:1px dashed var(--line)}
+  .badge{display:inline-block;font-size:10.5px;font-weight:700;padding:2px 7px;border-radius:5px;
+    background:var(--pendbg);color:var(--pending);vertical-align:1px}
+  .badge.live{background:#e7f6ee;color:var(--good)}
+  .badge.wait{background:#fdf3e2;color:var(--warn)}
+  .row{display:flex;justify-content:space-between;align-items:baseline;
+    padding:7px 0;border-bottom:1px solid var(--line);font-size:13px}
+  .row:last-child{border-bottom:0}
+  .row .k{color:var(--slate)}
+  .row .v{font-weight:700}
+  .spark{margin-top:10px}
+  .mini{font-size:11px;color:var(--slate);margin-top:4px}
+  .legend{font-size:11px;color:var(--slate);margin-top:6px}
+  .section-h{font-size:12px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--slate);margin:26px 0 10px;font-weight:700}
+  .empty{color:var(--pending);font-size:12.5px;padding:14px;text-align:center;
+    background:var(--pendbg);border-radius:8px}
+  footer{margin-top:30px;font-size:11.5px;color:var(--slate);line-height:1.6;
+    border-top:1px solid var(--line);padding-top:14px}
+  a{color:var(--accent);text-decoration:none}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="eyebrow">MBO 측정 · 내부 참고용</div>
+    <h1>To-Be 성과 측정 대시보드</h1>
+    <div class="sub">원전 해외영업팀 · 이벤트→보고 리드타임과 정보 자동 수집률을 As-Is 대비로 추적한다.</div>
+    <div class="asof" id="asof">데이터 불러오는 중…</div>
+  </div>
+</header>
+
+<div class="wrap">
+  <!-- 배점 있는 두 지표 -->
+  <div class="grid">
+    <div class="card">
+      <div class="ctitle">리드타임 (이벤트 → 보고 반영)<span class="pts">배점 6</span></div>
+      <div class="goal">목표: As-Is 대비 <b>50% 단축</b> · 발생일시 → 보고반영일시(일)</div>
+      <div class="asis-tobe">
+        <div class="metric"><div class="lab">As-Is (사람 실측)</div><div class="val pending" id="lt-asis">기록 대기</div></div>
+        <div class="arrow">→</div>
+        <div class="metric target"><div class="lab">목표 (절반)</div><div class="val pending" id="lt-target">–</div></div>
+      </div>
+      <div class="footnote">
+        <span class="badge wait" id="lt-badge">baseline 대기</span>
+        전체 리드타임은 <b>사람 기록(baseline-*.csv)</b> 2주치가 있어야 산출된다.
+        아래 <b>탐지 지연</b>은 에이전트가 이미 재고 있는 리드타임 앞단(게재→인지) 실측값이다.
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="ctitle">정보 자동 수집률<span class="pts">배점 4</span></div>
+      <div class="goal">목표: 자동 채움 항목 ÷ 표준 항목 = <b>70% 이상</b></div>
+      <div class="asis-tobe">
+        <div class="metric"><div class="lab">현재 자동 수집률</div><div class="val pending" id="ac-rate">정의 대기</div></div>
+        <div class="arrow">→</div>
+        <div class="metric target"><div class="lab">목표</div><div class="val" id="ac-target">70<span class="unit">%</span></div></div>
+      </div>
+      <div class="footnote">
+        <span class="badge wait" id="ac-badge">분모 확정 대기</span>
+        <b>분모(파이프라인 표준 항목 목록)</b>가 팀에서 확정되면 계산식을 그 항목 수로 고정한다.
+        확정 전까지는 건별 실제 입력 수로 잠정 집계.
+      </div>
+    </div>
+  </div>
+
+  <!-- 에이전트 자동 기록: 이미 흐르는 데이터 -->
+  <div class="section-h">에이전트 자동 기록 <span class="badge live">자동 수집 중</span></div>
+  <div class="grid">
+    <div class="card">
+      <div class="ctitle">탐지 지연 추세 <span style="margin-left:auto;font-size:11px;color:var(--slate)">게재 → 에이전트 인지 (시간)</span></div>
+      <div class="goal">리드타임 앞단의 실측값. 낮을수록 빠르게 잡았다는 뜻.</div>
+      <div class="spark" id="lag-spark"></div>
+      <div class="legend" id="lag-legend"></div>
+    </div>
+    <div class="card">
+      <div class="ctitle">처리 시간 <span style="margin-left:auto;font-size:11px;color:var(--slate)">실행당 분</span></div>
+      <div class="goal">브리핑 1회 자동 처리에 걸린 시간(사람 개입 0).</div>
+      <div class="spark" id="run-spark"></div>
+      <div class="legend" id="run-legend"></div>
+    </div>
+    <div class="card">
+      <div class="ctitle">최근 실행 요약</div>
+      <div id="last-run"></div>
+    </div>
+    <div class="card">
+      <div class="ctitle">출처 안정성 <span style="margin-left:auto;font-size:11px;color:var(--slate)">성공 / 실패</span></div>
+      <div class="goal">접근 실패는 자동 수집률 하락 원인이 된다.</div>
+      <div id="sources"></div>
+    </div>
+  </div>
+
+  <footer>
+    데이터: 에이전트 자동 기록 <code>metrics/*.json</code> · 사람 실측 <code>measure/baseline-*.csv</code>(집계 <code>baseline-summary.json</code>).
+    계산식과 기록법은 <a href="README.md">measure/README.md</a> 참고.<br>
+    내부 참고용 자료입니다. 외부 공유를 금합니다. · Internal reference only.
+  </footer>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const fmt = (n, d=1) => (n==null || isNaN(n)) ? '–' : Number(n).toFixed(d).replace(/\.0$/,'');
+
+// 간단 인라인 SVG 스파크라인(외부 라이브러리 없음)
+function sparkline(el, values, labels, opts={}){
+  const w=300, h=64, pad=6;
+  const nums = values.map(v => v==null?null:Number(v));
+  const valid = nums.filter(v=>v!=null);
+  if(valid.length===0){ el.innerHTML='<div class="empty">데이터 없음</div>'; return; }
+  const min=Math.min(...valid), max=Math.max(...valid);
+  const rng=(max-min)||1;
+  const step = nums.length>1 ? (w-2*pad)/(nums.length-1) : 0;
+  const y = v => h-pad-((v-min)/rng)*(h-2*pad);
+  let d='', pts='';
+  nums.forEach((v,i)=>{ if(v==null) return;
+    const x=pad+i*step; const yy=y(v);
+    d += (d?' L':'M')+x.toFixed(1)+' '+yy.toFixed(1);
+    pts += `<circle cx="${x.toFixed(1)}" cy="${yy.toFixed(1)}" r="2.6" fill="${opts.color||'#2251ff'}"/>`;
+  });
+  el.innerHTML =
+    `<svg viewBox="0 0 ${w} ${h}" width="100%" preserveAspectRatio="none" style="display:block">
+       <path d="${d}" fill="none" stroke="${opts.color||'#2251ff'}" stroke-width="2"/>
+       ${pts}
+     </svg>`;
+}
+
+async function loadJSON(p){ try{ const r=await fetch(p,{cache:'no-store'}); if(!r.ok) throw 0; return await r.json(); }catch(e){ return null; } }
+
+(async function(){
+  const base = '../metrics/';
+  const idx = await loadJSON(base+'index.json') || [];
+  const days = [];
+  for(const date of idx.slice(0,14)){ const m = await loadJSON(base+date+'.json'); if(m) days.push(m); }
+  days.sort((a,b)=> a.date<b.date?-1:1);   // 오래된→최신
+  const base2 = await loadJSON('baseline-summary.json');
+
+  // as-of
+  const latest = days[days.length-1];
+  $('#asof').textContent = latest
+    ? `최종 자동 기록 ${latest.date} · 누적 ${days.length}일` + (base2&&base2.updated?` · 사람 집계 ${base2.updated}`:` · 사람 집계 대기`)
+    : '자동 기록 없음';
+
+  // 리드타임 카드 (사람 baseline)
+  if(base2 && base2.lead_time_days && base2.lead_time_days.asis_median!=null){
+    const lt=base2.lead_time_days;
+    $('#lt-asis').innerHTML = fmt(lt.asis_median)+'<span class="unit">일</span>'; $('#lt-asis').classList.remove('pending');
+    $('#lt-target').innerHTML = fmt(lt.target_median!=null?lt.target_median:lt.asis_median/2)+'<span class="unit">일</span>'; $('#lt-target').classList.remove('pending');
+    $('#lt-badge').className='badge live'; $('#lt-badge').textContent=`n=${lt.n}`;
+  }
+
+  // 자동 수집률 카드
+  if(base2 && base2.auto_collection && base2.auto_collection.rate_percent!=null){
+    const ac=base2.auto_collection;
+    $('#ac-rate').innerHTML = fmt(ac.rate_percent,0)+'<span class="unit">%</span>'; $('#ac-rate').classList.remove('pending');
+    $('#ac-badge').className = ac.denominator_defined?'badge live':'badge wait';
+    $('#ac-badge').textContent = ac.denominator_defined?`분모 ${ac.denominator_items}항목`:'분모 잠정';
+  }
+
+  // 탐지 지연 스파크
+  const lagVals = days.map(d=> d.detection_lag_hours && d.detection_lag_hours.median!=null ? d.detection_lag_hours.median : null);
+  sparkline($('#lag-spark'), lagVals, days.map(d=>d.date), {color:'#2251ff'});
+  const lastLag = [...lagVals].reverse().find(v=>v!=null);
+  $('#lag-legend').innerHTML = days.length
+    ? `최근 중간값 <b>${fmt(lastLag)}h</b> (≈${fmt(lastLag/24)}일) · 기간 ${days[0].date}~${latest.date}`
+    : '';
+
+  // 처리 시간 스파크
+  const runVals = days.map(d=> d.run_minutes!=null ? d.run_minutes : null);
+  sparkline($('#run-spark'), runVals, days.map(d=>d.date), {color:'#1f9d63'});
+  const lastRun=[...runVals].reverse().find(v=>v!=null);
+  $('#run-legend').innerHTML = days.length ? `최근 <b>${fmt(lastRun,0)}분</b>` : '';
+
+  // 최근 실행 요약
+  if(latest){
+    const imp=latest.by_importance||{}, reg=latest.by_region||{};
+    $('#last-run').innerHTML =
+      `<div class="row"><span class="k">날짜</span><span class="v">${latest.date}</span></div>
+       <div class="row"><span class="k">처리 기사</span><span class="v">${latest.articles??'–'}건</span></div>
+       <div class="row"><span class="k">해외 / 국내</span><span class="v">${reg.overseas??0} / ${reg.domestic??0}</span></div>
+       <div class="row"><span class="k">★★★ / ★★ / ★</span><span class="v">${imp['3']??0} / ${imp['2']??0} / ${imp['1']??0}</span></div>
+       <div class="row"><span class="k">처리 시간</span><span class="v">${latest.run_minutes??'–'}분</span></div>`;
+  } else { $('#last-run').innerHTML='<div class="empty">데이터 없음</div>'; }
+
+  // 출처 안정성
+  if(latest){
+    const ok=(latest.sources_ok||[]).length, fail=(latest.sources_failed||[]).length;
+    const total=ok+fail, pct= total? Math.round(ok/total*100):0;
+    let failList = (latest.sources_failed||[]).map(f=>`<div class="row"><span class="k">${f.name}</span><span class="v" style="color:var(--warn);font-weight:600;font-size:11.5px">${f.reason||''}</span></div>`).join('');
+    $('#sources').innerHTML =
+      `<div class="row"><span class="k">성공 출처</span><span class="v" style="color:var(--good)">${ok}</span></div>
+       <div class="row"><span class="k">실패 출처</span><span class="v" style="color:${fail?'var(--warn)':'var(--good)'}">${fail}</span></div>
+       <div class="row"><span class="k">접근 성공률</span><span class="v">${pct}%</span></div>`
+      + (failList?`<div class="mini" style="margin-top:8px">실패 상세</div>`+failList:'');
+  } else { $('#sources').innerHTML='<div class="empty">데이터 없음</div>'; }
+})();
+</script>
+</body>
+</html>

@@ -17,6 +17,7 @@ primary:
 # 2026-09-22 접속 확인. curl 로 받아 제목·링크·pubDate 를 뽑는다.
 feeds:
   - { name: World Nuclear News, url: "https://www.world-nuclear-news.org/RSS", note: "전 분야, 약 49건, pubDate 있음" }
+  - { name: NucNet, url: "https://www.nucnet.org/feed", note: "편집 추천 15건(최신순 아님) · 본문 유료 → 제목·리드만, 세부는 무료 출처에서 확인 · 게재일 정확" }
   - { name: IAEA Top News, url: "https://www.iaea.org/feeds/topnews", note: "IAEA 공식" }
   - { name: Nuclear Engineering International, url: "https://www.neimagazine.com/feed", note: "전문지" }
   - { name: POWER Magazine, url: "https://www.powermag.com/feed/", note: "발전 전반, 원자력 포함" }

@@ -232,6 +232,30 @@ table.pulse{width:100%;border-collapse:collapse;font-size:13.5px}
   .pulse .sg{min-width:0;margin-top:4px;font-size:13px}
 }
 
+/* ── latest by category ─────────────────────────────── */
+.latest{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.latest a{display:block;background:var(--card);padding:12px 14px;text-decoration:none;color:inherit}
+.latest a:hover{background:var(--sunken)}
+.latest .k{font:600 9.5px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--c);display:block;margin-bottom:5px}
+.latest .t{display:block;font-weight:600;font-size:13.5px;line-height:1.45;color:var(--ink)}
+.latest .m{display:block;font:500 11px var(--mono);color:var(--muted);margin-top:5px}
+
+/* ── toolbar ────────────────────────────────────────── */
+.toolbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;padding-bottom:10px;border-bottom:1px solid var(--rule)}
+.toolbar .count{font:500 12px var(--mono);color:var(--muted)}
+.toolbar .grp{margin-left:auto;display:flex;flex-wrap:wrap;gap:6px}
+.toolbar button{border:1px solid var(--rule);background:var(--card);color:var(--ink-2);font-size:12.5px;padding:4px 11px;border-radius:2px;cursor:pointer}
+.toolbar button:hover{background:var(--sunken)}
+.toolbar button[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.toolbar .help{flex-basis:100%;font-size:11.5px;color:var(--muted)}
+
+/* ── bookmark ───────────────────────────────────────── */
+.it{position:relative}
+.bm{position:absolute;top:12px;right:12px;border:0;background:none;padding:2px 4px;cursor:pointer;font-size:15px;line-height:1;color:var(--rule)}
+.bm:hover{color:var(--star)}
+.bm[aria-pressed="true"]{color:var(--star)}
+@media (max-width:599px){.bm{top:10px;right:8px}}
+
 /* ── filter bar ─────────────────────────────────────── */
 .filterbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:11px 14px;background:var(--accent-soft);border-left:2px solid var(--accent);font-size:13.5px}
 .filterbar button{margin-left:auto;border:1px solid var(--accent);color:var(--accent);background:transparent;border-radius:2px;padding:3px 11px;cursor:pointer;font-size:12.5px}
@@ -327,6 +351,10 @@ const I18N = {
     searchPh: "검색: 국가·기업·노형", impOnly: "중요 기사만 (★★ 이상)",
     toc: "바로가기", archive: "지난 브리핑",
     collected: (f,t) => `수집 ${f} – ${t}`, counts: (o,d) => `해외 ${o} · 국내 ${d}`,
+    updatedAt: t => `갱신 ${t}`, latestByCat: "분류별 최신", latestHint: "분류마다 가장 최근 기사 한 건",
+    sortLatest: "최신순", sortImp: "중요도순", shown: (n,t) => `${n}건 표시 중 (전체 ${t}건)`,
+    bmOnly: "북마크만", reset: "필터 초기화", bmAdd: "북마크", bmDel: "북마크 해제",
+    filterHelp: "분류·국가·중요도는 함께 적용됩니다. 북마크는 이 기기에만 저장됩니다.",
     regionStats: (r,n,k,c) => `${r} ${n}건 · 핵심 ${k}건${c !== null ? ` · 국가 ${c}곳` : ""}`,
     summary: r => `${r} 요약`, salesAngle: "영업 관점", salesNote: "영업 시사점",
     keyTitle: "오늘의 머리기사", keyCount: n => `★★★ ${n}건`, keyHint: "누르면 본문으로", stripLabel: "헤드라인",
@@ -353,6 +381,10 @@ const I18N = {
     searchPh: "Search country, company, design", impOnly: "Key stories only (★★ and up)",
     toc: "Jump to", archive: "Past briefings",
     collected: (f,t) => `Collected ${f} – ${t}`, counts: (o,d) => `${o} overseas · ${d} Korea`,
+    updatedAt: t => `Updated ${t}`, latestByCat: "Latest by category", latestHint: "the newest story in each category",
+    sortLatest: "Newest", sortImp: "Importance", shown: (n,t) => `${n} of ${t} shown`,
+    bmOnly: "Bookmarked", reset: "Clear filters", bmAdd: "Bookmark", bmDel: "Remove bookmark",
+    filterHelp: "Category, country and importance apply together. Bookmarks are stored on this device only.",
     regionStats: (r,n,k,c) => `${n} ${r.toLowerCase()} · ${k} key${c !== null ? ` · ${c} countries` : ""}`,
     summary: r => `${r} summary`, salesAngle: "Sales angle", salesNote: "Sales angle",
     keyTitle: "Lead story", keyCount: n => `★★★ ${n}`, keyHint: "tap to jump", stripLabel: "Headlines",
@@ -386,7 +418,12 @@ const A3 = {US:"USA",CN:"CHN",RU:"RUS",JP:"JPN",KR:"KOR",GB:"GBR",FR:"FRA",DE:"D
 let WORLD = null, worldTried = false;
 
 const regionOf = a => a.region || "overseas";
-const state = {days:[], heads:{}, date:null, data:null, region:"overseas", cat:null, country:null, imp:false, q:""};
+const state = {days:[], heads:{}, date:null, data:null, region:"overseas", cat:null, country:null, imp:false, q:"", sort:"importance", bmOnly:false};
+// 북마크는 이 기기에만 저장된다 (기사 URL 기준 — 날짜가 바뀌어도 유지)
+let BM = new Set();
+try{ BM = new Set(JSON.parse(localStorage.getItem("nnd-bm") || "[]")); }catch(e){}
+const saveBM = () => { try{ localStorage.setItem("nnd-bm", JSON.stringify([...BM])); }catch(e){} };
+const toggleBM = url => { BM.has(url) ? BM.delete(url) : BM.add(url); saveBM(); render(); };
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const cname = c => CN[c] || c;
@@ -463,6 +500,7 @@ function filtered(){
     (cross || regionOf(a) === state.region) &&
     (!state.cat || a.category === state.cat) &&
     (!state.imp || a.importance >= 2) &&
+    (!state.bmOnly || BM.has(a.url)) &&
     (!ids || ids.has(a.id) || a.countries.includes(state.country)) &&
     (!q || [a.title,a.title_ko,a.title_en,a.summary_ko,a.summary_en,a.sales_note,a.sales_note_en,a.source,a.countries.map(cname).join(" "),a.countries.join(" ")].join(" ").toLowerCase().includes(q))
   );
@@ -478,6 +516,7 @@ function card(a){
       ${a.language && a.language !== "en" ? `<span class="chip lang">${esc(T.origLang(LANG[a.language] || a.language))}</span>` : ""}
       <span class="src">${esc(a.source)} · ${esc(a.published)}</span>
     </div>
+    <button class="bm" data-bm="${esc(a.url)}" aria-pressed="${BM.has(a.url)}" title="${BM.has(a.url) ? T.bmDel : T.bmAdd}">${BM.has(a.url) ? "★" : "☆"}</button>
     <h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(pick(a,"title"))}</a></h3>
     ${pick(a,"title") !== a.title ? `<p class="orig">${esc(a.title)}</p>` : ""}
     <p class="sum">${esc(pick(a,"summary"))}</p>
@@ -592,8 +631,17 @@ function render(){
       <td class="ct">${T.nArticles(n)}</td></tr>`;
   }).join("");
 
-  const filterLabel = [state.cat && CAT[state.cat], state.country && cname(state.country), state.imp && T.impOnly, state.q.trim() && `"${state.q.trim()}"`].filter(Boolean).join(" · ");
+  const filterLabel = [state.cat && CAT[state.cat], state.country && cname(state.country), state.imp && T.impOnly, state.bmOnly && T.bmOnly, state.q.trim() && `"${state.q.trim()}"`].filter(Boolean).join(" · ");
   let sec = 0;
+
+  // 정렬: 중요도순(기본) 또는 최신순
+  const sorter = state.sort === "latest"
+    ? (x, y) => y.published.localeCompare(x.published) || y.importance - x.importance
+    : (x, y) => y.importance - x.importance || y.published.localeCompare(x.published);
+
+  // 분류별 최신 한 건 — 훑어보기용
+  const latest = CAT_ORDER.map(k => all.filter(a => a.category === k)
+    .sort((x, y) => y.published.localeCompare(x.published) || y.importance - x.importance)[0]).filter(Boolean);
 
   // 머리기사: 이 영역에서 가장 중요한 기사 하나를 크게, 나머지 핵심 기사는 목록으로
   const lead = active ? null : (key[0] || all[0] || null);
@@ -612,7 +660,7 @@ function render(){
     <section class="lede" id="top">
       <span class="eyebrow">${esc(T.eyebrow)}</span>
       <h1>${esc(fmtDate(d.date))}${T.briefing ? " " + T.briefing : ""}</h1>
-      <p class="meta"><span>${esc(T.collected(d.period.from, d.period.to))}</span><span>${esc(T.counts(rc.overseas, rc.domestic))}</span></p>
+      <p class="meta"><span>${esc(T.collected(d.period.from, d.period.to))}</span><span>${esc(T.counts(rc.overseas, rc.domestic))}</span>${d.generated_at ? `<span>${esc(T.updatedAt(String(d.generated_at).slice(5, 16).replace("T", " ")))}</span>` : ""}</p>
     </section>
 
     ${strip.length ? `<div class="strip"><span class="lbl">${T.stripLabel}</span><div class="run">${strip.map(a => `<a class="cat-${esc(a.category)}" href="#${esc(a.id)}"><em>${CAT[a.category]}</em>${esc(pick(a,"title"))}</a>`).join("")}</div></div>` : ""}
@@ -624,6 +672,15 @@ function render(){
       <div class="dist" aria-hidden="true">${CAT_ORDER.map(k => c[k] ? `<span class="cat-${k}" style="width:${c[k]/total*100}%"></span>` : "").join("")}</div>
       <div class="legend">${CAT_ORDER.map(k => `<span class="cat-${k}"><i></i>${CAT[k]}<b>${c[k]}</b></span>`).join("")}</div>
     </section>
+
+    ${active || !latest.length ? "" : `
+    <section id="latest">
+      <div class="sec-h"><h2 data-num="${num(++sec)}">${T.latestByCat}</h2><span class="hint">${T.latestHint}</span></div>
+      <div class="latest">${latest.map(a => `<a class="cat-${esc(a.category)}" href="#${esc(a.id)}">
+        <span class="k">${CAT[a.category]}</span>
+        <span class="t">${esc(pick(a,"title"))}</span>
+        <span class="m">${esc(a.source)} · ${esc(a.published)}</span></a>`).join("")}</div>
+    </section>`}
 
     ${active ? "" : `
     <section id="summary">
@@ -652,10 +709,21 @@ function render(){
 
     ${active ? `<div class="filterbar"><span>${T.filterLabel(esc(filterLabel), list.length)}</span><button id="clear">${T.clear}</button></div>` : ""}
 
+    <div class="toolbar">
+      <span class="count">${esc(T.shown(list.length, all.length))}</span>
+      <div class="grp">
+        <button data-sort="importance" aria-pressed="${state.sort === "importance"}">${T.sortImp}</button>
+        <button data-sort="latest" aria-pressed="${state.sort === "latest"}">${T.sortLatest}</button>
+        <button id="bmbtn" aria-pressed="${state.bmOnly}">★ ${T.bmOnly}${BM.size ? " " + BM.size : ""}</button>
+        ${active ? `<button id="reset">${T.reset}</button>` : ""}
+      </div>
+      <span class="help">${esc(T.filterHelp)}</span>
+    </div>
+
     ${list.length ? CAT_ORDER.filter(k => fc[k]).map(k => `
       <section class="cat-${k}" id="sec-${k}">
         <div class="sec-h"><h2 data-num="${num(++sec)}">${CAT[k]}</h2><span class="n">${T.nArticles(fc[k])}</span></div>
-        <div class="grid">${list.filter(a => a.category === k && a !== lead).sort((x,y) => y.importance - x.importance || y.published.localeCompare(x.published)).map(card).join("")}</div>
+        <div class="grid">${list.filter(a => a.category === k && a !== lead).sort(sorter).map(card).join("")}</div>
       </section>`).join("") : `<p class="empty">${esc(T.none)}</p>`}
   `;
 
@@ -668,7 +736,12 @@ function render(){
     state.region = b.dataset.r; state.cat = null; state.country = null; render();
   });
   drawMap();
-  const clr = $("#clear"); if(clr) clr.onclick = () => { state.cat = null; state.country = null; state.imp = false; state.q = ""; $("#q").value = ""; $("#imp").checked = false; render(); };
+  const clearAll = () => { state.cat = null; state.country = null; state.imp = false; state.bmOnly = false; state.q = ""; $("#q").value = ""; $("#imp").checked = false; render(); };
+  const clr = $("#clear"); if(clr) clr.onclick = clearAll;
+  const rst = $("#reset"); if(rst) rst.onclick = clearAll;
+  document.querySelectorAll("[data-sort]").forEach(b => b.onclick = () => { state.sort = b.dataset.sort; render(); });
+  const bmb = $("#bmbtn"); if(bmb) bmb.onclick = () => { state.bmOnly = !state.bmOnly; render(); };
+  document.querySelectorAll("[data-bm]").forEach(b => b.onclick = ev => { ev.preventDefault(); toggleBM(b.dataset.bm); });
 }
 
 $("#catnav").onclick = e => { const b = e.target.closest("button[data-k]"); if(!b) return; state.cat = state.cat === b.dataset.k ? null : b.dataset.k; render(); };

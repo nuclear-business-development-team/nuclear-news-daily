@@ -327,6 +327,24 @@
       "summary_en": "Samsung C&T is investing up to $100m in Kairos Power ($70m equity plus in-kind engineering) and will help build Hermes 2, the 50 MW KP-FHR fluoride-salt reactor at Oak Ridge, Tennessee that will supply Google. Samsung C&T takes the engineering and construction of the power-generation systems and other balance-of-plant equipment outside the nuclear island. Hermes 2 broke ground in April 2026 and targets 2030 operation. In return, Samsung C&T secured priority rights to build Kairos' future SMRs across North America, Europe and Asia.",
       "sales_note": "우리 회사(삼성물산)가 원자로 외곽 발전설비(Balance of Plant)의 엔지니어링·시공을 맡는 첫 SMR 실적이다. 팀이 목표하는 BOP FEED 수주와 정확히 같은 영역이며, 북미·유럽·아시아 카이로스 SMR 우선권까지 확보해 후속 파이프라인의 근거가 된다. 실적·역할 범위를 정리해 다른 발주처 제안의 레퍼런스로 즉시 활용할 것.",
       "sales_note_en": "This is our own company's (Samsung C&T) first SMR role in the engineering and construction of balance-of-plant power systems outside the nuclear island — precisely the BOP FEED scope the team is pursuing — and it comes with priority rights to Kairos' future SMRs across North America, Europe and Asia, anchoring a follow-on pipeline. Document the scope and role at once as reference for other bids."
+    },
+    {
+      "id": "2026-09-22-15",
+      "title": "3,500억 달러 대미투자에 미국 원전 최대 8기·SMR 포함 — 22일 국회 비공개 보고",
+      "title_ko": "3,500억 달러 대미투자에 미국 원전 최대 8기·SMR 포함 — 22일 국회 비공개 보고",
+      "title_en": "Korea's $350bn US investment package includes up to 8 US reactors and SMRs; briefed to the National Assembly on 22 Sep",
+      "language": "ko",
+      "source": "머니투데이 / 글로벌이코노믹",
+      "url": "https://www.mt.co.kr/politics/2026/09/21/2026092110151780617",
+      "published": "2026-09-21",
+      "region": "domestic",
+      "category": "policy",
+      "countries": ["KR", "US"],
+      "importance": 3,
+      "summary_ko": "지난해 10월 한미가 합의한 3,500억 달러 대미투자(전략투자 2,000억 + 조선협력 1,500억, 전략투자 연 200억 한도)의 세부 밑그림에 미국 내 최대 8기 원전과 텍사스 가스발전이 포함된 것으로 전해졌다. 에너지 부문만 1,000억 달러를 넘어설 전망이다. 첫 원전에는 웨스팅하우스 AP1000, 일부에는 한국형 APR1400 적용이 협의되고 있으며 SMR 협력도 함께 논의된다. 정부는 9월 22일 국회에 협상 진행 상황을 비공개 보고하는 방안을 추진 중이다. (아직 확정 전 협상 단계)",
+      "summary_en": "The detailed shape of the $350bn US investment package Korea and the US agreed last October ($200bn strategic + $150bn shipbuilding, with a $20bn annual cap on strategic investment) is reported to include up to eight nuclear reactors in the US plus Texas gas generation, with the energy portion alone expected to exceed $100bn. Westinghouse's AP1000 is under discussion for the first units and the Korean APR1400 for some, alongside SMR cooperation. The government planned a closed-door briefing to the National Assembly on 22 September. (Still under negotiation, not finalised.)",
+      "sales_note": "미국에 대형원전 8기 + SMR이라는 대형 신규 시장이 정부 차원에서 열리는 국면이다. AP1000·APR1400 혼용이 협의되는 만큼, 우리(삼성물산)가 노리는 대미투자 원전(AP1000/APR1400)·미국 BWRX-300 사업개발과 직접 맞물린다. 확정 시 EPC·BOP·기자재 발주가 뒤따르므로, 국회 보고 이후 노형별 배분과 사업 주체(발주 구조)를 최우선으로 추적할 것.",
+      "sales_note_en": "A large new market — up to eight large reactors plus SMRs in the US — is opening at government level. With a mix of AP1000 and APR1400 under discussion, this connects directly to our (Samsung C&T) US-investment reactor track (AP1000/APR1400) and US BWRX-300 development. Confirmation would be followed by EPC, BOP and equipment awards, so track the design split and the ownership/procurement structure as the top priority after the Assembly briefing."
     }
   ]
 }

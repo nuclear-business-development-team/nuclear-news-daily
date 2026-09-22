@@ -332,6 +332,7 @@ footer{grid-column:1/-1;order:3;margin-top:34px;padding-top:14px;border-top:1px 
   <footer>
     <p id="internalnote" class="notice"></p>
     <p id="footnote" style="margin:8px 0 0"></p>
+    <p id="dashlink" style="margin:8px 0 0;font-weight:600"></p>
   </footer>
 </div>
 
@@ -366,7 +367,8 @@ const I18N = {
     origLang: l => `원문 ${l}`, related: "관련 보도", noDomestic: "국내 기사가 없습니다.",
     impTitle: n => `중요도 ${n}`,
     internal: "내부 참고용 자료입니다. 외부 공유를 금합니다.|Internal reference only. Not for external distribution.",
-    foot: "매일 오전 8시(KST)에 AI 에이전트가 해외 매체·현지어 기사와 국내 공식 발표를 수집해 한국어로 요약합니다. 요약과 영업 시사점은 참고용이며, 반드시 원문으로 확인하세요."
+    foot: "매일 오전 8시(KST)에 AI 에이전트가 해외 매체·현지어 기사와 국내 공식 발표를 수집해 한국어로 요약합니다. 요약과 영업 시사점은 참고용이며, 반드시 원문으로 확인하세요.",
+    dashLink: "MBO 측정 대시보드 (내부 참고)"
   },
   en: {
     html: "en", title: "Overseas Nuclear Brief", tagline: "Nuclear business development", switchTo: "한국어",
@@ -396,7 +398,8 @@ const I18N = {
     origLang: l => `${l} original`, related: "Also reported", noDomestic: "No Korean stories.",
     impTitle: n => `importance ${n}`,
     internal: "Internal reference only. Not for external distribution.|내부 참고용 자료입니다. 외부 공유를 금합니다.",
-    foot: "Collected every day at 08:00 KST by an AI agent from international, local-language and Korean official sources. Summaries and sales angles are for orientation — always check the original article."
+    foot: "Collected every day at 08:00 KST by an AI agent from international, local-language and Korean official sources. Summaries and sales angles are for orientation — always check the original article.",
+    dashLink: "MBO metrics dashboard (internal)"
   }
 };
 let LANGCODE = "ko";
@@ -445,6 +448,7 @@ function applyStatic(){
   $("#tocTitle").textContent = T.toc;
   $("#archiveTitle").textContent = T.archive;
   $("#footnote").textContent = T.foot;
+  $("#dashlink").innerHTML = `<a href="measure/dashboard.html">${esc(T.dashLink)} →</a>`;
   const parts = T.internal.split("|");
   $("#internalnote").innerHTML = esc(parts[0]) + (parts[1] ? `<span>${esc(parts[1])}</span>` : "");
 }

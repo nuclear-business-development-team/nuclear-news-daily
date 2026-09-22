@@ -309,6 +309,24 @@
       "summary_en": "The Nuclear Safety and Security Commission (NSSC) announced that its chair conducted an on-site safety inspection at the Wolsong nuclear plant on 21 September. The body of the press release is published only as attached HWP and PDF files, so the specific items inspected and any follow-up actions could not be confirmed. Separately, the Wolsong site held its counter-drone demonstration the same day.",
       "sales_note": "",
       "sales_note_en": ""
+    },
+    {
+      "id": "2026-09-22-14",
+      "title": "South Korea's Samsung C&T To Help Build Kairos Nuclear Reactor For Google",
+      "title_ko": "삼성물산, 구글용 카이로스 원자로(Hermes 2) 건설 참여 — 최대 1억 달러 투자",
+      "title_en": "Samsung C&T to help build Kairos' Google-backed Hermes 2 reactor with up to $100m",
+      "language": "en",
+      "source": "TechCrunch / NucNet",
+      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "published": "2026-09-21",
+      "region": "domestic",
+      "category": "smr",
+      "countries": ["KR", "US"],
+      "importance": 3,
+      "summary_ko": "삼성물산이 카이로스 파워에 최대 1억 달러(지분 7,000만 달러 + 현물 엔지니어링)를 투자하고, 구글에 전력을 공급할 50MW 선진로 Hermes 2(테네시 오크리지, KP-FHR 용융염로) 건설에 참여한다. 삼성물산은 원자로 본체 외곽의 발전계통 등 설비의 엔지니어링·시공을 맡는다. Hermes 2는 2026년 4월 착공했고 2030년 가동이 목표다. 그 대가로 삼성물산은 북미·유럽·아시아에서 카이로스 후속 SMR 건설 우선권을 확보했다.",
+      "summary_en": "Samsung C&T is investing up to $100m in Kairos Power ($70m equity plus in-kind engineering) and will help build Hermes 2, the 50 MW KP-FHR fluoride-salt reactor at Oak Ridge, Tennessee that will supply Google. Samsung C&T takes the engineering and construction of the power-generation systems and other balance-of-plant equipment outside the nuclear island. Hermes 2 broke ground in April 2026 and targets 2030 operation. In return, Samsung C&T secured priority rights to build Kairos' future SMRs across North America, Europe and Asia.",
+      "sales_note": "우리 회사(삼성물산)가 원자로 외곽 발전설비(Balance of Plant)의 엔지니어링·시공을 맡는 첫 SMR 실적이다. 팀이 목표하는 BOP FEED 수주와 정확히 같은 영역이며, 북미·유럽·아시아 카이로스 SMR 우선권까지 확보해 후속 파이프라인의 근거가 된다. 실적·역할 범위를 정리해 다른 발주처 제안의 레퍼런스로 즉시 활용할 것.",
+      "sales_note_en": "This is our own company's (Samsung C&T) first SMR role in the engineering and construction of balance-of-plant power systems outside the nuclear island — precisely the BOP FEED scope the team is pursuing — and it comes with priority rights to Kairos' future SMRs across North America, Europe and Asia, anchoring a follow-on pipeline. Document the scope and role at once as reference for other bids."
     }
   ]
 }

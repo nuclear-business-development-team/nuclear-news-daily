@@ -255,6 +255,10 @@ table.pulse{width:100%;border-collapse:collapse;font-size:13.5px}
 .bm:hover{color:var(--star)}
 .bm[aria-pressed="true"]{color:var(--star)}
 @media (max-width:599px){.bm{top:10px;right:8px}}
+.acts{margin-top:13px;display:flex;gap:8px}
+.rep{border:1px solid var(--rule);background:var(--card);color:var(--ink-2);border-radius:2px;padding:5px 12px;font:600 11.5px var(--mono);letter-spacing:.03em;cursor:pointer}
+.rep:hover{border-color:var(--accent);color:var(--accent)}
+.rep:disabled{opacity:.5;cursor:default}
 
 /* ── filter bar ─────────────────────────────────────── */
 .filterbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:11px 14px;background:var(--accent-soft);border-left:2px solid var(--accent);font-size:13.5px}
@@ -368,7 +372,8 @@ const I18N = {
     impTitle: n => `중요도 ${n}`,
     internal: "내부 참고용 자료입니다. 외부 공유를 금합니다.|Internal reference only. Not for external distribution.",
     foot: "매일 오전 8시(KST)에 AI 에이전트가 해외 매체·현지어 기사와 국내 공식 발표를 수집해 한국어로 요약합니다. 요약과 영업 시사점은 참고용이며, 반드시 원문으로 확인하세요.",
-    dashLink: "MBO 측정 대시보드 (내부 참고)"
+    dashLink: "MBO 측정 대시보드 (내부 참고)",
+    report: "보고서", reportTitle: "이 기사를 회사 내부 서식(.docx) 보고서로 내려받기"
   },
   en: {
     html: "en", title: "Overseas Nuclear Brief", tagline: "Nuclear business development", switchTo: "한국어",
@@ -399,7 +404,8 @@ const I18N = {
     impTitle: n => `importance ${n}`,
     internal: "Internal reference only. Not for external distribution.|내부 참고용 자료입니다. 외부 공유를 금합니다.",
     foot: "Collected every day at 08:00 KST by an AI agent from international, local-language and Korean official sources. Summaries and sales angles are for orientation — always check the original article.",
-    dashLink: "MBO metrics dashboard (internal)"
+    dashLink: "MBO metrics dashboard (internal)",
+    report: "Report", reportTitle: "Download this article as an internal-format .docx report"
   }
 };
 let LANGCODE = "ko";
@@ -526,6 +532,7 @@ function card(a){
     <p class="sum">${esc(pick(a,"summary"))}</p>
     ${pick(a,"sales_note") ? `<div class="note"><b>${T.salesNote}</b>${esc(pick(a,"sales_note"))}</div>` : ""}
     ${a.related && a.related.length ? `<p class="rel">${T.related} ${a.related.map((u,i) => `<a href="${esc(u)}" target="_blank" rel="noopener">[${i+1}]</a>`).join(" ")}</p>` : ""}
+    <div class="acts"><button class="rep" data-report="${esc(a.id)}" title="${T.reportTitle}">▤ ${T.report}</button></div>
   </article>`;
 }
 
@@ -746,6 +753,7 @@ function render(){
   document.querySelectorAll("[data-sort]").forEach(b => b.onclick = () => { state.sort = b.dataset.sort; render(); });
   const bmb = $("#bmbtn"); if(bmb) bmb.onclick = () => { state.bmOnly = !state.bmOnly; render(); };
   document.querySelectorAll("[data-bm]").forEach(b => b.onclick = ev => { ev.preventDefault(); toggleBM(b.dataset.bm); });
+  document.querySelectorAll("[data-report]").forEach(b => b.onclick = () => makeReport(b.dataset.report, b));
 }
 
 $("#catnav").onclick = e => { const b = e.target.closest("button[data-k]"); if(!b) return; state.cat = state.cat === b.dataset.k ? null : b.dataset.k; render(); };
@@ -756,6 +764,81 @@ $("#langbtn").onclick = () => setLang(LANGCODE === "ko" ? "en" : "ko");
 $("#date").onchange = e => load(e.target.value);
 $("#prev").onclick = () => load(state.days[state.days.indexOf(state.date) + 1]);
 $("#next").onclick = () => load(state.days[state.days.indexOf(state.date) - 1]);
+
+// ── 기사 → 회사 내부 서식 .docx (브라우저 내 생성, scripts/build_report.py와 동일 규격) ──
+const REP_FONT = "바탕체";
+const REP_CT = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types"><Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/><Default Extension="xml" ContentType="application/xml"/><Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/><Override PartName="/word/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"/></Types>';
+const REP_RELS = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"><Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="word/document.xml"/></Relationships>';
+const REP_DOCRELS = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"><Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/></Relationships>';
+const REP_STYLES = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?><w:styles xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:docDefaults><w:rPrDefault><w:rPr><w:rFonts w:ascii="${REP_FONT}" w:eastAsia="${REP_FONT}" w:hAnsi="${REP_FONT}"/><w:color w:val="000000"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:rPrDefault><w:pPrDefault><w:pPr><w:spacing w:after="320" w:line="240" w:lineRule="auto"/><w:jc w:val="left"/></w:pPr></w:pPrDefault></w:docDefaults><w:style w:type="paragraph" w:default="1" w:styleId="Normal"><w:name w:val="Normal"/></w:style></w:styles>`;
+const REP_LEVELS = { h:["□",580,420,28,true], "-":["-",600,280,28,false], d:["·",760,280,28,false], note:["※",810,330,22,false], imp:["⇒",900,420,28,false] };
+function repPara(lv, text, after){
+  const s = REP_LEVELS[lv] || REP_LEVELS["-"]; const sym=s[0], left=s[1], hang=s[2], sz=s[3], bold=s[4];
+  const rpr = `<w:rPr>${bold?"<w:b/>":""}<w:sz w:val="${sz}"/><w:szCs w:val="${sz}"/></w:rPr>`;
+  return `<w:p><w:pPr><w:ind w:left="${left}" w:hanging="${hang}"/><w:spacing w:after="${after}"/></w:pPr>`
+    + `<w:r>${rpr}<w:t xml:space="preserve">${esc(sym)}</w:t></w:r>`
+    + `<w:r>${rpr}<w:tab/><w:t xml:space="preserve">${esc(text)}</w:t></w:r></w:p>`;
+}
+function repDocXml(rep){
+  let o = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body>';
+  o += `<w:p><w:pPr><w:jc w:val="center"/><w:spacing w:before="120" w:after="200"/></w:pPr><w:r><w:rPr><w:b/><w:u w:val="single"/><w:sz w:val="40"/><w:szCs w:val="40"/></w:rPr><w:t xml:space="preserve">${esc(rep.title)}</w:t></w:r></w:p>`;
+  if(rep.date) o += `<w:p><w:pPr><w:jc w:val="right"/><w:spacing w:after="40"/></w:pPr><w:r><w:rPr><w:sz w:val="26"/><w:szCs w:val="26"/></w:rPr><w:t xml:space="preserve">${esc(rep.date)}</w:t></w:r></w:p>`;
+  if(rep.dept) o += `<w:p><w:pPr><w:jc w:val="right"/><w:spacing w:after="360"/></w:pPr><w:r><w:rPr><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr><w:t xml:space="preserve">${esc(rep.dept)}</w:t></w:r></w:p>`;
+  const n = rep.body.length;
+  rep.body.forEach((it,i) => { o += repPara(it.lv, it.t, i === n-1 ? 480 : 320); });
+  o += `<w:p><w:pPr><w:jc w:val="right"/><w:spacing w:after="0"/></w:pPr><w:r><w:t xml:space="preserve">- 以 上 -</w:t></w:r></w:p>`;
+  o += '<w:sectPr><w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="1418" w:right="1134" w:bottom="1418" w:left="1134" w:header="851" w:footer="851" w:gutter="0"/></w:sectPr></w:body></w:document>';
+  return o;
+}
+function repFmtDate(d){ const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(d||""); return m ? `‘${m[1].slice(2)}. ${+m[2]}. ${+m[3]}` : (d||""); }
+function repSplit(text){ try { return String(text).split(/(?<=[다요.。])\s+/).map(s=>s.trim()).filter(Boolean); } catch(e){ return text ? [String(text)] : []; } }
+function repFromArticle(a){
+  const summary = pick(a,"summary") || "", sales = pick(a,"sales_note") || "";
+  const sents = repSplit(summary);
+  const body = [{lv:"h", t:"보고 배경"}, {lv:"-", t: sents[0] || summary || "(요약 없음)"}];
+  if(sents.length > 1){ body.push({lv:"h", t:"주요 내용"}); sents.slice(1).forEach(s => body.push({lv:"d", t:s})); }
+  body.push({lv:"note", t:`출처 : ${a.source} (${a.published})` + (a.url ? ` / ${a.url}` : "")});
+  if(sales){ body.push({lv:"h", t:"시사점(당사 해외사업 관점)"}); body.push({lv:"-", t: sales}); }
+  return { title: (pick(a,"title") || a.title || "") + "(보고)", date: repFmtDate(a.published), dept: "원전영업팀 (원자력 해외영업)", body };
+}
+// 최소 ZIP(무압축 store) + CRC32 — 외부 라이브러리 없이 .docx 패키징
+const REP_CRC = (() => { const t = new Uint32Array(256); for(let n=0;n<256;n++){ let c=n; for(let k=0;k<8;k++) c = (c&1) ? (0xEDB88320 ^ (c>>>1)) : (c>>>1); t[n]=c>>>0; } return t; })();
+function repCrc32(u8){ let c = 0xFFFFFFFF; for(let i=0;i<u8.length;i++) c = REP_CRC[(c ^ u8[i]) & 0xFF] ^ (c>>>8); return (c ^ 0xFFFFFFFF) >>> 0; }
+function repZip(files){
+  const u16 = n => [n&255,(n>>8)&255], u32 = n => [n&255,(n>>8)&255,(n>>16)&255,(n>>24)&255];
+  const enc = new TextEncoder(); const parts = []; const central = []; let offset = 0;
+  for(const f of files){
+    const name = enc.encode(f.name), data = f.data, crc = repCrc32(data), sz = data.length;
+    const lh = new Uint8Array([].concat([0x50,0x4b,0x03,0x04], u16(20), u16(0), u16(0), u16(0), u16(0), u32(crc), u32(sz), u32(sz), u16(name.length), u16(0)));
+    parts.push(lh, name, data);
+    central.push(new Uint8Array([].concat([0x50,0x4b,0x01,0x02], u16(20), u16(20), u16(0), u16(0), u16(0), u16(0), u32(crc), u32(sz), u32(sz), u16(name.length), u16(0), u16(0), u16(0), u16(0), u32(0), u32(offset))), name);
+    offset += lh.length + name.length + data.length;
+  }
+  let cSize = 0; central.forEach(c => cSize += c.length);
+  const end = new Uint8Array([].concat([0x50,0x4b,0x05,0x06], u16(0), u16(0), u16(files.length), u16(files.length), u32(cSize), u32(offset), u16(0)));
+  const all = parts.concat(central, [end]); let total = 0; all.forEach(a => total += a.length);
+  const out = new Uint8Array(total); let p = 0; all.forEach(a => { out.set(a, p); p += a.length; });
+  return out;
+}
+function makeReport(id, btn){
+  const a = (state.data && state.data.articles || []).find(x => x.id === id); if(!a) return;
+  try {
+    const enc = new TextEncoder(); const rep = repFromArticle(a);
+    const files = [
+      { name:"[Content_Types].xml", data: enc.encode(REP_CT) },
+      { name:"_rels/.rels", data: enc.encode(REP_RELS) },
+      { name:"word/document.xml", data: enc.encode(repDocXml(rep)) },
+      { name:"word/styles.xml", data: enc.encode(REP_STYLES) },
+      { name:"word/_rels/document.xml.rels", data: enc.encode(REP_DOCRELS) },
+    ];
+    const blob = new Blob([repZip(files)], { type:"application/vnd.openxmlformats-officedocument.wordprocessingml.document" });
+    const url = URL.createObjectURL(blob), link = document.createElement("a");
+    link.href = url; link.download = `${id}_보고.docx`; document.body.appendChild(link); link.click(); link.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 1500);
+    if(btn){ const o = btn.textContent; btn.textContent = "✓ " + T.report; btn.disabled = true; setTimeout(() => { btn.textContent = o; btn.disabled = false; }, 1600); }
+  } catch(e){ alert("보고서 생성 실패: " + e.message); }
+}
+
 boot();
 </script>
 </body>

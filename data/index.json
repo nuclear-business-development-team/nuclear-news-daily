@@ -1,34 +1,40 @@
 {
-  "days": [
-    {
-      "date": "2026-09-23",
-      "article_count": 9,
-      "headline_ko": "대미투자 원전, 미국 내 APR1400 최대 2기 합의 — 한국형 원전 수출을 묶어 온 IP 합의도 개정키로",
-      "headline_en": "Korea-US package clears up to two APR1400s for US soil and reopens the IP agreement that has constrained Korean reactor exports"
-    },
-    {
-      "date": "2026-09-22",
-      "article_count": 15,
-      "headline_ko": "웨스팅하우스, 폴란드 AP1000 2·3호기 격납용기·차폐건물 모듈 제작 자격심사 공고 — 마감 10월 12일",
-      "headline_en": "Westinghouse opens supplier qualification for AP1000 containment vessel and shield building modules in Poland, closing 12 October"
-    },
-    {
-      "date": "2026-09-21",
-      "article_count": 7,
-      "headline_ko": "한미 에너지 협력, 전력망·SMR·저탄소 기술로 확장 — 협력 대화 정례화·MOU 추진",
-      "headline_en": "Korea-US energy cooperation widens to grids and SMRs, with a regular dialogue and an MOU in the works"
-    },
-    {
-      "date": "2026-09-20",
-      "article_count": 21,
-      "headline_ko": "체코 두코바니, 체코 기업 60곳 이상 한수원 자격심사 통과 — 11월 첫 기자재 입찰 개시",
-      "headline_en": "Dukovany: over 60 Czech firms clear KHNP qualification, first equipment tender due in November"
-    },
-    {
-      "date": "2026-09-19",
-      "article_count": 17,
-      "headline_ko": "슬로베니아 JEK2, AP1000·EPR 전제로 사업 구체화 — 영국은 Xe-100 GDA 착수",
-      "headline_en": "Slovenia's JEK2 advances on an AP1000/EPR shortlist; UK opens GDA for the Xe-100"
-    }
-  ]
+ "days": [
+  {
+   "date": "2026-09-24",
+   "article_count": 7,
+   "headline_ko": "폴란드 첫 원전 EPC 주요 상업조건 타결 — 삼성물산은 GE버노바·히타치·SGE와 유럽 BWRX-300 40기 선단 협약",
+   "headline_en": "Poland settles the main commercial terms of its first nuclear EPC as Samsung C&T joins a 40-unit BWRX-300 fleet pact for Europe"
+  },
+  {
+   "date": "2026-09-23",
+   "article_count": 9,
+   "headline_ko": "대미투자 원전, 미국 내 APR1400 최대 2기 합의 — 한국형 원전 수출을 묶어 온 IP 합의도 개정키로",
+   "headline_en": "Korea-US package clears up to two APR1400s for US soil and reopens the IP agreement that has constrained Korean reactor exports"
+  },
+  {
+   "date": "2026-09-22",
+   "article_count": 15,
+   "headline_ko": "웨스팅하우스, 폴란드 AP1000 2·3호기 격납용기·차폐건물 모듈 제작 자격심사 공고 — 마감 10월 12일",
+   "headline_en": "Westinghouse opens supplier qualification for AP1000 containment vessel and shield building modules in Poland, closing 12 October"
+  },
+  {
+   "date": "2026-09-21",
+   "article_count": 7,
+   "headline_ko": "한미 에너지 협력, 전력망·SMR·저탄소 기술로 확장 — 협력 대화 정례화·MOU 추진",
+   "headline_en": "Korea-US energy cooperation widens to grids and SMRs, with a regular dialogue and an MOU in the works"
+  },
+  {
+   "date": "2026-09-20",
+   "article_count": 21,
+   "headline_ko": "체코 두코바니, 체코 기업 60곳 이상 한수원 자격심사 통과 — 11월 첫 기자재 입찰 개시",
+   "headline_en": "Dukovany: over 60 Czech firms clear KHNP qualification, first equipment tender due in November"
+  },
+  {
+   "date": "2026-09-19",
+   "article_count": 17,
+   "headline_ko": "슬로베니아 JEK2, AP1000·EPR 전제로 사업 구체화 — 영국은 Xe-100 GDA 착수",
+   "headline_en": "Slovenia's JEK2 advances on an AP1000/EPR shortlist; UK opens GDA for the Xe-100"
+  }
+ ]
 }

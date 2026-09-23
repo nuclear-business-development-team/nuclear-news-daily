@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-24",
+  "run_started": "2026-09-24T08:11:09+09:00",
+  "run_finished": "2026-09-24T09:30:00+09:00",
+  "run_minutes": 79,
+  "articles": 7,
+  "by_region": {
+    "overseas": 5,
+    "domestic": 2
+  },
+  "by_importance": {
+    "3": 4,
+    "2": 2,
+    "1": 1
+  },
+  "detection_lag_hours": {
+    "median": 23.2,
+    "max": 23.2,
+    "n": 7
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "정책브리핑 korea.kr (원전/SMR/원자력)",
+    "한국수력원자력 보도자료",
+    "ANS Nuclear Newswire",
+    "TED 검색 API",
+    "UK Find a Tender OCDS API"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "empty response (0 bytes)"
+    },
+    {
+      "name": "한국전력 보도·설명자료 게시판",
+      "reason": "not opened this run — no domestic KEPCO item surfaced in feeds or korea.kr"
+    },
+    {
+      "name": "정책브리핑 EU 산업가속화법 본문",
+      "reason": "본문이 첨부파일(PDF·HWP)로만 제공 — 목록 요약까지만 확인"
+    }
+  ],
+  "languages": {
+    "en": 5,
+    "ko": 2
+  }
+}

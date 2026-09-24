@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-25",
+  "run_started": "2026-09-25T08:02:33+09:00",
+  "run_finished": "2026-09-25T08:14:45+09:00",
+  "run_minutes": 12,
+  "articles": 7,
+  "by_region": {
+    "overseas": 4,
+    "domestic": 3
+  },
+  "by_importance": {
+    "3": 3,
+    "2": 2,
+    "1": 2
+  },
+  "detection_lag_hours": {
+    "median": 23.04,
+    "max": 23.04,
+    "n": 7
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "ANS Nuclear Newswire",
+    "정책브리핑 korea.kr",
+    "한국수력원자력 보도자료",
+    "한국전력 보도자료",
+    "TED",
+    "UK Find a Tender",
+    "The Korea Times",
+    "VOA 코리아"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "301 redirect, empty body"
+    },
+    {
+      "name": "US State Department press release",
+      "reason": "403"
+    },
+    {
+      "name": "Rolls-Royce SMR press room",
+      "reason": "403"
+    },
+    {
+      "name": "TED notice 260359-2026 (PDF body)",
+      "reason": "empty body — deadline still unconfirmed"
+    }
+  ],
+  "languages": {
+    "en": 6,
+    "ko": 1
+  }
+}

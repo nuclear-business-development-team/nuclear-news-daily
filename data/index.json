@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-09-27",
+      "article_count": 5,
+      "headline_ko": "IAEA·미주개발은행 원자력 파트너십 협정 — 세계은행·ADB에 이어 지역 개발금융기관까지 원전 금융 틀 확장",
+      "headline_en": "The IAEA signs a nuclear partnership with the Inter-American Development Bank, widening multilateral financing beyond the World Bank and ADB"
+    },
+    {
       "date": "2026-09-26",
       "article_count": 9,
       "headline_ko": "대만 원안위, 마안산 원전 재가동 초기 계획서 심사 통과 — 민진당 탈원전 기조 규제 단계에서 뒤집혀",

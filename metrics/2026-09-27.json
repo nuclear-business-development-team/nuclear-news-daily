@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-27",
+  "run_started": "2026-09-27T08:02:31+09:00",
+  "run_finished": "2026-09-27T08:20:30+09:00",
+  "run_minutes": 18,
+  "articles": 5,
+  "by_region": {
+    "overseas": 4,
+    "domestic": 1
+  },
+  "by_importance": {
+    "3": 0,
+    "2": 4,
+    "1": 1
+  },
+  "detection_lag_hours": {
+    "median": 47.0,
+    "max": 47.0,
+    "n": 5,
+    "note": "게재일만 있는 기사는 그날 09:00(+09:00)으로 간주. 주말·추석 연휴로 신규 게재가 멈춰 수집 가능한 최신 기사가 9.25~9.26자뿐이어서 지연 중간값이 평시(23h)의 두 배로 늘어남 — 수집 지연이 아니라 원천 게재 공백"
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS·홈페이지)",
+    "NucNet (RSS)",
+    "ANS Nuclear Newswire (목록)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS·본문)",
+    "UK DESNZ gov.uk (Atom)",
+    "Nuclear Engineering International (목록 페이지)",
+    "더구루 (RSS·본문)",
+    "더트래커 (RSS)",
+    "정책브리핑 korea.kr (원전·SMR·원자력 3회)",
+    "한국전력 보도·설명자료",
+    "전기신문",
+    "원자력신문",
+    "ANTARA News (ID)",
+    "Anadolu Ajansı (TR)",
+    "oenergetice.cz · ceskenoviny.cz",
+    "rp.pl · biznesalert.pl · wysokienapiecie.pl",
+    "vnexpress.net · vietnamnet.vn",
+    "kursiv.media · gazeta.uz",
+    "chinanews.com.cn · caixin.com",
+    "tvo.fi · neimagazine.com · seenews.com"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "200이나 본문 0바이트 — 3일 연속. 목록 페이지는 열리지만 게재일 미표시로 기간 판정 불가"
+    },
+    {
+      "name": "Rolls-Royce SMR 보도자료·공급망 페이지",
+      "reason": "403 — 3일 연속"
+    },
+    {
+      "name": "한국수력원자력 보도자료 게시판",
+      "reason": "HTTP 200이나 목록이 JavaScript 렌더링 — 제목 추출 불가(WebFetch는 503). 게시일 기준 최신 2026-09-23만 확인"
+    },
+    {
+      "name": "IAEA 보도자료 본문",
+      "reason": "402 — sources.yaml unreachable 목록대로 본문 미열람. 제목·게재일은 공식 RSS로 확정"
+    },
+    {
+      "name": "economictimes.indiatimes.com · thehindubusinessline.com",
+      "reason": "크롤러 차단(검색 도메인 지정 불가) — 인도 현지 영문 매체 수집 실패"
+    }
+  ],
+  "languages": {
+    "en": 3,
+    "ko": 2
+  },
+  "notes": "주말(9.26 토·9.27 일) 원자력 전문지 신규 게재 0건 — WNN·NucNet·ANS·POWER 모두 9.25 이후 새 기사 없음. 국내는 추석 연휴(9.24~9.26)가 일요일로 이어져 정책브리핑·한수원·한전·국내 전문지 신규 게시물 0건. 현지어 수집은 일요일이므로 매일 대상국(CZ·PL·SK·SI·NL·SE·GB·FR·TR·SA·AE·KZ·UZ·VN·PH·IN) 중심으로 훑고 월·목 대상국(HU·RO·BG·FI·RU·ID·TH·JP·CN)은 큰 사건 정황 확인 목적으로만 일부 점검. 방법 개선: IAEA Top News RSS의 pubDate는 첫 항목만 비표준 형식(\"26-09-25 14:02\")이고 나머지는 RFC822라 파서에 두 형식을 모두 넣어 게재일 확정 — 전일 '피드에 pubDate 없음' 판정을 정정함 공고 포털 감시 실적은 이 파일에 싣지 않는다(별도 기록)."
+}

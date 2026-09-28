@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-29",
+  "run_started": "2026-09-29T08:02:32+09:00",
+  "run_finished": "2026-09-29T08:15:31+09:00",
+  "run_minutes": 13,
+  "articles": 7,
+  "by_region": {
+    "overseas": 5,
+    "domestic": 2
+  },
+  "by_importance": {
+    "3": 1,
+    "2": 4,
+    "1": 2
+  },
+  "detection_lag_hours": {
+    "median": 23.0,
+    "max": 23.0,
+    "n": 7
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "ANS Nuclear Newswire",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "정책브리핑 korea.kr",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "한국원자력신문",
+    "전기신문",
+    "Bloomberg (제목·리드)",
+    "NRC 보도자료 목록"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "stale feed — HTTP 200이나 최신 항목이 2026-06-16"
+    },
+    {
+      "name": "TED 공고 본문 PDF (ted.europa.eu/en/notice/<번호>/pdf)",
+      "reason": "HTTP 202 empty body (7회차 연속)"
+    },
+    {
+      "name": "정책브리핑 korea.kr (srchWord=원전·SMR 첫 요청)",
+      "reason": "timeout — connection reset, 재시도로 취득"
+    },
+    {
+      "name": "Rolls-Royce SMR press",
+      "reason": "403 (5일 연속)"
+    }
+  ],
+  "languages": {
+    "en": 5,
+    "ko": 2
+  }
+}

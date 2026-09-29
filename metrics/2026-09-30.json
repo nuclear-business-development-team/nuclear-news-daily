@@ -1,0 +1,70 @@
+{
+  "date": "2026-09-30",
+  "run_started": "2026-09-30T08:03:31+09:00",
+  "run_finished": "2026-09-30T08:20:40+09:00",
+  "run_minutes": 17.2,
+  "articles": 9,
+  "by_region": {
+    "overseas": 6,
+    "domestic": 3
+  },
+  "by_importance": {
+    "3": 4,
+    "2": 3,
+    "1": 2
+  },
+  "detection_lag_hours": {
+    "median": 23.1,
+    "max": 23.1,
+    "n": 9
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ (Atom)",
+    "ANS Nuclear Newswire",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "정책브리핑 korea.kr (원전·SMR·원자력)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "전기신문",
+    "원자력신문",
+    "oenergetice.cz",
+    "BNN Bloomberg",
+    "620 CKRM",
+    "CKOM"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "stale_feed — HTTP 200이나 최신 항목이 2026-06-16자에서 정지(2회차 연속)"
+    },
+    {
+      "name": "TED 공고 본문 PDF (ted.europa.eu/en/notice/<번호>/pdf, /pdfs)",
+      "reason": "202 — 빈 응답(8회차 연속), 게시일·마감일 확인 불가"
+    },
+    {
+      "name": "Rolls-Royce SMR 보도자료 (rolls-royce-smr.com/press)",
+      "reason": "403 (6일 연속)"
+    },
+    {
+      "name": "CBC News (cbc.ca)",
+      "reason": "403 — WebFetch 차단(curl은 200). 같은 사건을 BNN Bloomberg·620 CKRM으로 대체 확인"
+    },
+    {
+      "name": "hnonline.sk / di.se / lesechos.fr / lemonde.fr / economictimes.indiatimes.com / thehindubusinessline.com",
+      "reason": "EGRESS_BLOCKED — 검색 user-agent 접근 불가 도메인(SK·SE·FR·IN 현지어 수집이 축소됨)"
+    }
+  ],
+  "languages": {
+    "en": 6,
+    "ko": 3
+  },
+  "method_changes": [
+    "IAEA Top News 피드의 pubDate가 RFC822가 아닌 'YY-MM-DD HH:MM' 형식이어서 기존 파서가 기간 내 항목을 0건으로 오판함 — 별도 파싱으로 재확인했고 기간 내 관련 기사는 없었음(식품 과학 1건). 다음 회차부터 이 형식을 파서에 반영한다.",
+    "Nuclear Engineering International 피드는 리다이렉트(301 → /feed/) 후에도 내용이 2026-06-16에서 멈춤 — curl -L 로 받아도 동일. 전문지 수집은 검색으로 대체한다."
+  ]
+}

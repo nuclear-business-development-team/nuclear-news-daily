@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-09-30",
+      "article_count": 9,
+      "headline_ko": "캐나다 서스캐처원주, 2050년 원자력 2,600MW 목표 발표 — 북서부 대형원전 2기(1호기 2042년)와 래퍼티 부지 BWRX-300 2기를 함께 올려 SMR 단독 노선에서 벗어남",
+      "headline_en": "Saskatchewan goes beyond SMRs: a 2,600 MW nuclear target for 2050, two large reactors in the northwest and two BWRX-300s at Rafferty"
+    },
+    {
       "date": "2026-09-29",
       "article_count": 7,
       "headline_ko": "미 NRC, TVA 클린치리버 BWRX-300 건설허가 29일 발급 예정 — 미국에서 이 노형이 받는 첫 건설허가",

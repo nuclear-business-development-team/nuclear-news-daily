@@ -1,0 +1,288 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T09:05:00+09:00",
+  "period": {
+    "from": "2026-09-30",
+    "to": "2026-10-01"
+  },
+  "overview_ko": "아르메니아가 신규 원전 노형 결정을 눈앞에 두고 로사톰의 VVER-1000 제안과 함께 미국·프랑스·중국·한국의 모듈형 노형을 나란히 검토하고 있다고 밝혔다. EU 해사안전청은 선박용 원자력추진의 설계·안전성 평가 용역(100만 유로, 12월 7일 마감)을 공고해 해양 원자력을 연구 단계에서 조달·규제 단계로 옮겼다. 영국 셀라필드는 최대 36억 파운드 규모 자산관리 프레임워크를 OneAxIoM(로트1)과 호흐티프(로트2)에 배분해 2041년까지의 후단 물량을 장기 계약으로 묶었고, 캘리포니아는 주 에너지위원회에 2028년까지 신규 원전 검토를 의무화하는 법안에 서명했다. 미국에서는 밸러 아토믹스가 유타 연방토지에 25MWe급 소형로 456기·9.6GW 규모 데이터센터 단지를 신청해 규모 면에서 전례 없는 제안을 내놨다. 영업 관점: 아르메니아는 노형 미선정 구간에서 한국형이 검토 대상에 명시된 드문 자리이고, 셀라필드·EMSA 건은 기자재 단품이 아니라 설계·해체·안전성평가를 묶은 종합 역무 실적을 요구하는 발주 형태가 유럽에서 굳어지고 있음을 보여준다.",
+  "overview_en": "Armenia said a decision on its new nuclear unit is imminent, weighing Rosatom's VVER-1000 offer against modular designs from the US, France, China and South Korea. The European Maritime Safety Agency opened a EUR 1 million tender (closing 7 December) for ship design and safety assessment of nuclear fission propulsion, moving marine nuclear from study into procurement and regulation. In the UK, Sellafield split a framework worth up to GBP 3.6 billion between OneAxIoM (Lot 1) and Hochtief (Lot 2), locking in back-end work to 2041, while California signed a law requiring its Energy Commission to assess new in-state nuclear by 2028. In the US, Valar Atomics applied to put 456 reactors of 25 MWe each - 9.6 GW in all - on federal land in Utah to feed a data centre campus. Sales angle: Armenia is a rare open technology selection in which a Korean design is explicitly on the list, and the Sellafield and EMSA awards show European buyers bundling design, dismantling and safety assessment into single scopes that reward integrated service records over component supply.",
+  "domestic_overview_ko": "트럼프 미국 대통령이 현지 9월 30일 한국의 대미 투자 사업에 미국 내 대형 원전 8기(1,200억 달러)와 알래스카 LNG(540억 달러)를 포함한다고 일방 발표했다. 한국 정부가 1호 사업으로 확정한 것은 텍사스 엔시날 가스복합발전(223억 달러)뿐이고 원전과 알래스카 LNG는 추가 협의 대상으로 남겨둔 상태여서, 발표와 실제 합의 수준 사이에 차이가 있다. 한편 루마니아 EU 관보(TED)에 체르나보다 1호기 개보수 EPC 낙찰 공고가 게시돼, 캔두에너지·캐나다상무공사·안살도 누클레아레와 함께 한국수력원자력이 참여한 컨소시엄이 19억 5,589만 유로 규모 계약자로 확인됐다. 국내에서는 원자력안전위원회가 고리 3·4호기와 한빛 1·2호기 사고관리계획서 승인을 9월 11일에 이어 두 번째로 보류했다. 영업 관점: 대미 원전 8기는 아직 우리 정부가 확정하지 않은 사안이라 수주 물량으로 계산하기 이르고, 실체가 확인된 해외 실적은 체르나보다 1호기 개보수 컨소시엄 참여 쪽이다.",
+  "domestic_overview_en": "President Trump announced on 30 September (US time) that Korea's US investment programme will include eight large reactors ($120 billion) and Alaska LNG ($54 billion). Seoul has so far confirmed only the $22.3 billion Encinal gas-fired plant in Texas as a first project and has kept nuclear and Alaska LNG in the 'further consultation' column, so the announcement runs ahead of what Korea has actually agreed. Separately, the EU tender journal (TED) published the contract award for the Cernavoda 1 refurbishment EPC, confirming Korea Hydro & Nuclear Power as part of the winning consortium with Candu Energy, the Canadian Commercial Corporation and Ansaldo Nucleare, at EUR 1.9559 billion. At home, the Nuclear Safety and Security Commission deferred approval of the accident management plans for Kori 3/4 and Hanbit 1/2 for a second time after an initial postponement on 11 September. Sales angle: the eight US reactors are not yet a Korean commitment and should not be booked as pipeline, whereas the Cernavoda 1 refurbishment award is a confirmed overseas reference now on the record.",
+  "countries_pulse": [
+    {
+      "country": "AM",
+      "name_ko": "아르메니아",
+      "name_en": "Armenia",
+      "stance": "expanding",
+      "signal": "신규 원전 결정 임박 — 로사톰 VVER-1000 제안과 미·불·중·한 모듈형을 함께 검토, 선정 기준은 '전적으로 경제적'",
+      "signal_en": "A new-build decision is close: Rosatom's VVER-1000 offer is being weighed against US, French, Chinese and Korean modular designs on purely economic criteria.",
+      "article_ids": [
+        "2026-10-01-01"
+      ]
+    },
+    {
+      "country": "RO",
+      "name_ko": "루마니아",
+      "name_en": "Romania",
+      "stance": "expanding",
+      "signal": "체르나보다 1호기 개보수 EPC 낙찰 공고 게시 — 19억 5,589만 유로, 캔두에너지·안살도·한수원 컨소시엄",
+      "signal_en": "The Cernavoda 1 refurbishment EPC award was published at EUR 1.9559 billion to the Candu Energy, Ansaldo Nucleare and KHNP consortium.",
+      "article_ids": [
+        "2026-10-01-09"
+      ]
+    },
+    {
+      "country": "GB",
+      "name_ko": "영국",
+      "name_en": "United Kingdom",
+      "stance": "expanding",
+      "signal": "셀라필드 최대 36억 파운드 자산관리 프레임워크 2로트 확정 — 2041년까지 후단 물량 장기 고정",
+      "signal_en": "Sellafield awarded both lots of a framework worth up to GBP 3.6 billion, fixing back-end work through 2041.",
+      "article_ids": [
+        "2026-10-01-03"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "캘리포니아가 신규 원전 검토를 법으로 의무화했고, 클린치리버 BWRX-300 건설허가와 유타 456기 소형로 신청이 같은 주에 나옴",
+      "signal_en": "California legislated an assessment of new in-state nuclear in the same week as the Clinch River BWRX-300 construction permit and a 456-reactor application in Utah.",
+      "article_ids": [
+        "2026-10-01-04",
+        "2026-10-01-05",
+        "2026-10-01-06",
+        "2026-10-01-07"
+      ]
+    },
+    {
+      "country": "RU",
+      "name_ko": "러시아",
+      "name_en": "Russia",
+      "stance": "expanding",
+      "signal": "로사톰, 아르메니아에 VVER-1000 기반 1,000MW급 1기 공식 제안 — 기존 메차모르 수명연장 수행 중",
+      "signal_en": "Rosatom formally offered Armenia a 1,000 MW unit based on the VVER-1000 while already running the Metsamor life-extension work.",
+      "article_ids": [
+        "2026-10-01-01"
+      ]
+    },
+    {
+      "country": "INT",
+      "name_ko": "국제",
+      "name_en": "International",
+      "stance": "expanding",
+      "signal": "EU 해사안전청이 선박용 원자력추진 설계·안전성평가 용역을 공고 — IMO 원자력추진선 규정 전면 개편 작업 지원",
+      "signal_en": "EMSA tendered ship design and safety assessment for nuclear propulsion, backing the IMO's planned overhaul of rules for nuclear-powered ships.",
+      "article_ids": [
+        "2026-10-01-02"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-01-01",
+      "title": "Armenia to make new nuclear decision 'in near future'",
+      "title_ko": "아르메니아, 신규 원전 결정 '조만간' — 로사톰 VVER-1000 제안, 미·불·중·한 모듈형도 검토",
+      "title_en": "Armenia to make new nuclear decision 'in near future'",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/armenia-to-make-new-nuclear-plant-decision-in-near-future",
+      "published": "2026-09-30",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "AM",
+        "RU"
+      ],
+      "importance": 3,
+      "summary_ko": "니콜 파시냔 아르메니아 총리가 신규 원전 건설 결정을 \"조만간\" 내리겠다고 밝혔다. 로사톰의 알렉세이 리하초프 사장은 주력 노형인 VVER-1000을 기반으로 한 1,000MW급 1기를 제안했고, 아르메니아는 이와 별도로 미국·프랑스·중국·한국의 모듈형 노형을 검토하고 있다. 파시냔은 선택이 \"전적으로 경제적\"이며 가격·품질·안전성·보증을 기준으로 삼는다고 했다. 현행 메차모르 2호기(376MWe, 1995년 가동)는 2036년까지의 수명연장 작업이 대부분 끝났고, 2046년까지 추가로 연장하려면 수억 달러 규모 투자가 필요하다.",
+      "summary_en": "Armenian Prime Minister Nikol Pashinyan said a decision on new nuclear construction will come \"in the near future\". Rosatom chief Alexey Likhachev put forward a single 1,000 MW unit based on the VVER-1000, while Armenia is separately reviewing modular designs from the United States, France, China and South Korea. Pashinyan said the choice would be \"exclusively economic\", judged on price, quality, safety and guarantees. Metsamor 2 (376 MWe, online since 1995) has largely completed life extension to 2036; pushing that to 2046 would require hundreds of millions of dollars.",
+      "sales_note": "발주처가 노형 선정 직전 구간에 들어섰고 한국 모듈형이 검토 대상에 공개적으로 명시됐다. 러시아 수의계약 구도가 아니라는 점에서 경제성 제안(가격·공기·금융조건)을 들고 들어갈 창이 열려 있으나, 로사톰이 기존 수명연장 사업을 수행 중이어서 현장 이해도와 접촉선에서 앞선다는 점을 전제로 대응해야 한다.",
+      "sales_note_en": "The buyer is at the point of choosing a technology and a Korean modular design is explicitly on its list. This is not a Russian sole-source process, so there is room to compete on price, schedule and financing - but Rosatom is already executing the life-extension work on site and holds the incumbent's access advantage."
+    },
+    {
+      "id": "2026-10-01-02",
+      "title": "Ship design and safety assessment of nuclear fission technologies for maritime applications",
+      "title_ko": "EU 해사안전청, 선박용 원자력추진 설계·안전성평가 용역 공고 — 100만 유로, 12월 7일 마감",
+      "title_en": "EMSA tenders ship design and safety assessment for nuclear propulsion at sea",
+      "language": "en",
+      "source": "TED (EU 공공조달) 674253-2026",
+      "url": "https://ted.europa.eu/en/notice/-/detail/674253-2026",
+      "published": "2026-10-01",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "INT"
+      ],
+      "importance": 2,
+      "summary_ko": "유럽해사안전청(EMSA)이 선박용 핵분열 기술의 선박 설계와 안전성 평가 용역을 공고했다(TED 674253-2026). 추정금액 100만 유로, 입찰 마감은 2026년 12월 7일이다. 공고문은 대형 선박의 무배출·장기 항해 동력으로서 원자력추진의 타당성을 검토하는 것이 목적이며, 원자력추진선 규정을 전면 개편하려는 국제해사기구(IMO)의 작업을 뒷받침한다고 밝혔다.",
+      "summary_en": "The European Maritime Safety Agency has tendered ship design and safety assessment work for nuclear fission propulsion (TED 674253-2026). The estimated value is EUR 1 million and tenders close on 7 December 2026. The notice frames the work as testing the feasibility of zero-emission, long-endurance power for large vessels and as support for the IMO's planned overhaul of the rules governing nuclear-powered ships.",
+      "sales_note": "해양 원자력이 개념 연구에서 규제·조달 단계로 넘어가는 신호다. EU 기관이 발주해 정리하는 설계·안전성 기준이 향후 원자력추진선 공급망의 사실상 진입 요건이 될 가능성이 있어, 규격이 굳기 전 단계에서의 참여 여부를 판단해 둘 필요가 있다.",
+      "sales_note_en": "Marine nuclear is moving from concept studies into regulation and procurement. The design and safety criteria settled under an EU agency contract are likely to become the de facto entry requirements for the nuclear-ship supply chain, so it is worth deciding now whether to be present while the specification is still open."
+    },
+    {
+      "id": "2026-10-01-03",
+      "title": "Sellafield selects partners for asset care framework",
+      "title_ko": "셀라필드, 최대 36억 파운드 자산관리 프레임워크 낙찰 — 로트1 OneAxIoM, 로트2 호흐티프",
+      "title_en": "Sellafield selects partners for asset care framework",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/sellafield-selects-partners-for-asset-care-framework",
+      "published": "2026-09-30",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "GB"
+      ],
+      "importance": 2,
+      "summary_ko": "영국 셀라필드가 최대 36억 파운드(48억 달러) 규모 자산관리(asset care) 프레임워크의 낙찰자를 확정했다. 로트1(21억 파운드, 사용후핵연료 관리·반출)은 아멘텀 클린에너지와 마이티의 합작사 OneAxIoM이 아시스템·모트맥도널드와 함께, 로트2(15억 파운드, 해체·시설 정비)는 호흐티프 인프라스트럭처 UK가 맡는다. 계약기간은 9년에 6년 연장 옵션을 더해 2041년까지다. 범위는 엔지니어링·설계, 구매, 설치·개조, 사업관리, 시운전, 해체·철거와 이후 자산관리까지이며 양쪽 모두 공장 외 제작(off-site construction) 방식을 강조했다.",
+      "summary_en": "Sellafield has named the winners of an asset care framework worth up to GBP 3.6 billion (USD 4.8 billion). Lot 1 (GBP 2.1 billion, used fuel management and retrievals) goes to OneAxIoM, a joint venture of Amentum Clean Energy and Mitie working with Assystem and Mott MacDonald; Lot 2 (GBP 1.5 billion, decommissioning and infrastructure) goes to Hochtief Infrastructure UK. The term is nine years with a six-year extension option, running to 2041, and covers engineering and design, procurement, installation and plant modification, project management, commissioning, dismantling and ongoing asset care, with both lots emphasising off-site construction.",
+      "sales_note": "영국 후단(해체·사용후핵연료) 물량이 15년짜리 장기 프레임워크로 묶였다. 기자재 단품이 아니라 설계·설치·시운전·해체를 한 계약에 담는 구조여서 종합 역무 실적이 진입 요건이 되고, 프레임워크 체결 뒤에는 개별 발주가 참여사 간 내부 경쟁으로 돌아가므로 신규 진입 창이 좁아진다.",
+      "sales_note_en": "The UK back end is now locked into a framework running up to 15 years. The scope bundles design, installation, commissioning and dismantling into one contract, so an integrated services record - not component supply - is the entry ticket; once a framework is in place, individual work packages are competed among incumbents and the door for newcomers narrows."
+    },
+    {
+      "id": "2026-10-01-04",
+      "title": "Calif Gov Newsom Signs Bills to Accelerate Fusion and Fission",
+      "title_ko": "캘리포니아 주지사, 원자력·핵융합 촉진 법안 서명 — 주 에너지위원회에 2028년까지 신규 원전 검토 의무화",
+      "title_en": "California signs bills requiring an assessment of new in-state nuclear",
+      "language": "en",
+      "source": "Neutron Bytes",
+      "url": "https://neutronbytes.com/2026/09/30/calif-gov-newsom-signs-bills-to-accelerate-fusion-and-fission/",
+      "published": "2026-09-30",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "개빈 뉴섬 캘리포니아 주지사가 9월 30일 원자력·핵융합 관련 법안 2건에 서명했다. AB 2647은 주 에너지위원회가 선진 원자로 기술과 주 내 신규 원전 건설 가능성을 2028년 1월 1일까지 평가하도록 의무화했고, SB 925는 2029년 12월 31일까지 연구 확대·상용화 전략·규제 틀·인허가 로드맵을 담은 핵융합 전략계획을 수립하도록 했다. 주정부는 양자·핵융합 연구에 3,000만 달러를 투자한다고 함께 발표했다.",
+      "summary_en": "Governor Gavin Newsom signed two nuclear-related bills on 30 September. AB 2647 requires the California Energy Commission to assess advanced reactor technologies and the potential for new in-state nuclear plants by 1 January 2028. SB 925 requires a strategic fusion energy plan by 31 December 2029 covering research expansion, a commercialisation strategy, regulatory frameworks and licensing roadmaps. The state also announced USD 30 million for quantum and fusion research.",
+      "sales_note": "미국에서 탈원전 기조가 가장 강했던 주가 신규 원전 '평가'를 법률로 의무화했다. 당장의 발주는 없지만 2028년 초 평가 결과가 나오는 시점이 서부 시장 진입 시나리오의 기준선이 된다.",
+      "sales_note_en": "The state with the strongest anti-nuclear record in the US has now written an assessment of new build into law. Nothing is being procured yet, but the assessment due in early 2028 sets the reference date for any western-US entry plan."
+    },
+    {
+      "id": "2026-10-01-05",
+      "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+      "title_ko": "밸러 아토믹스, 유타 연방토지에 25MWe급 소형로 456기·9.6GW 데이터센터 단지 신청",
+      "title_en": "Valar Atomics applies to put 456 reactors and a data centre campus on Utah public land",
+      "language": "en",
+      "source": "KUER / NPR",
+      "url": "https://www.kuer.org/business-economy/2026-09-30/a-startup-wants-to-build-a-massive-nuclear-powered-data-center-on-public-land-in-utah",
+      "published": "2026-09-30",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "미국 스타트업 밸러 아토믹스가 유타주 프라이스 인근 연방 토지관리국(BLM) 소유지 9,000에이커 이상에 '프로젝트 비하이브'를 신청했다. 25MWe급 소형로 456기로 전기 9.6GW를 내고 그 위에 데이터센터와 핵연료 제조시설·폐기물 저장시설을 함께 두는 구상이며, 주정부 소유지 약 650에이커도 추가로 요청했다. 비원자력 부분 착공은 2026년 말, 첫 원자로 가동은 2028년, 부지 완공은 2032년을 목표로 한다. BLM은 신청서 완비 여부를 검토 중이며 국가환경정책법(NEPA) 절차에서 의견수렴을 거친다고 밝혔다. 남부유타황야연맹 등 현지 환경단체가 공유지 이용에 반대하고 있다.",
+      "summary_en": "US startup Valar Atomics has applied to build \"Project Beehive\" on more than 9,000 acres of Bureau of Land Management land near Price, Utah, with a further 650 acres of state land sought. The plan is 456 reactors of 25 MWe each - 9.6 GW of electricity - alongside data centres, a nuclear fuel production plant and a waste storage facility. Non-nuclear construction is targeted for the end of 2026, first reactors in 2028 and site completion in 2032. The BLM says it is reviewing the application for completeness and will take public input through the NEPA process. Local groups including the Southern Utah Wilderness Alliance oppose the use of public land.",
+      "sales_note": "데이터센터 수요가 마이크로원자로를 '대량 동일기 반복 제작' 모델로 밀어붙이는 사례다. 규모(456기)와 일정(2028년 첫 가동) 모두 현행 인허가 실적과 격차가 커 실현 여부는 미지수지만, 이런 제안이 통과되면 경쟁 축이 노형 성능이 아니라 반복 제작 단가와 공장 생산능력으로 옮겨간다.",
+      "sales_note_en": "This is data-centre demand pushing microreactors toward a mass-produced, identical-unit model. Both the scale (456 units) and the schedule (first operation in 2028) sit far ahead of any licensing precedent, so delivery is uncertain - but if proposals like this clear, competition shifts from reactor performance to unit cost in series production and factory throughput."
+    },
+    {
+      "id": "2026-10-01-06",
+      "title": "First construction permit issued for BWRX-300 SMR in the US",
+      "title_ko": "클린치리버 BWRX-300 건설허가 후속 — NRC 심사가 예정보다 4개월 빠른 14개월에 종료된 것으로 확인",
+      "title_en": "Clinch River follow-up: the NRC finished its BWRX-300 review in 14 months, four months early",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/first-construction-permit-issued-for-bwrx300-smr-in-us",
+      "published": "2026-09-30",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "US"
+      ],
+      "importance": 1,
+      "summary_ko": "전날 다룬 TVA 클린치리버 BWRX-300 건설허가 발급 건의 후속으로, 새로 확인된 사실은 심사 기간이다. NRC는 2025년 7월 공식 착수한 심사를 14개월 만에 끝내 당초 일정보다 4개월 앞당겼다. TVA는 아직 착공 일정을 발표하지 않았고 발전을 시작하려면 운영허가를 따로 받아야 하며, 설계·건설 단계의 비용 분담을 두고 산업계 파트너들과 협의를 이어가고 있다. 같은 노형 1호기는 캐나다 달링턴에서 건설 중이고, 블루에너지가 2026년 9월 텍사스 BWRX-300 건설허가 신청 일부를 제출했다.",
+      "summary_en": "Following yesterday's report that TVA received its Clinch River BWRX-300 construction permit, the new detail is the review time: the NRC completed a review formally begun in July 2025 in 14 months, four months ahead of schedule. TVA has not announced a construction start and still needs an operating licence before the unit can generate, and it continues to negotiate cost sharing with industry partners for design and construction. The first unit of the type is under construction at Darlington in Canada, and Blue Energy filed part of a construction permit application for a Texas BWRX-300 in September 2026.",
+      "sales_note": "인허가 소요기간이 예정보다 짧게 나온 것은 후속 사업의 금융·일정 논거로 쓰인다. 다만 건설허가와 운영허가가 분리돼 있어 착공과 상업운전 사이 불확실성은 그대로 남는다.",
+      "sales_note_en": "A licensing review that came in shorter than scheduled is a usable argument for financing and programme timelines on follow-on projects. The split between construction permit and operating licence, however, leaves the gap between first concrete and commercial operation just as uncertain."
+    },
+    {
+      "id": "2026-10-01-07",
+      "title": "West Virginia's NLIC proposal revealed through FOIA request",
+      "title_ko": "미 DOE 원자력 전주기 혁신캠퍼스(NLIC), 웨스트버지니아 제안서 정보공개로 공개 — 최종 후보 6개 주",
+      "title_en": "West Virginia's NLIC bid surfaces via FOIA, with six states shortlisted",
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-09-30/article-8448/west-virginias-nlic-proposal-revealed-through-foia-request/",
+      "published": "2026-09-30",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "US"
+      ],
+      "importance": 1,
+      "summary_ko": "미 에너지부의 원자력 전주기 혁신캠퍼스(NLIC) 공모에 웨스트버지니아주가 낸 제안서가 정보공개 청구로 공개됐다. 주는 캠퍼스 기능으로 사용후핵연료 중간저장시설, 장기저장(시추공·인공공동) 연구, 선진로 실증, 핵연료 재활용 연구, 전단(농축·성형가공) 공정, 제조를 제시하고 이 가운데 중간저장을 \"단기 실행 가능한 전략적 기회\"로 우선 꼽았다. 최종 후보는 아이다호·루이지애나·오클라호마·테네시·유타·웨스트버지니아 6개 주다.",
+      "summary_en": "West Virginia's bid for the US Department of Energy's Nuclear Lifecycle Innovation Campuses (NLIC) programme has been released under a freedom of information request. The state proposed six campus functions - consolidated interim storage of spent fuel, research into long-term storage in boreholes and engineered caverns, advanced reactor deployment, fuel recycling research, front-end enrichment and fabrication, and manufacturing - and singled out interim storage as a \"near-term actionable strategic opportunity\". Six states are shortlisted: Idaho, Louisiana, Oklahoma, Tennessee, Utah and West Virginia.",
+      "sales_note": "미국이 전단(농축·성형가공)과 후단(중간저장·재활용)을 한 부지에 묶는 구상을 구체화하고 있다. 어느 주가 선정되는지에 따라 미국 내 연료 공급망의 물류·입지 구조가 정해지므로 진행을 지켜볼 필요가 있다.",
+      "sales_note_en": "The US is firming up a plan to co-locate front-end enrichment and fabrication with back-end interim storage and recycling. Whichever state is chosen will shape the logistics and siting of the domestic fuel supply chain, so the selection is worth tracking."
+    },
+    {
+      "id": "2026-10-01-08",
+      "title": "\"트럼프 韓대미투자 발표에 '알래스카 LNG·원전 8기 포함'\"",
+      "title_ko": "트럼프, 韓 대미투자에 원전 8기(1,200억 달러)·알래스카 LNG(540억 달러) 포함 일방 발표 — 정부는 텍사스 가스발전만 확정",
+      "title_en": "Trump unilaterally folds eight reactors and Alaska LNG into Korea's US investment package",
+      "language": "ko",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/world/2026/10/01/2026100103132673760",
+      "published": "2026-10-01",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR",
+        "US"
+      ],
+      "importance": 3,
+      "summary_ko": "트럼프 미국 대통령이 현지 9월 30일 오후 3시 30분(한국시각 10월 1일 오전 4시 30분) 한국의 대미 투자 사업에 미국 내 대형 원전 8기와 알래스카 LNG 개발이 포함된다고 발표했다. 하워드 러트닉 상무장관은 원전 8기에 1,200억 달러가 투입되고 오하이오·테네시·사우스캐롤라이나·켄터키 등에 건설된다고 설명했으며, 알래스카 LNG에는 500억 달러가 넘는(로이터 집계 540억 달러) 금액이 들어간다고 했다. 한국 정부가 대미투자 1호 사업으로 확정한 것은 텍사스주 엔시날의 223억 달러 규모 가스복합화력발전소뿐이고, 알래스카 LNG와 미국 내 원전은 추가 협의가 필요한 사업으로 남겨둔 상태다. 이재명 대통령은 9월 18일 \"합의가 쉽지 않은 부분이 있어 다시 논의 중\"이라고 밝힌 바 있다. 노형과 참여 한국 기업은 이번 발표에서 특정되지 않았다.",
+      "summary_en": "President Trump announced on 30 September at 15:30 US time (04:30 KST on 1 October) that Korea's US investment programme includes eight large nuclear plants and Alaska LNG development. Commerce Secretary Howard Lutnick said the eight reactors account for USD 120 billion and would be built in Ohio, Tennessee, South Carolina and Kentucky, and that Alaska LNG would take more than USD 50 billion (USD 54 billion by Reuters' count). The only project Seoul has confirmed as a first investment is the USD 22.3 billion combined-cycle gas plant at Encinal, Texas; Alaska LNG and the US reactors remain in the 'further consultation' category. President Lee said on 18 September that \"there are parts that are not easy to agree on, so we are discussing again\". Neither the reactor design nor the participating Korean companies was specified in the announcement.",
+      "sales_note": "발표와 우리 정부의 확정 범위가 다르다는 점이 이 건의 핵심이다. 원전 8기는 아직 합의된 사업이 아니므로 수주 물량으로 계산해 사업계획에 반영하기는 이르고, 노형·발주 주체·한국 기업 역할이 정해지지 않아 주기기·시공·설계용역 가운데 어디가 우리 몫인지도 확정되지 않았다. 다만 미국 측이 주(州)까지 특정해 공표한 만큼 해당 주의 전력회사·규제 절차를 미리 훑어둘 실익은 있다.",
+      "sales_note_en": "The gap between what was announced and what Seoul has actually committed to is the point of this story. The eight reactors are not an agreed project, so they should not be counted as pipeline; with no reactor design, no named owner and no defined Korean role, it is also unsettled whether the Korean share would be main components, construction or engineering services. That said, the US side named specific states, so mapping the utilities and regulatory routes in those states now has practical value."
+    },
+    {
+      "id": "2026-10-01-09",
+      "title": "Lucrări de Retehnologizare a Unității 1 CNE Cernavodă",
+      "title_ko": "체르나보다 1호기 개보수 EPC 낙찰 공고 게시 — 19억 5,589만 유로, 캔두에너지·캐나다상무공사·안살도·한수원 컨소시엄",
+      "title_en": "Cernavoda 1 refurbishment EPC award published: EUR 1.9559 billion to a consortium including KHNP",
+      "language": "ro",
+      "source": "TED (EU 공공조달) 674215-2026",
+      "url": "https://ted.europa.eu/en/notice/-/detail/674215-2026",
+      "published": "2026-09-30",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR",
+        "RO"
+      ],
+      "importance": 3,
+      "summary_ko": "루마니아 원자력공사 누클레아렐렉트리카(Nuclearelectrica)가 발주한 체르나보다 1호기 개보수(retehnologizare) 공사의 낙찰 공고가 EU 관보(TED 674215-2026)에 9월 30일 게시됐다. 낙찰자는 캔두에너지(캐나다)·캐나다상무공사(CCC)·안살도 누클레아레(이탈리아)·한국수력원자력으로 구성된 컨소시엄이고, 공고상 계약금액은 19억 5,589만 유로다. 공고는 사업 목적을 \"안전성과 경제적 효율을 갖춘 조건에서 1호기 수명을 30년 주기 한 번만큼 더 연장하는 것\"으로 적었다. 계약은 2024년 12월 16일 체결된 EPC 계약으로, 이후 물가연동·하도급사 추가 등 8차례 변경을 거쳐 금액이 19억 4만 유로대에서 약 5,125만 유로(2.7%) 올랐고 일정도 2026~2029년에서 2027~2030년으로 미뤄졌다(정지 2027년 10월, 재가동 2030년 5월).",
+      "summary_en": "Romania's Nuclearelectrica published the contract award for the Cernavoda Unit 1 refurbishment in the EU tender journal (TED 674215-2026) on 30 September. The winning consortium is Candu Energy (Canada), the Canadian Commercial Corporation, Ansaldo Nucleare (Italy) and Korea Hydro & Nuclear Power, and the notice puts the contract at EUR 1.9559 billion. The stated purpose is to extend the unit's life by one further 30-year cycle under safe and economically efficient conditions. The underlying EPC contract was signed on 16 December 2024; eight subsequent amendments covering price indexation and added subcontractors raised the value by about EUR 51.25 million (2.7%) and pushed the schedule from 2026-2029 to 2027-2030, with shutdown now in October 2027 and return to service in May 2030.",
+      "sales_note": "한수원이 CANDU 개보수 컨소시엄의 정식 계약 당사자로 EU 관보에 기재된 건이다. 국내 실적 위주였던 계속운전·개보수 역무가 유럽 발주처의 공식 계약 문서에 올라간 레퍼런스가 되고, 다른 CANDU 계열 개보수·완공 사업에서 자격 논거로 쓸 수 있다. 다만 일정이 1년 가까이 밀리고 금액이 2.7% 오른 이력도 함께 공개된 만큼, 유사 제안에서 공기·물가 리스크 배분 조건을 먼저 정리해 두는 편이 낫다.",
+      "sales_note_en": "KHNP is now named in the EU tender journal as a contracting party in a CANDU refurbishment consortium. Life-extension and refurbishment work that had largely been a domestic record is now documented in a European buyer's own award notice, which is usable as a qualification argument on other CANDU refurbishment and completion work. Note that the same record also shows a near one-year schedule slip and a 2.7% price increase, so it is worth settling schedule and escalation risk terms up front in comparable bids."
+    },
+    {
+      "id": "2026-10-01-10",
+      "title": "원안위, 고리 3·4호기·한빛 1·2호기 사고관리계획서 승인 또 보류",
+      "title_ko": "원안위, 고리 3·4호기·한빛 1·2호기 사고관리계획서 승인 또 보류 — 9월 11일에 이어 두 번째",
+      "title_en": "Korea's regulator defers the Kori 3/4 and Hanbit 1/2 accident management plans a second time",
+      "language": "ko",
+      "source": "아시아경제",
+      "url": "https://view.asiae.co.kr/article/2026093021031507235",
+      "published": "2026-09-30",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR"
+      ],
+      "importance": 2,
+      "summary_ko": "원자력안전위원회가 9월 30일 제2026-15회 회의에서 한국수력원자력이 신청한 고리 3·4호기와 한빛 1·2호기의 사고관리계획서 승인 및 운영변경허가 안건을 다시 보류했다. 일부 위원이 사고관리계획서 작성 기준 등을 문제 삼아 논의가 길어졌고, 표결을 시도했으나 일부 위원이 반대해 안건을 다시 올리기로 했다. 9월 11일에 이은 두 번째 보류다. 이 안건은 원자력안전전문위원회가 6차례에 걸쳐 약 9개월간 사전 검토해 안전성 평가가 적절하다고 본 사안이다.",
+      "summary_en": "At its 2026-15th meeting on 30 September, Korea's Nuclear Safety and Security Commission again deferred KHNP's application to approve accident management plans and associated operating changes for Kori units 3 and 4 and Hanbit units 1 and 2. Some commissioners questioned the standards used to prepare the plans, discussion ran long, and an attempted vote was blocked by members who objected, so the item was sent back for reconsideration. It is the second deferral after one on 11 September. The Nuclear Safety Expert Committee had reviewed the item over roughly nine months across six sessions and found the safety assessment appropriate.",
+      "sales_note": "전문위 검토를 마친 안건이 위원회 단계에서 두 차례 막힌 사례다. 해외 입찰에서 한국의 규제 절차 예측가능성을 묻는 질의가 나올 때 인용될 수 있는 사안이므로, 계속운전·운영변경 인허가 소요기간을 제시할 때 이런 지연 이력을 감안한 수치를 쓰는 편이 안전하다.",
+      "sales_note_en": "An item that had cleared expert review has now been blocked twice at commission level. Overseas bid evaluations often ask about the predictability of Korean regulatory process, so any schedule offered for continued-operation or operating-change licensing should be built on figures that account for delays of this kind."
+    }
+  ]
+}

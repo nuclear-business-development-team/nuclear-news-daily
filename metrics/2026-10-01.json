@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-01",
+  "run_started": "2026-10-01T08:02:35+09:00",
+  "run_finished": "2026-10-01T08:20:37+09:00",
+  "run_minutes": 18.0,
+  "articles": 10,
+  "by_region": {
+    "overseas": 7,
+    "domestic": 3
+  },
+  "by_importance": {
+    "3": 3,
+    "2": 5,
+    "1": 2
+  },
+  "detection_lag_hours": {
+    "median": 23.04,
+    "max": 23.04,
+    "n": 10
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "ANS Nuclear Newswire",
+    "TED 검색 API (api.ted.europa.eu/v3)",
+    "정책브리핑 korea.kr",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "KUER / NPR",
+    "머니투데이",
+    "아시아경제"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS, neimagazine.com/feed)",
+      "reason": "stale — HTTP 200이나 최신 항목이 2026-06-17에서 멈춤 (3회차 연속)"
+    },
+    {
+      "name": "TED 공고 본문 PDF (ted.europa.eu/en/notice/<번호>/pdf 및 /pdfs)",
+      "reason": "HTTP 202 빈 응답 (9회차 연속) — 검색 API로 대체해 확보"
+    },
+    {
+      "name": "NPR (npr.org)",
+      "reason": "503 — 동일 기사를 회원국 방송 KUER로 대체 확인"
+    },
+    {
+      "name": "hnonline.sk",
+      "reason": "검색 도구 접근 불가 도메인 — 슬로바키아는 energie-portal.sk·teraz.sk로 대체"
+    },
+    {
+      "name": "nu.nl",
+      "reason": "검색 도구 접근 불가 도메인 — 네덜란드는 nos.nl·fd.nl로 대체"
+    }
+  ],
+  "languages": {
+    "en": 7,
+    "ko": 2,
+    "ro": 1
+  },
+  "note": "수집 기간 2026-09-30~10-01. 현지어 수집은 목요일이므로 매일 대상국 16개국 + 주 2회 대상국 전부를 훑었고, 기간 내 신규 보도는 없었다. TED 공고 본문 PDF가 9회차 연속 열리지 않아 이번 회차부터 TED 검색 API로 전환했고, 그 결과 체르나보다 1호기 개보수 EPC 낙찰 공고(674215-2026, 한수원 컨소시엄 참여)를 게재 당일 확보했다."
+}

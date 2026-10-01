@@ -1,33 +1,72 @@
 {
-  "updated": "2026-10-01",
-  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
-  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
-  "tenders": [
-    {
-      "country": "PL",
-      "buyer": "Westinghouse Electric Poland Sp. z o.o.",
-      "title": "AP1000 격납용기(MV50) 제작 공급사 자격심사 — 폴란드 2·3호기",
-      "title_en": "AP1000 Containment Vessel (MV50) fabrication — supplier qualification, Poland Units 2·3",
-      "scope": "격납용기(Containment Vessel) 제작 공급사 자격심사",
-      "scope_en": "Supplier qualification for containment vessel fabrication",
-      "portal": "TED",
-      "notice_no": "652770-2026",
-      "published": "2026-09-22",
-      "deadline": "2026-10-12",
-      "url": "https://ted.europa.eu/en/notice/652770-2026/pdf"
-    },
-    {
-      "country": "PL",
-      "buyer": "Westinghouse Electric Poland Sp. z o.o.",
-      "title": "AP1000 차폐건물 SC 강판 벽패널(SC40) 제작 공급사 자격심사 — 폴란드 2·3호기",
-      "title_en": "AP1000 Shield Building SC steel wall panels (SC40) fabrication — supplier qualification, Poland Units 2·3",
-      "scope": "차폐건물 강판·콘크리트 복합(SC) 벽패널 제작 공급사 자격심사",
-      "scope_en": "Supplier qualification for shield-building steel-concrete composite wall panel fabrication",
-      "portal": "TED",
-      "notice_no": "651178-2026",
-      "published": "2026-09-22",
-      "deadline": "2026-10-12",
-      "url": "https://ted.europa.eu/en/notice/651178-2026/pdf"
-    }
-  ]
+ "updated": "2026-10-02",
+ "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
+ "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
+ "tenders": [
+  {
+   "country": "PL",
+   "buyer": "Westinghouse Electric Poland Sp. z o.o.",
+   "title": "AP1000 격납용기(MV50) 제작 공급사 자격심사 — 폴란드 2·3호기",
+   "title_en": "AP1000 Containment Vessel (MV50) fabrication — supplier qualification, Poland Units 2·3",
+   "scope": "격납용기(Containment Vessel) 제작 공급사 자격심사",
+   "scope_en": "Supplier qualification for containment vessel fabrication",
+   "portal": "TED",
+   "notice_no": "652770-2026",
+   "published": "2026-09-22",
+   "deadline": "2026-10-12",
+   "url": "https://ted.europa.eu/en/notice/652770-2026/pdf"
+  },
+  {
+   "country": "PL",
+   "buyer": "Westinghouse Electric Poland Sp. z o.o.",
+   "title": "AP1000 차폐건물 SC 강판 벽패널(SC40) 제작 공급사 자격심사 — 폴란드 2·3호기",
+   "title_en": "AP1000 Shield Building SC steel wall panels (SC40) fabrication — supplier qualification, Poland Units 2·3",
+   "scope": "차폐건물 강판·콘크리트 복합(SC) 벽패널 제작 공급사 자격심사",
+   "scope_en": "Supplier qualification for shield-building steel-concrete composite wall panel fabrication",
+   "portal": "TED",
+   "notice_no": "651178-2026",
+   "published": "2026-09-22",
+   "deadline": "2026-10-12",
+   "url": "https://ted.europa.eu/en/notice/651178-2026/pdf"
+  },
+  {
+   "country": "LT",
+   "buyer": "Valstybės įmonė Ignalinos atominė elektrinė",
+   "title": "이그날리나 액체방사성폐기물 고화시설(150, 151/154, 158/2동) 주기적 안전성평가 보고서 작성",
+   "title_en": "Periodic safety assessment report for the Ignalina liquid radioactive waste cementation facility (buildings 150, 151/154, 158/2)",
+   "scope": "기존 고화시설의 주기적 안전성평가 보고서 작성 용역",
+   "scope_en": "Consultancy to prepare the periodic safety assessment report for the existing cementation facility",
+   "portal": "TED",
+   "notice_no": "653890-2026",
+   "published": "2026-09-23",
+   "deadline": "2026-10-26",
+   "url": "https://ted.europa.eu/en/notice/653890-2026/pdf"
+  },
+  {
+   "country": "SE",
+   "buyer": "Strålsäkerhetsmyndigheten (SSM)",
+   "title": "스웨덴 원자력시설 콘크리트 구조 분야 조사·분석 지원 컨설팅 프레임워크",
+   "title_en": "Framework agreement for consultancy support on concrete structures in Swedish nuclear facilities",
+   "scope": "원자력시설 콘크리트 구조 분야의 조사·분석 지원. 노후화에 따른 콘크리트 부재 열화를 주로 다루며, 신규 원전 구조해법에 관한 조사도 포함될 수 있다.",
+   "scope_en": "Support for investigations and analyses of concrete structures in nuclear facilities, mainly the degradation of concrete components as plants age, and possibly studies of structural solutions for new nuclear.",
+   "portal": "TED",
+   "notice_no": "676216-2026",
+   "published": "2026-10-01",
+   "deadline": "2026-11-03",
+   "url": "https://ted.europa.eu/en/notice/-/detail/676216-2026"
+  },
+  {
+   "country": "PT",
+   "buyer": "European Maritime Safety Agency (EMSA)",
+   "title": "선박용 원자력추진(핵분열) 기술의 선박 설계 및 안전성 평가 용역",
+   "title_en": "Ship design and safety assessment of nuclear fission technologies for maritime applications",
+   "scope": "선박용 핵분열 추진기술에 대한 선박 설계 및 안전성 평가. 대형 선박의 무배출·장기 항해 동력 타당성 검토를 포함한다.",
+   "scope_en": "Ship design and safety assessment for marine nuclear fission propulsion, including the feasibility of zero-emission, long-endurance power for large vessels.",
+   "portal": "TED",
+   "notice_no": "674253-2026",
+   "published": "2026-10-01",
+   "deadline": "2026-12-07",
+   "url": "https://ted.europa.eu/en/notice/-/detail/674253-2026"
+  }
+ ]
 }

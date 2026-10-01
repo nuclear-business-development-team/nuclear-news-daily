@@ -1,0 +1,64 @@
+{
+ "date": "2026-10-02",
+ "run_started": "2026-10-02T08:02:34+09:00",
+ "run_finished": "2026-10-02T08:23:43+09:00",
+ "run_minutes": 21,
+ "articles": 11,
+ "by_region": {
+  "overseas": 6,
+  "domestic": 5
+ },
+ "by_importance": {
+  "3": 4,
+  "2": 6,
+  "1": 1
+ },
+ "detection_lag_hours": {
+  "median": 20.83,
+  "max": 23.04,
+  "n": 11
+ },
+ "sources_ok": [
+  "World Nuclear News",
+  "NucNet",
+  "IAEA Top News",
+  "POWER Magazine",
+  "UK DESNZ (gov.uk)",
+  "ANS Nuclear Newswire",
+  "TED 검색 API",
+  "더구루",
+  "더트래커",
+  "정책브리핑(korea.kr) 목록",
+  "한국수력원자력 보도자료 게시판",
+  "한국전력 보도·설명자료 게시판",
+  "에너지데일리",
+  "한국원자력신문",
+  "디지털타임스",
+  "Bankier.pl",
+  "Sprott"
+ ],
+ "sources_failed": [
+  {
+   "name": "Nuclear Engineering International (RSS)",
+   "reason": "403"
+  },
+  {
+   "name": "정책브리핑(korea.kr) 보도자료 첨부파일 다운로드",
+   "reason": "connection reset"
+  },
+  {
+   "name": "UK Find a Tender 공고 본문 (017237-2026)",
+   "reason": "403"
+  },
+  {
+   "name": "핀란드 Hilma 공고 본문 (procedure 11506)",
+   "reason": "JS 렌더링 · API 404"
+  }
+ ],
+ "languages": {
+  "pl": 1,
+  "en": 6,
+  "ko": 4
+ },
+ "notes": "TED는 공고 본문 PDF 대신 검색 API(api.ted.europa.eu/v3/notices/search)로 수집. 질의 구문은 (FT ~ a OR FT ~ b) 형태만 OR로 동작하며 FT ~ (a OR b)는 AND로 해석됨을 이번 회차에 확인."
+}

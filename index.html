@@ -61,6 +61,9 @@ button,select,input{font:inherit;color:inherit}
 .nav button:hover:not(:disabled){background:rgba(255,255,255,.1)}
 .nav button:disabled{opacity:.3;cursor:default}
 #langbtn{font:600 11px var(--sans);letter-spacing:.06em;padding:0 9px}
+.nav a.navlink{display:inline-flex;align-items:center;height:30px;border-radius:2px;border:1px solid rgba(255,255,255,.22);background:transparent;color:#eaf0f4;padding:0 10px;font:600 11.5px var(--sans);letter-spacing:.04em;text-decoration:none}
+.nav a.navlink:hover{background:rgba(255,255,255,.1)}
+@media (max-width:719px){.nav a.navlink{height:28px;font-size:11px;padding:0 8px}}
 @media (max-width:719px){
   .mark small{display:none}
   .bar-in{padding:0 16px;gap:8px}
@@ -312,6 +315,7 @@ footer{grid-column:1/-1;order:3;margin-top:34px;padding-top:14px;border-top:1px 
       <b id="brand">원자력 해외동향</b><small id="tagline">Overseas Nuclear Brief</small>
     </div>
     <div class="nav">
+      <a id="tendersNav" class="navlink" href="tenders.html">공고</a>
       <button id="langbtn">EN</button>
       <button id="prev" aria-label="prev">‹</button>
       <select id="date" aria-label="date"></select>
@@ -373,7 +377,8 @@ const I18N = {
     internal: "내부 참고용 자료입니다. 외부 공유를 금합니다.|Internal reference only. Not for external distribution.",
     foot: "매일 오전 8시(KST)에 AI 에이전트가 해외 매체·현지어 기사와 국내 공식 발표를 수집해 한국어로 요약합니다. 요약과 영업 시사점은 참고용이며, 반드시 원문으로 확인하세요.",
     dashLink: "MBO 측정 대시보드 (내부 참고)",
-    report: "보고서", reportTitle: "이 기사를 회사 내부 서식(.docx) 보고서로 내려받기"
+    report: "보고서", reportTitle: "이 기사를 회사 내부 서식(.docx) 보고서로 내려받기",
+    tendersNav: "공고"
   },
   en: {
     html: "en", title: "Overseas Nuclear Brief", tagline: "Nuclear business development", switchTo: "한국어",
@@ -405,7 +410,8 @@ const I18N = {
     internal: "Internal reference only. Not for external distribution.|내부 참고용 자료입니다. 외부 공유를 금합니다.",
     foot: "Collected every day at 08:00 KST by an AI agent from international, local-language and Korean official sources. Summaries and sales angles are for orientation — always check the original article.",
     dashLink: "MBO metrics dashboard (internal)",
-    report: "Report", reportTitle: "Download this article as an internal-format .docx report"
+    report: "Report", reportTitle: "Download this article as an internal-format .docx report",
+    tendersNav: "Tenders"
   }
 };
 let LANGCODE = "ko";
@@ -455,6 +461,7 @@ function applyStatic(){
   $("#archiveTitle").textContent = T.archive;
   $("#footnote").textContent = T.foot;
   $("#dashlink").innerHTML = `<a href="measure/dashboard.html">${esc(T.dashLink)} →</a>`;
+  const tnav = $("#tendersNav"); if(tnav){ tnav.textContent = T.tendersNav; tnav.href = LANGCODE === "en" ? "tenders.html?lang=en" : "tenders.html"; }
   const parts = T.internal.split("|");
   $("#internalnote").innerHTML = esc(parts[0]) + (parts[1] ? `<span>${esc(parts[1])}</span>` : "");
 }

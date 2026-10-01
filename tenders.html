@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>원자력 공고 보드</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root{
+  --paper:#f2f4f6; --card:#ffffff; --navy:#051c2c; --ink:#051c2c; --ink-2:#33475b; --muted:#6b7c8a;
+  --rule:#d7dee4; --rule-soft:#e8edf1; --accent:#2251ff;
+  --urgent:#c0392b; --soon:#b7791f; --later:#00785a;
+  --sans:"IBM Plex Sans KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace; --bar:52px;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#0a1218; --card:#111c24; --navy:#04121b; --ink:#e7edf1; --ink-2:#bccad4; --muted:#8598a6;
+  --rule:#243542; --rule-soft:#1a2831; --accent:#6f95ff;
+  --urgent:#e8776a; --soon:#dfa945; --later:#4cc79c;
+}}
+*{box-sizing:border-box;min-width:0}
+html{padding-top:env(safe-area-inset-top,0px);background:var(--paper);-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 15px/1.6 var(--sans);font-variant-numeric:tabular-nums;overflow-x:hidden}
+a{color:var(--accent);text-underline-offset:2px}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:30;background:var(--navy);color:#eaf0f4;border-bottom:1px solid rgba(255,255,255,.08)}
+.bar-in{max-width:1080px;margin:0 auto;padding:0 20px;height:var(--bar);display:flex;align-items:center;gap:10px}
+.mark{display:flex;align-items:center;gap:9px;min-width:0;flex:1 1 auto;overflow:hidden}
+.mark b{font-size:15px;font-weight:600;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mark small{font:600 9.5px/1 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:#7fb2d9;white-space:nowrap;padding-left:9px;border-left:1px solid rgba(255,255,255,.18)}
+.nav{display:flex;align-items:center;gap:6px;flex:none}
+.nav a{display:inline-flex;align-items:center;height:30px;border-radius:2px;border:1px solid rgba(255,255,255,.22);background:transparent;color:#eaf0f4;padding:0 10px;font:600 11.5px var(--sans);letter-spacing:.04em;text-decoration:none}
+.nav a:hover{background:rgba(255,255,255,.1)}
+@media (max-width:719px){.mark small{display:none}.bar-in{padding:0 16px}.nav a{height:28px;font-size:11px;padding:0 8px}}
+.wrap{max-width:1080px;margin:0 auto;padding:26px 20px 64px}
+@media (max-width:719px){.wrap{padding:18px 16px 48px}}
+.lede{border-bottom:2px solid var(--ink);padding-bottom:14px;margin-bottom:8px}
+.eyebrow{font:600 10.5px/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.lede h1{margin:7px 0 0;font-size:clamp(20px,4.6vw,27px);line-height:1.2;font-weight:600;letter-spacing:-.02em}
+.lede p{margin:9px 0 0;font-size:13px;color:var(--muted);max-width:70ch;line-height:1.55}
+.asof{margin-top:8px;font:500 11.5px var(--mono);color:var(--muted)}
+.count{margin:18px 0 10px;font:600 10.5px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.list{display:flex;flex-direction:column;gap:0}
+.t{display:grid;grid-template-columns:72px 1fr auto;gap:0 18px;align-items:start;padding:16px 0;border-bottom:1px solid var(--rule-soft)}
+.t:first-child{border-top:1px solid var(--rule)}
+.dd{grid-row:1/3;align-self:start;font:700 12px var(--mono);letter-spacing:.02em;padding:4px 0 0}
+.dd .n{display:block;font-size:19px;line-height:1}
+.dd.urgent{color:var(--urgent)} .dd.soon{color:var(--soon)} .dd.later{color:var(--later)} .dd.closed{color:var(--muted)}
+.t h3{grid-column:2;margin:0;font-size:15.5px;line-height:1.4;font-weight:600}
+.t h3 a{color:var(--ink);text-decoration:none} .t h3 a:hover{color:var(--accent);text-decoration:underline}
+.t .scope{grid-column:2;margin:5px 0 0;font-size:13px;color:var(--ink-2);line-height:1.5}
+.t .meta{grid-column:2;margin:7px 0 0;display:flex;flex-wrap:wrap;gap:3px 14px;font:500 11.5px var(--mono);color:var(--muted)}
+.t .meta .country{color:var(--ink-2);font-weight:600}
+.t .right{grid-column:3;grid-row:1/4;text-align:right;font:500 11.5px var(--mono);color:var(--muted);white-space:nowrap;padding-top:2px}
+.t .right .dl{color:var(--ink-2);font-weight:600}
+@media (max-width:639px){
+  .t{grid-template-columns:58px 1fr;gap:0 14px}
+  .dd{grid-row:auto;grid-column:1}
+  .t h3,.t .scope,.t .meta{grid-column:2}
+  .t .right{grid-column:1/3;grid-row:auto;text-align:left;margin-top:8px;padding-top:0}
+}
+footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--rule);font-size:11.5px;line-height:1.6;color:var(--muted);max-width:76ch}
+.empty{color:var(--muted);padding:40px 0;text-align:center}
+</style>
+</head>
+<body>
+<header class="bar">
+  <div class="bar-in">
+    <div class="mark">
+      <svg width="22" height="22" viewBox="0 0 26 26" aria-hidden="true"><circle cx="13" cy="13" r="2.6" fill="#7fb2d9"/><g fill="none" stroke="#7fb2d9" stroke-width="1.3"><ellipse cx="13" cy="13" rx="11" ry="4.2"/><ellipse cx="13" cy="13" rx="11" ry="4.2" transform="rotate(60 13 13)"/><ellipse cx="13" cy="13" rx="11" ry="4.2" transform="rotate(120 13 13)"/></g></svg>
+      <b id="brand">원자력 공고 보드</b><small>Nuclear Tenders</small>
+    </div>
+    <div class="nav">
+      <a id="langbtn" href="#">EN</a>
+      <a id="backNav" href="index.html">← 뉴스</a>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="lede">
+    <div class="eyebrow" id="eyebrow">Public procurement notices</div>
+    <h1 id="h1">원자력 발주 공고</h1>
+    <p id="intro"></p>
+    <div class="asof" id="asof"></div>
+  </div>
+  <div class="count" id="count"></div>
+  <div class="list" id="list"><p class="empty">…</p></div>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let LANG = (location.search.match(/[?&]lang=(en|ko)/) || [])[1]
+  || (location.pathname.includes("/en/") ? "en" : (navigator.language||"ko").slice(0,2) === "en" ? "en" : "ko");
+const COUNTRY = {PL:{ko:"폴란드",en:"Poland"},CZ:{ko:"체코",en:"Czechia"},GB:{ko:"영국",en:"UK"},US:{ko:"미국",en:"USA"},
+  SA:{ko:"사우디",en:"Saudi Arabia"},FI:{ko:"핀란드",en:"Finland"},NL:{ko:"네덜란드",en:"Netherlands"},
+  RO:{ko:"루마니아",en:"Romania"},EE:{ko:"에스토니아",en:"Estonia"},CA:{ko:"캐나다",en:"Canada"}};
+const T = {
+  ko:{title:"원자력 공고 보드", brand:"원자력 공고 보드", h1:"원자력 발주 공고", eyebrow:"공개 발주 공고",
+    intro:"원자력 관련 공개 발주 공고를 마감 순으로 모았습니다. 내부 판단·우선순위는 담지 않으며, 상세와 마감은 반드시 원문으로 확인하세요.",
+    back:"← 뉴스", lang:"EN", open:"진행 중", closed:"마감",
+    published:"게시", deadline:"마감", dminus:d=>`D-${d}`, dday:"D-DAY", over:"마감",
+    cnt:n=>`진행 중 공고 ${n}건`,
+    foot:"공개된 공고 정보만 제공하는 참고용 페이지입니다. 법적 효력이 있는 내용은 각 발주 포털의 원문 공고를 따릅니다."},
+  en:{title:"Nuclear Tenders", brand:"Nuclear Tenders", h1:"Nuclear Procurement Notices", eyebrow:"Public procurement notices",
+    intro:"Public nuclear procurement notices, sorted by deadline. No internal assessment or prioritisation is included — always verify details and deadlines against the original notice.",
+    back:"← News", lang:"한국어", open:"Open", closed:"Closed",
+    published:"Posted", deadline:"Deadline", dminus:d=>`D-${d}`, dday:"D-DAY", over:"Closed",
+    cnt:n=>`${n} open notice${n===1?"":"s"}`,
+    foot:"A reference page listing public notice information only. The binding terms are those in each portal's original notice."}
+};
+const pick = (o, base) => (LANG === "en" ? (o[base+"_en"] || o[base]) : (o[base] || o[base+"_en"])) || "";
+function daysLeft(deadline){
+  const d = new Date(deadline + "T00:00:00"); const now = new Date(); now.setHours(0,0,0,0);
+  return Math.round((d - now) / 86400000);
+}
+function ddClass(n){ return n < 0 ? "closed" : n <= 3 ? "urgent" : n <= 10 ? "soon" : "later"; }
+
+async function boot(){
+  const t = T[LANG];
+  document.documentElement.lang = LANG;
+  document.title = t.title;
+  $("#brand").textContent = t.brand; $("#h1").textContent = t.h1;
+  $("#eyebrow").textContent = t.eyebrow; $("#intro").textContent = t.intro;
+  $("#backNav").textContent = t.back; $("#langbtn").textContent = t.lang;
+  $("#foot").textContent = t.foot;
+  $("#langbtn").onclick = e => { e.preventDefault(); const u = new URL(location.href); u.searchParams.set("lang", LANG === "ko" ? "en" : "ko"); location.href = u.toString(); };
+
+  let data;
+  try { const r = await fetch("data/tenders.json", {cache:"no-store"}); data = await r.json(); }
+  catch(e){ $("#list").innerHTML = `<p class="empty">${esc(LANG==="en"?"Could not load notices.":"공고를 불러오지 못했습니다.")}</p>`; return; }
+
+  $("#asof").textContent = (LANG==="en"?"Updated ":"갱신 ") + (data.updated || "");
+  const items = (data.tenders || []).map(x => ({...x, d: daysLeft(x.deadline)}))
+    .sort((a,b) => (a.d<0) - (b.d<0) || a.d - b.d || a.deadline.localeCompare(b.deadline));
+  const open = items.filter(x => x.d >= 0).length;
+  $("#count").textContent = t.cnt(open);
+
+  if(!items.length){ $("#list").innerHTML = `<p class="empty">${esc(LANG==="en"?"No notices.":"공고가 없습니다.")}</p>`; return; }
+  $("#list").innerHTML = items.map(x => {
+    const c = COUNTRY[x.country] ? COUNTRY[x.country][LANG] : x.country;
+    const ddText = x.d < 0 ? t.over : x.d === 0 ? t.dday : t.dminus(x.d);
+    const scope = pick(x,"scope");
+    return `<div class="t">
+      <div class="dd ${ddClass(x.d)}" title="${esc(t.deadline)} ${esc(x.deadline)}">${esc(ddText)}</div>
+      <h3><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(pick(x,"title"))}</a></h3>
+      ${scope ? `<p class="scope">${esc(scope)}</p>` : ""}
+      <div class="meta"><span class="country">${esc(c)}</span><span>${esc(x.buyer)}</span><span>${esc(x.portal)} ${esc(x.notice_no)}</span></div>
+      <div class="right"><div>${esc(t.published)} ${esc(x.published)}</div><div class="dl">${esc(t.deadline)} ${esc(x.deadline)}</div></div>
+    </div>`;
+  }).join("");
+}
+boot();
+</script>
+</body>
+</html>

@@ -150,6 +150,15 @@ description: 원전 해외영업팀용 일일 원자력 뉴스 브리핑을 만�
 
 알림·제외 건은 `pipeline-watch/poc/evaluation-log.md`에 같은 형식으로 이어 붙인다(판정자·검수일은 사람이 나중에 채움). 오탐이 나오면 판정 규칙 보완을 `poc/README.md §3`에 남긴다. python3로 JSON 문법을 검증한다.
 
+### 3-9. 공개 공고 보드 갱신 (공개 저장소)
+
+공개 뷰어의 공고 페이지(`tenders.html`)가 읽는 **공개 저장소**의 `data/tenders.json`을 갱신한다. 마감 전(`open.json`) 공고를 **공개 가능한 사실 필드만** 옮긴다.
+
+- 넣는 필드: `country`, `buyer`, `title`/`title_en`, `scope`/`scope_en`(공고 자체의 공개 설명), `portal`, `notice_no`, `published`, `deadline`, `url`. `updated`는 오늘 날짜.
+- **절대 넣지 않는다**(§3-6 기밀): 등급(`urgency` 긴급/주의/참고), 우리 사업과의 관계, 워치리스트 대상명, `our_scope_keywords` 매칭, 제안 대응. 이 페이지는 "우리가 무엇을 추적하는지"가 드러나지 않는 **중립적 공개 공고 모음**이다.
+- 마감이 지난 공고는 `data/tenders.json`에서도 뺀다(공개 저장소 커밋은 §8/§10 경로로, 비공개와 분리해서 올린다).
+- python3로 JSON 문법을 검증한다.
+
 ## 4. 공통 선별 규칙
 
 - 기사 건수 제한은 없다. 단 아래는 제외:

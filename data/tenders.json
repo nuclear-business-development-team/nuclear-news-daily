@@ -1,0 +1,33 @@
+{
+  "updated": "2026-10-01",
+  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
+  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
+  "tenders": [
+    {
+      "country": "PL",
+      "buyer": "Westinghouse Electric Poland Sp. z o.o.",
+      "title": "AP1000 격납용기(MV50) 제작 공급사 자격심사 — 폴란드 2·3호기",
+      "title_en": "AP1000 Containment Vessel (MV50) fabrication — supplier qualification, Poland Units 2·3",
+      "scope": "격납용기(Containment Vessel) 제작 공급사 자격심사",
+      "scope_en": "Supplier qualification for containment vessel fabrication",
+      "portal": "TED",
+      "notice_no": "652770-2026",
+      "published": "2026-09-22",
+      "deadline": "2026-10-12",
+      "url": "https://ted.europa.eu/en/notice/652770-2026/pdf"
+    },
+    {
+      "country": "PL",
+      "buyer": "Westinghouse Electric Poland Sp. z o.o.",
+      "title": "AP1000 차폐건물 SC 강판 벽패널(SC40) 제작 공급사 자격심사 — 폴란드 2·3호기",
+      "title_en": "AP1000 Shield Building SC steel wall panels (SC40) fabrication — supplier qualification, Poland Units 2·3",
+      "scope": "차폐건물 강판·콘크리트 복합(SC) 벽패널 제작 공급사 자격심사",
+      "scope_en": "Supplier qualification for shield-building steel-concrete composite wall panel fabrication",
+      "portal": "TED",
+      "notice_no": "651178-2026",
+      "published": "2026-09-22",
+      "deadline": "2026-10-12",
+      "url": "https://ted.europa.eu/en/notice/651178-2026/pdf"
+    }
+  ]
+}

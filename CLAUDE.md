@@ -12,6 +12,7 @@
 - `reports/YYYY-MM-DD.md` — 사람이 읽는 보고서
 - `scripts/build_report.py` — ★★★ 기사를 회사 내부 보고 서식(.docx)으로 생성. 결과는 `reports/docx/`. 서식 규격은 스크립트 상단에 고정
 - `index.html` — GitHub Pages 뷰어 (data/*.json을 읽어 표시, 빌드 없음)
+- `tenders.html` + `data/tenders.json` — 공개 공고 보드. **공개 가능한 사실 필드만**(등급·우리관계·제안대응 제외, SKILL §3-9)
 
 ## 실행
 

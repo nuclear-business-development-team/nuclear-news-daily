@@ -1,0 +1,71 @@
+{
+ "date": "2026-10-03",
+ "run_started": "2026-10-03T08:02:20+09:00",
+ "run_finished": "2026-10-03T08:18:19+09:00",
+ "run_minutes": 16.0,
+ "articles": 13,
+ "by_region": {
+  "overseas": 8,
+  "domestic": 5
+ },
+ "by_importance": {
+  "3": 4,
+  "2": 4,
+  "1": 5
+ },
+ "detection_lag_hours": {
+  "median": 23.04,
+  "max": 47.04,
+  "n": 13
+ },
+ "sources_ok": [
+  "World Nuclear News (RSS)",
+  "NucNet (RSS)",
+  "IAEA Top News (RSS)",
+  "POWER Magazine (RSS)",
+  "UK DESNZ (gov.uk) (Atom)",
+  "ANS Nuclear Newswire",
+  "TED 검색 API",
+  "더구루 (RSS)",
+  "더트래커 (RSS)",
+  "정책브리핑(korea.kr) 목록 — 원전·SMR",
+  "한국전력 보도·설명자료 게시판",
+  "ZDNet Korea",
+  "에너지데일리",
+  "전자신문",
+  "Cameco (웨스팅하우스 뉴스룸)"
+ ],
+ "sources_failed": [
+  {
+   "name": "Nuclear Engineering International (RSS)",
+   "reason": "stale — HTTP 200이나 최신 항목이 2026-06-17에서 멈춤"
+  },
+  {
+   "name": "한국수력원자력 보도자료 게시판",
+   "reason": "503"
+  },
+  {
+   "name": "정책브리핑(korea.kr) 보도자료 본문",
+   "reason": "본문 미제공 — HWP·ODT 첨부파일만. 과기정통부 10-01 SMR 보도자료 세부 미확인"
+  },
+  {
+   "name": "UK Find a Tender 공고 본문 PDF",
+   "reason": "403 — 11회차 연속"
+  },
+  {
+   "name": "핀란드 Hilma 공고 본문",
+   "reason": "JS 렌더링 — 본문 비어서 로드"
+  },
+  {
+   "name": "TED 공고 상세·PDF 페이지 (679476-2026)",
+   "reason": "본문 비어서 로드 — 통화 표기 확인 불가, 검색 API 값으로 대체"
+  }
+ ],
+ "languages": {
+  "en": 6,
+  "ro": 1,
+  "de": 1,
+  "ko": 5
+ },
+ "notes": "토요일(개천절) 08:02 KST 실행. 직전 브리핑(10-02 08:21 KST) 이후 신규 항목이 적어 수집 기간을 10-01까지 거슬러 잡고, 전 회차에서 누락된 10-01 항목 2건(카메코 입장문·과기정통부 SMR 보도자료)을 추가했다. 현지어 수집은 토요일 기준 매일 대상국 16개국을 훑었으나 검색에 걸린 기사가 모두 수집기간 밖이어서 채택 0건이다. 검색 색인의 과거 기사 오인 사례를 1건 차단했다 — UK FTS 011436-2026 「Owner's Engineer」(아멘텀 클린에너지, 3억 파운드)가 'October 2026' 질의에 신규로 떴으나 2026년 2월 낙찰 건으로 확인해 제외했다. NEI 피드는 응답 코드가 정상이어서 그동안 실패로 집계되지 않았으나 실제로는 3개월 넘게 갱신이 멈춘 상태임을 이번에 확인했다."
+}

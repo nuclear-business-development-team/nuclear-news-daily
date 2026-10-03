@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-04",
+  "run_started": "2026-10-04T08:02:23+09:00",
+  "run_finished": "2026-10-04T08:24:00+09:00",
+  "run_minutes": 22,
+  "articles": 4,
+  "by_region": {
+    "overseas": 3,
+    "domestic": 1
+  },
+  "by_importance": {
+    "3": 0,
+    "2": 3,
+    "1": 1
+  },
+  "detection_lag_hours": {
+    "median": 35.04,
+    "max": 47.04,
+    "n": 4
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "정책브리핑 korea.kr (원전·SMR·원자력 3회)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "TED Search API",
+    "ANS Nuclear Newswire",
+    "Neutron Bytes",
+    "worldnuclearreport.org",
+    "The Tribune (ANI 대체)",
+    "The Financial Express BD",
+    "esnews.kr",
+    "investing.com (CNBC 대체)",
+    "hankyung.com"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (neimagazine.com/feed)",
+      "reason": "stale — HTTP 200이나 최신 항목 2026-06-16에서 정지"
+    },
+    {
+      "name": "ANI News (aninews.in)",
+      "reason": "403"
+    },
+    {
+      "name": "CNBC (cnbc.com 본문)",
+      "reason": "403"
+    },
+    {
+      "name": "Rolls-Royce SMR press (rolls-royce-smr.com/press)",
+      "reason": "403"
+    }
+  ],
+  "languages": {
+    "en": 3,
+    "ko": 1
+  },
+  "note": "개천절(10/3)·일요일(10/4) 연휴로 전 출처 축소. WNN·NucNet·NEI·POWER·DESNZ 피드 최종 게재 10-02, TED 10-03·04 게시 0건(API 전수), 국내 공식 게시판 신규 0건."
+}

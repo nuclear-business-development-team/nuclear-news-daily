@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-10-05",
+      "article_count": 6,
+      "headline_ko": "폴란드 원자력계획 개정 일정 공개 — 1호 원전 상업운전 2036년으로 3년, 2호 원전 2040년으로 1년 연기. 2호 파트너는 2027년 미·불·캐 중 선정",
+      "headline_en": "Poland puts dates on its nuclear retreat: the first plant slips three years to 2036, the second one year to 2040, with its partner picked in 2027 from US, French and Canadian bidders"
+    },
+    {
       "date": "2026-10-04",
       "article_count": 4,
       "headline_ko": "미 에너지부, 비스트라에 42억 달러 대출 추진 보도 — 신규 건설이 아니라 기존 원전 출력증강(uprate)에 연방 금융이 붙기 시작",

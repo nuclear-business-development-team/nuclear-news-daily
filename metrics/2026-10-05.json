@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-05",
+  "run_started": "2026-10-05T08:02:17+09:00",
+  "run_finished": "2026-10-05T08:14:09+09:00",
+  "run_minutes": 11.9,
+  "articles": 4,
+  "by_region": {
+    "overseas": 3,
+    "domestic": 1
+  },
+  "by_importance": {
+    "3": 1,
+    "2": 1,
+    "1": 2
+  },
+  "detection_lag_hours": {
+    "median": 71.0,
+    "max": 95.0,
+    "n": 4
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "정책브리핑 korea.kr (원전·SMR·원자력 3회)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "TED Search API",
+    "ANS Nuclear Newswire",
+    "World Nuclear News (목록)",
+    "Neutron Bytes",
+    "전기신문",
+    "에너지데일리",
+    "Notes from Poland"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "stale_feed — HTTP 200이나 최신 항목이 2026-06-16자에서 멈춤(10건 전부)"
+    },
+    {
+      "name": "TED 공고 PDF 본문 (685349·684672·684493-2026)",
+      "reason": "PDF 텍스트 추출 실패 — 제목·발주처만 읽힘. TED Search API의 description-lot·total-value·total-value-cur 필드로 전량 대체 확인(미확인 잔량 0)"
+    },
+    {
+      "name": "economictimes.indiatimes.com · thehindubusinessline.com (인도 영문 매체)",
+      "reason": "EGRESS_BLOCKED — 검색 API가 user agent 차단으로 400 반환"
+    }
+  ],
+  "languages": {
+    "en": 3,
+    "ko": 1
+  },
+  "notes": "수집 구간에 토·일(10/3~10/4)이 통째로 포함되고 월요일 오전 실행이라 언론 쪽은 축소 수집. 공고 쪽은 월요일 발행으로 정상 — TED Search API로 게시일 전수 조회 결과 10/3·10/4 = 0건, 10/5 = 원자력 관련어 26건(관련 7건). 같은 질의를 WebSearch 색인으로 돌리면 10/5자 공고가 하나도 반환되지 않으므로 당일 공고는 API 경로로만 잡힌다. 현지어 수집은 월요일이므로 전체 국가(일일 + 월·목 대상) 훑음 — CZ·PL·SI·TR·KZ·UZ·VN·CN·JP에서 수집 구간 내 신규 건 없음."
+}

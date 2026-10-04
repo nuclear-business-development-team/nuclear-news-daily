@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04",
+ "updated": "2026-10-05",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
@@ -80,6 +80,71 @@
    "published": "2026-10-01",
    "deadline": "2026-12-07",
    "url": "https://ted.europa.eu/en/notice/-/detail/674253-2026"
+  },
+  {
+   "country": "RO",
+   "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
+   "title": "체르나보다 1·2호기 안전관련 구조물 경년거동 평가·분석·시험 용역 (45개월)",
+   "title_en": "Technical evaluation, analysis and testing of the time-dependent behaviour of safety-related structures at Cernavoda units 1 and 2 (45 months)",
+   "scope": "1·2호기 안전관련 구조물의 경년거동 평가·분석·시험. 원자로건물, 사용후핵연료 저장조 포함 핵보조설비건물(CSAN), 통합건물, 농축탑, EFCVS 건물, 비상수원(EWS) 건물, EPS-SCR 건물, HPECC 건물, 중간준위 폐기물 저장시설 등. CPV 71621000. 공고 기재 금액 2,856,500 EUR",
+   "scope_en": "Evaluation, analysis and testing of time-dependent behaviour of safety-related structures at units 1 and 2, covering the reactor building, the nuclear auxiliary services building with spent fuel bays, the integrated building, the enrichment tower, the EFCVS building, the emergency water source building, the EPS-SCR building, the HPECC building and the intermediate waste store. CPV 71621000. Notice states EUR 2,856,500",
+   "portal": "TED",
+   "notice_no": "685349-2026",
+   "published": "2026-10-05",
+   "deadline": "2026-10-29",
+   "url": "https://ted.europa.eu/en/notice/685349-2026/pdf"
+  },
+  {
+   "country": "RO",
+   "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
+   "title": "FCN 피테슈티 핵연료집합체 제작용 Zircaloy-4 선재 공급 (CR 45734)",
+   "title_en": "Supply of Zircaloy-4 wire for nuclear fuel bundle manufacture at the FCN Pitesti branch (CR 45734)",
+   "scope": "FCN 피테슈티 지점의 핵연료집합체 제작 공정 중 '패틴(patine)' 부품에 사용하는 Zircaloy-4 선재. 공고 기재 금액 1,255,240 USD",
+   "scope_en": "Zircaloy-4 wire used for the 'patine' component in nuclear fuel bundle manufacturing at the FCN Pitesti branch. Notice states USD 1,255,240",
+   "portal": "TED",
+   "notice_no": "683779-2026",
+   "published": "2026-10-05",
+   "deadline": "2026-11-03",
+   "url": "https://ted.europa.eu/en/notice/683779-2026/pdf"
+  },
+  {
+   "country": "DK",
+   "buyer": "Danish Decommissioning",
+   "title": "방사선 오염 검출 모니터 3대(+발주처 재량 2대) 및 부속품·용역·정비",
+   "title_en": "Procurement of radiation contamination detection monitors and associated goods, services and maintenance",
+   "scope": "방사선 검출장비 3대와 부속품 일체. 발주처 재량으로 2대 추가 구매 가능하며 확정 물량은 아니다. 공고 기재 금액 375,000 EUR",
+   "scope_en": "Three radiation detection devices with all necessary accessories; two further devices may be purchased at the buyer's discretion and are not a guaranteed commitment. Notice states EUR 375,000",
+   "portal": "TED",
+   "notice_no": "684493-2026",
+   "published": "2026-10-05",
+   "deadline": "2026-11-11",
+   "url": "https://ted.europa.eu/en/notice/684493-2026/pdf"
+  },
+  {
+   "country": "GB",
+   "buyer": "Great British Energy – Nuclear",
+   "title": "재무자문사(Lead Financial Advisor) 사전공고",
+   "title_en": "Lead Financial Advisor — planned procurement notice",
+   "scope": "GBE-N 사업·프로그램 전반에 대한 옵션 검토, 시장 평가, 자금조달 전략 권고. 사전공고(planned procurement notice)이며 경쟁적 유연절차. 관심 표명 마감 2026-11-06, 낙찰 목표 2026-12-01. 공고 기재 금액 50만 파운드(세포함)",
+   "scope_en": "Options review, market assessment and financing-strategy advice across GBE-N's projects and programme. A planned procurement notice under a competitive flexible procedure; expressions of interest close 6 November 2026 with award targeted for 1 December 2026. Notice states GBP 500,000 including tax",
+   "portal": "UK Find a Tender",
+   "notice_no": "089032-2026",
+   "published": "2026-09-21",
+   "deadline": "2026-11-06",
+   "url": "https://www.find-tender.service.gov.uk/Notice/089032-2026"
+  },
+  {
+   "country": "CZ",
+   "buyer": "ČEZ, a. s.",
+   "title": "두코바니 원전→브르노 열수송 사업 9503 OB01 — 열수송 기계실(SVT) 건설 및 탈염수 탱크 기초 공사",
+   "title_en": "Dukovany-to-Brno heat transmission project 9503 OB01 — construction of the heat transfer machine room (SVT) and demineralised water tank foundations",
+   "scope": "사업 '9503 — 두코바니 원전에서 브르노시로의 열 공급 — OB01 — HVB I·HVB II 열수송 기술설비' 중 열수송 기계실(SVT) 건설과 탈염수 탱크 기초 공사. CPV 45231112, 44163140. 협상절차이며 공고에 마감일이 기재돼 있지 않다",
+   "scope_en": "Within project '9503 — heat supply from Dukovany nuclear power plant to the city of Brno — OB01 — heat transmission technology for HVB I and HVB II', construction of the heat transfer machine room (SVT) and the demineralised water tank foundations. CPV 45231112 and 44163140. A negotiated procedure; the notice states no deadline",
+   "portal": "TED",
+   "notice_no": "677521-2026",
+   "published": "2026-10-01",
+   "deadline": null,
+   "url": "https://ted.europa.eu/en/notice/677521-2026/pdf"
   }
  ]
 }

@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-10-07",
+      "article_count": 8,
+      "headline_ko": "구글–콘스텔레이션, 기존 원전 11개 호기 출력증강으로 890MW 확보 — 43억 달러 투자·20년 PPA. 미국 수요 자금이 신규 건설 대신 기존 설비로 가는 흐름이 이틀 연속",
+      "headline_en": "Google and Constellation buy 890 MW out of eleven reactors already standing, with USD 4.3 billion of uprates behind it - the second day running that US demand money skipped new build"
+    },
+    {
       "date": "2026-10-06",
       "article_count": 14,
       "headline_ko": "미 에너지부, 비스트라에 42억 달러 조건부 대출 공식 확정 — 비버밸리·데이비스베시·페리 433MW 증설과 면허 후 20년 추가 운전. 같은 날 GAO는 NRC 인력 16% 감소 보고",

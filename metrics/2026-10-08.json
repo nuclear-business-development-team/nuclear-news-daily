@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-08",
+  "run_started": "2026-10-08T08:02:35+09:00",
+  "run_finished": "2026-10-08T08:24:00+09:00",
+  "run_minutes": 21,
+  "articles": 10,
+  "by_region": { "overseas": 6, "domestic": 4 },
+  "by_importance": { "3": 2, "2": 5, "1": 3 },
+  "detection_lag_hours": { "median": 23.04, "max": 23.04, "n": 10 },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS, 원자력 항목 없음)",
+    "정책브리핑 korea.kr (원전/SMR/원자력 3회 검색 + 첨부 PDF·HWPX 직접 수신)",
+    "한국수력원자력 보도자료 게시판",
+    "한국전력 보도·설명자료 게시판",
+    "TED 검색 API (api.ted.europa.eu)"
+  ],
+  "sources_failed": [
+    { "name": "Nuclear Engineering International (neimagazine.com/feed)", "reason": "리다이렉트 후 수신되나 최신 항목이 2026-06-17자로 고정 — 피드 미갱신" },
+    { "name": "hnonline.sk", "reason": "EGRESS_BLOCKED (검색 도메인 거부)" },
+    { "name": "nrc.nl", "reason": "EGRESS_BLOCKED (검색 도메인 거부)" },
+    { "name": "di.se", "reason": "EGRESS_BLOCKED (검색 도메인 거부)" },
+    { "name": "svd.se", "reason": "EGRESS_BLOCKED (검색 도메인 거부)" },
+    { "name": "lesechos.fr", "reason": "EGRESS_BLOCKED (검색 도메인 거부)" },
+    { "name": "lemonde.fr", "reason": "EGRESS_BLOCKED (검색 도메인 거부)" },
+    { "name": "nhk.or.jp", "reason": "EGRESS_BLOCKED (검색 도메인 거부)" },
+    { "name": "eubrief.sme.sk (euractiv.sk 이전 주소)", "reason": "403" },
+    { "name": "TED 공고 PDF·HTML 본문", "reason": "빈 응답 — 제목·발주처·게시일·금액은 TED 검색 API로 확보" },
+    { "name": "korea.kr 보도자료 본문", "reason": "본문이 첨부파일에만 게시 — PDF·HWPX를 직접 받아 파싱" }
+  ],
+  "languages": { "ko": 5, "en": 4, "sl": 1 }
+}

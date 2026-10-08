@@ -1,0 +1,360 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T09:05:00+09:00",
+  "period": {
+    "from": "2026-10-07",
+    "to": "2026-10-09"
+  },
+  "overview_ko": "발주 단계가 한 칸씩 앞으로 나간 날이다. 폴란드 PEJ가 1호기 장납기 품목 발주를 웨스팅하우스에 지시해 격납용기를 포함한 원자로건물 6개 핵심 품목이 설계에서 기자재 단계로 넘어갔고, EPC 본계약 협상은 연내 종료 예정이다. 슬로바키아는 ČEZ가 쥐고 있던 신규 원전 사업회사 JESS 지분 49%를 JAVYS가 1억 8,900만 유로에 사들여 국가 100% 소유로 정리했고, 총리는 보후니체 건설 가속을 공언했다 — 같은 주 슬로벤스케 엘렉트라르네가 66개월 총괄설계 용역을 낙찰한 사실과 겹쳐 읽힌다. 네덜란드는 AP1000 2기 FEED 1이 실제로 움직이기 시작했고(국내 항목 참조) 같은 보르셀레 부지에 토리존 100MWe 용융염로가 우렌코와 연료주기 협력에 들어갔다. 중국 톈완 7호기는 착공 5년 5개월에 계통연결해 러시아 VVER-1200의 공기 실적을 하나 더 남겼고, 미국은 라스트에너지 시범로가 에너지부 최종 안전분석을 통과해 NRC를 우회한 경로의 첫 실가동이 가동준비검토 하나만 남겨뒀다. 영업 관점: 폴란드·슬로바키아·네덜란드 세 건 모두 진입 경로가 발주처 직접 입찰이 아니라 노형 벤더의 설계·공급 컨소시엄 하위 계약으로 열렸다 — 웨스팅하우스 공급사 자격(ASME NQA-1)과 컨소시엄 내 역무 분담 구조를 확인하는 것이 세 시장에 공통으로 먹히는 선행 과제다.",
+  "overview_en": "Procurement moved a notch forward almost everywhere today. In Poland, PEJ instructed Westinghouse to begin ordering long-lead items for unit 1, pushing six key nuclear island components - the containment vessel among them - from design into equipment, with EPC negotiations due to close before year end. In Slovakia, JAVYS bought ČEZ's 49% of the new-build company JESS for EUR189 million, leaving the vehicle wholly state-owned, and the prime minister promised to accelerate construction at Bohunice; it reads alongside Slovenské elektrárne's newly awarded 66-month general-designer contract. The Dutch project has started moving in earnest (see the domestic section), and on the same Borssele site Thorizon has opened fuel-cycle cooperation with Urenco for a 100 MWe molten salt reactor. China's Tianwan 7 connected to the grid five years and five months after first concrete, another schedule record for the Russian VVER-1200, while in the US Last Energy's pilot cleared the DOE's final safety analysis, leaving a readiness review as the only step before the first reactor to operate outside the NRC commercial route. Sales angle: in all three of Poland, Slovakia and the Netherlands the way in opened as a subcontract inside the technology vendor's design and supply consortium rather than as a direct bid to the owner - which makes Westinghouse supplier qualification (ASME NQA-1) and a clear read on how scope is divided inside those consortia the one piece of groundwork that pays off in all three markets.",
+  "domestic_overview_ko": "현대건설이 웨스팅하우스와 계약해 네덜란드 신규 원전 FEED 1 설계 일부를 맡았다. 후보부지 기술검토·마스터플랜·사업수행전략이 현대건설 몫이고, 발주처는 2월 설립된 국영 NEO NL이며 FEED는 12~18개월, 노형은 AP1000 2기다. KHNP가 중도 철수한 시장에 국내 EPC가 노형 벤더 하도 구조로 들어간 사례라 진입 경로의 성격이 분명하다 — 회사도 최종 건설 수주 확정은 아니라고 선을 그었다. 정부 쪽에서는 한-이집트 정상회담 계기로 체결된 청정에너지 양해각서에 '원자력의 평화적 이용'이 협력분야로 명시됐고, 조현 외교장관은 맥코믹 미 상원의원(공화·펜실베이니아)에게 조선·원자력·안보 협력 강화와 투자 제도개선에 의회 지원을 요청했다. 국내에서는 원전 공론화위원회가 1차 회의를 열어 시민참여단 약 300명·2박 3일 숙의토론 계획을 의결하고 용역을 10월 13일 나라장터에 공고하기로 했다. 삼성물산 오세철 사장은 불가리아 에너지부 장관으로부터 SMR 도입 검토를 직접 제시받았다. 영업 관점: 유럽 신규 사업에서 국내 업체의 실제 진입구는 FEED·설계 하도였다는 것이 오늘 확인됐고, 같은 불가리아 안에서 대형은 현대건설·웨스팅하우스, SMR은 삼성물산·뉴스케일·GE버노바 히타치로 경로가 갈릴 조짐이 보인다 — 국내 업체 간 노형·권역 중복을 전제로 설계·엔지니어링 역무의 진입 지점을 어느 컨소시엄에서 잡을지 판단해야 한다.",
+  "domestic_overview_en": "Hyundai E&C has contracted with Westinghouse to take part of the FEED 1 design work for the Netherlands' two planned AP1000 units, covering technical review of candidate sites, a master plan and project execution strategy. The client is NEO NL, the state company set up in February, and FEED runs 12-18 months. This is a Korean EPC entering a market KHNP withdrew from, and doing so as a subcontractor to the technology vendor - the company itself was careful to say the contract does not confirm a construction award. On the government side, the clean-energy memorandum signed at the Korea-Egypt summit names peaceful use of nuclear energy as a field of cooperation, and Foreign Minister Cho Hyun asked Senator Dave McCormick (R-Pennsylvania) for Congressional support on nuclear, shipbuilding and security cooperation and on the regulatory changes Korean investors need. At home, the nuclear public-deliberation commission held its first meeting, approving a roughly 300-person citizen panel and a three-day deliberation, with the survey contract posting on 13 October. Samsung C&T's construction chief, meanwhile, was offered SMR cooperation directly by Bulgaria's energy minister. Sales angle: today confirmed that the real door into European new-build for Korean firms is FEED and design subcontracting, and that within a single country - Bulgaria - the large-reactor route may run through Hyundai E&C and Westinghouse while the SMR route runs through Samsung C&T with NuScale and GE Vernova Hitachi. With Korean companies overlapping across technologies and regions, the question is which consortium offers the opening for design and engineering scope.",
+  "countries_pulse": [
+    {
+      "country": "PL",
+      "name_ko": "폴란드",
+      "name_en": "Poland",
+      "stance": "expanding",
+      "signal": "발주가 설계에서 기자재로 넘어갔다 — PEJ가 1호기 장납기 6개 품목 발주를 지시하고 EPC 본계약 협상은 연내 종료 예정.",
+      "signal_en": "Procurement has shifted from design to equipment: PEJ has ordered six long-lead nuclear island items for unit 1, with EPC negotiations due to close this year.",
+      "article_ids": [
+        "2026-10-09-01"
+      ]
+    },
+    {
+      "country": "SK",
+      "name_ko": "슬로바키아",
+      "name_en": "Slovakia",
+      "stance": "expanding",
+      "signal": "신규 원전 사업회사 JESS가 국가 100% 소유로 정리되고 총리가 보후니체 건설 가속을 공언 — 같은 주 66개월 총괄설계 용역도 낙찰.",
+      "signal_en": "The new-build vehicle JESS passes into full state ownership and the prime minister promises to accelerate Bohunice, in the same week a 66-month general-designer contract was awarded.",
+      "article_ids": [
+        "2026-10-09-02"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "steady",
+      "signal": "ČEZ가 슬로바키아 JESS 지분 49%를 1억 8,900만 유로에 매각하고 국외 신규 사업에서 손을 뗐다 — 두코바니 국내 사업에는 변화 없음.",
+      "signal_en": "ČEZ sells its 49% of Slovakia's JESS for EUR189 million and steps back from new build abroad; nothing changes on its domestic Dukovany programme.",
+      "article_ids": [
+        "2026-10-09-02"
+      ]
+    },
+    {
+      "country": "NL",
+      "name_ko": "네덜란드",
+      "name_en": "Netherlands",
+      "stance": "expanding",
+      "signal": "AP1000 2기 FEED 1이 웨스팅하우스·현대건설 구조로 착수되고 우선부지 결정은 다음 달 예고 — 같은 부지에 토리존 100MWe 용융염로도 계획.",
+      "signal_en": "FEED 1 for two AP1000s is under way with Westinghouse and Hyundai E&C and a preferred-site decision is signalled for next month, while Thorizon plans a 100 MWe molten salt reactor on the same site.",
+      "article_ids": [
+        "2026-10-09-07",
+        "2026-10-09-03"
+      ]
+    },
+    {
+      "country": "CN",
+      "name_ko": "중국",
+      "name_en": "China",
+      "stance": "expanding",
+      "signal": "톈완 7호기가 착공 5년 5개월에 계통연결 — 러시아 VVER-1200의 공기 실적치가 하나 더 쌓였다.",
+      "signal_en": "Tianwan 7 reached grid connection five years and five months after first concrete, adding another schedule data point for the Russian VVER-1200.",
+      "article_ids": [
+        "2026-10-09-05"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "라스트에너지 시범로가 에너지부 최종 안전분석을 통과해 가동준비검토만 남았다 — NRC 상용 인허가를 우회한 경로의 첫 실가동이 임박.",
+      "signal_en": "Last Energy's pilot cleared the DOE's final safety analysis with only a readiness review left, bringing the first operating reactor licensed outside the NRC commercial route close.",
+      "article_ids": [
+        "2026-10-09-04"
+      ]
+    },
+    {
+      "country": "BG",
+      "name_ko": "불가리아",
+      "name_en": "Bulgaria",
+      "stance": "expanding",
+      "signal": "에너지부 장관이 AP1000 대형 사업과 별도로 SMR 도입 검토를 한국 건설사에 직접 제시 — 대형·SMR 경로가 갈릴 조짐.",
+      "signal_en": "The energy minister put SMR adoption directly to a Korean contractor as a track separate from the AP1000 programme, hinting the large and small routes may diverge.",
+      "article_ids": [
+        "2026-10-09-11"
+      ]
+    },
+    {
+      "country": "GB",
+      "name_ko": "영국",
+      "name_en": "United Kingdom",
+      "stance": "steady",
+      "signal": "기조 유지 — 우렌코 카펜허스트 HALEU 2031년 생산이 유럽 SMR 연료 일정의 기준점으로 재확인됐다.",
+      "signal_en": "Position unchanged: Urenco's 2031 HALEU start at Capenhurst is reaffirmed as the reference date for European SMR fuel schedules.",
+      "article_ids": [
+        "2026-10-09-03"
+      ]
+    },
+    {
+      "country": "EG",
+      "name_ko": "이집트",
+      "name_en": "Egypt",
+      "stance": "steady",
+      "signal": "한국과의 청정에너지 양해각서 협력분야에 '원자력의 평화적 이용'이 문구로 들어갔다 — 엘다바 4기는 로사톰 시공 그대로.",
+      "signal_en": "Peaceful use of nuclear energy is written into the clean-energy MOU with Korea, while Rosatom continues to build the four El Dabaa units.",
+      "article_ids": [
+        "2026-10-09-09"
+      ]
+    },
+    {
+      "country": "NO",
+      "name_ko": "노르웨이",
+      "name_en": "Norway",
+      "stance": "steady",
+      "signal": "기조 유지 — 연구로 3기의 해체 이관이 마무리 국면이고 규제기관이 36개월 기술자문 체계를 발주했다.",
+      "signal_en": "Position unchanged: the transfer of three research facilities into decommissioning is nearing completion and the regulator has tendered a 36-month technical advisory framework.",
+      "article_ids": [
+        "2026-10-09-06"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-09-01",
+      "region": "overseas",
+      "category": "large",
+      "importance": 3,
+      "language": "en",
+      "source": "World Nuclear News",
+      "published": "2026-10-08",
+      "url": "https://www.world-nuclear-news.org/articles/poland-begins-ordering-long-lead-components-for-first-ap1000",
+      "title": "Poland begins ordering long-lead components for first AP1000",
+      "title_en": "Poland begins ordering long-lead components for first AP1000",
+      "title_ko": "폴란드 PEJ, 1호기 장납기 기자재 발주 착수 — 웨스팅하우스에 격납용기 등 원자로건물 6개 핵심 품목 지시",
+      "countries": [
+        "PL"
+      ],
+      "summary_ko": "폴란드 원전사업자 PEJ가 웨스팅하우스에 1호기 장납기 품목(LLI) 발주를 지시했다. 격납용기와 관련 구조모듈을 포함한 원자로건물 6개 핵심 품목이 대상이며, 이번 단계는 기술문서·품질감독계획 작성과 공급사 선정·계약, 자재 조달 착수까지다. 제작·현장 인도는 추후 EPC 계약에 따른 별도 발주로 넘어간다. BOP 담당인 벡텔은 이미 자사 소관 장납기 품목을 먼저 발주했다.",
+      "summary_en": "PEJ has instructed Westinghouse to start ordering long-lead items for the first of three AP1000 units at Lubiatowo-Kopalino. The order covers six key nuclear island components, the containment vessel and associated structural modules among them, and this phase stops at technical documentation, quality and supervision plans, supplier selection and the start of material procurement; fabrication and site delivery come later under the EPC contract. Bechtel, responsible for the balance of plant, has already placed its own first long-lead orders.",
+      "sales_note": "발주가 설계 단계에서 기자재 단계로 넘어갔다는 신호다. PEJ·웨스팅하우스가 ASME NQA-1 인증 폴란드 기업의 경쟁 참여를 명시했으므로, 같은 품질프로그램을 요구하는 웨스팅하우스 공급사 자격은 폴란드·미국 양쪽에 재사용된다. EPC 본계약 협상이 연내 종료 예정이라 BOP 패키지 발주 시점도 '27년 상반기로 당겨볼 근거가 생겼다.",
+      "sales_note_en": "Procurement has moved from design into equipment, and PEJ and Westinghouse have said explicitly that Polish firms holding ASME NQA-1 certification will be able to compete. The same quality programme qualifies a supplier on both the Polish and the US Westinghouse projects, so the certification is worth treating as reusable. With EPC negotiations due to close by the end of 2026, balance-of-plant packages can reasonably be expected to come out in the first half of 2027.",
+      "related": [
+        "https://ted.europa.eu/en/notice/687978-2026/pdf"
+      ]
+    },
+    {
+      "id": "2026-10-09-02",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 3,
+      "language": "en",
+      "source": "World Nuclear News",
+      "published": "2026-10-08",
+      "url": "https://www.world-nuclear-news.org/articles/slovakia-buys-out-czech-stake-in-new-nuclear-project",
+      "title": "Slovakia buys out Czech stake in new nuclear project company",
+      "title_en": "Slovakia buys out Czech stake in new nuclear project company",
+      "title_ko": "슬로바키아 JAVYS, ČEZ 보유 JESS 지분 49% 인수 — 1억 8,900만 유로, 신규 원전 사업회사 국가 100% 전환",
+      "countries": [
+        "SK",
+        "CZ"
+      ],
+      "summary_ko": "체코 ČEZ가 보유한 신규 원전 사업회사 JESS(Jadrová energetická spoločnosť Slovenska) 지분 49%를 슬로바키아 국영 JAVYS가 1억 8,900만 유로(2억 1,100만 달러)에 인수했다. 지분 가치는 EY가 산정하고 KPMG가 확인했다. 피초 총리는 이로써 슬로바키아가 JESS를 100% 보유하게 되며 야슬로브스케 보후니체 신규 원전 건설을 \"크게 가속\"할 수 있다고 밝혔다. JESS는 2009년 12월 보후니체 인근 신규 설비 준비를 위해 설립된 회사다.",
+      "summary_en": "JAVYS, the Slovak state entity, has bought ČEZ's 49% holding in JESS, the company set up in December 2009 to prepare new capacity beside the existing Bohunice plant, for EUR189 million (USD211 million). EY valued the stake and KPMG confirmed the valuation. Prime Minister Fico said full state ownership will let Slovakia significantly accelerate construction at Jaslovské Bohunice. A US memorandum with Slovakia covering a state-owned American 1,200 MWe unit is linked to the project, though the article does not confirm the two are the same.",
+      "sales_note": "발주처 지배구조가 단일 국가 주체로 정리되면 의사결정 속도가 올라가고 조달 일정이 실체를 갖는다. 미국 측 1,200MWe 노형 양해각서가 함께 거론되는 만큼 노형은 미국계로 기울 가능성이 있고, 그 경우 한국 EPC·기자재의 진입 경로는 노형 벤더 공급망 쪽이다. 같은 날 슬로벤스케 엘렉트라르네가 66개월 총괄설계(Generálny projektant) 용역을 낙찰한 사실과 함께 보면 슬로바키아 엔지니어링 발주가 이미 시작된 국면이다.",
+      "sales_note_en": "A single state owner on the buyer side usually means faster decisions and a procurement schedule with real dates behind it. The US memorandum for a 1,200 MWe unit suggests the technology choice may lean American, in which case the route in for Korean EPC and equipment runs through that vendor's supply chain rather than the owner. Read together with Slovenské elektrárne's newly awarded 66-month general-designer contract, Slovak engineering procurement is already under way."
+    },
+    {
+      "id": "2026-10-09-03",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 2,
+      "language": "en",
+      "source": "World Nuclear News",
+      "published": "2026-10-08",
+      "url": "https://www.world-nuclear-news.org/articles/thorizon-urenco-to-cooperate-on-msr-fuel-cycle",
+      "title": "Thorizon, Urenco to cooperate on MSR fuel cycle",
+      "title_en": "Thorizon, Urenco to cooperate on MSR fuel cycle",
+      "title_ko": "토리존–우렌코, 용융염로 핵연료주기 협력 MOU — 100MWe 토리존 원 보르셀레 건설, 2034년 인도 목표",
+      "countries": [
+        "NL",
+        "GB"
+      ],
+      "summary_ko": "네덜란드 용융염로 개발사 토리존과 우렌코가 양해각서를 맺고 우렌코의 농축 서비스와 용융염 연료 공급망 역할을 검토한다. 핵연료주기 전반의 우라늄 이용률 개선과 감손우라늄의 미래 노형 연료 활용 가능성도 함께 본다. 토리존 원은 100MWe 소형 용융염로로 보르셀레에 계획돼 있고 용융염 형태의 HALEU가 필요하다. 우렌코의 영국 카펜허스트 선진연료시설은 2031년부터 HALEU를 생산할 예정이고, 토리존 원 인도 목표는 2034년이다.",
+      "summary_en": "Thorizon, the Dutch molten salt reactor developer, and Urenco have signed an MoU to examine Urenco's enrichment services and its place in a molten salt fuel supply chain, along with better uranium utilisation across the cycle and whether depleted uranium could fuel future reactors. Thorizon One is a 100 MWe molten salt SMR planned for Borssele and needs HALEU in molten salt form. Urenco's Advanced Fuels Facility at Capenhurst is expected to produce HALEU from 2031; Thorizon One is targeted for delivery by 2034.",
+      "sales_note": "보르셀레가 대형 AP1000 2기와 SMR 노선을 동시에 끌어안는 부지로 굳어지고 있다. 네덜란드 신규 사업에 접근할 때 발주처 NEO NL 외에 토리존 축의 별도 발주가 생길 수 있다는 뜻이고, 현대건설이 지난 3월 토리존과 기술협력 MOU를 맺은 전례가 있다. 연료 쪽은 우렌코 HALEU 2031년 가동이 유럽 SMR 일정의 공통 제약이다.",
+      "sales_note_en": "Borssele is hardening into a site that carries both the two large AP1000 units and a separate SMR track, which means the Dutch market may generate procurement from Thorizon as well as from NEO NL. Hyundai E&C signed a technology cooperation MoU with Thorizon back in March, so that second channel is already open to Korean players. On the fuel side, Urenco's 2031 HALEU start date is the common schedule constraint across European SMR projects."
+    },
+    {
+      "id": "2026-10-09-04",
+      "region": "overseas",
+      "category": "smr",
+      "importance": 2,
+      "language": "en",
+      "source": "World Nuclear News",
+      "published": "2026-10-08",
+      "url": "https://www.world-nuclear-news.org/articles/last-energy-texas-micro-modular-reactor-clears-safety-analysis",
+      "title": "Last Energy's Texas micro-modular reactor clears safety analysis",
+      "title_en": "Last Energy's Texas micro-modular reactor clears safety analysis",
+      "title_ko": "라스트에너지 텍사스 마이크로로, 미 에너지부 안전성분석서(DSA) 승인 — 남은 절차는 가동준비검토 하나",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "미 에너지부가 라스트에너지의 안전성분석서(DSA)를 승인했다. 에너지부 인허가 절차에서 가장 포괄적인 최종 안전분석 단계이며, 5월 승인된 예비 DSA에 이은 것이다. 다음은 임계·운전 승인 직전 마지막 단계인 가동준비검토(readiness review)다. 대상은 텍사스 브라이언의 텍사스A&M RELLIS 캠퍼스에 이미 건설을 마친 시범로 PWR-5로, 상용 노형 PWR-20(20MWe)과 같은 실규모 노심을 쓴다. 실증로는 NRC가 아닌 에너지부 원자로 시범프로그램으로 심사된다.",
+      "summary_en": "The US Department of Energy has approved Last Energy's Documented Safety Analysis, the final and most comprehensive safety review in the DOE authorisation process, following a Preliminary DSA approved in May 2026. Only a readiness review now stands between the project and authorisation for criticality and reactor operations. The unit is the PWR-5 pilot at the Texas A&M-RELLIS campus in Bryan, already built, which uses the same full-scale core as the commercial 20 MWe PWR-20. Demonstration reactors run through the DOE's Reactor Pilot Program rather than NRC commercial licensing.",
+      "sales_note": "에너지부 시범프로그램 경로가 NRC 상용 인허가를 우회해 실제 가동까지 간 첫 사례가 임박했다. 마이크로로는 공사 규모가 작아 당사 시공 역무와 직접 겹치지 않지만, 같은 경로를 쓰는 미국 개발사들의 부지·전력판매 확정이 빨라지면 BOP·설치 발주의 리드타임도 그만큼 짧아진다. 라스트에너지는 영국 웨일스에 PWR-20 4모듈 사업도 별도로 두고 있다.",
+      "sales_note_en": "The DOE pilot route is about to carry its first reactor all the way to operation without NRC commercial licensing. Microreactors are too small for our construction scope to matter directly, but as US developers using this route lock down sites and offtake faster, the lead time on balance-of-plant and installation packages shortens with them. Last Energy separately has a four-module PWR-20 project in Wales."
+    },
+    {
+      "id": "2026-10-09-05",
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "language": "en",
+      "source": "World Nuclear News",
+      "published": "2026-10-08",
+      "url": "https://www.world-nuclear-news.org/articles/chinas-tianwan-7-connected-to-the-grid",
+      "title": "China's Tianwan 7 connected to the grid",
+      "title_en": "China's Tianwan 7 connected to the grid",
+      "title_ko": "중국 톈완 7호기 계통연결 — VVER-1200, 2021년 5월 착공 후 5년여. 전 호기 가동 시 부지 9GWe 초과",
+      "countries": [
+        "CN",
+        "RU"
+      ],
+      "summary_ko": "중국 톈완 7호기가 10월 8일 첫 전력을 계통에 공급했다. 노형은 러시아 기도프레스 VVER-1200이고 2021년 5월 착공했다. 운영사는 장쑤핵전공사(CNNC 50%·중국전력투자 30%·장쑤궈신 20%)다. 앞으로 단계별 출력상승과 성능검증 시험을 거쳐 상업운전 조건을 충족해야 한다. 당초 상업운전 목표는 7호기 2026년·8호기 2027년이며, 8호기는 2022년 2월 착공했다. 부지는 러시아 VVER 4기와 ACPR1000 2기를 포함해 전 호기 가동 시 9GWe를 넘는다.",
+      "summary_en": "Tianwan unit 7 delivered its first electricity to the grid on 8 October, five and a half years after construction began in May 2021. The unit is a Russian Gidropress VVER-1200 operated by Jiangsu Nuclear Power Company, a joint venture of CNNC (50%), China Power Investment Corporation (30%) and Jiangsu Guoxin Group (20%). Power will now rise in stages through performance tests before the unit meets the conditions for commercial operation, originally targeted for 2026, with unit 8 - started in February 2022 - due in 2027. The site will exceed 9 GWe once all units run.",
+      "sales_note": "러시아 노형이 중국 부지에서 5년 5개월 공정으로 계통연결에 도달했다는 실적치다. 발주처 앞에서 공기 경쟁력을 다툴 때 로사톰이 들고 나올 숫자이므로, APR1400의 바라카 실적과 대비해 둘 필요가 있다. 특히 카자흐스탄·우즈베키스탄·이집트처럼 로사톰이 선점한 시장에서는 이 공정 실적이 직접 인용된다.",
+      "sales_note_en": "This is a hard schedule number: a Russian design reaching grid connection in five years and five months on a Chinese site. It is the figure Rosatom will put in front of buyers on schedule competitiveness, so it is worth holding alongside the APR1400's Barakah record. In markets Rosatom already holds - Kazakhstan, Uzbekistan, Egypt - it will be quoted directly."
+    },
+    {
+      "id": "2026-10-09-06",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 1,
+      "language": "en",
+      "source": "TED (EU 공공조달)",
+      "published": "2026-10-07",
+      "url": "https://ted.europa.eu/en/notice/690960-2026/pdf",
+      "title": "Procurement of consultancy services for nuclear security, including handling used fuel, radiation protection and risk assessment",
+      "title_en": "Norway's radiation and nuclear safety authority tenders 36-month regulatory consultancy, NOK30 million",
+      "title_ko": "노르웨이 방사선·원자력안전청(DSA), 규제업무 기술자문 용역 공고 — 36개월, 3,000만 노르웨이크로네, 11월 3일 마감",
+      "countries": [
+        "NO"
+      ],
+      "summary_ko": "노르웨이 방사선·원자력안전청(DSA)이 규제업무를 지원할 기술자문 용역을 공고했다. 기술문서 검토·평가와 검사 지원이 범위이고, 기간 36개월, 공고 기재 추정금액 3,000만 노르웨이크로네, 입찰 마감은 2026년 11월 3일 11:00(UTC)다. 대상 시설은 셸레르·할덴 연구로와 힘달렌 저준위·중준위 폐기물 처분·저장시설 3곳이다. 2018년 설립된 국영 노르스크 누클레에르데코미시오네링(NND)이 원 운영자 에너지기술연구소(IFE)로부터 시설을 넘겨받는 중이며 할덴은 이관을 마쳤다.",
+      "summary_en": "Norway's Directorate for Radiation Protection and Nuclear Safety has tendered a 36-month technical consultancy framework supporting its regulatory work, with an estimated value of NOK30 million and bids due 3 November 2026 at 11:00 UTC. The scope is reviewing and assessing technical documentation and supporting DSA during inspections. It covers Norway's three nuclear facilities: the Kjeller and Halden research reactors and the Himdalen low and intermediate level waste landfill and store. NND, the state decommissioning body created in 2018, is taking the sites over from the original operator IFE, with Halden already transferred.",
+      "sales_note": "규제기관 쪽 자문 용역이어서 시공·엔지니어링 역무와는 겹치지 않는다. 다만 노르웨이가 연구로 3기의 해체 이관을 마무리하는 국면이라는 사실은 북유럽 해체시장의 발주 시점을 읽는 데 쓰인다.",
+      "sales_note_en": "This sits on the regulator's side of the table, so it does not overlap with construction or engineering scope. What it does show is that Norway is finishing the transfer of three research facilities into decommissioning, which helps date when Nordic decommissioning work actually comes to market."
+    },
+    {
+      "id": "2026-10-09-07",
+      "region": "domestic",
+      "category": "large",
+      "importance": 3,
+      "language": "en",
+      "source": "World Nuclear News",
+      "published": "2026-10-08",
+      "url": "https://www.world-nuclear-news.org/articles/westinghouse-teams-up-with-hyundai-ec-for-dutch-feed-studies",
+      "title": "Westinghouse teams up with Hyundai E&C for Dutch FEED studies",
+      "title_en": "Westinghouse teams up with Hyundai E&C for Dutch FEED studies",
+      "title_ko": "웨스팅하우스, 네덜란드 신규 원전 FEED 1 설계에 현대건설 계약 — 부지 기술검토·마스터플랜·사업수행전략 담당",
+      "countries": [
+        "KR",
+        "NL"
+      ],
+      "summary_ko": "웨스팅하우스가 네덜란드 신규 원전 FEED 1 설계용역 일부를 수행할 업체로 현대건설과 계약했다. 현대건설 몫은 후보부지 기술검토, 마스터플랜, 사업수행전략이고 웨스팅하우스와 함께 현지 법령·인허가 요건·기술기준·일정 검토와 주요 리스크 대응방안·현지화 전략 수립도 맡는다. 발주처는 2월 설립된 국영 네덜란드원자력기구(NEO NL)이며, EDF와 웨스팅하우스가 8월 설계용역을 수주했다. FEED 1은 부지와 무관한 1a와 내각의 우선부지 결정 후 착수하는 1b로 나뉘고, 기간은 12~18개월이다. 노형은 AP1000 2기, 완공 목표는 2035년 전후다. 현대건설은 이번 계약이 최종 건설 수주 확정은 아니라고 밝혔다.",
+      "summary_en": "Westinghouse has contracted Hyundai E&C to carry out part of the FEED 1 design studies for the Netherlands' two planned reactors. Hyundai E&C's share covers technical review of candidate sites, a master plan and project execution strategies, and alongside Westinghouse it will review local law, licensing requirements, technical standards and schedules and set out risk countermeasures and localisation strategies. The client is NEO NL, the state company established in February, which awarded the design contracts to EDF and Westinghouse in August. FEED 1 splits into a site-independent 1a and a 1b that starts once the Cabinet takes a draft Preferred Site Decision, and runs 12-18 months. The plants would be two AP1000 units completed around 2035. Hyundai E&C said the contract does not confirm a construction award.",
+      "sales_note": "유럽 신규 사업의 FEED 단계 설계 역무에 국내 EPC가 노형 벤더 하도 구조로 들어간 사례다. 진입 경로가 발주처 직접 입찰이 아니라 노형 벤더 설계 컨소시엄의 하위 계약이라는 점이 핵심이고, 네덜란드는 KHNP가 중도 철수한 시장이라 팀코리아 단독 경로는 닫혀 있다. 부지 결정이 내달로 예고돼 FEED 1b 착수와 함께 후속 패키지 윤곽이 잡히므로, 웨스팅하우스 설계 컨소시엄 내 역무 분담 구조를 지금 확인해 둘 필요가 있다.",
+      "sales_note_en": "A Korean EPC has taken FEED-stage design scope on a European new-build - as a subcontractor to Westinghouse, not through a direct bid to the owner. That structure is the point: the Netherlands is a market KHNP withdrew from, so the Team Korea route on its own is closed and the way in runs through the technology vendor's design consortium. With the site decision signalled for next month and FEED 1b following it, the shape of later packages will firm up quickly, which makes understanding how scope is divided inside the Westinghouse consortium a now problem.",
+      "related": [
+        "https://thetracker.co.kr/View.aspx?No=4256192"
+      ]
+    },
+    {
+      "id": "2026-10-09-08",
+      "region": "domestic",
+      "category": "policy",
+      "importance": 2,
+      "language": "ko",
+      "source": "정책브리핑 (원전 공론화위원회)",
+      "published": "2026-10-08",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784608",
+      "title": "원전 공론화위원회, 1차 회의 열고 운영 원칙과 시민참여 방식 논의",
+      "title_ko": "원전 공론화위원회, 1차 회의 열고 운영 원칙과 시민참여 방식 논의",
+      "title_en": "Korea's nuclear public-deliberation commission holds first meeting, setting ground rules and a 300-strong citizen panel",
+      "countries": [
+        "KR"
+      ],
+      "summary_ko": "'전력수급기본계획을 위한 원전 공론화위원회'(위원장 은재호)가 10월 7일 10~14시 비즈허브 서울센터에서 1차 회의를 열어 운영규정(안)과 시민참여형 조사용역 계획(안)을 심의하고 공론화 추진방향(안)을 토의했다. 용역계획은 의결됐고 시민참여단은 약 300명을 지역·성별·연령 층별 무작위 추출로 구성해 사전학습 후 2박 3일 숙의토론에 참여시킨다. 용역은 10월 13일 나라장터에 공고한다. 운영규정은 분과위원회 필요성을 더 검토해 2차 회의에서 의결하고, 회의록은 위원회 확인을 거쳐 공개하며 주 1회 정기회의를 원칙으로 한다. 위원회는 결과를 다수 선택만으로 해석하지 않고 숙의 후 의견·판단 근거·공통점·주요 의견을 종합해 정리하기로 합의했으며, 특정 결론을 전제하지 않고 공통 수용영역·조건부 수용영역·잔존 쟁점을 도출한다. 공동 대변인은 이윤석·심성희 위원이다.",
+      "summary_en": "Korea's Nuclear Public Deliberation Commission for the Basic Plan for Electricity Supply and Demand, chaired by Eun Jae-ho, held its first meeting on 7 October and approved the plan for the citizen-participation survey contract while deferring its own operating rules to a second meeting. A citizen panel of about 300 people will be drawn by stratified random sampling on region, gender and age, study briefing material in advance, and then sit through a three-day deliberation. The contract goes out on the government procurement portal on 13 October. The commission agreed not to read the outcome as a simple majority but to set out post-deliberation views, the reasoning behind them, common ground and remaining points of dispute, without presupposing any conclusion. Minutes will be published after the commission's own review, and it will meet weekly.",
+      "sales_note": "국내 신규 원전 2기와 SMR 1기의 12차 전력수급기본계획 반영 여부가 이 절차의 결과를 거쳐 정해진다. 300명 숙의와 주 1회 회의, 10월 13일 용역 공고라는 일정이 확정된 만큼 결론 시점은 연내로 좁혀진다. 해외 입찰에서 자국 신규 건설 계획은 레퍼런스 연속성의 근거로 쓰이므로 결과 자체가 수출 설명자료의 변수다.",
+      "sales_note_en": "Whether two new large units and one SMR enter Korea's 12th electricity supply plan now runs through this process, and with a 300-person panel, weekly meetings and the survey contract posting on 13 October, the timeline narrows to a decision inside this year. A domestic new-build pipeline is what underwrites the continuity-of-reference argument in export bids, so the outcome feeds straight into the sales deck."
+    },
+    {
+      "id": "2026-10-09-09",
+      "region": "domestic",
+      "category": "policy",
+      "importance": 2,
+      "language": "ko",
+      "source": "정책브리핑 (기후에너지환경부)",
+      "published": "2026-10-08",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784647",
+      "title": "(참고) 한-이집트, 청정에너지에서 전력 기반시설까지 협력 확대",
+      "title_ko": "(참고) 한-이집트, 청정에너지에서 전력 기반시설까지 협력 확대 — 양해각서 2건, 협력분야에 '원자력의 평화적 이용' 포함",
+      "title_en": "Korea and Egypt sign two energy MOUs, with peaceful use of nuclear energy written into the clean-energy text",
+      "countries": [
+        "KR",
+        "EG"
+      ],
+      "summary_ko": "기후에너지환경부가 10월 8일 청와대에서 열린 한-이집트 정상회담을 계기로 이집트 전력·재생에너지부와 '청정에너지 분야 협력에 관한 양해각서'와 '전력 기반시설 협력 관계 구축에 관한 양해각서' 2건을 체결했다. 청정에너지 양해각서의 협력분야에는 태양광·육상풍력·바이오매스·폐기물에너지와 함께 '원자력의 평화적 이용'이 명시됐고, 협력방식은 정부 정책·프로그램 공유, 이행기관 지정, 세미나·워크숍, 기업 공동사업 지원과 교육·네트워크 구축이다. 전력 기반시설 쪽은 송배전망 확충, 노후설비 개·보수, HVDC, ESS 정책·기술 공유가 범위다. 추진배경에는 이집트의 2035 통합에너지 다변화 전략이 적시됐다.",
+      "summary_en": "At the Korea-Egypt summit on 8 October, Korea's Ministry of Climate, Energy and Environment signed two memoranda with Egypt's Ministry of Electricity and Renewable Energy: one on clean energy cooperation and one on building a power infrastructure partnership. The clean-energy text lists peaceful use of nuclear energy alongside solar, onshore wind, biomass and waste-to-energy as a field of cooperation, to be pursued through policy and programme sharing, designated implementing agencies, seminars and workshops, support for joint commercial projects and training and network building. The infrastructure side covers transmission and distribution expansion, refurbishment of ageing plant, HVDC and energy storage. Egypt's 2035 integrated energy diversification strategy is cited as the backdrop.",
+      "sales_note": "이집트는 엘다바 4기를 로사톰이 짓고 있는 시장이어서 노형 경쟁 여지는 없지만, 정부 간 틀에 원자력이 문구로 들어가면 기자재·정비·인력양성 쪽 후속 사업 발굴의 근거가 된다. 협력방식에 '이행기관 지정'과 '기업 공동사업 지원'이 들어간 만큼 실제 접점은 이행기관이 어디로 지정되는지에 달려 있다. 아프리카 시장 공동진출을 명시한 것도 기록해 둘 만하다.",
+      "sales_note_en": "Egypt's four El Dabaa units are being built by Rosatom, so there is no reactor competition to enter, but putting nuclear into a government-to-government text gives a basis for follow-on work in equipment, maintenance and training. Since the cooperation mechanism names designated implementing agencies and support for joint commercial projects, where the real access point sits depends on which agency gets designated. The explicit framing around joint entry into African markets is worth noting too."
+    },
+    {
+      "id": "2026-10-09-10",
+      "region": "domestic",
+      "category": "policy",
+      "importance": 2,
+      "language": "ko",
+      "source": "정책브리핑 (외교부)",
+      "published": "2026-10-08",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784670",
+      "title": "조현 장관, 데이브 맥코믹 미국 상원의원 면담(10.8.)",
+      "title_ko": "조현 외교장관–맥코믹 미 상원의원(공화·펜실베이니아) 조찬 면담 — 조선·원자력·안보 협력 강화와 투자 제도개선에 의회 지원 요청",
+      "title_en": "Korea's foreign minister asks Senator McCormick for Congressional backing on nuclear, shipbuilding and investment rules",
+      "countries": [
+        "KR",
+        "US"
+      ],
+      "summary_ko": "조현 외교부 장관이 10월 8일 방한 중인 데이브 맥코믹 미 상원의원(공화·펜실베이니아)과 조찬 면담을 갖고 한미관계와 한반도 평화를 논의했다. 조 장관은 9월 22일 한미 정상회담에서 재확인된 공동설명자료(JFS)의 가시적 성과 창출에 의원의 관심과 지원을 당부하고, 펜실베이니아주에 전략협력의 상징인 필리조선소가 있음을 상기하며 대미투자뿐 아니라 조선·원자력·안보 분야 협력 강화로 동맹을 격상시키기를 바란다고 말했다. 우리 기업의 투자 이행에 필요한 제도 개선에도 의회 차원의 관심을 기대했다. 맥코믹 의원은 한국의 대미 투자가 지역구 일자리 창출과 제조업 재건, 해양안보 강화에 기여한다고 평가하고 구체 방안 이행에 지원을 지속하겠다고 했다.",
+      "summary_en": "Foreign Minister Cho Hyun met Senator Dave McCormick (R-Pennsylvania) over breakfast in Seoul on 8 October. Cho asked for the senator's continued support in turning the Joint Fact Sheet - reaffirmed at the 22 September summit - into visible results, noted that Pennsylvania hosts the Philly Shipyard as a symbol of the two countries' strategic cooperation, and said he hoped cooperation would deepen not only in investment but in shipbuilding, nuclear energy and security. He also asked for Congressional attention to the regulatory changes Korean companies need to carry out their investments. McCormick credited Korean investment with creating jobs in his state, rebuilding manufacturing and strengthening US maritime security, and pledged continued support.",
+      "sales_note": "한미 원전 프레임워크(AP1000 6기·APR1400 2기)의 집행 단계에서 미 의회는 인허가·수출통제·투자 제도의 병목을 푸는 쪽에 있다. 펜실베이니아는 웨스팅하우스 본사가 있는 주이므로 해당 의원 창구는 노형 벤더 이해관계와 겹친다. 정부가 '제도 개선'을 명시적으로 요청한 사실은 APR1400 미 본토 진입에 아직 제도 장애가 남아 있다는 신호로 읽는다.",
+      "sales_note_en": "In the delivery phase of the Korea-US nuclear framework - six AP1000s and two APR1400s - Congress is where licensing, export-control and investment bottlenecks get cleared. Pennsylvania is Westinghouse's home state, so this particular channel overlaps with the vendor's own interests. That Seoul asked explicitly for regulatory changes reads as a signal that obstacles to putting an APR1400 on US soil have not all been removed."
+    },
+    {
+      "id": "2026-10-09-11",
+      "region": "domestic",
+      "category": "smr",
+      "importance": 2,
+      "language": "ko",
+      "source": "더구루",
+      "published": "2026-10-08",
+      "url": "https://www.theguru.co.kr/news/article.html?no=108006",
+      "title": "오세철 삼성물산 사장, 불가리아 에너지부 장관 만나 에너지 인프라 협업 논의",
+      "title_ko": "오세철 삼성물산 사장, 불가리아 에너지부 장관 만나 에너지 인프라 협업 논의 — 불가리아 측이 SMR 도입 가능성 제시",
+      "title_en": "Samsung C&T's construction chief meets Bulgaria's energy minister, who raises SMRs as an option",
+      "countries": [
+        "KR",
+        "BG"
+      ],
+      "summary_ko": "오세철 삼성물산 건설부문 사장이 10월 7일 현지시간 소피아에서 이바 페트로바 불가리아 에너지부 장관과 만났다. 페트로바 장관은 에너지저장장치(ESS)·양수발전·소형모듈원전(SMR)을 포함한 불가리아 에너지 인프라 사업 기회를 제시하며 원자력 발전을 \"중요한 선택지\"로 설명했고, 불가리아가 웨스팅하우스 AP1000 기술을 활용한 대형 원전 사업을 진행하면서 SMR 도입 가능성도 검토하고 있다고 했다. 오 사장은 에너지 인프라 투자를 검토하겠다고 답했고 양측은 현지 기업과 협의를 이어가기로 했다. 삼성물산은 뉴스케일파워와 GE버노바 히타치를 파트너로 유럽 SMR 진출을 추진하고 있다.",
+      "summary_en": "Oh Se-chul, head of Samsung C&T's construction division, met Bulgarian Energy Minister Iva Petrova in Sofia on 7 October local time. Petrova set out Bulgarian energy infrastructure opportunities including storage, pumped hydro and small modular reactors, called nuclear power an important option, and said Bulgaria is running a large reactor project on Westinghouse's AP1000 technology while also studying whether to adopt SMRs. Oh said Samsung C&T would consider investing in energy infrastructure, and the two sides agreed to continue talks with local companies. Samsung C&T is pursuing European SMR work with NuScale Power and GE Vernova Hitachi as partners.",
+      "sales_note": "불가리아 대형원전(코즐로두이 AP1000)은 현대건설·웨스팅하우스 컨소시엄이 설계계약을 쥐고 있는 사업인데, 발주국 장관이 다른 국내 건설사에 SMR을 별도 기회로 제시했다. 같은 나라 안에서 대형과 SMR이 서로 다른 한국 업체 경로로 갈릴 수 있다는 뜻이고, 삼성물산 쪽 파트너가 뉴스케일·GE버노바 히타치라는 점에서 노형도 갈린다. 발주 공고 단계는 아니므로 현재는 정부 접촉 수준으로만 본다.",
+      "sales_note_en": "Bulgaria's large reactor programme at Kozloduy sits with the Hyundai E&C-Westinghouse design consortium, yet the host government's energy minister has now put SMRs to a different Korean contractor as a separate opportunity. That implies large and small reactors in the same country could run through different Korean companies and, given Samsung C&T's partners are NuScale and GE Vernova Hitachi, different technologies too. Nothing has reached tender stage, so this stays at the level of government contact."
+    }
+  ]
+}

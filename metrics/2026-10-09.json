@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-09",
+  "run_started": "2026-10-09T08:02:35+09:00",
+  "run_finished": "2026-10-09T08:25:46+09:00",
+  "run_minutes": 23,
+  "articles": 11,
+  "by_region": {
+    "overseas": 6,
+    "domestic": 5
+  },
+  "by_importance": {
+    "3": 3,
+    "2": 7,
+    "1": 1
+  },
+  "detection_lag_hours": {
+    "median": 23.04,
+    "max": 47.04,
+    "n": 11
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS, 기간 내 항목 없음)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom, 기간 내 원자력 항목 없음)",
+    "더구루 (RSS)",
+    "더트래커 (RSS, 리다이렉트 추적 후 수신 — 원자력 1건)",
+    "정책브리핑 korea.kr (원전/SMR/원자력/공론화 4회 검색 + 첨부 PDF·HWPX 직접 수신)",
+    "한국수력원자력 보도자료 게시판 (홍보성 단신 1건, 선별 제외)",
+    "한국전력 보도·설명자료 게시판 (원자력 항목 없음)",
+    "TED 검색 API (api.ted.europa.eu — 발주처명 25개 + CPV 11종, 게시일 10일 창)"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (neimagazine.com/feed/)",
+      "reason": "리다이렉트 추적 후 수신되나 최신 항목이 2026-06-17자로 고정 — 피드 미갱신 (3회차 연속)"
+    },
+    {
+      "name": "TED 공고 본문 (PDF·HTML·XML)",
+      "reason": "202 빈 응답 — 제목·발주처·게시일·마감일·금액·사업범위는 TED 검색 API로 확보"
+    },
+    {
+      "name": "korea.kr 보도자료 본문",
+      "reason": "본문이 첨부파일에만 게시 — PDF·HWPX를 직접 받아 파싱"
+    },
+    {
+      "name": "korea.kr 첨부 다운로드",
+      "reason": "간헐적 연결 종료(ws_closed_mid_exchange) — 재시도로 2건 확보, 1건은 HWPX로 대체"
+    },
+    {
+      "name": "핀란드 Hilma (hankintailmoitukset.fi)",
+      "reason": "본문 JS 렌더링 — 8회차 연속 Fortum·Helen·TVO 공고 확인 불가"
+    },
+    {
+      "name": "UK Find a Tender 공고 본문",
+      "reason": "403 — 검색 색인만 이용, 기간 내 신규 원자력 공고 없음"
+    }
+  ],
+  "languages": {
+    "en": 7,
+    "ko": 4
+  }
+}

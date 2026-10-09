@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-10-10",
+      "article_count": 14,
+      "headline_ko": "美 NRC, 페르미 아메리카 AP1000 4기 환경영향평가서 초안 완료 — COL 예비 긍정 권고, 최종 EIS 12월 목표. 같은 주 영국·스웨덴에서는 개보수·계속운전이 신규 건설보다 먼저 집행",
+      "headline_en": "Washington's regulator puts four more AP1000s within reach: a completed draft EIS and a preliminary nod to Fermi America's licence, with the final statement due in December - while Britain and Sweden spent the week locking in life extension instead of new build"
+    },
+    {
       "date": "2026-10-09",
       "article_count": 11,
       "headline_ko": "웨스팅하우스, 네덜란드 AP1000 2기 FEED 1 설계에 현대건설 계약 — 후보부지 기술검토·마스터플랜·사업수행전략 담당. KHNP가 철수한 시장에 국내 EPC가 노형 벤더 하도로 진입, 부지 결정은 다음 달 예고",

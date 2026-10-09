@@ -1,0 +1,420 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T08:19:24+09:00",
+  "period": {
+    "from": "2026-10-08",
+    "to": "2026-10-10"
+  },
+  "overview_ko": "미국에서 대형·SMR·연료 세 축이 같은 주에 움직였다. NRC가 텍사스 프로젝트 마타도르의 AP1000 4기 환경영향평가서 초안을 완료하고 안전성 심사 성공을 전제로 건설운영일괄허가에 예비 긍정 권고를 냈으며(최종 EIS 12월 목표), 블루 에너지는 BWRX-300 5기 약 1.5GW의 건설허가 1단계를, 에너지부는 SiC 피복관 선도시험봉 공모(3년 최대 5,000만 달러)를 열었다. 유럽·중동에서는 신규 건설보다 개보수·계속운전과 규제 정비가 앞서 집행됐다. EDF가 사이즈웰 B 정비권을 프라마톰에 2040년까지 15년 더 묶었고, IAEA는 오스카르스함 3호기 계속운전 점검을 마쳤으며(60년 준비·80년 검토), EU는 튀르키예 규제기관 역량강화 400만 유로 용역을 공고했다. 튀르키예 아쿠유 1호기는 1차계통 수압시험을 24.5MPa로 완료해 연내 계통연결 목표를 유지했고, 다음 관문은 260℃ 이상 고온기능시험이다. 테레스트리얼 에너지는 IMSR의 비원자력 구역(TEF)을 '원자력 건설'에서 빼 달라는 토피컬 리포트를 NRC에 제출해 BOP를 원자력 인허가 공정에서 분리하는 시도를 공식화했다. 영업 관점: 오늘 묶인 세 건(사이즈웰 B LTSA 15년, 오스카르스함 80년 검토, TEF 분리 신청)은 모두 \"개보수·BOP가 신규 건설보다 먼저 발주된다\"는 같은 방향을 가리키므로, 유럽 진입 순서를 신규 입찰 대기에서 원설계사 LTSA 하위 역무와 BOP 선행 패키지로 바꿔 잡을 근거가 된다.",
+  "overview_en": "In the US, large reactors, SMRs and fuel all moved in the same week. The NRC completed the draft environmental impact statement for four AP1000s at Project Matador in Texas and issued a preliminary recommendation in favour of the combined operating licence subject to a successful safety review, with a final EIS targeted for December; Blue Energy filed part one of its construction permit for five BWRX-300s (about 1.5 GW); and the DOE opened a grant round for SiC cladding lead test rods worth up to USD50 million over three years. In Europe and the Middle East, refurbishment, life extension and regulatory build-out ran ahead of new build. EDF tied Sizewell B's maintenance to Framatome for another 15 years to 2040, the IAEA completed a long-term operation review at Oskarshamn 3 (60-year preparation with 80 under consideration), and the EU tendered EUR 4 million of capacity building for Türkiye's regulator. At Akkuyu 1, primary circuit hydraulic testing was completed at 24.5 MPa, keeping the end-2026 grid target in play, with hot functional tests above 260C the next gate. Terrestrial Energy formalised an attempt to separate the balance of plant from nuclear licensing, asking the NRC to confirm that its IMSR's Thermal and Electric Facility is not nuclear construction. Sales angle: the three items that landed today - a 15-year Sizewell B LTSA, 80-year thinking at Oskarshamn, and the TEF carve-out filing - all point the same way, that refurbishment and BOP packages reach the market before new build does, which argues for reordering European entry from waiting on new-build tenders to sub-scope inside designers' LTSAs and early BOP packages.",
+  "domestic_overview_ko": "주한체코대사가 두코바니를 두고 한국 선정의 주된 이유는 가격·기술이 아니라 공기·예산 준수에 대한 신뢰였다고 밝히면서, 체코 산업 참여율을 최대 60%로 끌어올리는 정부 목표와 한국 중소기업 유망 분야(기계·금속가공, 전기기기, 계측제어, 케이블, 펌프·밸브·배관, 터빈 기기, 품질보증·검사)를 함께 제시했다. 테멜린 확장에는 “체코 정부 정책·절차에 따라 결정”이라며 신중론을 유지했다. 같은 주 국내에서는 그 공기 준수 역량의 근거가 흔들린다는 수치가 나왔다. 원자력 관련 학과 재학생은 2017년 2,777명에서 2025년 2,071명으로 줄었고 2025년 졸업생 568명 중 원자력계 취업은 110명인데, 2025~2029년 예상 수요는 3,556명이다. 2024년 원자력산업 매출은 35조 9,160억원으로 전년 대비 11.7% 늘어 일감과 인력이 반대로 움직였다. 한편 대미 8기 구상(AP1000 6기·APR1400 2기)에서 APR1400 2기가 2025년 글로벌 합의의 1회 면제에 근거한다는 점이 분석으로 정리됐으나, 수출 가능 지역의 경계는 합의 조건이 비공개여서 확인되지 않는다. 영업 관점: 체코가 현지 참여율 60%를 공식 목표로 올린 지금, 국내 인력 부족은 비용 문제가 아니라 공기 리스크로 직결되므로 현지 인력·협력사 육성을 제안서의 리스크 관리 항목으로 전면에 올려야 한다.",
+  "domestic_overview_en": "The Czech ambassador in Seoul said Korea won Dukovany mainly on confidence that it would hold to schedule and budget rather than on price or technology, and set out the government's target of up to 60 percent Czech industry participation alongside the areas he sees for Korean SMEs: machinery and metalworking, electrical equipment, instrumentation and control, cables, pumps, valves and piping, turbine equipment, and quality assurance and inspection. On expanding Temelin he stayed cautious, saying it is for the Czech government to decide under its own policies and procedures. The same week brought figures suggesting the basis of that schedule credibility is thinning at home. Enrolment in nuclear-related programmes fell from 2,777 in 2017 to 2,071 in 2025, only 110 of 568 nuclear graduates in 2025 went into the sector, and projected demand for 2025-2029 is 3,556 people, while industry revenue reached KRW35.916 trillion in 2024, up 11.7 percent - work and workforce moving in opposite directions. Separately, analysis set out that in the eight-unit US framework (six AP1000, two APR1400) the two APR1400s rest on a one-time waiver of the January 2025 global settlement, while the territorial limits on Korean exports cannot be verified because the settlement terms are sealed. Sales angle: with Czechia now holding a 60 percent local participation target, the domestic workforce shortage converts directly into schedule risk rather than cost, so developing local labour and partners belongs at the front of our proposals as risk management.",
+  "countries_pulse": [
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "신규 부지 AP1000 4기 환경영향평가 초안 완료와 COL 예비 긍정 권고, BWRX-300 5기 건설허가 1단계 접수, SiC 피복관 5,000만 달러 공모가 같은 주에 겹쳤다 — 대형·SMR·연료 세 축이 동시에 진행.",
+      "signal_en": "In one week a greenfield four-unit AP1000 draft EIS with a preliminary favourable COL recommendation, part one of a five-unit BWRX-300 construction permit, and a USD50 million SiC cladding solicitation - large, SMR and fuel all moving at once.",
+      "article_ids": [
+        "2026-10-10-01",
+        "2026-10-10-08",
+        "2026-10-10-09"
+      ]
+    },
+    {
+      "country": "TR",
+      "name_ko": "튀르키예",
+      "name_en": "Türkiye",
+      "stance": "expanding",
+      "signal": "아쿠유 1호기 1차계통 수압시험 완료로 연내 계통연결 목표가 유지되고, EU는 같은 주 규제기관 역량강화 400만 유로 용역을 공고 — 사업 집행과 규제 정비가 병행.",
+      "signal_en": "Primary circuit hydraulic tests at Akkuyu 1 keep the end-2026 grid target alive, while the EU tendered EUR 4 million of regulator capacity building the same week - delivery and regulatory build-out advancing together.",
+      "article_ids": [
+        "2026-10-10-02",
+        "2026-10-10-06"
+      ]
+    },
+    {
+      "country": "GB",
+      "name_ko": "영국",
+      "name_en": "United Kingdom",
+      "stance": "steady",
+      "signal": "기조 유지 — 신규 SMR 사업은 별도로, 기존 유일 가압경수로 사이즈웰 B의 정비권이 원설계 계열 프라마톰에 2040년까지 15년 더 묶였다.",
+      "signal_en": "Steady - separately from the new SMR programme, maintenance of Sizewell B, the UK's only PWR, is tied to Framatome for another 15 years to 2040.",
+      "article_ids": [
+        "2026-10-10-03"
+      ]
+    },
+    {
+      "country": "FR",
+      "name_ko": "프랑스",
+      "name_en": "France",
+      "stance": "steady",
+      "signal": "기조 유지 — 프라마톰이 영국 가압경수로 정비 지위를 2040년까지 연장해 프랑스 공급망의 해외 개보수 기반이 유지됐다.",
+      "signal_en": "Steady - Framatome extended its position servicing the UK's PWR to 2040, keeping the French supply chain's foothold in overseas refurbishment.",
+      "article_ids": [
+        "2026-10-10-03"
+      ]
+    },
+    {
+      "country": "SE",
+      "name_ko": "스웨덴",
+      "name_en": "Sweden",
+      "stance": "steady",
+      "signal": "오스카르스함 3호기가 IAEA 계속운전 안전점검을 마쳤다 — 60년 운전 준비에 80년 연장 검토가 더해져, 신규 건설보다 기존 호기 수명연장이 먼저 집행되는 흐름.",
+      "signal_en": "Oskarshamn 3 completed an IAEA long-term operation safety review - preparation for 60 years with an 80-year extension under consideration, putting life extension ahead of new build in the execution order.",
+      "article_ids": [
+        "2026-10-10-05"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "주한대사가 체코 산업 참여율 '최대 60%' 목표를 공식 언급하고 테멜린 확장에는 신중론을 유지했다 — 두코바니 이행 실적이 후속 사업의 전제 조건.",
+      "signal_en": "The ambassador in Seoul put a target of up to 60 percent Czech industry participation on the record while staying cautious on expanding Temelin - delivery at Dukovany is the precondition for anything further.",
+      "article_ids": [
+        "2026-10-10-12"
+      ]
+    },
+    {
+      "country": "JP",
+      "name_ko": "일본",
+      "name_en": "Japan",
+      "stance": "expanding",
+      "signal": "산업협회가 1,200MWe 1기당 생애주기 경제효과 4.3조 엔·연 1.4만 명 고용 추산을 내놓으며 리플레이스 논의의 경제 논거를 보강했다 — 33기 중 15기 재가동 상태.",
+      "signal_en": "The industry body put a lifecycle impact of JPY4.3 trillion and 14,000 jobs a year per 1,200 MWe unit behind the replacement-reactor debate, with 15 of 33 operable reactors restarted.",
+      "article_ids": [
+        "2026-10-10-07"
+      ]
+    },
+    {
+      "country": "HU",
+      "name_ko": "헝가리",
+      "name_en": "Hungary",
+      "stance": "steady",
+      "signal": "기조 유지 — 팍시 원전이 원자력청 지정 500m 안전구역 내 사무동 신축 공사를 공고하는 수준의 일상 발주.",
+      "signal_en": "Steady - routine procurement, with Paks tendering an office building inside the 500-metre safety zone designated by the atomic energy authority.",
+      "article_ids": [
+        "2026-10-10-11"
+      ]
+    },
+    {
+      "country": "DK",
+      "name_ko": "덴마크",
+      "name_en": "Denmark",
+      "stance": "cautious",
+      "signal": "발전용 원자력이 없는 상태에서 방사성폐기물 최종처분장 제안서만 제출됐다 — 부지·처분방식 미확정, 운영개시 목표는 2073년.",
+      "signal_en": "With no nuclear generation, only a final waste repository proposal was filed - no site or disposal concept settled, and an operational target of 2073.",
+      "article_ids": [
+        "2026-10-10-10"
+      ]
+    },
+    {
+      "country": "INT",
+      "name_ko": "국제기구",
+      "name_en": "International",
+      "stance": "steady",
+      "signal": "IAEA는 스웨덴 계속운전 점검을, EU는 INSC로 튀르키예 규제기관 지원 용역을 돌렸다 — 국제기구 재원이 신규 건설보다 규제·계속운전 쪽에 투입되는 구도.",
+      "signal_en": "The IAEA ran a long-term operation review in Sweden and the EU tendered INSC support for the Turkish regulator - international funds flowing to regulation and life extension rather than new build.",
+      "article_ids": [
+        "2026-10-10-05",
+        "2026-10-10-06"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "region": "overseas",
+      "category": "large",
+      "importance": 3,
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-10-09/article-8479/fermi-america-blue-energy-make-strides-in-texas/",
+      "published": "2026-10-09",
+      "title": "Fermi America, Blue Energy make strides in Texas",
+      "title_en": "Fermi America, Blue Energy make strides in Texas",
+      "title_ko": "美 NRC, 페르미 아메리카 AP1000 4기 환경영향평가서 초안 완료 — 안전성 심사 통과 전제로 COL '예비 긍정' 권고, 최종 EIS 12월 목표",
+      "summary_ko": "미 NRC가 텍사스 '프로젝트 마타도르' 부지의 AP1000 4기 건설·운영을 위한 환경영향평가서(EIS) 초안을 완료하고, 안전성 심사가 성공적으로 끝나는 것을 전제로 건설운영일괄허가(COL)에 예비 긍정 권고를 냈다. 초안은 NRC 감독 하에 신청자가 직접 작성하는 '환경심사 가속화 시범사업'으로 만들어졌고, 공람기간은 10월 9일부터 11월 23일까지 45일(도켓 NRC-2026-0100), 최종 EIS는 12월이 목표다. 같은 기사에서 블루 에너지는 9월 16일 NRC에 포트빅토리아 가스-원자력 복합 사업의 건설허가 1단계(제한작업허가 포함)를 제출했고 BWRX-300 5기 약 1.5GW를 2032년 가동 목표로 두되 2단계 신청은 2027년 하반기로 예고했다.",
+      "summary_en": "The NRC has completed a draft environmental impact statement for four AP1000s at Fermi America's Project Matador campus in Texas and issued a preliminary recommendation in favour of the combined operating licence, conditional on a successful safety review. The draft was produced under the NRC's accelerated environmental review pilot, with the applicant writing it under NRC supervision; the 45-day comment period runs 9 October to 23 November (docket NRC-2026-0100) and a final EIS is targeted for December. The same report notes Blue Energy filed part one of its construction permit application, including a limited work authorisation, for its gas-to-nuclear plant at the Port of Victoria on 16 September, targeting five BWRX-300s (about 1.5 GW) in 2032, with part two due in the second half of 2027.",
+      "sales_note": "대미 투자 원전 8기(AP1000 6기 + APR1400 2기) 체제에서 AP1000 신규 부지의 인허가 선행 사례가 하나 더 확보된 셈이다. 신청자 작성 EIS 가속 시범사업이 작동한다는 점은 미국 내 사업 일정 가정을 앞당길 근거이므로, 우리 EPC·기자재 범위 제안 시 참조 일정으로 쓸 수 있다.",
+      "sales_note_en": "Under the eight-unit Korea-US framework (six AP1000 plus two APR1400), this adds another licensing precedent for a greenfield AP1000 site. That the applicant-drafted EIS pilot is working supports pulling forward schedule assumptions for US work, which is useful when pricing our EPC and equipment scope.",
+      "countries": [
+        "US"
+      ],
+      "id": "2026-10-10-01"
+    },
+    {
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/hydraulic-tests-completed-at-turkeys-akkuyu-1",
+      "published": "2026-10-09",
+      "title": "Hydraulic tests completed at Turkey's Akkuyu 1",
+      "title_en": "Hydraulic tests completed at Turkey's Akkuyu 1",
+      "title_ko": "튀르키예 아쿠유 1호기 1차계통 수압시험 완료 — 24.5MPa(운전압력 약 1.5배) 가압, 다음은 260℃ 이상 고온기능시험. 연내 계통연결 목표",
+      "summary_ko": "로사톰이 건설 중인 아쿠유 1호기에서 원자로·주냉각재펌프·증기발생기·가압기·연결배관을 포함한 1차계통 수압시험이 완료됐다. 정상운전압력 약 16MPa의 1.5배인 24.5MPa까지 가압했고 초기 단계에서 1차계통 수온은 135℃에 도달했으며, 시험 중 자동공정제어계통(APCS)도 시운전됐다. 다음 단계는 주냉각재펌프 4대를 260℃ 이상에서 확인하는 고온기능시험이며, 냉·온 시험을 모두 끝낸 뒤 핵연료 장전과 물리적 기동으로 넘어간다. 1호기는 연내 계통 공급이 목표다.",
+      "summary_en": "Hydraulic testing of the primary circuit at Akkuyu 1, covering the reactor, main circulation pumps, steam generators, pressuriser and connecting pipework, has been completed. Pressure was taken to 24.5 MPa, about 1.5 times the roughly 16 MPa normal operating pressure, primary water reached 135C in the initial stage, and the automated process control system was commissioned during the tests. Hot functional tests come next, checking the four main circulation pumps at 260C or above; both cold and hot tests must finish before fuel load and physical startup. Rosatom is building the four VVER-1200 units (4,800 MWe in total) in Mersin province under a build-own-operate model, and unit 1 is targeted to supply the Turkish grid by the end of 2026.",
+      "sales_note": "로사톰 BOO 모델 1호 수출 사업이 상업운전 문턱에 도달하면 튀르키예의 후속 사업(시놉·트라키아) 발주 논의가 되살아난다. 시놉은 러시아·한국이, 트라키아는 중국이 협의선으로 거론돼 왔으므로 1호기 성과가 공개되는 시점에 맞춘 접촉 계획이 필요하다.",
+      "sales_note_en": "Once Rosatom's first build-own-operate export project reaches commercial operation, Turkish follow-on projects at Sinop and Thrace move back onto the table. Russia and Korea have been named as the Sinop interlocutors and China for Thrace, so outreach should be timed to when unit 1's performance becomes public.",
+      "countries": [
+        "TR",
+        "RU"
+      ],
+      "id": "2026-10-10-02"
+    },
+    {
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/framatome-to-continue-maintaining-sizewell-b-plant",
+      "published": "2026-10-09",
+      "title": "Framatome to continue maintaining Sizewell B plant",
+      "title_en": "Framatome to continue maintaining Sizewell B plant",
+      "title_ko": "EDF, 사이즈웰 B 장기정비계약(LTSA) 15년 갱신 — 프라마톰이 2040년까지 원자로·증기발생기·주냉각재펌프·밸브 정비와 비파괴검사·공급망 조정 수행",
+      "summary_ko": "EDF UK 원자력운영부문이 프라마톰과 사이즈웰 B 장기정비계약(LTSA)을 2040년까지 15년간 갱신했다. 역무는 원자로·증기발생기 정비, 주냉각재펌프·밸브 정비, 비파괴검사, 공급망 조정과 전 세계 정비인력 운영을 포함한다. 프라마톰은 2008년부터 이 호기를 정비해 왔다. 사이즈웰 B는 설비용량 1,198MW로 영국 유일의 가압경수로다. 기사에 언급된 8억 파운드(10억 달러)는 향후 15년 계획예방정비 기간 공사에 쓰는 EDF의 개보수 재원으로, 프라마톰 계약금액이 아니다.",
+      "summary_en": "EDF UK's Nuclear Operations has renewed Framatome's long-term service agreement for Sizewell B for 15 years, through 2040. The scope covers reactor and steam generator services, maintenance of reactor coolant pumps and valves, non-destructive examination, supply chain coordination and management of global outage staff. Framatome has serviced the plant since 2008. Sizewell B, at 1,198 MW, is the UK's only pressurised water reactor. The GBP800 million (USD1 billion) in the report is EDF's separate refurbishment funding for work during planned outages over the next 15 years, not the value of the Framatome contract.",
+      "sales_note": "개보수·계속운전 시장에서 노형 원설계사가 15년 단위 정비권을 선점하는 구조가 반복되고 있다. 우리가 유럽 개보수 역무로 들어가려면 단독 입찰보다 원설계사 LTSA의 하위 역무(비파괴검사·중량물·설치)로 편입되는 경로를 먼저 검토할 필요가 있다.",
+      "sales_note_en": "In the refurbishment and long-term-operation market the original designer keeps locking up maintenance rights in 15-year blocks. To get into European refurbishment work, the realistic route is to be taken into the designer's LTSA as a sub-scope provider (NDE, heavy lift, installation) rather than bidding standalone.",
+      "countries": [
+        "GB",
+        "FR"
+      ],
+      "id": "2026-10-10-03"
+    },
+    {
+      "region": "overseas",
+      "category": "smr",
+      "importance": 2,
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/latest-terrestrial-energy-topical-report-submission-could-lead-to-faster-deployment",
+      "published": "2026-10-09",
+      "title": "Latest Terrestrial Energy topical report submission could lead to faster deployment",
+      "title_en": "Latest Terrestrial Energy topical report submission could lead to faster deployment",
+      "title_ko": "테레스트리얼 에너지, IMSR의 비원자력 구역(TEF)을 '원자력 건설'이 아니라고 확인해 달라는 토피컬 리포트 NRC 제출 — 인정되면 허가 전 착공·운전 가능",
+      "summary_ko": "테레스트리얼 에너지가 IMSR(용융염로) 플랜트의 비원자력 구역인 열·전력설비(TEF, 열전달·증기공급·전기계통)가 미 규정상 '원자력 건설'에 해당하지 않음을 확인해 달라는 토피컬 리포트를 NRC에 제출했다. 회사는 원자력계통이 TEF에 안전운전을 의존하지 않고 TEF에서 발생한 고장은 격리된다고 주장하며, 이미 NRC가 승인한 가정초기사건(PIE) 방법론 요소를 적용했다. 인정되면 TEF는 일반 산업설비로 취급돼 건설허가·운전면허 전에 짓고 천연가스 등 보조 열원으로 가동할 수 있고, 토피컬 리포트는 재평가 없이 후속 신청에 인용된다. 2026년 제출 목표 5건 이상 중 세 번째이며 NRC 결정 시기는 공개되지 않았다.",
+      "summary_en": "Terrestrial Energy has submitted a Thermal and Electric Facility topical report to the NRC, asking it to confirm that building the TEF, the non-nuclear part of an IMSR plant covering heat transfer, steam supply and electrical systems, is not nuclear construction under US rules. The company argues the nuclear systems do not depend on the TEF for safe operation and that TEF-originating failures are isolated from them, drawing on its already-approved postulated initiating events methodology. If accepted, the TEF would be treated as a conventional industrial project and could be built and operated before a construction permit and operating licence, bridged by an auxiliary heat source such as natural gas, and the report could be cited in later applications without re-evaluation. It is the third of at least five topical reports planned for 2026, and no NRC decision date has been given.",
+      "sales_note": "BOP를 원자력 인허가 공정에서 분리하려는 시도로, 성립하면 BOP FEED·시공 발주가 원자력 허가보다 수년 앞서 나오게 된다. 국내 시공·기자재 업계가 선진로 사업에서 들어갈 수 있는 패키지의 발주 시점을 앞당겨 봐야 하는 변화다.",
+      "sales_note_en": "This is an attempt to pull the balance of plant out of the nuclear licensing path. If it holds, BOP FEED and construction packages would go to market years ahead of the nuclear permit, which argues for pulling forward the assumed timing of the packages Korean constructors and suppliers can bid for on advanced-reactor projects.",
+      "countries": [
+        "US",
+        "CA"
+      ],
+      "id": "2026-10-10-04"
+    },
+    {
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "language": "en",
+      "source": "IAEA",
+      "url": "https://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-swedens-oskarshamn-nuclear-power-plant-0",
+      "published": "2026-10-09",
+      "title": "IAEA Concludes Long Term Operation Safety Review at Sweden's Oskarshamn Nuclear Power Plant",
+      "title_en": "IAEA concludes long-term operation safety review at Sweden's Oskarshamn plant",
+      "title_ko": "IAEA, 스웨덴 오스카르스함 3호기 계속운전(SALTO) 안전점검 종료 — 운영사 OKG 요청, 10월 1~10일 수행. 60년 운전 준비 중이며 80년 연장도 검토 대상",
+      "summary_ko": "IAEA가 운영사 OKG의 요청으로 오스카르스함 원전에서 계속운전(LTO) 안전점검(SALTO)을 10월 1~10일 수행하고 종료했다. 점검단은 계속운전에 대한 발전소의 준비 상태·조직·프로그램을 검토했으며, OKG가 안전한 계속운전을 준비하고 있다고 보고 남은 활동을 계획대로 이행하도록 권고했다. 3호기는 1985년 상업운전을 시작한 1,400MWe급 비등수형원자로로 OKG는 운전기간을 60년으로 늘리는 준비를 하고 있고 80년까지의 추가 연장도 검토 대상이다. 이번 점검은 앞서 수행된 예비(pre-SALTO) 점검의 후속이다.",
+      "summary_en": "At the operator OKG's request, the IAEA carried out and concluded a SALTO long-term operation safety review at Sweden's Oskarshamn plant from 1 to 10 October. The team reviewed the plant's readiness, organisation and programmes for long-term operation, found OKG preparing for safe LTO and encouraged it to complete the remaining activities as planned. Unit 3 is a 1,400 MWe boiling water reactor in commercial operation since 1985; OKG is preparing to extend its operating life to 60 years, with a further extension to 80 years also under consideration. The mission followed an earlier pre-SALTO review.",
+      "sales_note": "스웨덴은 신규 건설 논의와 별도로 기존 호기 수명연장을 먼저 집행하는 쪽으로 움직이고 있다. 80년 운전까지 검토 대상에 올라온 만큼 계측제어 교체·증기분리기 등 개보수 역무 발주가 신규 건설보다 먼저 나올 가능성을 전제로 북유럽 접근 순서를 잡아야 한다.",
+      "sales_note_en": "Sweden is executing life extension on its existing units ahead of, and separately from, its new-build debate. With 80-year operation now on the table, Nordic market entry should assume refurbishment packages such as I&C replacement and steam separators reach the market before any new build does.",
+      "countries": [
+        "SE",
+        "INT"
+      ],
+      "id": "2026-10-10-05"
+    },
+    {
+      "region": "overseas",
+      "category": "policy",
+      "importance": 2,
+      "language": "en",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/696701-2026/pdf",
+      "published": "2026-10-09",
+      "title": "Further strengthening the nuclear safety and radioprotection regulator in Türkiye (TR3.01/26)",
+      "title_en": "EU tenders further support to strengthen Türkiye's nuclear safety and radiation protection regulator",
+      "title_ko": "EU 집행위, 튀르키예 원자력규제청(NDK)·기술지원기관(NÜTED) 역량강화 용역 공고 — 400만 유로·42개월, 11월 12일 마감. 아쿠유 건설과 병행한 규제체계 정비 후속",
+      "summary_ko": "EU 집행위 국제협력총국(INTPA)이 국제원자력안전협력기구(INSC) 2026년 연간실행계획 A4 구성요소로 튀르키예 원자력규제청(NDK)과 기술지원기관(NÜTED)의 역량강화 용역을 공고했다. 추정금액 400만 유로, 기간 42개월, 입찰 마감은 2026년 11월 12일 12시다. 공고는 두 기관의 역량이 아쿠유 원전 건설과 병행해 개발되고 있고 2027년 4월 말 종료되는 기존 INSC 사업이 규제체계 정비와 EU·국제기준 정합을 지원해 왔다고 밝히며, 후속 지원 분야로 원자력안전, 방사선안전·방호, 방사성폐기물 안전관리, 방사성물질 수송안전, 검사, 안전-보안 접점을 들었다.",
+      "summary_en": "The European Commission's DG INTPA has tendered a service contract to strengthen Türkiye's nuclear regulatory authority NDK and its technical support organisation NÜTED, as component A4 of the 2026 annual action plan under the Instrument for International Nuclear Safety Cooperation. The estimated value is EUR 4 million over 42 months, with bids due 12 November 2026 at 12:00. The notice says the two bodies' capacity is being developed in parallel with construction of the Akkuyu plant and that an existing INSC intervention ending in late April 2027 has supported consolidating the regulatory framework and aligning it with EU and international standards; follow-on areas named are nuclear safety, radiation safety and protection, radioactive waste management, transport safety, inspection, and the safety-security interface.",
+      "sales_note": "발주처가 규제기관 지원이라 응찰 대상은 아니지만, 튀르키예 규제체계가 EU 기준으로 정합되는 속도가 후속 사업의 인허가 리스크를 결정한다. 시놉·트라키아 제안 시 인허가 일정 가정의 근거 자료로 쓸 수 있다.",
+      "sales_note_en": "Not a biddable scope for us since it is regulator-side support, but the pace at which Türkiye's regulatory framework aligns with EU standards sets the licensing risk on any follow-on project. It is usable evidence for licensing-schedule assumptions in a Sinop or Thrace proposal.",
+      "countries": [
+        "TR",
+        "INT"
+      ],
+      "id": "2026-10-10-06"
+    },
+    {
+      "region": "overseas",
+      "category": "policy",
+      "importance": 2,
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/jaif-estimates-economic-impact-from-nuclear-power-plants",
+      "published": "2026-10-09",
+      "title": "JAIF estimates economic impact from nuclear power plants",
+      "title_en": "JAIF estimates economic impact from nuclear power plants",
+      "title_ko": "일본원자력산업협회, 1,200MWe 1기당 생애주기 경제효과 4.3조 엔(272억 달러)·건설기간 연 1.4만 명 고용 추산 — 설비 국내조달률 90% 이상 제시",
+      "summary_ko": "일본원자력산업협회(JAIF)가 10월 2일 기자회견에서 1,200MWe 원전 1기의 생애주기 경제효과를 일본 경제 전체에 약 4.3조 엔(272억 달러), 건설기간 중 연간 약 1.4만 명 고용으로 추산한 보고서를 내놨다. 설비 국내조달률은 90% 이상으로 제시했고, 이미 일본 내에 보유한 핵연료만으로 2.9년간 발전이 가능하다는 에너지안보 수치도 함께 제시했다. 산정은 정부의 2025년 발전비용 검증 워킹그룹 자료와 총무성 2020년 산업연관표를 사용해 직접효과와 1차 파급효과만 계산한 것이다. 신규 건설 호기는 일본에 아직 없어 검증이 어렵다고 밝혔다.",
+      "summary_en": "At a 2 October press conference the Japan Atomic Industrial Forum put the lifecycle economic impact of a single 1,200 MWe reactor at about JPY4.3 trillion (USD27.2 billion) across the Japanese economy, with roughly 14,000 jobs a year during construction. It cited a domestic procurement rate above 90% for plant equipment and said nuclear fuel already held in Japan could sustain generation for 2.9 years. The estimate draws on the government's 2025 working group on verification of power generation costs and the ministry's 2020 input-output tables, and covers direct and first-order ripple effects only. JAIF noted that no newly built reactors exist in Japan yet, making verification difficult for now.",
+      "sales_note": "발주국 설득 논리를 산업협회가 수치로 만들어 내놓는 방식 자체가 참고 대상이다. 국내조달률·고용 효과는 우리가 체코·폴란드·베트남에서 현지화율을 협상할 때 쓰는 논거와 같은 축이므로, 같은 형식의 자국 산정치를 갖추는 것이 제안서 설득력에 직접 보탬이 된다.",
+      "sales_note_en": "The method matters as much as the numbers: an industry body packaging the case for the host country in hard figures. Domestic procurement share and employment are the same axes we negotiate localisation on in Czechia, Poland and Vietnam, so having an equivalent Korean set of figures would strengthen our bid narrative.",
+      "countries": [
+        "JP"
+      ],
+      "id": "2026-10-10-07"
+    },
+    {
+      "region": "overseas",
+      "category": "smr",
+      "importance": 2,
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-10-08/article-8474/nrc-reviews-lar-on-palisades-fuel-loading-incident-as-pioneer-smr-application-advances/",
+      "published": "2026-10-08",
+      "title": "NRC reviews LAR on Palisades fuel loading incident, as Pioneer SMR application advances",
+      "title_en": "NRC reviews licence amendment on Palisades fuel loading incident as Pioneer SMR application advances",
+      "title_ko": "홀텍, 팰리세이즈 연료집합체 기울어짐 사고로 긴급 면허변경 신청 — 전용 회수공구·대체 이송경로 1회 한정 적용. 같은 날 파이오니어 SMR-300 2기 예비안전성분석보고서 제출 확인",
+      "summary_ko": "팰리세이즈에서 연료집합체 DD41이 노심 H-1 위치에 장전된 뒤 장전기계가 놓는 순간 약 30도로 기울어져 상부지지판이 노심 쉬라우드에 기댄 상태가 됐다. 홀텍은 9월 30일 긴급 면허변경(LAR)을 제출해 10월 2일까지 승인을 요청했고, NRC 공람은 10월 8일 종료됐다. 신청 내용은 최종안전성분석보고서를 '1회 한정'으로 고쳐 전용 회수공구와 연료이송 캐니스터로 다른 장비·대체 이송경로를 쓰게 하는 것이며, NRC는 중대 위험성 고려사항이 없다는 예비판단과 연료봉 건전성·안전성 확인 결과를 밝혔다. 한편 홀텍 자회사 SMR LLC는 9월 30일 팰리세이즈 부지에 각 340MWe 가압경수로 2기(파이오니어-1·2)를 짓는 단계별 건설허가 신청의 예비안전성분석보고서를 제출했다.",
+      "summary_en": "At Palisades, fuel assembly DD41 was placed in core location H-1 and then tilted to about 30 degrees when the refuelling machine released it, leaving its upper tie plate leaning on the core shroud. Holtec filed an emergency licence amendment request on 30 September seeking approval by 2 October, and the NRC comment period closed on 8 October. The request would revise the updated final safety analysis report on a one-time-use basis to allow different equipment and an alternate travel path, using a custom recovery tool and a fuel transfer canister; the NRC made a preliminary determination of no significant hazards and says it has verified the fuel rods are intact and safe. Separately, Holtec subsidiary SMR LLC submitted on 30 September the preliminary safety analysis report for its phased construction permit application for two 340 MWe pressurised water reactors, Pioneer-1 and Pioneer-2, at the Palisades site.",
+      "sales_note": "재가동 1호 사례인 팰리세이즈가 연료장전 단계에서 사고를 냈다는 점은 기존 호기 재가동·계속운전 사업의 공정 리스크를 다시 보게 한다. 동시에 같은 부지 SMR 2기 인허가가 진행돼 '재가동 부지 + SMR 증설' 조합이 미국의 표준 사업형태로 굳어지고 있다.",
+      "sales_note_en": "That Palisades, the first restart case, hit trouble at fuel load is a reminder of execution risk in restart and life-extension work. At the same time the two-unit SMR licensing on the same site shows the restart-site-plus-SMR combination hardening into the standard US project shape.",
+      "countries": [
+        "US"
+      ],
+      "id": "2026-10-10-08"
+    },
+    {
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 2,
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-10-08/article-8473/doe-announces-grants-for-sic-cladding-research-and-testing/",
+      "published": "2026-10-08",
+      "title": "DOE announces grants for SiC cladding research and testing",
+      "title_en": "DOE announces grants for SiC cladding research and testing",
+      "title_ko": "미 에너지부, 탄화규소(SiC) 피복관 선도시험봉 개발 1단계 공모 — 3년간 최대 5,000만 달러, 신청 마감 12월 7일. 12피트 시험봉 제작·조사시험 목표",
+      "summary_ko": "미 에너지부가 10월 5일 '탄화규소 피복관 선도시험봉 개발 1단계' 보조금 공모를 발표했다. 3년간 최대 5,000만 달러 규모로 신청은 2026년 12월 7일까지 열려 있고, 연구로 조사시험용 12피트 SiC 피복 연료봉 제작을 목표로 한다. 계약담당자는 신청자가 아이다호국립연구소 ATR, 오크리지 HFIR, MIT 연구로 등을 쓸 것으로 예상했다. 2030년까지 연구·제작·장전·조사·조사후시험을 끝내는 일정이다. 사고저항성연료(ATF) 사업에서 제너럴 아토믹스·웨스팅하우스·프라마톰이 SiC 피복관을 다뤄 왔으나 이번 수혜자는 아직 결정되지 않았다.",
+      "summary_en": "On 5 October the US Department of Energy announced its Silicon Carbide Cladding Lead Test Rod Development Phase 1 grant opportunity, worth up to USD50 million over three years, with applications open until 7 December 2026. The aim is to fabricate 12-foot SiC-clad fuel rods for irradiation testing in research reactors; the contracting officer expects applicants to use Idaho National Laboratory's Advanced Test Reactor, Oak Ridge's High Flux Isotope Reactor, the MIT Research Reactor or other university reactors. The schedule runs research, fabrication, insertion, irradiation and post-irradiation examination through to 2030. General Atomics, Westinghouse and Framatome have previously worked on SiC cladding under the accident tolerant fuel programme; no recipients have been selected yet.",
+      "sales_note": "사고저항성연료 피복재가 실증 단계로 넘어가면 기존 호기의 출력증강·장주기 운전 여지가 커져 계속운전 개보수 수요를 밀어 올린다. 국내 핵연료·소재 업계가 미국 조사시험 인프라에 참여할 창구이기도 하므로 공모 요건을 확인할 가치가 있다.",
+      "sales_note_en": "Once accident-tolerant cladding moves into demonstration, it widens the room for uprates and longer cycles on existing units, which pushes up refurbishment demand. It is also a way for Korean fuel and materials suppliers to get onto US irradiation testing infrastructure, so the eligibility terms are worth reading.",
+      "countries": [
+        "US"
+      ],
+      "id": "2026-10-10-09"
+    },
+    {
+      "region": "overseas",
+      "category": "policy",
+      "importance": 1,
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-10-09/article-8476/danish-decommissioning-files-final-repository-proposal/",
+      "published": "2026-10-09",
+      "title": "Danish Decommissioning files final repository proposal",
+      "title_en": "Danish Decommissioning files final repository proposal",
+      "title_ko": "덴마크 해체공사(Danish Decommissioning), 방사성폐기물 최종처분장 제안서 제출 — 부지·처분방식 미확정, 2027년 준비착수·2031년 착공 일정",
+      "summary_ko": "덴마크 국영 해체전문기관 Danish Decommissioning이 10월 2일 자국 방사성폐기물 최종처분장 제안서를 민간안전청에 제출했다고 밝혔다. 회사는 이를 '앞으로 쌓아 올릴 틀'로 표현했고, 부지는 명시하지 않았으며 처분방식도 확정되지 않아 여러 폐기물 유형을 받아야 하는 조건 때문에 2017년 예비평가에서 제시된 구조들을 포함해 여러 안을 검토 중이다. 일정은 2027년 핵심인력 채용 등 준비작업 착수, 2031년 착공이며, 2018년 의회 결의(제안 B 90)는 500m 심도까지의 지질평가와 2073년 운영개시를 제시했다. 리쇠(Risø)의 침수대응 중간저장시설(NOL) 건축허가 신청도 2026년 중 예정돼 있다.",
+      "summary_en": "State-owned Danish Decommissioning said on 2 October it had filed a proposal for Denmark's final radioactive waste repository with the Danish Agency for Civil Security, describing it as a framework to build on. No site is named and the repository type is unsettled, with several structures under consideration, including some from a 2017 preliminary assessment, because the facility must accept different waste types. Preparatory work including core hiring starts in 2027 and construction in 2031; the 2018 parliamentary resolution B 90 called for geological assessment to 500 metres and an operational repository by 2073. An application for a building permit for the flood-resistant interim storage facilities at Risø is also planned during 2026.",
+      "sales_note": "",
+      "sales_note_en": "",
+      "countries": [
+        "DK"
+      ],
+      "id": "2026-10-10-10"
+    },
+    {
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "hu",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/696565-2026/pdf",
+      "published": "2026-10-09",
+      "title": "0105.sz. irodaépület építése",
+      "title_en": "Paks nuclear plant tenders construction of a three-storey office building inside the protected site",
+      "title_ko": "헝가리 MVM 팍시 원전, 보호구역 내 3층 사무동(연면적 2,744㎡) 신축 공사 공고 — 14개월, 11월 11일 마감. 건축허가 관청은 원자력청(OAH)",
+      "summary_ko": "MVM 팍시 원전(팍시 아토메르뮈)이 발전소 제3구역에 지상 3층(지상층+2층), 건축면적 944㎡·연면적 2,744㎡ 규모 사무동과 부대시설·상하수도·난방배관·마당·주차장을 전 공종 포함해 시공하는 공사를 공고했다. 공사기간 14개월, 입찰 마감은 2026년 11월 11일 11시다. 공고는 공사부지가 헝가리 원자력청(OAH)이 지정한 500m 안전구역 내 경비 운영구역에 있고 OAH가 건축·건축감독 관청으로 행위한다고 명시했다.",
+      "summary_en": "MVM Paks Nuclear Power Plant has tendered construction of a three-storey office building (ground plus two floors) in zone III of the plant, with a 944 sq m footprint and 2,744 sq m gross floor area, together with associated facilities, water and sewer utilities, heating mains, yards and parking, covering all trades. The contract period is 14 months and bids are due 11 November 2026 at 11:00. The notice states the site lies inside the 500-metre safety zone designated by the Hungarian Atomic Energy Authority, within the guarded operational area, where that authority acts as the building and building-supervision authority.",
+      "sales_note": "역무는 사무동 건축이라 우리 범위와 겹치지 않지만, 원자력청이 건축 관청으로 직접 행위하는 안전구역 내 일반 건축의 발주 조건을 읽을 수 있는 자료다.",
+      "sales_note_en": "The scope itself, an office building, does not overlap ours, but the notice shows the contracting conditions for ordinary construction inside a safety zone where the atomic energy authority is itself the building authority.",
+      "countries": [
+        "HU"
+      ],
+      "id": "2026-10-10-11"
+    },
+    {
+      "region": "domestic",
+      "category": "large",
+      "importance": 3,
+      "language": "ko",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=373192",
+      "published": "2026-10-09",
+      "title": "이반 얀차렉 주한체코대사 “두코바니 원전, 한·체코 수십 년 협력 출발점”",
+      "title_en": "Czech ambassador to Korea: Dukovany is the starting point of decades of Korea-Czech cooperation",
+      "title_ko": "이반 얀차렉 주한체코대사 “두코바니 원전, 한·체코 수십 년 협력 출발점” — 체코 산업 참여율 최대 60% 목표 제시, 테멜린 확장은 “정부 절차에 따라 결정” 신중론",
+      "summary_ko": "이반 얀차렉 주한체코대사가 전기신문 인터뷰에서 두코바니 사업을 체코 현대사에서 가장 중요한 기반시설 사업 중 하나로 규정하고, 한국이 선정된 주된 이유는 가격·기술만이 아니라 공기와 예산을 지킬 것이라는 신뢰였다고 밝혔다. 착공·완공 일정을 분명히 제시하고 미이행 시 계약상 위약을 받아들인 점, 국내 운영실적과 UAE 바라카 실적을 근거로 들었다. 체코 정부는 사업 전체에서 체코 산업 참여율을 최대 60%로 끌어올리는 것을 목표로 하며 수천 개 일자리를 기대하지만 참여율 상승이 한국 기업 역할 축소를 뜻하지는 않는다고 했다. 한국 중소기업 유망 분야로는 기계·금속가공, 전기기기, 계측제어, 케이블, 펌프·밸브·배관, 터빈 관련 기기와 품질보증·검사 용역을 들었다. 테멜린 확장에는 “체코 정부가 자국 정책과 절차에 따라 결정할 사안”이라며 신중한 태도를 보이고, 두코바니의 성공적 이행이 향후 협력의 토대가 된다고 했다.",
+      "summary_en": "In an interview with Electimes, Czech ambassador to Korea Ivan Jancarek called Dukovany one of the most important infrastructure projects in modern Czech history and said Korea was chosen mainly because of confidence that it would hold to schedule and budget, not price or technology alone. He pointed to Korea offering a clear construction start and completion schedule with contractual penalties for missed commitments, and to its domestic operating record and the UAE's Barakah project. The Czech government targets Czech industry holding up to 60 percent participation across the project and expects thousands of jobs, while saying higher Czech participation does not shrink the Korean firms' role. He named machinery and metalworking, electrical equipment, instrumentation and control, cables, pumps, valves and piping, turbine-related equipment and quality assurance and inspection services as promising areas for Korean SMEs. On expanding Temelin he was cautious, saying the Czech government will decide under its own policies and procedures, and that successful delivery at Dukovany would be the foundation for wider cooperation.",
+      "sales_note": "발주국 측이 현지화율 목표를 '최대 60%'로 공식 언급한 것은 체코 기자재·용역 패키지 배분 협상의 기준선이 된다. 동시에 테멜린 2기 옵션에 대해 발주국이 신중론을 유지하고 있으므로, 옵션 행사를 전제로 한 생산능력·인력 계획은 두코바니 공정 실적이 쌓이기 전까지 보수적으로 잡는 것이 안전하다.",
+      "sales_note_en": "The host government putting Czech industry participation at up to 60 percent on the record sets the baseline for negotiating how equipment and service packages are split. At the same time it is staying cautious on the two-unit Temelin option, so capacity and staffing plans that assume the option is exercised should stay conservative until there is delivery track record at Dukovany.",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "id": "2026-10-10-12"
+    },
+    {
+      "region": "domestic",
+      "category": "policy",
+      "importance": 2,
+      "language": "ko",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=373217",
+      "published": "2026-10-10",
+      "title": "원전 르네상스 왔는데…“일할 사람이 없다” 전문인력 부족에 발목",
+      "title_en": "Nuclear revival meets a workforce it does not have",
+      "title_ko": "원전 르네상스 왔는데…“일할 사람이 없다” 전문인력 부족에 발목 — 원자력 전공 재학생 2017년 2,777명→2025년 2,071명, '25~'29년 수요 3,556명",
+      "summary_ko": "국내 신규 원전 건설 재개와 미국 대형원전 8기(APR1400 2기·AP1000 6기), 베트남 수주 추진으로 일감은 늘지만 수행 인력이 부족해 국내외 건설에 차질이 우려된다는 보도다. 원자력 관련 학과 재학생은 2017년 2,777명에서 2025년 2,071명으로 8년간 700명 이상 줄었고, 2025년 원자력 전공 졸업생 568명 중 원자력 기업·정부출연연구소·협회 등에 취업한 인력은 110명이다. 2025~2029년 원자력 분야 예상 인력 수요는 3,556명이며, 원자력산업 인력은 2016년 3만 7,232명에서 2021년 3만 5,104명으로 줄었다. 반면 2024년 원자력산업 매출은 35조 9,160억원으로 전년 대비 11.7%, 2018년 대비 74.7% 늘었다. 일부 핵심 기자재는 제작에만 5년 이상 걸릴 수 있어 건설계획과 인력확보 계획을 함께 마련해야 한다는 지적이 나왔고, 현대건설·GS건설·대우건설이 원전·SMR 인력 채용을 확대하고 있다.",
+      "summary_en": "Korean nuclear work is growing with domestic new build resuming, eight large US units (two APR1400 and six AP1000) and a Vietnamese bid in preparation, but the specialist workforce to execute it is short enough to threaten schedules at home and abroad. Enrolment in nuclear-related university programmes fell from 2,777 in 2017 to 2,071 in 2025, a drop of more than 700 over eight years, and of 568 nuclear graduates in 2025 only 110 went to nuclear companies, government research institutes or industry bodies. Projected demand for 2025-2029 is 3,556 people, while the nuclear industry workforce fell from 37,232 in 2016 to 35,104 in 2021. Industry revenue, by contrast, reached KRW35.916 trillion in 2024, up 11.7 percent year on year and 74.7 percent on 2018. With some critical components taking more than five years to manufacture, the report argues construction plans need matching workforce plans; Hyundai E&C, GS E&C and Daewoo E&C are all expanding nuclear and SMR hiring.",
+      "sales_note": "해외 입찰에서 우리가 파는 것이 공기 준수 능력인데, 그 근거인 전문인력 풀이 수요 대비 부족하다는 수치가 공개됐다. 체코가 현지 참여율 60%를 목표로 하는 상황과 겹쳐 보면, 현지 인력·협력사 육성을 비용이 아니라 공기 리스크 관리 수단으로 제안에 반영할 필요가 있다.",
+      "sales_note_en": "What we sell in overseas bids is the ability to hold schedule, and the figures now show the specialist pool behind that claim is short of demand. Read together with Czechia's 60 percent local participation target, developing local labour and partners should go into our proposals as schedule-risk management rather than as a cost item.",
+      "countries": [
+        "KR",
+        "US",
+        "VN"
+      ],
+      "id": "2026-10-10-13"
+    },
+    {
+      "region": "domestic",
+      "category": "policy",
+      "importance": 2,
+      "language": "en",
+      "source": "Neutron Bytes (기고 분석)",
+      "url": "https://neutronbytes.com/2026/10/08/how-westinghouse-and-korea-carve-up-the-nuclear-reactor-export-market/",
+      "published": "2026-10-08",
+      "title": "How Westinghouse and Korea Carve Up the Nuclear Reactor Export Market",
+      "title_en": "How Westinghouse and Korea carve up the nuclear reactor export market",
+      "title_ko": "[분석] 웨스팅하우스와 한국의 원전 수출시장 분할 — 대미 8기는 AP1000 6기·APR1400 2기이고 APR1400 2기는 2025년 합의의 '1회 면제'에 근거. 수출권 지역 제한은 조건 비공개로 확인 불가",
+      "summary_ko": "원자력 분석가 기고가 한·미 수출 구도를 정리했다. 확인되는 사실은 ①2025년 1월 웨스팅하우스·한전·한수원이 소송을 끝내는 글로벌 합의를 발표하고 세부 조건은 비공개로 두었다는 점, ②2026년 10월 합의된 미국 내 대형원전 최대 8기 구상이 AP1000 6기와 APR1400 2기로 구성되며 APR1400 2기는 2025년 합의에 대한 1회 면제에 근거한다는 점, ③한국 기업이 새로 협상한 상한 아래에서 웨스팅하우스에 기술·용역·연료 대가를 계속 지급한다는 점(상한 규모는 비공개), ④2025년 11월 13일 한·미 공동브리핑이 123협정과 미국 법에 부합하는 범위에서 한국의 농축·사용후핵연료 재처리 '절차'를 지지했다는 점이다. 사우디 두와이힌은 약 1.4GWe급 가압경수로 2기로 입찰자는 중국핵공업집단·한전·로사톰·EDF이고 웨스팅하우스는 입찰자가 아니다. 기고는 한수원이 북미·EU(체코 제외)·영국·일본·우크라이나에서 신규 수주 입찰을 못 한다고 전하지만, 합의 조건이 비공개여서 이 범위는 확인되지 않는다.",
+      "summary_en": "An analyst's guest post maps the Korea-US export structure. The confirmable parts: in January 2025 Westinghouse, KEPCO and KHNP announced a global settlement ending their litigation and kept the detailed terms confidential; the October 2026 framework for up to eight large reactors on US soil comprises six AP1000 and two APR1400, with the APR1400 units resting on a one-time waiver of the 2025 settlement; Korean firms continue paying Westinghouse for technology, services and fuel under a newly negotiated cap whose size is undisclosed; and a 13 November 2025 joint briefing said Washington supports the process toward Korean enrichment and spent fuel reprocessing, consistent with the 123 agreement and subject to US law. Saudi Arabia's Duwaiheen calls for two PWRs of about 1.4 GWe with CNNC, KEPCO, Rosatom and EDF bidding and Westinghouse not among them. The post also reports that KHNP cannot bid for new plants in North America, the EU excluding Czechia, Britain, Japan or Ukraine, but with the settlement terms sealed that territorial scope cannot be verified.",
+      "sales_note": "수출 가능 지역의 경계가 비공개 합의에 걸려 있다는 점이 영업 기획의 전제 조건이다. 우리처럼 노형 벤더가 아닌 시공·용역 주체는 같은 제한을 직접 받지 않을 수 있으므로, 금지 지역으로 거론되는 시장에서는 '팀코리아 수주'가 아니라 노형 벤더 하도·컨소시엄 편입 경로를 기본안으로 두는 것이 현실적이다.",
+      "sales_note_en": "That the boundary of where Korea may sell sits inside a sealed settlement is a planning premise, not a detail. As a construction and services player rather than a reactor vendor we may not be bound by the same restriction, so in the markets said to be off limits the default plan should be entering as a vendor subcontractor or consortium member rather than as a Team Korea prime.",
+      "countries": [
+        "KR",
+        "US",
+        "SA"
+      ],
+      "id": "2026-10-10-14"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-10",
+  "run_started": "2026-10-10T08:02:40+09:00",
+  "run_finished": "2026-10-10T08:23:02+09:00",
+  "run_minutes": 20,
+  "articles": 14,
+  "by_region": {
+    "overseas": 11,
+    "domestic": 3
+  },
+  "by_importance": {
+    "3": 2,
+    "2": 10,
+    "1": 2
+  },
+  "detection_lag_hours": {
+    "median": 23.04,
+    "max": 47.04,
+    "n": 14
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS, 기간 내 신규 항목 없음 — 최신 2026-10-07)",
+    "IAEA Top News (RSS — 제목·게재일만 확보, 본문 402)",
+    "POWER Magazine (RSS, 원자력 신규 항목은 중복 1건)",
+    "UK DESNZ gov.uk (Atom, 기간 내 원자력 항목 없음)",
+    "ANS Nuclear Newswire (목록 페이지 + 기사 본문)",
+    "더구루 (RSS — 원자력 2건, 모두 기존 사건 중복)",
+    "더트래커 (RSS, 리다이렉트 추적 후 수신 — 원자력 1건, 중복)",
+    "정책브리핑 korea.kr (원전/SMR/원자력 3회 검색 — 기간 내 신규 항목 없음, 10/9 공휴일·10/10 토요일)",
+    "한국수력원자력 보도자료 게시판 (최신 2026-10-07 홍보성 단신, 선별 제외)",
+    "한국전력 보도·설명자료 게시판 (원자력 항목 없음)",
+    "전기신문 원자력 섹션 목록 페이지 (국내 2건 확보)",
+    "TED 검색 API (api.ted.europa.eu — 전문검색 10종, 게시일 10/8~10/10 창)",
+    "UK Find a Tender OCDS API (/api/1.0/ocdsReleasePackages — 1,364건 조회, 신규 경로 확보)"
+  ],
+  "sources_failed": [
+    {
+      "name": "IAEA 기사 본문 (iaea.org/newscenter)",
+      "reason": "402 Payment Required — 제목·게재일은 공식 RSS, 본문 사실은 검색 색인으로 대체"
+    },
+    {
+      "name": "Nuclear Engineering International (neimagazine.com/feed/)",
+      "reason": "리다이렉트 추적 후 수신되나 최신 항목이 2026-06-17자로 고정 — 피드 미갱신 (4회차 연속)"
+    },
+    {
+      "name": "TED 공고 본문 (PDF·HTML·XML)",
+      "reason": "202 빈 응답 — 제목·발주처·게시일·마감일·금액·사업범위는 TED 검색 API 필드로 확보"
+    },
+    {
+      "name": "UK Find a Tender 공고 본문 페이지",
+      "reason": "403 — 다만 이번 회차에 OCDS API로 공고 데이터 직접 조회에 성공"
+    },
+    {
+      "name": "핀란드 Hilma (hankintailmoitukset.fi)",
+      "reason": "본문 JS 렌더링 — 9회차 연속 Fortum·Helen·TVO 공고 확인 불가 (검색 색인으로 과거 낙찰 1건만 확인)"
+    }
+  ],
+  "languages": {
+    "en": 11,
+    "ko": 2,
+    "hu": 1
+  }
+}

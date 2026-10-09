@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09",
+ "updated": "2026-10-10",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
@@ -210,6 +210,71 @@
    "published": "2026-10-07",
    "deadline": null,
    "url": "https://ted.europa.eu/en/notice/689563-2026/pdf"
+  },
+  {
+   "country": "TR",
+   "buyer": "European Commission, INTPA - International Partnerships",
+   "title": "EU 집행위(INTPA) — 튀르키예 원자력규제청(NDK)·기술지원기관(NÜTED) 역량강화 용역",
+   "title_en": "Further strengthening the nuclear safety and radioprotection regulator in Türkiye (TR3.01/26)",
+   "scope": "원자력안전·방사선방호·방사성폐기물 안전관리·수송안전·검사 분야 규제역량 강화 용역. 추정 400만 유로, 기간 42개월",
+   "scope_en": "Service contract strengthening regulatory capacity in nuclear safety, radiation protection, radioactive waste management, transport safety and inspection. Estimated EUR 4 million over 42 months",
+   "portal": "TED",
+   "notice_no": "696701-2026",
+   "published": "2026-10-09",
+   "deadline": "2026-11-12",
+   "url": "https://ted.europa.eu/en/notice/696701-2026/pdf"
+  },
+  {
+   "country": "DE",
+   "buyer": "European Commission, DG JRC - Joint Research Centre",
+   "title": "EU 집행위 JRC 카를스루에 — 핫셀용 베타·감마 차폐창 설계·제작·납품",
+   "title_en": "Supply of a hot cell gamma shielding window for JRC Karlsruhe",
+   "scope": "고방사선 환경 작업 육안감시용 주문제작 차폐창 설계·제작·납품. 기간 60개월",
+   "scope_en": "Design, production and delivery of a custom beta/gamma shielding window for visual monitoring in a high-radiation environment. 60 months",
+   "portal": "TED",
+   "notice_no": "695182-2026",
+   "published": "2026-10-08",
+   "deadline": "2026-11-09",
+   "url": "https://ted.europa.eu/en/notice/695182-2026/pdf"
+  },
+  {
+   "country": "HU",
+   "buyer": "MVM Paksi Atomerőmű Zrt.",
+   "title": "헝가리 MVM 팍시 원전 — 보호구역 내 3층 사무동 신축 공사 (전 공종)",
+   "title_en": "Construction of a three-storey office building at the Paks nuclear power plant",
+   "scope": "건축면적 944㎡·연면적 2,744㎡ 사무동과 부대시설·상하수도·난방배관·마당·주차장 시공. 기간 14개월. 부지는 원자력청(OAH) 지정 500m 안전구역 내",
+   "scope_en": "Office building of 944 sq m footprint and 2,744 sq m gross floor area with associated facilities, water and sewer utilities, heating mains, yards and parking. 14 months. Site lies inside the 500 m safety zone designated by the Hungarian Atomic Energy Authority",
+   "portal": "TED",
+   "notice_no": "696565-2026",
+   "published": "2026-10-09",
+   "deadline": "2026-11-11",
+   "url": "https://ted.europa.eu/en/notice/696565-2026/pdf"
+  },
+  {
+   "country": "GB",
+   "buyer": "UK Atomic Energy Authority",
+   "title": "UKAEA 컬햄 J5 초고압변압기 3대 개보수 (자산수명연장 프로그램)",
+   "title_en": "J5 Super Grid Transformer refurbishment, UKAEA Culham",
+   "scope": "컬햄 캠퍼스 초고압변압기 3대 개보수. 추정 200만 파운드(부가세 제외)",
+   "scope_en": "Refurbishment of three super grid transformers on the Culham campus under an asset life extension programme. Estimated GBP 2 million excluding VAT",
+   "portal": "UK FTS",
+   "notice_no": "094949-2026",
+   "published": "2026-10-07",
+   "deadline": "2026-11-05",
+   "url": "https://www.find-tender.service.gov.uk/Notice/094949-2026"
+  },
+  {
+   "country": "GB",
+   "buyer": "Nuclear Waste Services Limited",
+   "title": "영국 Nuclear Waste Services — 부지특성조사 전문용역 지원(SCPSS) 프레임워크 3개 로트",
+   "title_en": "Site Characterisation Professional Services Support (SCPSS) framework, three lots",
+   "scope": "부지특성조사 기획·기술자문 등 3개 로트 프레임워크. 추정 1,380만 파운드(부가세 제외). 마감일 공고 데이터 미기재",
+   "scope_en": "Three-lot framework covering site characterisation planning and technical advisory services. Estimated GBP 13.8 million excluding VAT. No submission deadline stated in the notice data",
+   "portal": "UK FTS",
+   "notice_no": "095106-2026",
+   "published": "2026-10-08",
+   "deadline": null,
+   "url": "https://www.find-tender.service.gov.uk/Notice/095106-2026"
   }
  ]
 }

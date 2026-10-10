@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-10-11",
+      "article_count": 0,
+      "headline_ko": "신규 기사 0건 — 10월 10~11일(토·일) 수집 기간에 해외·국내 모두 신규 건이 없었다. 피드·목록·공고 API·현지어 검색을 전부 돌려 '기간 내 0건'을 확인했으며, TED·UK Find a Tender 공고도 신규 0건",
+      "headline_en": "A genuinely empty weekend: nothing new overseas or in Korea across the 10-11 October window, confirmed by running every feed, listing page, procurement API and local-language search - with zero fresh notices on TED and UK Find a Tender too"
+    },
+    {
       "date": "2026-10-10",
       "article_count": 14,
       "headline_ko": "美 NRC, 페르미 아메리카 AP1000 4기 환경영향평가서 초안 완료 — COL 예비 긍정 권고, 최종 EIS 12월 목표. 같은 주 영국·스웨덴에서는 개보수·계속운전이 신규 건설보다 먼저 집행",

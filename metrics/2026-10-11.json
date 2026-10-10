@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-11",
+  "run_started": "2026-10-11T08:02:30+09:00",
+  "run_finished": "2026-10-11T08:12:00+09:00",
+  "run_minutes": 10,
+  "articles": 0,
+  "by_region": {
+    "overseas": 0,
+    "domestic": 0
+  },
+  "by_importance": {
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "detection_lag_hours": {
+    "median": 0,
+    "max": 0,
+    "n": 0
+  },
+  "sources_ok": [
+    "World Nuclear News",
+    "NucNet",
+    "IAEA Top News",
+    "POWER Magazine",
+    "UK DESNZ (gov.uk)",
+    "ANS Nuclear Newswire",
+    "정책브리핑(korea.kr)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "더구루",
+    "더트래커",
+    "TED 검색 API",
+    "UK Find a Tender OCDS API"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "stale feed — 최신 항목 2026-06-16, 리다이렉트 추적 후에도 동일"
+    },
+    {
+      "name": "더트래커 (RSS)",
+      "reason": "stale feed — 최신 항목 2026-10-08, 기간 내 갱신 없음"
+    }
+  ],
+  "languages": {},
+  "note": "수집 기간 10/10~10/11(토·일) 신규 기사 0건. 수집 경로 차단이 아니라 게재 자체가 없음을 각 경로에서 확인(보고서 부록 표 참조). TED API는 10/08~10/10 창으로 동작 확인 후 10/10~10/11 창 0건을 확정."
+}

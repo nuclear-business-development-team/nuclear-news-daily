@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-12",
+ "run_started": "2026-10-12T08:02:41+09:00",
+ "run_finished": "2026-10-12T08:14:31+09:00",
+ "run_minutes": 12,
+ "articles": 2,
+ "by_region": {
+  "overseas": 1,
+  "domestic": 1
+ },
+ "by_importance": {
+  "3": 0,
+  "2": 2,
+  "1": 0
+ },
+ "detection_lag_hours": {
+  "median": 12.04,
+  "max": 23.04,
+  "n": 2
+ },
+ "sources_ok": [
+  "World Nuclear News (RSS+site)",
+  "NucNet (RSS)",
+  "IAEA Top News (RSS)",
+  "POWER Magazine (RSS)",
+  "UK DESNZ (Atom)",
+  "ANS Nuclear Newswire",
+  "정책브리핑 korea.kr (원전/SMR/원자력)",
+  "한국수력원자력 보도자료",
+  "한국전력 보도·설명자료",
+  "더구루 (RSS)",
+  "더트래커 (RSS)",
+  "TED 검색 API",
+  "UK Find a Tender OCDS API"
+ ],
+ "sources_failed": [
+  {
+   "name": "Nuclear Engineering International (RSS)",
+   "reason": "stale_feed — 최신 항목 2026-06-16, 연속 실패"
+  },
+  {
+   "name": "정책브리핑 본문 (newsId=156784751)",
+   "reason": "attachment_only — 데스크톱 페이지 본문 비어서 로드, m.korea.kr 모바일 페이지로 확인"
+  },
+  {
+   "name": "ted.europa.eu /pdf · /xml 렌더링",
+   "reason": "202_async — 본문 렌더링이 비동기라 빈 응답, 검색 API로 대체 확인"
+  },
+  {
+   "name": "nhk.or.jp · hs.fi · di.se",
+   "reason": "EGRESS_BLOCKED — 검색 도메인 필터에서 거부, 다른 현지 매체로 대체"
+  }
+ ],
+ "languages": {
+  "en": 1,
+  "ko": 1
+ }
+}

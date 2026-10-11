@@ -1,0 +1,73 @@
+{
+ "date": "2026-10-12",
+ "generated_at": "2026-10-12T08:02:41+09:00",
+ "period": {
+  "from": "2026-10-11",
+  "to": "2026-10-12"
+ },
+ "overview_ko": "수집 기간(10월 11~12일) 해외 신규 건은 1건으로, 주말 공백이 이어졌다. World Nuclear News 사이트·RSS의 최신 게재물은 모두 10월 9일(금)자이고 NucNet은 10월 7일자에서 멈춰 있어, 토·일 사이 서구 전문지의 신규 게재 자체가 없었음을 피드와 목록 페이지 양쪽으로 확인했다. 유일한 신규 건은 유럽 공공조달(TED)이 주말 휴재 뒤 월요일 3,803건을 한꺼번에 게재하면서 나온 벨기에 ONDRAF/NIRAS의 B·C급 폐기물 처분 기술용역 재공고로, 10월 6일 공고(687016-2026)와 절차식별자가 동일하고 마감만 10월 15일에서 11월 2일로 18일 늦춰졌다. 수집 경로가 막혀서 비어 있는 것은 아니다 — RSS 6종, ANS 목록, TED 검색 API(전문검색·CPV·발주처명 6계열), UK Find a Tender OCDS API, 현지어 검색을 모두 돌려 '기간 내 신규 0~1건'을 확정했으며 TED는 10월 10·11일 게재 건수가 각각 0건임을 직접 조회로 확인했다. 다만 Nuclear Engineering International 피드는 6월 16일자에서 멈춰 있어 이번에도 수집 실패로 기록했다. 영업 관점: 마감이 임박했던 유럽 후단 엔지니어링 용역 한 건의 응찰 창이 11월 2일까지 다시 열렸고, 같은 날 폴란드 AP1000 기자재 자격심사 2건은 마감된다.",
+ "overview_en": "Only one new overseas item came in across the 11-12 October window, as the weekend lull held. The newest pieces on both the World Nuclear News site and its RSS feed are dated Friday 9 October, and NucNet has not moved since 7 October - checked through the feeds and the listing pages alike, so Western trade press simply did not publish over the weekend. The single new item surfaced when EU public procurement (TED), shut over the weekend, released 3,803 notices at once on Monday: Belgium's ONDRAF/NIRAS has re-issued its tender for technical services on Category B and C waste disposal, carrying the same procedure identifier as the 6 October notice (687016-2026) with the deadline pushed out 18 days, from 15 October to 2 November. This is a real gap, not a collection failure - six RSS feeds, the ANS listing, the TED search API (six query families across full text, CPV codes and buyer names), the UK Find a Tender OCDS API and local-language searches all ran, and TED itself confirms zero notices published on 10 and 11 October. The Nuclear Engineering International feed remains stuck on 16 June and is logged again as a source failure. Sales angle: the bidding window on one European back-end engineering contract has reopened until 2 November, while the two Polish AP1000 component qualification notices close today.",
+ "domestic_overview_ko": "국내는 정책 1건이다. 기후에너지환경부가 고준위 방사성폐기물 관리위원회 출범 1년(2025년 9월 26일 출범) 성과를 정리해 발표했다 — 2026년 2월 첫 회의부터 9월까지 전체회의 8회, 전문가 35명 위촉, 4개 분야(부지·저장운반·처분·소통) 전문위원회 구성, 4월 3차 회의에서 관리시설 부지 적합성 조사계획 의결. 제3차 고준위 기본계획과 전국 부적합지역 배제는 연내 완료, 기본조사 부지 공모는 2027년 착수가 목표다. 한수원 보도자료 게시판 최신 글은 10월 7일자, 한국전력은 10월 8일자이고 모두 행사·수상 등 홍보성 단신이며, 더구루·더트래커 피드에서 원전 키워드로 걸러낸 항목은 전건 기존 브리핑에 실린 건이었다. 영업 관점: 사용후핵연료 처분 경로가 일정표를 갖추기 시작했다는 점은 계속운전·신규 수출 상담에서 매번 되돌아오는 '한국은 후단이 없다'는 지적에 쓸 수 있는 공개 근거가 늘었다는 뜻이다.",
+ "domestic_overview_en": "One domestic policy item. The Ministry of Climate, Energy and Environment published a first-year account of the High-Level Radioactive Waste Management Committee, launched on 26 September 2025 under the special act: eight plenary meetings from its first session in February 2026 through September, 35 appointed experts, four expert subcommittees (siting, storage and transport, disposal, communication), and approval at the third meeting in April of a site-suitability survey plan for management facilities. The third basic plan and the nationwide screening-out of unsuitable areas are both targeted for completion within 2026, with the call for basic-survey candidate sites to open in 2027. KHNP's newsroom has not moved since 7 October and KEPCO's since 8 October, both with promotional items only, and everything matching nuclear keywords in the TheGuru and TheTracker feeds had already been carried in earlier briefings. Sales angle: a spent-fuel disposal pathway that now has a published timetable gives Korean bidders more public evidence against the recurring \"Korea has no back end\" objection in life-extension and new-export discussions.",
+ "countries_pulse": [
+  {
+   "country": "BE",
+   "name_ko": "벨기에",
+   "name_en": "Belgium",
+   "stance": "steady",
+   "signal": "기조 유지 — 신규 건설이 아니라 후단(처분) 쪽에서 발주가 움직인다. ONDRAF/NIRAS가 B·C급 폐기물 처분 기술용역 4개 로트를 같은 절차로 재공고하며 마감을 11월 2일로 18일 늦췄다",
+   "signal_en": "Holding course - the movement is at the back end, not in new build. ONDRAF/NIRAS has re-issued its four-lot tender for Category B and C waste disposal technical services under the same procedure, pushing the deadline out 18 days to 2 November",
+   "article_ids": [
+    "2026-10-12-01"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-12-01",
+   "title": "Belgium – Feasibility study, advisory service, analysis – Public contract concerning the provision of technical services relating to feasibility studies and operational safety with a view to the disposal of Category B and C waste",
+   "title_ko": "[일정 변경] 벨기에 ONDRAF/NIRAS, B·C급 폐기물 처분 기술용역 재공고 — 마감 10월 15일 → 11월 2일로 18일 연장",
+   "title_en": "[Schedule change] Belgium's ONDRAF/NIRAS re-issues its Category B and C waste disposal technical services tender, moving the deadline out 18 days to 2 November",
+   "language": "en",
+   "source": "TED (EU 공공조달)",
+   "url": "https://ted.europa.eu/en/notice/702999-2026/pdf",
+   "published": "2026-10-12",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "BE"
+   ],
+   "importance": 2,
+   "summary_ko": "새로운 사실은 마감 연장이다. 벨기에 방사성폐기물·농축핵물질관리기구(ONDRAF/NIRAS)가 10월 6일 낸 B·C급 폐기물 처분 타당성조사·운영안전 기술용역 공고(687016-2026)를 같은 절차식별자로 다시 게재했고, 응찰 마감이 2026년 10월 15일 10시에서 11월 2일 10시로 18일 늦춰졌다. 로트 구성은 지상설비, 지층처분·천층처분 토목설계, 지하 운영, 원자력 공통(횡단) 업무 4개로 바뀌지 않았고 절차도 공고 후 협상(neg-w-call)이 그대로다. 공고 데이터에 추정금액은 여전히 들어 있지 않다.",
+   "summary_en": "What is new is the extension. Belgium's agency for radioactive waste and enriched fissile materials, ONDRAF/NIRAS, has republished the 6 October notice (687016-2026) for technical services on Category B and C waste disposal feasibility and operational safety under the same procedure identifier, with the submission deadline moved from 15 October at 10:00 to 2 November at 10:00 - eighteen days later. The four lots are unchanged (surface facilities; civil engineering design for geological disposal and shallow land burial; underground operation; cross-cutting nuclear activities), and the procedure remains negotiated with a prior call for competition. The notice data still carries no estimated value.",
+   "sales_note": "마감 3일 전에 닫힐 예정이던 응찰 창이 3주 가까이 다시 열렸다. 유럽 후단(처분·해체) 엔지니어링은 노형과 무관하게 토목설계·타당성조사 역무를 로트로 쪼개 장기 발주하는 시장이고, 참여가 어렵더라도 협상절차 공고의 자격요건과 로트 분할 방식을 확보해 두면 다음 회차 진입 판단이 빨라진다.",
+   "sales_note_en": "A window that was about to close in three days is open again for nearly three more weeks. European back-end engineering - disposal and decommissioning - lets civil design and feasibility scopes in lots over long horizons regardless of reactor technology, so even without bidding, capturing the qualification requirements and lot structure of a negotiated procedure shortens the call on the next round.",
+   "related": [
+    "https://ted.europa.eu/en/notice/687016-2026/pdf"
+   ]
+  },
+  {
+   "id": "2026-10-12-02",
+   "title": "고준위 방사성폐기물 관리위원회 출범 1년, 50년 국가 난제 해결의 기틀 다져",
+   "title_ko": "고준위 방사성폐기물 관리위원회 출범 1년, 50년 국가 난제 해결의 기틀 다져",
+   "title_en": "One year on, Korea's High-Level Radioactive Waste Management Committee reports the groundwork laid for a 50-year problem",
+   "language": "ko",
+   "source": "정책브리핑 (기후에너지환경부)",
+   "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784751",
+   "published": "2026-10-11",
+   "region": "domestic",
+   "category": "policy",
+   "countries": [
+    "KR"
+   ],
+   "importance": 2,
+   "summary_ko": "기후에너지환경부가 2025년 9월 26일 고준위방폐물 특별법에 따라 출범한 고준위 방사성폐기물 관리위원회(위원장 김현권)의 1년 성과를 발표했다. 2026년 2월 첫 회의부터 9월까지 전체회의를 8회 열었고, 학회·협회·연구기관·시민사회에서 전문가 35명을 위촉해 부지·저장운반·처분·소통 4개 분야 전문위원회를 꾸렸다. 4월 3차 회의에서 관리시설 부지 적합성 조사계획을 의결했고, 부지를 먼저 고르고 검증하는 방식 대신 과학적 기준으로 부적합지역을 걸러내는 배제기준을 만들고 있다. 6월에는 원자력환경공단과 서울에서 일본·캐나다·프랑스·스웨덴·스위스·핀란드 유치지역 대표가 참여한 국제포럼을 공동 개최했다.",
+   "summary_en": "The Ministry of Climate, Energy and Environment has published a first-year account of the High-Level Radioactive Waste Management Committee, chaired by Kim Hyun-kwon and launched on 26 September 2025 under the special act on high-level radioactive waste. It held eight plenary meetings between its first session in February 2026 and September, and appointed 35 experts from academic societies, industry associations, research institutes and civil society across four subcommittees: siting, storage and transport, disposal, and communication. Its third meeting in April approved a site-suitability survey plan for management facilities, and rather than picking a site and then checking it, the committee is building scientific criteria to screen out unsuitable areas first. In June it co-hosted an international forum in Seoul with the Korea Radioactive Waste Agency, with host-community representatives from Japan, Canada, France, Sweden, Switzerland and Finland.",
+   "sales_note": "일정이 공표됐다는 점이 영업에 쓰인다 — 제3차 기본계획과 전국 부적합지역 배제는 연내 완료, 기본조사 부지 공모는 2027년 착수가 목표다. 해외 입찰과 계속운전 상담에서 반복되는 '한국은 사용후핵연료 처분 경로가 없다'는 지적에 대해, 위원회 구성·심의 실적·향후 일정을 공개 근거로 제시할 수 있게 됐다. 다만 부지는 아직 특정되지 않았으므로 '확정'으로 말하지 않는 선을 지켜야 한다.",
+   "sales_note_en": "The usable part is the published timetable: the third basic plan and the nationwide screening-out of unsuitable areas are both due within 2026, with the call for basic-survey candidate sites opening in 2027. Against the recurring objection in export bids and life-extension talks that Korea has no spent-fuel disposal pathway, the committee's composition, deliberation record and forward schedule are now citable public evidence - while no site has been identified, so the claim must stop short of calling anything settled.",
+   "related": [
+    "https://www.energydaily.co.kr/news/articleView.html?idxno=202367"
+   ]
+  }
+ ]
+}

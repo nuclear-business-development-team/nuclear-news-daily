@@ -1,0 +1,85 @@
+{
+ "date": "2026-10-13",
+ "run_started": "2026-10-13T08:02:24+09:00",
+ "run_finished": "2026-10-13T08:42:00+09:00",
+ "run_minutes": 40,
+ "articles": 12,
+ "by_region": {
+  "overseas": 10,
+  "domestic": 2
+ },
+ "by_importance": {
+  "3": 1,
+  "2": 7,
+  "1": 4
+ },
+ "detection_lag_hours": {
+  "median": 23.04,
+  "max": 23.04,
+  "min": -0.96,
+  "n": 12,
+  "note": "게재일만 있는 기사는 그날 09:00(UTC+9)으로 간주한 SKILL §9 규칙을 적용. 당일(10-13) 게재 2건은 가정 시각(09:00)이 실행 시작(08:02)보다 늦어 음수(-0.96h)로 계산된다 — 게재 당일 탐지를 뜻한다."
+ },
+ "same_day_detected": 2,
+ "sources_ok": [
+  "World Nuclear News (RSS+site)",
+  "NucNet (RSS)",
+  "IAEA Top News (RSS)",
+  "POWER Magazine (RSS)",
+  "UK DESNZ (Atom)",
+  "ANS Nuclear Newswire",
+  "정책브리핑 korea.kr (원전/SMR/원자력 3회)",
+  "한국수력원자력 보도자료",
+  "한국전력 보도·설명자료",
+  "더구루 (RSS)",
+  "더트래커 (RSS, www 없는 주소)",
+  "전기신문 (원자력 섹션)",
+  "한국원자력신문",
+  "에너지데일리",
+  "TED 검색 API",
+  "UK Find a Tender OCDS API",
+  "CanadaBuys 공개데이터(CSV)",
+  "TenderNed API",
+  "fermiamerica.com 뉴스룸"
+ ],
+ "sources_failed": [
+  {
+   "name": "Nuclear Engineering International (RSS)",
+   "reason": "empty_response — 0바이트 수신(직전까지는 열리되 2026-06-16에서 갱신 정지), 연속 실패"
+  },
+  {
+   "name": "한국원자력산업협회 kaif.or.kr 뉴스",
+   "reason": "empty_body — 본문 비어서 로드"
+  },
+  {
+   "name": "ted.europa.eu /pdf · /xml 렌더링",
+   "reason": "empty_response — 비동기 렌더링, 검색 API로 대체 확인"
+  },
+  {
+   "name": "api.hankintailmoitukset.fi (핀란드 Hilma API)",
+   "reason": "404 — API 경로 변경 추정, 확인 필요"
+  },
+  {
+   "name": "investor.fermiamerica.com/press-releases",
+   "reason": "empty_body — 공시 목록이 비어서 로드"
+  },
+  {
+   "name": "hnonline.sk · di.se",
+   "reason": "EGRESS_BLOCKED — 검색 도메인 필터에서 거부, 다른 현지 매체로 대체"
+  },
+  {
+   "name": "nucnet.org 목록 페이지",
+   "reason": "no_visible_dates — 게재일이 본문에 표시되지 않아 기간 판정 불가, RSS pubDate로 대체"
+  }
+ ],
+ "languages": {
+  "cs": 2,
+  "en": 7,
+  "pl": 1,
+  "ko": 2
+ },
+ "method_changes": [
+  "TED 검색 API 질의문을 `FT ~ (a OR b)`에서 `(FT ~ a OR FT ~ b)`로 변경 — 전자는 AND/구문으로 해석돼 2일 창 결과가 1건으로 떨어졌고, 후자로 바꿔 140건을 조회했다.",
+  "더트래커 RSS는 `www.thetracker.co.kr` 주소가 302만 반환하므로 `thetracker.co.kr`(www 없음)로 리다이렉트를 따라가도록 수집 경로를 고정했다."
+ ]
+}

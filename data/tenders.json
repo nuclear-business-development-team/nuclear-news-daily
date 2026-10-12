@@ -1,34 +1,8 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
-  {
-   "country": "PL",
-   "buyer": "Westinghouse Electric Poland Sp. z o.o.",
-   "title": "AP1000 격납용기(MV50) 제작 공급사 자격심사 — 폴란드 2·3호기",
-   "title_en": "AP1000 Containment Vessel (MV50) fabrication — supplier qualification, Poland Units 2·3",
-   "scope": "격납용기(Containment Vessel) 제작 공급사 자격심사",
-   "scope_en": "Supplier qualification for containment vessel fabrication",
-   "portal": "TED",
-   "notice_no": "652770-2026",
-   "published": "2026-09-22",
-   "deadline": "2026-10-12",
-   "url": "https://ted.europa.eu/en/notice/652770-2026/pdf"
-  },
-  {
-   "country": "PL",
-   "buyer": "Westinghouse Electric Poland Sp. z o.o.",
-   "title": "AP1000 차폐건물 SC 강판 벽패널(SC40) 제작 공급사 자격심사 — 폴란드 2·3호기",
-   "title_en": "AP1000 Shield Building SC steel wall panels (SC40) fabrication — supplier qualification, Poland Units 2·3",
-   "scope": "차폐건물 강판·콘크리트 복합(SC) 벽패널 제작 공급사 자격심사",
-   "scope_en": "Supplier qualification for shield-building steel-concrete composite wall panel fabrication",
-   "portal": "TED",
-   "notice_no": "651178-2026",
-   "published": "2026-09-22",
-   "deadline": "2026-10-12",
-   "url": "https://ted.europa.eu/en/notice/651178-2026/pdf"
-  },
   {
    "country": "RO",
    "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
@@ -223,6 +197,58 @@
    "published": "2026-10-09",
    "deadline": "2026-11-12",
    "url": "https://ted.europa.eu/en/notice/696701-2026/pdf"
+  },
+  {
+   "country": "GB",
+   "buyer": "Nuclear Restoration Services Limited",
+   "title": "힝클리포인트A 1·2호기 스프링행거 철거 — 설계·시공 사전시장조사(RFI)",
+   "title_en": "Removal of spring hangers, Hinkley Point A Reactors 1 and 2 — preliminary market engagement",
+   "scope": "1·2호기 스프링행거 조립체 철거의 설계와 시공. 가설지지대 설계·설치, 스프링 하중 해제, 조립체 전량 철거, 가설물 철거. 공고 기재값 570만 파운드(부가세 포함 684만), 중소기업 적합 표시. 회신 마감 11월 13일, 본 공고 예고 2027년 2월 1일, 계약기간 2027년 7월~2029년 6월",
+   "scope_en": "Design and delivery of works to remove the spring hanger assemblies on Reactors 1 and 2: design and installation of temporary supports, de-energisation of the springs, removal of the assemblies in their entirety and removal of the temporary works. Notice value GBP 5.7 million (GBP 6.84 million incl. VAT), flagged suitable for SMEs. Responses due 13 November; the tender notice is signalled for 1 February 2027 and the contract would run July 2027 to June 2029.",
+   "portal": "UK Find a Tender",
+   "notice_no": "096201-2026",
+   "published": "2026-10-12",
+   "deadline": "2026-11-13",
+   "url": "https://www.find-tender.service.gov.uk/Notice/096201-2026"
+  },
+  {
+   "country": "BE",
+   "buyer": "European Defence Agency",
+   "title": "EU 국방 에너지체계용 원자력 기술(NUCLEUS) 연구용역 프레임워크",
+   "title_en": "Nuclear Technologies for EU Defence Energy Systems (NUCLEUS) study — service framework contract",
+   "scope": "선진 원자로 기술, 국방 에너지 복원력, 에너지 안보, 핵심 에너지 인프라 보호에 관한 연구·평가·전문가 자문·워크숍·분석. 규제·인허가 체계와 연료 공급 문제 포함. 공고 기재값 90만 유로, 공개입찰",
+   "scope_en": "Studies, assessments, expert consultations, workshops and analysis on advanced nuclear technologies, defence energy resilience, energy security and the protection of critical energy infrastructure, including regulatory and licensing frameworks and fuel supply considerations. Notice value EUR 900,000, open procedure.",
+   "portal": "TED",
+   "notice_no": "703445-2026",
+   "published": "2026-10-12",
+   "deadline": "2026-11-16",
+   "url": "https://ted.europa.eu/en/notice/703445-2026/pdf"
+  },
+  {
+   "country": "CZ",
+   "buyer": "ČEZ, a. s.",
+   "title": "중화(Neutralizace) 건물 49% 수산화나트륨 하역·저장 설비 재건 (A069)",
+   "title_en": "Rebuild of the 49% sodium hydroxide unloading and storage plant, Neutralisation building (A069)",
+   "scope": "49% 수산화나트륨 하역·저장 설비의 일부 기술설비 교체 및 영향 설비 조정. 안전·신뢰성 있는 운전 확보 목적. 절차는 공고 후 협상. 추정금액은 공고 데이터에 유효값이 없다",
+   "scope_en": "Replacement of parts of the technology for unloading and storing 49% sodium hydroxide, with consequent modifications to affected equipment, to secure safe and reliable operation. Negotiated procedure with prior call. The notice data carries no valid estimated value.",
+   "portal": "TED",
+   "notice_no": "701699-2026",
+   "published": "2026-10-12",
+   "deadline": "2026-11-18",
+   "url": "https://ted.europa.eu/en/notice/701699-2026/pdf"
+  },
+  {
+   "country": "CZ",
+   "buyer": "ČEZ, a. s.",
+   "title": "두코바니(EDU)→브르노 열수송 사업 9503 OB03 — 전기·계측제어(SKŘ)",
+   "title_en": "Dukovany-to-Brno heat supply, project 9503 package OB03 — electrical and I&C",
+   "scope": "설계도서 작성 후 전기·계측제어 분야 공사·자재 공급. 전기기기 전원 공급, 사업 제어용 및 열수송관 SKŘ 구축, 기존 설비·계통 접속, 해체·설치·시험·시운전·준공도서 포함. 절차는 공고 후 협상",
+   "scope_en": "Design documentation followed by electrical and instrumentation-and-control works and supply: power feeds, I&C for project control and the heat main, tie-ins to existing plant and systems, dismantling, installation, testing, commissioning and as-built documentation. Negotiated procedure with prior call.",
+   "portal": "TED",
+   "notice_no": "705458-2026",
+   "published": "2026-10-13",
+   "deadline": "2026-11-19",
+   "url": "https://ted.europa.eu/en/notice/705458-2026/pdf"
   },
   {
    "country": "PT",

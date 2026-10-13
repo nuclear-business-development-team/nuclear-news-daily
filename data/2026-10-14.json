@@ -1,0 +1,371 @@
+{
+ "date": "2026-10-14",
+ "generated_at": "2026-10-14T09:05:00+09:00",
+ "period": {
+  "from": "2026-10-13",
+  "to": "2026-10-14"
+ },
+ "overview_ko": "폴란드가 제2원전 준비를 공식 체계로 올렸다. 에너지부·PEJ·PGE가 역할분담 협약에 서명해 PEJ가 투자자·총괄, PGE가 부지분석과 예비 타당성조사를 맡고, 9월 29일 국무회의가 채택한 개정 원자력계획에 따라 2027년 전략적 파트너·기술 선정, 2032년경 착공, 2040년경 1호기 가동(종전 일정 대비 1년 지연)을 목표로 한다. 후보지는 베우하투프와 코닌이며 검증된 3세대+ 대형 경수로를 검토 대상으로 두고 미국·프랑스·캐나다가 경쟁적 대화에 참여했다. 같은 날 PEJ는 1호 원전 사업의 금융자문·ESG 자문 프레임워크(2개 로트)를 TED에 올려 자금조달 절차가 실무 단계에 들어섰음을 보였다. 체코에서는 ČEZ가 테멜린 부지 롤스로이스 SMR(470MWe)의 환경영향평가서를 환경부에 제출해 2027년 말 절차 종료, 2030년대 후반 가동을 목표로 한다고 밝혔다. 나머지 발주 창은 기존 부지의 설비개량·정비와 해체·후단에 몰렸다 — 크르슈코 소내 변압기 절연상버스 개량, 체르나보다 기술용수 펌프 수리, JAVYS 사용후핵연료 수송차량 정비, 그리고 노르웨이 NND의 셸레르 연구로 인수 인허가 신청이다. 영업 관점: 폴란드 2호 사업은 2027년 기술 선정까지 시간이 남은 반면 발주처 접점은 금융·환경·부지분석 용역부터 열리고 있어 지금은 수주보다 발주처 생태계 진입이 과제이고, 체코 SMR 환경평가 제출은 롤스로이스 SMR 공급망의 물량 전제를 영국 밖으로 넓히는 신호다.",
+ "overview_en": "Poland moved its second nuclear plant onto a formal footing. The Ministry of Energy, PEJ and PGE signed an agreement dividing the work - PEJ as investor and coordinator, PGE running site analyses and preliminary feasibility studies - under the updated nuclear programme adopted by the Council of Ministers on 29 September, which targets selection of a strategic partner and technology in 2027, construction around 2032 and first power around 2040, a year later than the previous schedule. Bełchatów and Konin are the preferred sites, proven Generation III+ large light-water reactors are under consideration, and the USA, France and Canada have joined the competitive dialogue. On the same day PEJ posted a two-lot framework for financial and ESG advisory services supporting the financing of the first plant, a sign that funding work has reached the execution stage. In Czechia, ČEZ filed the environmental impact assessment for a 470 MWe Rolls-Royce SMR at Temelín, aiming to close the process by end-2027 and operate in the second half of the 2030s. Everything else that opened sat in upgrades, maintenance and back-end work at existing sites: an isolated phase bus duct upgrade at Krško, service-water pump repairs at Cernavodă, spent fuel transport wagon servicing at JAVYS, and Norway's NND applying to take over the Kjeller research reactors for decommissioning. Sales angle: Poland's second plant leaves time before the 2027 technology choice but is already opening buyer-side access through financing, environmental and site-study work, so the task now is entry into the buyer's ecosystem rather than the award itself - while the Czech SMR filing widens the volume case for the Rolls-Royce SMR supply chain beyond the UK.",
+ "domestic_overview_ko": "국정감사가 한수원의 해외 수주 구조를 숫자로 드러냈다. 이집트 엘다바 사업에서 올해 상반기 기준 공사손실 충당부채가 약 1조 2,000억원으로 집계됐고 대부분이 이 사업에서 났으며, 일부 기자재 조달비는 착수 후 693억원에서 3,915억원으로 다섯 배 넘게 뛰었다. 2022년 8월 설계·물량이 확정되지 않은 상태에서 로사톰 자회사 JSC ASE와 터빈건물 총액확정계약을 맺은 점이 지적됐고, 김회천 사장은 사과하며 리스크관리위원회 설치를 설명했다. 핵연료에서는 한수원이 농축서비스 조달 비중을 프랑스 40%·영국 30%·러시아 30%로 공개하고, 러시아 의존을 줄이기 위해 중국과 장기계약을 추진하며 2032년부터 미국 물량을 확보할 계획이라고 밝혔다. 규제 쪽에서는 고리 3·4호기와 한빛 1호기 사고관리계획서가 2019년 6월 제출 후 7년 4개월째 미승인이고 심사 과정에서 다른 호기 입력값이 쓰인 사실이 드러났으며, 원안위 SMR 전담조직은 7명 규모로 최원호 위원장이 \"최소 1개 국\" 수준이 필요하다고 답했고 KINS는 비경수형 심사에 10년간 100명, 2035년까지 180명 증원이 필요하다고 밝혔다. 영업 관점: 엘다바 손실은 경쟁 벤더가 한국형 수주의 가격·공기 신뢰도를 공격할 소재가 되므로 총액확정계약 조건과 설계 성숙도를 분리해 설명할 논리가 필요하고, 농축 조달 다변화와 SMR 인허가 인력은 각각 연료 공급 안정성과 i-SMR 수출 일정의 전제로 직결된다.",
+ "domestic_overview_en": "The National Assembly audit put numbers on the structure of KHNP's export business. As of the first half of this year, KHNP's construction-loss provision stood at about KRW 1.2 trillion, most of it from the El-Dabaa project in Egypt, and some equipment procurement costs rose more than fivefold after work began, from KRW 69.3 billion to KRW 391.5 billion. Lawmakers focused on KHNP's August 2022 lump-sum fixed-price contract with Rosatom subsidiary JSC ASE for the turbine building, signed before the design and quantities were settled; CEO Kim Hoe-cheon apologised and pointed to a newly created risk management committee. On fuel, KHNP disclosed that its enrichment services come 40% from France, 30% from the UK and 30% from Russia, that it is pursuing a long-term contract with China to cut Russian dependence, and that it plans to secure US volumes from 2032. On regulation, accident management plans for Kori 3 and 4 and Hanbit 1, filed in June 2019, remain unapproved after seven years and four months, and the review was found to have used input values from another unit; the NSSC's SMR team numbers seven people, with chair Choi Won-ho saying at least a bureau-sized unit is needed, while KINS put its needs at about 100 more staff over ten years for non-light-water review and 180 by 2035. Sales angle: the El-Dabaa provision gives competing vendors material to question the price and schedule credibility of Korean awards, so Korea needs a clear account separating fixed-price contract terms from design maturity - while enrichment diversification and SMR licensing capacity feed directly into fuel supply security and the i-SMR export timetable.",
+ "countries_pulse": [
+  {
+   "country": "PL",
+   "name_ko": "폴란드",
+   "name_en": "Poland",
+   "stance": "expanding",
+   "signal": "제2원전이 부처·PEJ·PGE 역할분담 협약으로 제도화되고 후보지(베우하투프·코닌)와 2027년 기술 선정 일정이 공개됐다. 동시에 1호 사업 금융자문 발주로 자금조달이 실무에 들어갔다.",
+   "signal_en": "The second plant was formalised through a task-sharing agreement between the ministry, PEJ and PGE, with preferred sites (Bełchatów, Konin) and a 2027 technology choice now public, while a financing advisory tender moved funding for the first plant into execution.",
+   "article_ids": [
+    "2026-10-14-01",
+    "2026-10-14-03"
+   ]
+  },
+  {
+   "country": "CZ",
+   "name_ko": "체코",
+   "name_en": "Czechia",
+   "stance": "expanding",
+   "signal": "ČEZ가 테멜린 롤스로이스 SMR(470MWe) 환경영향평가서를 제출해 대형원전(두코바니) 외에 SMR 축이 인허가 절차에 공식 진입했다.",
+   "signal_en": "ČEZ filed the environmental impact assessment for a 470 MWe Rolls-Royce SMR at Temelín, putting an SMR track formally into licensing alongside the large-reactor programme at Dukovany.",
+   "article_ids": [
+    "2026-10-14-02"
+   ]
+  },
+  {
+   "country": "GB",
+   "name_ko": "영국",
+   "name_en": "United Kingdom",
+   "stance": "expanding",
+   "signal": "기조 유지 — 영국 내 신규 발표는 없었으나 롤스로이스 SMR 설계가 체코 환경영향평가 대상으로 올라가며 수출 축이 한 단계 진전됐다.",
+   "signal_en": "Steady at home - no new UK announcement, but the Rolls-Royce SMR design advanced on the export side by entering the Czech environmental assessment.",
+   "article_ids": [
+    "2026-10-14-02"
+   ]
+  },
+  {
+   "country": "SI",
+   "name_ko": "슬로베니아",
+   "name_en": "Slovenia",
+   "stance": "steady",
+   "signal": "JEK2 신규 사업 진전 소식은 없고, 크르슈코 기존 호기의 소내 변압기 절연상버스 개량 발주로 설비개선 투자만 이어진다.",
+   "signal_en": "No movement on the JEK2 new build; investment continues only in upgrades at the existing Krško plant, with a tender for the isolated phase bus duct to the house transformers.",
+   "article_ids": [
+    "2026-10-14-06"
+   ]
+  },
+  {
+   "country": "NO",
+   "name_ko": "노르웨이",
+   "name_en": "Norway",
+   "stance": "steady",
+   "signal": "NND가 셸레르 연구로·폐기물 시설 인수 인허가를 신청해 할덴에 이어 해체 체계가 한 기관으로 모이고, 두 부지 정화비는 330~570억 노르웨이크로네로 제시됐다.",
+   "signal_en": "NND applied for a licence to take over the Kjeller research reactors and waste facilities, consolidating decommissioning under one body after Halden, with cleanup of both sites put at NOK 33-57 billion.",
+   "article_ids": [
+    "2026-10-14-04"
+   ]
+  },
+  {
+   "country": "US",
+   "name_ko": "미국",
+   "name_en": "United States",
+   "stance": "expanding",
+   "signal": "에너지부 원자력국과 선급협회 ABS가 해양 원자력 MOU를 맺어 부유식 발전·원자력 추진 선박·원자력 수송회랑을 정부 간 조정 과제로 올렸다.",
+   "signal_en": "The DOE Office of Nuclear Energy and classification society ABS signed an MOU on maritime nuclear, putting floating power, nuclear-powered vessels and nuclear transport corridors onto an interagency agenda.",
+   "article_ids": [
+    "2026-10-14-05"
+   ]
+  },
+  {
+   "country": "RO",
+   "name_ko": "루마니아",
+   "name_en": "Romania",
+   "stance": "steady",
+   "signal": "기조 유지 — 체르나보다 3·4호기 건설재개 관련 신규 발표는 없고, 운영 중 호기의 기술용수계통 펌프 수리·감시기 정비 발주만 이어진다.",
+   "signal_en": "Steady - nothing new on resuming Cernavodă 3 and 4; procurement continues only for operating units, with service-water pump repairs and monitoring equipment maintenance.",
+   "article_ids": [
+    "2026-10-14-07"
+   ]
+  },
+  {
+   "country": "SK",
+   "name_ko": "슬로바키아",
+   "name_en": "Slovakia",
+   "stance": "steady",
+   "signal": "JESS 지분 국유화 직후 JAVYS는 사용후핵연료·방폐물 수송차량 정비와 보안 출입설비 개량 등 기존 해체·후단 업무 발주를 이어갔다.",
+   "signal_en": "Just after taking full state ownership of JESS, JAVYS continued routine back-end procurement, tendering servicing of spent fuel and waste transport wagons and an upgrade of security access equipment.",
+   "article_ids": [
+    "2026-10-14-08"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-14-01",
+   "title": "Agreement signed on second Polish nuclear power plant",
+   "title_ko": "폴란드 제2원전, 에너지부·PEJ·PGE 역할분담 협약 서명 — 베우하투프·코닌 후보지, 2027년 기술 선정·2032년경 착공·2040년경 가동",
+   "title_en": "Agreement signed on second Polish nuclear power plant",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/agreement-signed-on-second-polish-nuclear-power-plant",
+   "published": "2026-10-13",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "PL"
+   ],
+   "importance": 3,
+   "summary_ko": "폴란드 에너지부와 Polskie Elektrownie Jądrowe(PEJ), Polska Grupa Energetyczna(PGE)가 제2원전 준비를 위한 역할분담·협력 협약에 서명했다. PEJ가 투자자 겸 총괄을 맡고, PGE는 잠재 기술공급사와 함께 부지분석과 예비 타당성조사를 수행한다. 9월 29일 국무회의가 채택한 개정 원자력계획에 따라 2027년 전략적 파트너·기술 선정, 2032년경 착공, 2040년경 1호기 가동(종전 일정 대비 1년 지연)을 목표로 하며, 후보지는 베우하투프와 코닌, 검토 대상은 검증된 3세대+ 대형 경수로다. 경쟁적 대화에는 미국·프랑스·캐나다가 참여했다.",
+   "summary_en": "Poland's Ministry of Energy, Polskie Elektrownie Jądrowe (PEJ) and Polska Grupa Energetyczna (PGE) signed an agreement dividing tasks for the country's second nuclear power plant. PEJ acts as investor and coordinator, while PGE prepares site analyses and preliminary feasibility studies together with potential technology suppliers. Under the updated nuclear programme adopted by the Council of Ministers on 29 September, a strategic partner and technology are to be selected in 2027, construction is to start around 2032 and the first unit to come online around 2040, a year later than previously planned. Bełchatów and Konin are the preferred sites, proven Generation III+ large light-water reactors are under consideration, and the USA, France and Canada have joined the competitive dialogue.",
+   "sales_note": "기술 선정이 2027년이라 공급사 경쟁은 아직 열려 있으나, 발주처 접점은 부지분석·예비 타당성조사 용역부터 PGE를 통해 먼저 열린다. 1호 사업(AP1000 3기)에서 굳어진 미국 축이 2호 사업 경쟁적 대화에도 프랑스·캐나다와 함께 들어와 있어, 기자재·시공 참여 경로는 노형 선정 전에 EPC·공급망 측면에서 미리 잡아야 한다.",
+   "sales_note_en": "With technology selection set for 2027 the vendor race is still open, but buyer-side access opens earlier through PGE's site analysis and pre-feasibility work. The US position entrenched in the first project (three AP1000 units) has carried into the second project's competitive dialogue alongside France and Canada, so routes into equipment and construction scope need to be secured on the EPC and supply-chain side before the reactor choice is made.",
+   "related": [
+    "https://ted.europa.eu/en/notice/708440-2026/pdf"
+   ]
+  },
+  {
+   "id": "2026-10-14-02",
+   "title": "Czech SMR environmental impact assessment submitted",
+   "title_ko": "체코 ČEZ, 테멜린 부지 롤스로이스 SMR(470MWe) 환경영향평가서 환경부 제출 — 절차 2027년 말 종료, 2030년대 후반 가동 목표",
+   "title_en": "Czech SMR environmental impact assessment submitted",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/czech-smr-environmental-impact-assessment-submitted",
+   "published": "2026-10-13",
+   "region": "overseas",
+   "category": "smr",
+   "countries": [
+    "CZ",
+    "GB"
+   ],
+   "importance": 3,
+   "summary_ko": "ČEZ가 테멜린 부지에 건설할 롤스로이스 SMR(소형 가압경수로, 470MWe)의 환경영향평가서를 체코 환경부에 제출했다. 환경부가 서류를 검토하고 공개 의견을 수렴하며, 평가 절차는 2027년 말 종료될 것으로 예상된다. 목표 가동 시점은 2030년대 후반이고, ČEZ는 테멜린 건설에 필요한 인허가도 별도로 확보하는 중이다.",
+   "summary_en": "ČEZ has submitted the environmental impact assessment for a Rolls-Royce SMR - a 470 MWe small pressurised water reactor - at the Temelín site to the Czech Ministry of the Environment. The ministry will review the documentation and collect public comments, with the process expected to finish by the end of 2027. The target operational date is the second half of the 2030s, and ČEZ is separately working to secure the construction permits needed at Temelín.",
+   "sales_note": "롤스로이스 SMR 설계가 영국 밖 첫 부지에서 인허가 절차에 올라, 이 노형의 기자재 공급망이 영국 물량만 전제하던 단계를 벗어났다. 체코 발주처(ČEZ)가 롤스로이스 SMR 지분을 보유한 구조여서 체코 현지 업체의 공급 지분이 먼저 배정될 가능성이 크고, 우리 쪽 참여 여지는 영국·체코 어느 쪽 공급사 등록 경로를 잡느냐로 갈린다.",
+   "sales_note_en": "The Rolls-Royce SMR design has entered licensing at its first site outside the UK, so the supply chain for this model no longer rests on UK volumes alone. Because the Czech buyer, ČEZ, also holds a stake in Rolls-Royce SMR, Czech suppliers are likely to be allocated scope first, and any opening for Korean firms will depend on which supplier registration route - UK or Czech - is secured.",
+   "related": []
+  },
+  {
+   "id": "2026-10-14-03",
+   "title": "Poland – Financial consultancy services – Framework Agreements for Financial Advisory and ESG Advisory Services in support of the financing process for the Nuclear Power Plant Construction Project",
+   "title_ko": "폴란드 PEJ, 원전 건설사업 자금조달용 금융자문·ESG 자문 프레임워크 공고 — 2개 로트, 마감일 미확인",
+   "title_en": "Poland – PEJ tenders framework agreements for financial and ESG advisory services supporting nuclear plant financing",
+   "language": "en",
+   "source": "TED (EU 공공조달)",
+   "url": "https://ted.europa.eu/en/notice/708440-2026/pdf",
+   "published": "2026-10-14",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "PL"
+   ],
+   "importance": 2,
+   "summary_ko": "Polskie Elektrownie Jądrowe(PEJ)가 폴란드 원전 건설사업의 자금조달 절차와 회사 상시 업무를 지원할 금융자문·ESG 자문 프레임워크 계약을 TED에 공고했다(708440-2026, 10월 14일 게재). 로트 1은 금융자문, 로트 2는 ESG 자문이며 CPV는 66171000(금융자문)이다. 공고 데이터에 응찰 마감일과 추정금액이 들어 있지 않아 확인하지 못했다.",
+   "summary_en": "Polskie Elektrownie Jądrowe (PEJ) published a TED notice (708440-2026, 14 October) for framework agreements covering financial and ESG advisory services supporting the financing process for Poland's nuclear power plant construction project and the company's ongoing operations. Lot 1 covers financial advisory and Lot 2 ESG advisory, under CPV 66171000. The notice data did not carry a submission deadline or an estimated value, so neither could be confirmed.",
+   "sales_note": "발주처가 자금조달 자문을 프레임워크로 묶어 상시 조달 체계에 올렸다는 것은 폴란드 1호 사업이 설계·인허가 단계를 넘어 금융 종결(financial close) 작업에 들어갔다는 신호다. 본공사 패키지 발주 시점을 읽는 선행지표로 PEJ 발주 흐름을 계속 볼 필요가 있다.",
+   "sales_note_en": "Putting financing advice onto a standing framework signals that Poland's first project has moved past design and licensing into the work of reaching financial close. PEJ's procurement flow is worth tracking as a leading indicator of when the main construction packages will come out.",
+   "related": []
+  },
+  {
+   "id": "2026-10-14-04",
+   "title": "NND applies to take over Kjeller nuclear facilities",
+   "title_ko": "노르웨이 NND, 셸레르 원자력시설 인수 인허가 신청 — 할덴·셸레르 정화비 330~570억 노르웨이크로네 제시",
+   "title_en": "NND applies to take over Kjeller nuclear facilities",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/nnd-applies-to-take-over-kjeller-nuclear-facilities",
+   "published": "2026-10-13",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "NO"
+   ],
+   "importance": 2,
+   "summary_ko": "노르웨이 해체 전담기관 NND(Norwegian Nuclear Decommissioning)가 방사선·원자력안전청(DSA)에 셸레르(Kjeller) 원자력시설을 에너지기술연구소(IFE)로부터 인수하기 위한 인허가를 신청했다. 대상은 연구로 JEEP I(1951~1967)·NORA 임계집합체(1961~1968)·JEEP II(1966~2019)와 국가 방사성폐기물 접수시설, 사용후핵연료 저장시설 등이다. DSA가 적격성을 심사하고 공개 의견수렴을 거쳐 보건복지부에 권고하면 정부가 최종 결정한다. 정부는 5월에 이전이 2027년 1월 1일에도 가능하다고 밝혔으며, 할덴 시설은 2025년 4월 1일 이미 이관됐다. 두 부지 정화비는 선택하는 방식에 따라 330억~570억 노르웨이크로네(36억~62억 달러)로 제시됐다.",
+   "summary_en": "Norwegian Nuclear Decommissioning (NND) has applied to the Norwegian Radiation and Nuclear Safety Authority (DSA) for a licence to take over the Kjeller nuclear facilities from the Institute for Energy Technology (IFE) ahead of decommissioning. The facilities include the JEEP I (1951-1967), NORA critical assembly (1961-1968) and JEEP II (1966-2019) research reactors, the national radioactive waste reception facility and a used fuel store. DSA will assess NND's competence, run a public consultation and recommend a decision to the Ministry of Health and Care Services, with the government deciding. The government said in May that the transfer could take place as soon as 1 January 2027; the Halden facilities were transferred on 1 April 2025. Cleanup of both sites is put at NOK 33-57 billion (USD 3.6-6.2 billion) depending on the solutions chosen.",
+   "sales_note": "북유럽 해체 발주가 기관별 분산에서 단일 기관(NND)으로 수렴하고 있어, 향후 발주 창구와 자격요건이 한 곳으로 정리된다. 수십 년에 걸친 330억~570억 크로네 규모는 설계·철거·폐기물 처리 용역의 지속 수요를 뜻하므로, 스웨덴 해체 축과 묶어 북유럽 발주처 등록을 한 묶음으로 준비할 근거가 된다.",
+   "sales_note_en": "Nordic decommissioning procurement is consolidating from scattered institutions into a single body, NND, which will concentrate future tender channels and qualification requirements in one place. A NOK 33-57 billion programme running over decades means sustained demand for design, dismantling and waste handling services, which argues for preparing Nordic buyer registrations as a single package alongside the Swedish decommissioning track.",
+   "related": []
+  },
+  {
+   "id": "2026-10-14-05",
+   "title": "Agreement aims to support US maritime nuclear",
+   "title_ko": "미 에너지부 원자력국–ABS(미국선급협회), 해양 원자력 MOU 체결 — 부유식 발전·원자력 추진 선박·원자력 수송회랑 대상",
+   "title_en": "Agreement aims to support US maritime nuclear",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/agreements-and-deals-support-us-maritime-nuclear-developments",
+   "published": "2026-10-13",
+   "region": "overseas",
+   "category": "smr",
+   "countries": [
+    "US"
+   ],
+   "importance": 2,
+   "summary_ko": "미국선급협회(ABS)와 미 에너지부 원자력국이 해양 원자력 분야 협력 양해각서(MOU)에 서명했다. 테드 개리시 원자력담당 차관보와 존 맥도널드 ABS 회장이 서명했으며, 대상은 부유식 발전설비, 원자력 추진 선박, 원자력 수송회랑과 이를 건조·유지할 항만·조선소·산업기반이다. ABS는 에너지부 국립원자로혁신센터(NRIC)와 연계된 해양원자력응용그룹을 공동 운영하며 기술·규제·경제·정책 자문을 맡고, 해사청(MARAD)의 미 해양혁신센터를 통해 조정한다. 노형·일정·금액은 공개되지 않았다.",
+   "summary_en": "The American Bureau of Shipping (ABS) and the US Department of Energy's Office of Nuclear Energy signed a memorandum of understanding on maritime nuclear. Signed by Assistant Secretary for Nuclear Energy Ted Garrish and ABS Chairman and CEO John McDonald, it covers floating power solutions, nuclear-powered vessels, nuclear transport corridors and the ports, shipyards and industrial base needed to build and sustain them. ABS will co-manage the Maritime Nuclear Applications Group, aligned with DOE's National Reactor Innovation Center, providing technical, regulatory, economic and policy support, with coordination through the US Maritime Administration's US Center for Maritime Innovation. No reactor designs, timelines or figures were disclosed.",
+   "sales_note": "선급협회가 규제·인증 축에 들어오면 해양용 SMR의 설계 요건이 선급 규칙으로 구체화되고, 그 시점부터 조선·해양 기자재 공급망이 발주 대상이 된다. 한국 조선업과 원자력이 함께 걸린 대미 협력 틀에서 해양 원자력이 별도 경로로 자리 잡을지 주시할 필요가 있다.",
+   "sales_note_en": "Once a classification society enters on the regulatory and certification side, design requirements for marine SMRs get written into class rules, and from that point shipbuilding and offshore equipment supply chains become procurement targets. Worth watching whether maritime nuclear establishes itself as a separate track within the US cooperation framework that already ties together Korean shipbuilding and nuclear power.",
+   "related": []
+  },
+  {
+   "id": "2026-10-14-06",
+   "title": "Slovenia – Electricity power lines – Nadgradnja odcepa izoliranega faznega voda (IPB) do transformatorjev lastne rabe T1 in T2",
+   "title_ko": "슬로베니아 크르슈코 원전(NEK), 소내 변압기 T1·T2 절연상버스(IPB) 분기 개량 공고 — 마감 2026년 10월 29일, 협상절차",
+   "title_en": "Slovenia – Krško NPP tenders upgrade of the isolated phase bus duct branch to house transformers T1 and T2",
+   "language": "sl",
+   "source": "TED (EU 공공조달)",
+   "url": "https://ted.europa.eu/en/notice/709650-2026/pdf",
+   "published": "2026-10-14",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "SI"
+   ],
+   "importance": 2,
+   "summary_ko": "크르슈코 원전 운영사 NEK(Nuklearna elektrarna Krško d.o.o.)가 소내 변압기 T1·T2로 가는 절연상버스(IPB, izolirani fazni vod) 분기 설비 개량 공사를 TED에 공고했다(709650-2026, 10월 14일 게재). 마감은 2026년 10월 29일이고 절차는 공고 후 협상, CPV는 31321000(송배전선로)이다. 추정금액은 공고 데이터에 없어 확인하지 못했다.",
+   "summary_en": "Nuklearna elektrarna Krško (NEK), the operator of Slovenia's Krško plant, published a TED notice (709650-2026, 14 October) for an upgrade of the isolated phase bus duct branch feeding house transformers T1 and T2. The deadline is 29 October 2026, the procedure is negotiated with a prior call for competition, and the CPV code is 31321000 (electricity power lines). No estimated value was carried in the notice data, so none could be confirmed.",
+   "sales_note": "JEK2 신규 사업이 멈춰 있는 동안 슬로베니아 발주는 기존 호기 설비개선으로만 나온다. 소내 전원계통 개량은 계속운전 준비의 전형적 항목이라, 크르슈코의 수명연장 투자 흐름을 읽는 지표로 볼 수 있다.",
+   "sales_note_en": "While the JEK2 new build remains stalled, Slovenian procurement is coming out only as upgrades at the existing unit. House power system work is a typical element of long-term operation preparation, so it serves as an indicator of Krško's life-extension investment flow.",
+   "related": []
+  },
+  {
+   "id": "2026-10-14-07",
+   "title": "Romania – Repair and maintenance services of liquid pumps – Servicii de reparatii pentru pompele tip NMV 1000 RA aferente Sistemului Apa Tehnica de Serviciu (RSW-BSI 71310) U1 si U2",
+   "title_ko": "루마니아 누클레아렐렉트리카, 체르나보다 1·2호기 기술용수계통(RSW) NMV 1000 RA 펌프 수리 용역 공고 — 마감 2026년 10월 26일, 공고 기재값 1,166,000(통화 미표기)",
+   "title_en": "Romania – Nuclearelectrica tenders repair services for NMV 1000 RA pumps in the Cernavodă service water system",
+   "language": "ro",
+   "source": "TED (EU 공공조달)",
+   "url": "https://ted.europa.eu/en/notice/709499-2026/pdf",
+   "published": "2026-10-14",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "RO"
+   ],
+   "importance": 1,
+   "summary_ko": "루마니아 원전 운영사 누클레아렐렉트리카가 체르나보다 1·2호기 기술용수계통(Sistemul Apa Tehnica de Serviciu, RSW-BSI 71310)의 NMV 1000 RA형 펌프 수리 용역을 TED에 공고했다(709499-2026, 10월 14일 게재). 마감은 2026년 10월 26일, 절차는 공개입찰이며 CPV는 50511100(액체펌프 수리·정비)이다. 공고에 기재된 값은 1,166,000이나 통화 표기가 없어 단위는 확인하지 못했다. 같은 발주처는 같은 날 고정식 오염감시기 예방·교정 정비 용역(708077-2026, 마감 동일)도 게재했다.",
+   "summary_en": "Romanian operator Nuclearelectrica published a TED notice (709499-2026, 14 October) for repair services on NMV 1000 RA pumps in the service water system (RSW-BSI 71310) of Cernavodă units 1 and 2. The deadline is 26 October 2026, the procedure is open, and the CPV code is 50511100 (repair and maintenance of liquid pumps). The notice carries a value of 1,166,000 but states no currency, so the unit could not be confirmed. The same buyer published a notice for preventive and corrective maintenance of fixed contamination monitors (708077-2026, same deadline) on the same day.",
+   "sales_note": "체르나보다 3·4호기 건설재개 관련 발주는 여전히 나오지 않고 운영 호기 정비 발주만 이어진다. 발주 패턴이 바뀌는 시점이 건설재개 진척의 실질 신호가 된다.",
+   "sales_note_en": "Nothing yet on resuming construction of Cernavodă 3 and 4; procurement continues to be maintenance for the operating units. A shift in that pattern would be the practical signal that the completion project is moving.",
+   "related": [
+    "https://ted.europa.eu/en/notice/708077-2026/pdf"
+   ]
+  },
+  {
+   "id": "2026-10-14-08",
+   "title": "Slovakia – Opravy a technické kontroly prepravných a sprievodných vagónov VJP a RAO / Inovácia bezpečnostných prístupových prvkov",
+   "title_ko": "슬로바키아 JAVYS, 사용후핵연료·방사성폐기물 수송차량 정비(마감 11월 12일)와 보안 출입설비 개량(마감 11월 13일) 공고",
+   "title_en": "Slovakia – JAVYS tenders servicing of spent fuel and radioactive waste transport wagons, and an upgrade of security access equipment",
+   "language": "sk",
+   "source": "TED (EU 공공조달)",
+   "url": "https://ted.europa.eu/en/notice/707398-2026/pdf",
+   "published": "2026-10-13",
+   "region": "overseas",
+   "category": "fuel",
+   "countries": [
+    "SK"
+   ],
+   "importance": 1,
+   "summary_ko": "슬로바키아 국영 해체·후단 기업 JAVYS(Jadrová a vyraďovacia spoločnosť)가 두 건을 TED에 공고했다. ① 사용후핵연료(VJP)·방사성폐기물(RAO) 수송차량 및 수반차량의 수리·기술검사(707398-2026, 마감 2026년 11월 12일, 공고 기재값 236,000, 통화 미표기, CPV 50222000) ② 보안 출입설비 개량(706302-2026, 마감 2026년 11월 13일, 공고 기재값 611,651, 통화 미표기, CPV 32420000). 둘 다 공개입찰이다.",
+   "summary_en": "Slovakia's state decommissioning and back-end company JAVYS (Jadrová a vyraďovacia spoločnosť) published two TED notices: repairs and technical inspections of transport and escort wagons for spent fuel (VJP) and radioactive waste (RAO) (707398-2026, deadline 12 November 2026, value stated as 236,000 with no currency given, CPV 50222000); and an upgrade of security access equipment (706302-2026, deadline 13 November 2026, value stated as 611,651 with no currency given, CPV 32420000). Both use the open procedure.",
+   "sales_note": "JAVYS는 직전에 ČEZ가 보유하던 신규 원전 사업회사 JESS 지분 49%를 인수해 국가 100% 구조가 된 주체다. 당장의 발주는 후단 정비에 머물지만, 같은 기관이 신규 건설 발주처로 전환될 때의 조달 방식·전자포털을 지금 파악해 둘 가치가 있다.",
+   "sales_note_en": "JAVYS is the entity that has just bought ČEZ's 49% stake in JESS, the new-build project company, making it wholly state-owned. Its procurement for now stays in back-end maintenance, but it is worth mapping the buyer's procedures and e-procurement portal before the same organisation turns into a new-build buyer.",
+   "related": [
+    "https://ted.europa.eu/en/notice/706302-2026/pdf"
+   ]
+  },
+  {
+   "id": "2026-10-14-09",
+   "title": "[국감현장] 한수원, 1조원대 손실 자초...이집트 원전 무리한 계약 비판",
+   "title_ko": "[국감현장] 한수원, 1조원대 손실 자초…이집트 엘다바 원전 무리한 계약 비판 — 공사손실 충당부채 약 1조 2,000억원, 일부 기자재비 693억→3,915억",
+   "title_en": "KHNP's El-Dabaa contract draws fire at National Assembly audit as construction-loss provision reaches about KRW 1.2 trillion",
+   "language": "ko",
+   "source": "투데이에너지",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304080",
+   "published": "2026-10-13",
+   "region": "domestic",
+   "category": "large",
+   "countries": [
+    "KR",
+    "EG",
+    "RU"
+   ],
+   "importance": 3,
+   "summary_ko": "10월 12일 국회 산업통상중소벤처기업위원회 국정감사에서 김원이 의원이 한수원 감사실 내부 감사자료를 근거로 이집트 엘다바 원전 사업을 지적했다. 올해 상반기 기준 한수원의 공사손실 충당부채는 약 1조 2,000억원이고 대부분이 이 사업에서 발생했으며, 일부 기자재 조달비는 착수 후 693억원에서 3,915억원으로 다섯 배 넘게 올랐다. 2022년 8월 설계와 물량이 확정되지 않은 상태에서 로사톰 자회사 JSC ASE와 터빈건물 시공·기자재 공급·설치에 대해 총액확정계약을 맺은 점, 원가를 다른 국내 노형 기준으로 산정한 점이 비판받았다. 내부 감사에서 당시 사업책임자가 직원들에게 불리한 조건 수용을 압박한 사실이 확인돼 처장급은 정직 1개월, 부장급은 감봉 1개월 처분을 받았다. 김회천 한수원 사장은 사과하고 재발방지를 위한 리스크관리위원회 설치를 설명했다.",
+   "summary_en": "At the 12 October audit by the National Assembly's Industry, Trade, SMEs and Startups Committee, Rep. Kim Won-i cited KHNP internal audit documents to criticise the El-Dabaa project in Egypt. As of the first half of this year KHNP's construction-loss provision stood at about KRW 1.2 trillion, most of it from this project, and some equipment procurement costs rose more than fivefold after work began, from KRW 69.3 billion to KRW 391.5 billion. Criticism focused on the August 2022 lump-sum fixed-price contract signed with Rosatom subsidiary JSC ASE for turbine building construction, equipment supply and installation before the design and quantities were settled, and on costs having been estimated using a different domestic reactor design. The internal audit found the then project head pressured staff into accepting unfavourable terms; a division-director-level executive was suspended for one month and a department-head-level executive had pay cut for one month. CEO Kim Hoe-cheon apologised and described a newly created risk management committee.",
+   "sales_note": "경쟁 벤더가 한국형 수주의 가격·공기 신뢰도를 공격할 때 바로 인용할 수 있는 공개 수치가 생겼다. 대응 논리는 손실의 원인을 노형·시공 역량이 아니라 「설계 미확정 상태의 총액확정계약」이라는 계약 구조로 분리해 설명하는 쪽이어야 하고, 동시에 신규 입찰에서는 설계 성숙도와 물량 확정 시점을 가격 조건에 연동하는 조항을 표준 입장으로 가져갈 근거가 된다.",
+   "sales_note_en": "Competing vendors now have public figures to cite against the price and schedule credibility of Korean awards. The counter-argument has to separate the cause of the loss from reactor design or construction capability and locate it in the contract structure - a lump-sum fixed price agreed before the design was settled - while on new bids this supports making design maturity and the point of quantity fixing a standard condition tied to price.",
+   "related": []
+  },
+  {
+   "id": "2026-10-14-10",
+   "title": "[2026국감]방사선 피폭사고 뒤에도 안전 위반…원전 사고관리계획서 7년째 표류(종합)",
+   "title_ko": "[2026국감] 한수원 농축서비스 조달, 프랑스 40%·영국 30%·러시아 30% — 러시아 의존 축소 위해 중국과 장기계약 추진, 2032년부터 미국 물량 확보 계획",
+   "title_en": "Audit discloses KHNP's enrichment sourcing: France 40%, UK 30%, Russia 30%, with a Chinese long-term contract in the works and US volumes from 2032",
+   "language": "ko",
+   "source": "아시아경제",
+   "url": "https://view.asiae.co.kr/article/2026101318180032430",
+   "published": "2026-10-13",
+   "region": "domestic",
+   "category": "fuel",
+   "countries": [
+    "KR",
+    "FR",
+    "GB",
+    "RU",
+    "CN",
+    "US"
+   ],
+   "importance": 3,
+   "summary_ko": "10월 13일 국회 과학기술정보방송통신위원회의 원자력안전위원회 국정감사에서 한수원은 농축서비스 조달 비중을 프랑스 40%, 영국 30%, 러시아 30%로 공개했다. 러시아 의존을 줄이기 위해 중국과 장기계약을 추진 중이며, 2032년부터는 미국 공급 물량도 확보할 계획이라고 밝혔다. 김장겸 의원은 공급처 다변화만으로는 한계가 있다며 장기적으로 국내 농축 역량 확보를 검토해야 한다고 지적했고, 한수원은 국가 정책과 연계된 사안이라 가능한 범위에서 검토하겠다고 답했다.",
+   "summary_en": "At the 13 October audit of the Nuclear Safety and Security Commission by the National Assembly's Science, ICT, Broadcasting and Communications Committee, KHNP disclosed that its enrichment services are sourced 40% from France, 30% from the UK and 30% from Russia. It said it is pursuing a long-term contract with China to reduce reliance on Russia and plans to secure US volumes from 2032. Rep. Kim Jang-gyeom argued that diversifying suppliers has limits and that domestic enrichment capacity should be considered over the long term; KHNP replied that the matter is tied to national policy and that it would consider it within what is feasible.",
+   "sales_note": "러시아 비중 30%는 해외 입찰에서 제재·공급 안정성 질의가 들어올 때 직접 쟁점이 되는 숫자다. 미국 물량이 2032년부터라는 점은 그 전까지 중국 장기계약이 러시아 대체의 실질 수단이라는 뜻이어서, 서방 발주처 심사에서는 중국 의존이 다시 질문거리가 될 수 있다. 수출 제안서의 연료 공급 안정성 항목을 연도별 전환 계획으로 구체화해 둘 필요가 있다.",
+   "sales_note_en": "A 30% Russian share is the figure that will come up directly when overseas tenders raise sanctions and supply security questions. With US volumes only from 2032, the Chinese long-term contract is the practical substitute for Russian supply until then, which may in turn draw questions about Chinese dependence in Western buyers' evaluations. The fuel supply security section of export proposals should be set out as a year-by-year transition plan.",
+   "related": []
+  },
+  {
+   "id": "2026-10-14-11",
+   "title": "[2026국감]방사선 피폭사고 뒤에도 안전 위반…원전 사고관리계획서 7년째 표류(종합)",
+   "title_ko": "[2026국감] 고리 3·4호기·한빛 1호기 사고관리계획서 7년 4개월째 미승인 — 심사 과정에서 고리 2호기 입력값 사용 사실 확인",
+   "title_en": "Accident management plans for Kori 3-4 and Hanbit 1 still unapproved after seven years and four months, with another unit's input values found in the review",
+   "language": "ko",
+   "source": "아시아경제",
+   "url": "https://view.asiae.co.kr/article/2026101318180032430",
+   "published": "2026-10-13",
+   "region": "domestic",
+   "category": "policy",
+   "countries": [
+    "KR"
+   ],
+   "importance": 2,
+   "summary_ko": "이훈기 의원은 한수원이 2019년 6월 제출한 고리 3·4호기와 한빛 1호기 사고관리계획서가 7년 4개월이 지나도록 승인되지 않았다고 지적했다. 9월 11일 원자력안전위원회 회의록을 근거로 고리 3·4호기 방사선량 평가 일부에 고리 2호기 입력값이 사용된 사실도 제시했다. 최원호 원안위원장은 심사에서 오류를 걸러내지 못한 점을 인정하고 \"다시 평가를 해서 바로잡았다\"고 답했으며, 최종 승인 시점은 제시하지 않았다.",
+   "summary_en": "Rep. Lee Hun-ki noted that the accident management plans KHNP filed in June 2019 for Kori units 3 and 4 and Hanbit unit 1 remain unapproved after seven years and four months. Citing NSSC minutes of 11 September, he said part of the radiation dose assessment for Kori 3 and 4 had used input values from Kori unit 2. NSSC Chair Choi Won-ho acknowledged that the review had failed to catch the error, saying it had been re-evaluated and corrected, and gave no date for final approval.",
+   "sales_note": "국내 인허가 처리 기간은 해외 입찰에서 규제 예측가능성과 공기 신뢰도의 근거 자료로 쓰인다. 7년 넘게 끌린 심사와 입력값 오류는 레퍼런스 설명의 약한 고리가 되므로, 해외 제안에서는 건설·운영 실적과 규제 처리 기간을 분리해 제시하는 편이 안전하다.",
+   "sales_note_en": "Domestic licensing turnaround is used as evidence of regulatory predictability and schedule credibility in overseas bids. A review dragging past seven years, with an input-value error, is a weak link in the reference story, so overseas proposals are safer presenting construction and operating performance separately from regulatory processing times.",
+   "related": []
+  },
+  {
+   "id": "2026-10-14-12",
+   "title": "[2026국감]SMR 개발 속도 내는데 안전심사 인력은?…원안위 \"조직 확대 필요\"",
+   "title_ko": "[2026국감] 원안위 SMR 전담조직 7명 — 최원호 위원장 \"최소 1개 국 규모 필요\", KINS는 비경수형 심사에 10년간 100명·2035년까지 180명 증원 필요",
+   "title_en": "NSSC's SMR team numbers seven as i-SMR design review begins; KINS says it needs about 100 more staff over ten years and 180 by 2035",
+   "language": "ko",
+   "source": "아시아경제",
+   "url": "https://view.asiae.co.kr/article/2026101313011343408",
+   "published": "2026-10-13",
+   "region": "domestic",
+   "category": "smr",
+   "countries": [
+    "KR"
+   ],
+   "importance": 2,
+   "summary_ko": "10월 13일 원자력안전위원회 국정감사에서 김남국 의원은 올해 혁신형 SMR 표준설계인가 심사가 시작됐고 내년에는 비경수형을 포함한 3개 노형의 사전검토가 예상된다며 규제 인력 확보를 물었다. 최원호 원안위원장은 SMR 전담조직이 1개 과 규모의 임시조직으로 7명이며 \"최소한 1개 국 정도의 인력이 필요하다\"고 답했다. 내년 정식 과로 전환되면서 5명이 늘지만 여전히 부족하고, 지난해부터 관계부처와 증원을 협의했으나 인력 확보에 어려움이 있다고 설명했다. 7명은 규제정책·인허가 인력만으로 한국원자력안전기술원(KINS) 기술심사 인력은 별도다. KINS는 비경수형 SMR 심사에 향후 10년간 약 100명, 원자력 안전심사 업무 전반 확대에는 2035년까지 약 180명 증원이 필요하다고 밝혔다.",
+   "summary_en": "At the 13 October NSSC audit, Rep. Kim Nam-guk noted that standard design approval review for the innovative SMR (i-SMR) began this year and that pre-review of three reactor types including non-light-water designs is expected next year, and asked whether regulatory staffing was ready. NSSC Chair Choi Won-ho said the SMR team is a temporary unit roughly the size of one division with seven people, and that at least a bureau-sized organisation is needed. It becomes a formal division next year with five more staff, which he still called insufficient, and he said the commission has been discussing expansion with relevant ministries since last year without securing people. The seven figure covers only regulatory policy and licensing staff, separate from technical reviewers at the Korea Institute of Nuclear Safety (KINS). KINS said it needs about 100 additional staff over the next ten years for non-light-water SMR review and about 180 by 2035 for the overall expansion of nuclear safety review work.",
+   "sales_note": "i-SMR의 해외 진출은 국내 표준설계인가 취득 시점에 묶여 있고, 그 시점은 심사 인력 규모에 직접 좌우된다. 규제기관 인력이 7명이라는 사실은 해외 발주처가 인허가 일정의 신뢰도를 물을 때 약점이 되므로, 수출 제안에서는 국내 인가 일정을 확정 일정이 아니라 조건부로 제시하고 해외 규제기관과의 병행 심사 협력을 대안으로 준비해야 한다.",
+   "sales_note_en": "Overseas deployment of the i-SMR is tied to when it obtains domestic standard design approval, and that date depends directly on review staffing. A regulator team of seven is a weak point when overseas buyers probe the credibility of the licensing schedule, so export proposals should present the domestic approval date as conditional rather than fixed, and prepare parallel review cooperation with foreign regulators as an alternative.",
+   "related": []
+  }
+ ]
+}

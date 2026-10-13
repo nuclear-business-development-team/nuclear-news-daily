@@ -1,0 +1,67 @@
+{
+ "date": "2026-10-14",
+ "run_started": "2026-10-14T08:02:29+09:00",
+ "run_finished": "2026-10-14T08:23:08+09:00",
+ "run_minutes": 20.7,
+ "articles": 12,
+ "by_region": {
+  "overseas": 8,
+  "domestic": 4
+ },
+ "by_importance": {
+  "3": 4,
+  "2": 6,
+  "1": 2
+ },
+ "detection_lag_hours": {
+  "median": 23.0,
+  "max": 23.0,
+  "n": 12
+ },
+ "sources_ok": [
+  "World Nuclear News (RSS)",
+  "NucNet (RSS)",
+  "IAEA Top News (RSS)",
+  "POWER Magazine (RSS)",
+  "UK DESNZ gov.uk (Atom)",
+  "더구루 (RSS)",
+  "더트래커 (RSS)",
+  "TED 검색 API",
+  "정책브리핑 korea.kr",
+  "아시아경제",
+  "투데이에너지",
+  "UK Find a Tender (검색)",
+  "SAM.gov (검색)",
+  "OPG / CanadaBuys (검색)",
+  "Rolls-Royce SMR (검색)"
+ ],
+ "sources_failed": [
+  {
+   "name": "TED 공고 PDF (ted.europa.eu/.../pdf)",
+   "reason": "HTTP 202 · 본문 0바이트 (전 건, 재시도 6회 포함) — 공고 확인은 TED 검색 API로 대체"
+  },
+  {
+   "name": "Nuclear Engineering International (RSS)",
+   "reason": "stale feed — HTTP 200이나 최신 항목이 2026-06-16"
+  },
+  {
+   "name": "한국수력원자력 보도자료 게시판",
+   "reason": "HTTP 200이나 목록이 JavaScript 렌더링 — 제목·날짜 추출 0건"
+  },
+  {
+   "name": "Rolls-Royce SMR 보도자료 페이지",
+   "reason": "403"
+  },
+  {
+   "name": "ted.europa.eu 공고 상세/XML",
+   "reason": "HTTP 202 · 본문 0바이트"
+  }
+ ],
+ "languages": {
+  "en": 5,
+  "sl": 1,
+  "ro": 1,
+  "sk": 1,
+  "ko": 4
+ }
+}

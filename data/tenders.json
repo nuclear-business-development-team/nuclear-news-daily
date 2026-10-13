@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13",
+ "updated": "2026-10-14",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
@@ -58,6 +58,19 @@
   {
    "country": "RO",
    "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
+   "title": "체르나보다 1·2호기 기술용수계통(RSW-BSI 71310) NMV 1000 RA형 펌프 수리 용역",
+   "title_en": "Repair services for NMV 1000 RA pumps in the service water system (RSW-BSI 71310), Cernavodă units 1 and 2",
+   "scope": "기술용수계통 NMV 1000 RA형 펌프 수리, 1·2호기 대상. CPV 50511100, 공개입찰. 공고 기재값 1,166,000(통화 미표기).",
+   "scope_en": "Repair of NMV 1000 RA pumps in the service water system for units 1 and 2. CPV 50511100, open procedure. The notice states a value of 1,166,000 with no currency given.",
+   "portal": "TED",
+   "notice_no": "709499-2026",
+   "published": "2026-10-14",
+   "deadline": "2026-10-26",
+   "url": "https://ted.europa.eu/en/notice/709499-2026/pdf"
+  },
+  {
+   "country": "RO",
+   "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
    "title": "체르나보다 1·2호기 안전관련 구조물 경년거동 평가·분석·시험 용역 (45개월)",
    "title_en": "Technical evaluation, analysis and testing of the time-dependent behaviour of safety-related structures at Cernavoda units 1 and 2 (45 months)",
    "scope": "1·2호기 안전관련 구조물의 경년거동 평가·분석·시험. 원자로건물, 사용후핵연료 저장조 포함 핵보조설비건물(CSAN), 통합건물, 농축탑, EFCVS 건물, 비상수원(EWS) 건물, EPS-SCR 건물, HPECC 건물, 중간준위 폐기물 저장시설 등. CPV 71621000. 공고 기재 금액 2,856,500 EUR",
@@ -67,6 +80,19 @@
    "published": "2026-10-05",
    "deadline": "2026-10-29",
    "url": "https://ted.europa.eu/en/notice/685349-2026/pdf"
+  },
+  {
+   "country": "SI",
+   "buyer": "Nuklearna elektrarna Krško d.o.o. (NEK)",
+   "title": "크르슈코 원전 — 소내 변압기 T1·T2 절연상버스(IPB) 분기 개량",
+   "title_en": "Krško NPP — upgrade of the isolated phase bus duct (IPB) branch to house transformers T1 and T2",
+   "scope": "소내 변압기 T1·T2로 가는 절연상버스(izolirani fazni vod) 분기 설비 개량. CPV 31321000(송배전선로), 공고 후 협상 절차.",
+   "scope_en": "Upgrade of the isolated phase bus duct branch feeding house transformers T1 and T2. CPV 31321000 (electricity power lines), negotiated procedure with a prior call for competition.",
+   "portal": "TED",
+   "notice_no": "709650-2026",
+   "published": "2026-10-14",
+   "deadline": "2026-10-29",
+   "url": "https://ted.europa.eu/en/notice/709650-2026/pdf"
   },
   {
    "country": "BE",
@@ -199,6 +225,19 @@
    "url": "https://ted.europa.eu/en/notice/696701-2026/pdf"
   },
   {
+   "country": "SK",
+   "buyer": "Jadrová a vyraďovacia spoločnosť, a.s. (JAVYS)",
+   "title": "사용후핵연료(VJP)·방사성폐기물(RAO) 수송차량 및 수반차량 수리·기술검사",
+   "title_en": "Repairs and technical inspections of transport and escort wagons for spent fuel (VJP) and radioactive waste (RAO)",
+   "scope": "사용후핵연료·방사성폐기물 수송차량 및 수반차량의 수리와 기술검사. CPV 50222000, 공개입찰. 공고 기재값 236,000(통화 미표기).",
+   "scope_en": "Repairs and technical inspections of wagons used to transport spent fuel and radioactive waste, and of escort wagons. CPV 50222000, open procedure. The notice states a value of 236,000 with no currency given.",
+   "portal": "TED",
+   "notice_no": "707398-2026",
+   "published": "2026-10-13",
+   "deadline": "2026-11-12",
+   "url": "https://ted.europa.eu/en/notice/707398-2026/pdf"
+  },
+  {
    "country": "GB",
    "buyer": "Nuclear Restoration Services Limited",
    "title": "힝클리포인트A 1·2호기 스프링행거 철거 — 설계·시공 사전시장조사(RFI)",
@@ -210,6 +249,19 @@
    "published": "2026-10-12",
    "deadline": "2026-11-13",
    "url": "https://www.find-tender.service.gov.uk/Notice/096201-2026"
+  },
+  {
+   "country": "SK",
+   "buyer": "Jadrová a vyraďovacia spoločnosť, a.s. (JAVYS)",
+   "title": "보안 출입설비 개량 (Inovácia bezpečnostných prístupových prvkov)",
+   "title_en": "Upgrade of security access equipment (Inovácia bezpečnostných prístupových prvkov)",
+   "scope": "보안 출입설비 개량. CPV 32420000(네트워크 장비), 공개입찰. 공고 기재값 611,651(통화 미표기).",
+   "scope_en": "Upgrade of security access equipment. CPV 32420000 (network equipment), open procedure. The notice states a value of 611,651 with no currency given.",
+   "portal": "TED",
+   "notice_no": "706302-2026",
+   "published": "2026-10-13",
+   "deadline": "2026-11-13",
+   "url": "https://ted.europa.eu/en/notice/706302-2026/pdf"
   },
   {
    "country": "BE",
@@ -288,6 +340,19 @@
    "published": "2026-10-08",
    "deadline": null,
    "url": "https://www.find-tender.service.gov.uk/Notice/095106-2026"
+  },
+  {
+   "country": "PL",
+   "buyer": "Polskie Elektrownie Jądrowe sp. z o.o.",
+   "title": "원전 건설사업 자금조달 지원 금융자문·ESG 자문 프레임워크 (로트 1 금융자문 / 로트 2 ESG 자문)",
+   "title_en": "Framework agreements for financial advisory and ESG advisory services supporting the nuclear power plant construction project financing (Lot 1 financial, Lot 2 ESG)",
+   "scope": "원전 건설사업의 자금조달 절차와 회사 상시 업무를 지원하는 금융자문·ESG 자문. CPV 66171000. 공고 데이터에 마감일·추정금액 없음 — 원문 확인 필요.",
+   "scope_en": "Financial and ESG advisory services supporting the project financing process and the company's ongoing operations. CPV 66171000. The notice data carries no deadline or estimated value - verify against the original notice.",
+   "portal": "TED",
+   "notice_no": "708440-2026",
+   "published": "2026-10-14",
+   "deadline": null,
+   "url": "https://ted.europa.eu/en/notice/708440-2026/pdf"
   }
  ]
 }

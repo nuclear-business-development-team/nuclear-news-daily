@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-15",
+  "run_started": "2026-10-15T08:02:25+09:00",
+  "run_finished": "2026-10-15T08:21:06+09:00",
+  "run_minutes": 18.7,
+  "articles": 15,
+  "by_region": {
+    "overseas": 11,
+    "domestic": 4
+  },
+  "by_importance": {
+    "3": 1,
+    "2": 9,
+    "1": 5
+  },
+  "detection_lag_hours": {
+    "median": 23.0,
+    "max": 47.0,
+    "n": 15
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "ANS Nuclear Newswire",
+    "TED 검색 API",
+    "UK Find a Tender OCDS API",
+    "정책브리핑 korea.kr",
+    "한국수력원자력 보도자료",
+    "한국전력 보도자료",
+    "에너지데일리",
+    "투데이에너지",
+    "Fortum 공급사 페이지 / SAP Ariba Discovery"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "301 리다이렉트 후 200이나 기간 내 항목 0건(피드 정체, 2회차 연속)"
+    },
+    {
+      "name": "NucNet 목록 페이지",
+      "reason": "403"
+    },
+    {
+      "name": "핀란드 Hilma API",
+      "reason": "404 (14회차 연속)"
+    },
+    {
+      "name": "OPG 공급사 페이지",
+      "reason": "403"
+    },
+    {
+      "name": "TVO 공급사 등록 페이지",
+      "reason": "404 (검색 색인으로만 확인)"
+    },
+    {
+      "name": "Fortum 조달 페이지(/about-us/our-company/procurement)",
+      "reason": "404 (대체 경로로 확인)"
+    },
+    {
+      "name": "UK Find a Tender OCDS API",
+      "reason": "429 분당 요청 제한 3회 — 재시도로 전 페이지 확보"
+    },
+    {
+      "name": "hnonline.sk (슬로바키아)",
+      "reason": "크롤러 차단 — allowed_domains 사용 시 검색 자체 실패"
+    }
+  ],
+  "languages": {
+    "en": 7,
+    "cs": 2,
+    "ro": 1,
+    "fr": 1,
+    "ko": 4
+  }
+}

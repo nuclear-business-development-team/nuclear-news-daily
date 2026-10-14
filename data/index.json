@@ -1,160 +1,166 @@
 {
- "days": [
-  {
-   "date": "2026-10-14",
-   "article_count": 12,
-   "headline_ko": "폴란드, 제2원전을 에너지부·PEJ·PGE 역할분담 협약으로 제도화 — 베우하투프·코닌 후보지, 2027년 기술 선정·2032년경 착공. 같은 날 1호 사업 금융자문 발주, 체코는 테멜린 롤스로이스 SMR(470MWe) 환경영향평가서 제출. 국내는 국감에서 엘다바 공사손실 충당부채 1조 2,000억원과 농축 조달 러시아 30% 공개",
-   "headline_en": "Poland formalises its second nuclear plant and tenders the financing advice for its first, while Czechia files the environmental case for a 470 MWe Rolls-Royce SMR at Temelin - and in Seoul the audit puts a KRW 1.2 trillion loss provision on El-Dabaa and a 30% Russian share on Korea's enrichment supply"
-  },
-  {
-   "date": "2026-10-13",
-   "article_count": 12,
-   "headline_ko": "김동철 한전 사장, 국감에서 \"미국 APR1400 1기당 20억 달러는 상한 가이드라인\" — 전액 지급 아니라고 선 긋고 웨스팅하우스 지분 규모는 기업실사 뒤로. 해외에서는 발주 창이 전부 기존 부지 부대설비와 해체·후단(ČEZ 두코바니 OB03, 힝클리포인트A 스프링행거)으로 열렸다",
-   "headline_en": "Seoul puts a ceiling on the price of exporting its own reactor: KEPCO's chief tells the National Assembly the USD 2 billion per APR1400 is an upper limit, not a bill - while every tender that opened abroad sat in balance-of-plant and decommissioning, not new build"
-  },
-  {
-   "date": "2026-10-12",
-   "article_count": 2,
-   "headline_ko": "주말 공백 속 신규 2건 — 벨기에 ONDRAF/NIRAS가 B·C급 폐기물 처분 기술용역 마감을 10월 15일에서 11월 2일로 18일 연장(같은 절차 재공고), 국내는 고준위 방폐물 관리위원회 출범 1년 성과 발표(전체회의 8회·전문위 4개, 3차 기본계획 연내·부지 공모 2027년)",
-   "headline_en": "A quiet weekend yields two items: Belgium's ONDRAF/NIRAS reopens its Category B and C waste disposal tender for eighteen more days, to 2 November, and Seoul's high-level waste committee marks a first year with eight plenaries, four subcommittees and a 2027 site call ahead"
-  },
-  {
-   "date": "2026-10-11",
-   "article_count": 0,
-   "headline_ko": "신규 기사 0건 — 10월 10~11일(토·일) 수집 기간에 해외·국내 모두 신규 건이 없었다. 피드·목록·공고 API·현지어 검색을 전부 돌려 '기간 내 0건'을 확인했으며, TED·UK Find a Tender 공고도 신규 0건",
-   "headline_en": "A genuinely empty weekend: nothing new overseas or in Korea across the 10-11 October window, confirmed by running every feed, listing page, procurement API and local-language search - with zero fresh notices on TED and UK Find a Tender too"
-  },
-  {
-   "date": "2026-10-10",
-   "article_count": 14,
-   "headline_ko": "美 NRC, 페르미 아메리카 AP1000 4기 환경영향평가서 초안 완료 — COL 예비 긍정 권고, 최종 EIS 12월 목표. 같은 주 영국·스웨덴에서는 개보수·계속운전이 신규 건설보다 먼저 집행",
-   "headline_en": "Washington's regulator puts four more AP1000s within reach: a completed draft EIS and a preliminary nod to Fermi America's licence, with the final statement due in December - while Britain and Sweden spent the week locking in life extension instead of new build"
-  },
-  {
-   "date": "2026-10-09",
-   "article_count": 11,
-   "headline_ko": "웨스팅하우스, 네덜란드 AP1000 2기 FEED 1 설계에 현대건설 계약 — 후보부지 기술검토·마스터플랜·사업수행전략 담당. KHNP가 철수한 시장에 국내 EPC가 노형 벤더 하도로 진입, 부지 결정은 다음 달 예고",
-   "headline_en": "Korea gets into the Dutch new-build through the back door: Westinghouse hands Hyundai E&C part of the FEED 1 design for two AP1000s, in a market KHNP walked away from, with the site decision due next month"
-  },
-  {
-   "date": "2026-10-08",
-   "article_count": 10,
-   "headline_ko": "산업부·KNA, 원전수출 리더스포럼 발족 — 한미 프레임워크 설명과 함께 30여 개 수출지원사업 고도화·미국 맞춤형 신규 지원 내년 추진, 10월 27~29일 경주 NES 2026에 해외 업계 초청",
-   "headline_en": "Seoul opens its export counter: the new Nuclear Export Leaders Forum walks industry through the Korea-US framework, with thirty support programmes upgraded, US-tailored measures due next year and global buyers invited to NES 2026 in Gyeongju"
-  },
-  {
-   "date": "2026-10-07",
-   "article_count": 8,
-   "headline_ko": "구글–콘스텔레이션, 기존 원전 11개 호기 출력증강으로 890MW 확보 — 43억 달러 투자·20년 PPA. 미국 수요 자금이 신규 건설 대신 기존 설비로 가는 흐름이 이틀 연속",
-   "headline_en": "Google and Constellation buy 890 MW out of eleven reactors already standing, with USD 4.3 billion of uprates behind it - the second day running that US demand money skipped new build"
-  },
-  {
-   "date": "2026-10-06",
-   "article_count": 14,
-   "headline_ko": "미 에너지부, 비스트라에 42억 달러 조건부 대출 공식 확정 — 비버밸리·데이비스베시·페리 433MW 증설과 면허 후 20년 추가 운전. 같은 날 GAO는 NRC 인력 16% 감소 보고",
-   "headline_en": "Washington signs off on the uprate loan: DOE's USD 4.2 billion conditional commitment buys Vistra 433 MW and 20 more years of licence, on the day the GAO reports the NRC 16 percent smaller"
-  },
-  {
-   "date": "2026-10-05",
-   "article_count": 6,
-   "headline_ko": "폴란드 원자력계획 개정 일정 공개 — 1호 원전 상업운전 2036년으로 3년, 2호 원전 2040년으로 1년 연기. 2호 파트너는 2027년 미·불·캐 중 선정",
-   "headline_en": "Poland puts dates on its nuclear retreat: the first plant slips three years to 2036, the second one year to 2040, with its partner picked in 2027 from US, French and Canadian bidders"
-  },
-  {
-   "date": "2026-10-04",
-   "article_count": 4,
-   "headline_ko": "미 에너지부, 비스트라에 42억 달러 대출 추진 보도 — 신규 건설이 아니라 기존 원전 출력증강(uprate)에 연방 금융이 붙기 시작",
-   "headline_en": "Washington's nuclear money turns to uprates: a reported USD 4.2 billion federal loan would raise output at three Vistra plants, no new reactor required"
-  },
-  {
-   "date": "2026-10-03",
-   "article_count": 13,
-   "headline_ko": "원전수출기획위, 미국 APR1400 2기의 기본설계·인허가·EPC·시운전 역무를 단계별로 논의 — 프레임워크에서 비어 있던 역무 경계가 의제로 올라옴",
-   "headline_en": "Korea's nuclear export committee opens the scope question the US framework left blank, working through basic design, licensing, EPC and commissioning for the two APR1400 units"
-  },
-  {
-   "date": "2026-10-02",
-   "article_count": 11,
-   "headline_ko": "한미 원전 프레임워크 확정 — 미국에 AP1000 6기·APR1400 2기, 1,200억 달러. 2025년 타협협정 예외로 한국형 노형이 미 본토 첫 해외 노형이 된다",
-   "headline_en": "Korea and the US settle a USD 120 billion framework for eight reactors, carving an exception that makes the APR1400 the first foreign design built on US soil"
-  },
-  {
-   "date": "2026-10-01",
-   "article_count": 10,
-   "headline_ko": "체르나보다 1호기 개보수 EPC 낙찰 공고 EU 관보 게시 — 한수원이 캔두에너지·안살도 컨소시엄의 정식 계약 당사자로 확인(19억 5,589만 유로)",
-   "headline_en": "KHNP named in the EU tender journal as a contracting party in the EUR 1.96 billion Cernavoda 1 refurbishment consortium"
-  },
-  {
-   "date": "2026-09-30",
-   "article_count": 9,
-   "headline_ko": "캐나다 서스캐처원주, 2050년 원자력 2,600MW 목표 발표 — 북서부 대형원전 2기(1호기 2042년)와 래퍼티 부지 BWRX-300 2기를 함께 올려 SMR 단독 노선에서 벗어남",
-   "headline_en": "Saskatchewan goes beyond SMRs: a 2,600 MW nuclear target for 2050, two large reactors in the northwest and two BWRX-300s at Rafferty"
-  },
-  {
-   "date": "2026-09-29",
-   "article_count": 7,
-   "headline_ko": "미 NRC, TVA 클린치리버 BWRX-300 건설허가 29일 발급 예정 — 미국에서 이 노형이 받는 첫 건설허가",
-   "headline_en": "The NRC is set to issue TVA the first US construction permit for a BWRX-300, at Clinch River"
-  },
-  {
-   "date": "2026-09-28",
-   "article_count": 5,
-   "headline_ko": "슬로베니아 JEK2, 실무그룹을 기반시설에너지부로 이관하고 중량물 수송로 전담 소그룹 신설 — 준비단계가 조달 준비로 내려옴",
-   "headline_en": "Slovenia moves JEK2 groundwork into its energy ministry and carves out a transport-routes sub-group"
-  },
-  {
-   "date": "2026-09-27",
-   "article_count": 5,
-   "headline_ko": "IAEA·미주개발은행 원자력 파트너십 협정 — 세계은행·ADB에 이어 지역 개발금융기관까지 원전 금융 틀 확장",
-   "headline_en": "The IAEA signs a nuclear partnership with the Inter-American Development Bank, widening multilateral financing beyond the World Bank and ADB"
-  },
-  {
-   "date": "2026-09-26",
-   "article_count": 9,
-   "headline_ko": "대만 원안위, 마안산 원전 재가동 초기 계획서 심사 통과 — 민진당 탈원전 기조 규제 단계에서 뒤집혀",
-   "headline_en": "Taiwan's regulator clears the first step toward restarting Ma-anshan, turning the ruling party's nuclear U-turn into procedure"
-  },
-  {
-   "date": "2026-09-25",
-   "article_count": 7,
-   "headline_ko": "한·미·일 SMR 협력각서 이행계획 확정 — 유럽·BWRX-300 전면, 1,500억 달러 투자 촉진 목표",
-   "headline_en": "Seoul, Washington and Tokyo set an implementation plan for third-country SMR deployments, with Europe and the BWRX-300 in the lead"
-  },
-  {
-   "date": "2026-09-24",
-   "article_count": 7,
-   "headline_ko": "폴란드 첫 원전 EPC 주요 상업조건 타결 — 삼성물산은 GE버노바·히타치·SGE와 유럽 BWRX-300 40기 선단 협약",
-   "headline_en": "Poland settles the main commercial terms of its first nuclear EPC as Samsung C&T joins a 40-unit BWRX-300 fleet pact for Europe"
-  },
-  {
-   "date": "2026-09-23",
-   "article_count": 9,
-   "headline_ko": "대미투자 원전, 미국 내 APR1400 최대 2기 합의 — 한국형 원전 수출을 묶어 온 IP 합의도 개정키로",
-   "headline_en": "Korea-US package clears up to two APR1400s for US soil and reopens the IP agreement that has constrained Korean reactor exports"
-  },
-  {
-   "date": "2026-09-22",
-   "article_count": 15,
-   "headline_ko": "웨스팅하우스, 폴란드 AP1000 2·3호기 격납용기·차폐건물 모듈 제작 자격심사 공고 — 마감 10월 12일",
-   "headline_en": "Westinghouse opens supplier qualification for AP1000 containment vessel and shield building modules in Poland, closing 12 October"
-  },
-  {
-   "date": "2026-09-21",
-   "article_count": 7,
-   "headline_ko": "한미 에너지 협력, 전력망·SMR·저탄소 기술로 확장 — 협력 대화 정례화·MOU 추진",
-   "headline_en": "Korea-US energy cooperation widens to grids and SMRs, with a regular dialogue and an MOU in the works"
-  },
-  {
-   "date": "2026-09-20",
-   "article_count": 21,
-   "headline_ko": "체코 두코바니, 체코 기업 60곳 이상 한수원 자격심사 통과 — 11월 첫 기자재 입찰 개시",
-   "headline_en": "Dukovany: over 60 Czech firms clear KHNP qualification, first equipment tender due in November"
-  },
-  {
-   "date": "2026-09-19",
-   "article_count": 17,
-   "headline_ko": "슬로베니아 JEK2, AP1000·EPR 전제로 사업 구체화 — 영국은 Xe-100 GDA 착수",
-   "headline_en": "Slovenia's JEK2 advances on an AP1000/EPR shortlist; UK opens GDA for the Xe-100"
-  }
- ]
+  "days": [
+    {
+      "date": "2026-10-15",
+      "article_count": 15,
+      "headline_ko": "웨스팅하우스, 폴란드 AP1000 1호기 안전등급 모듈을 폴란드 업체 4곳에 조건부 발주 — 본계약 조건은 NQA-1 인증과 양산 전 검증 목업. 영국 GBE-N은 '그윈도드 SMR 사업' 자금조달 자문을 60만 파운드 본공고로 올렸고, 국내는 폴란드 2호 사업에서 한수원이 지식재산권 합의로 직접 입찰에서 배제된다는 점이 재확인됐다",
+      "headline_en": "Poland's reactor modules go to Polish steel firms - but only on paper until they earn NQA-1: Westinghouse makes certification and a qualification mock-up the price of entry, while Britain starts buying the financing advice for its first SMR"
+    },
+    {
+      "date": "2026-10-14",
+      "article_count": 12,
+      "headline_ko": "폴란드, 제2원전을 에너지부·PEJ·PGE 역할분담 협약으로 제도화 — 베우하투프·코닌 후보지, 2027년 기술 선정·2032년경 착공. 같은 날 1호 사업 금융자문 발주, 체코는 테멜린 롤스로이스 SMR(470MWe) 환경영향평가서 제출. 국내는 국감에서 엘다바 공사손실 충당부채 1조 2,000억원과 농축 조달 러시아 30% 공개",
+      "headline_en": "Poland formalises its second nuclear plant and tenders the financing advice for its first, while Czechia files the environmental case for a 470 MWe Rolls-Royce SMR at Temelin - and in Seoul the audit puts a KRW 1.2 trillion loss provision on El-Dabaa and a 30% Russian share on Korea's enrichment supply"
+    },
+    {
+      "date": "2026-10-13",
+      "article_count": 12,
+      "headline_ko": "김동철 한전 사장, 국감에서 \"미국 APR1400 1기당 20억 달러는 상한 가이드라인\" — 전액 지급 아니라고 선 긋고 웨스팅하우스 지분 규모는 기업실사 뒤로. 해외에서는 발주 창이 전부 기존 부지 부대설비와 해체·후단(ČEZ 두코바니 OB03, 힝클리포인트A 스프링행거)으로 열렸다",
+      "headline_en": "Seoul puts a ceiling on the price of exporting its own reactor: KEPCO's chief tells the National Assembly the USD 2 billion per APR1400 is an upper limit, not a bill - while every tender that opened abroad sat in balance-of-plant and decommissioning, not new build"
+    },
+    {
+      "date": "2026-10-12",
+      "article_count": 2,
+      "headline_ko": "주말 공백 속 신규 2건 — 벨기에 ONDRAF/NIRAS가 B·C급 폐기물 처분 기술용역 마감을 10월 15일에서 11월 2일로 18일 연장(같은 절차 재공고), 국내는 고준위 방폐물 관리위원회 출범 1년 성과 발표(전체회의 8회·전문위 4개, 3차 기본계획 연내·부지 공모 2027년)",
+      "headline_en": "A quiet weekend yields two items: Belgium's ONDRAF/NIRAS reopens its Category B and C waste disposal tender for eighteen more days, to 2 November, and Seoul's high-level waste committee marks a first year with eight plenaries, four subcommittees and a 2027 site call ahead"
+    },
+    {
+      "date": "2026-10-11",
+      "article_count": 0,
+      "headline_ko": "신규 기사 0건 — 10월 10~11일(토·일) 수집 기간에 해외·국내 모두 신규 건이 없었다. 피드·목록·공고 API·현지어 검색을 전부 돌려 '기간 내 0건'을 확인했으며, TED·UK Find a Tender 공고도 신규 0건",
+      "headline_en": "A genuinely empty weekend: nothing new overseas or in Korea across the 10-11 October window, confirmed by running every feed, listing page, procurement API and local-language search - with zero fresh notices on TED and UK Find a Tender too"
+    },
+    {
+      "date": "2026-10-10",
+      "article_count": 14,
+      "headline_ko": "美 NRC, 페르미 아메리카 AP1000 4기 환경영향평가서 초안 완료 — COL 예비 긍정 권고, 최종 EIS 12월 목표. 같은 주 영국·스웨덴에서는 개보수·계속운전이 신규 건설보다 먼저 집행",
+      "headline_en": "Washington's regulator puts four more AP1000s within reach: a completed draft EIS and a preliminary nod to Fermi America's licence, with the final statement due in December - while Britain and Sweden spent the week locking in life extension instead of new build"
+    },
+    {
+      "date": "2026-10-09",
+      "article_count": 11,
+      "headline_ko": "웨스팅하우스, 네덜란드 AP1000 2기 FEED 1 설계에 현대건설 계약 — 후보부지 기술검토·마스터플랜·사업수행전략 담당. KHNP가 철수한 시장에 국내 EPC가 노형 벤더 하도로 진입, 부지 결정은 다음 달 예고",
+      "headline_en": "Korea gets into the Dutch new-build through the back door: Westinghouse hands Hyundai E&C part of the FEED 1 design for two AP1000s, in a market KHNP walked away from, with the site decision due next month"
+    },
+    {
+      "date": "2026-10-08",
+      "article_count": 10,
+      "headline_ko": "산업부·KNA, 원전수출 리더스포럼 발족 — 한미 프레임워크 설명과 함께 30여 개 수출지원사업 고도화·미국 맞춤형 신규 지원 내년 추진, 10월 27~29일 경주 NES 2026에 해외 업계 초청",
+      "headline_en": "Seoul opens its export counter: the new Nuclear Export Leaders Forum walks industry through the Korea-US framework, with thirty support programmes upgraded, US-tailored measures due next year and global buyers invited to NES 2026 in Gyeongju"
+    },
+    {
+      "date": "2026-10-07",
+      "article_count": 8,
+      "headline_ko": "구글–콘스텔레이션, 기존 원전 11개 호기 출력증강으로 890MW 확보 — 43억 달러 투자·20년 PPA. 미국 수요 자금이 신규 건설 대신 기존 설비로 가는 흐름이 이틀 연속",
+      "headline_en": "Google and Constellation buy 890 MW out of eleven reactors already standing, with USD 4.3 billion of uprates behind it - the second day running that US demand money skipped new build"
+    },
+    {
+      "date": "2026-10-06",
+      "article_count": 14,
+      "headline_ko": "미 에너지부, 비스트라에 42억 달러 조건부 대출 공식 확정 — 비버밸리·데이비스베시·페리 433MW 증설과 면허 후 20년 추가 운전. 같은 날 GAO는 NRC 인력 16% 감소 보고",
+      "headline_en": "Washington signs off on the uprate loan: DOE's USD 4.2 billion conditional commitment buys Vistra 433 MW and 20 more years of licence, on the day the GAO reports the NRC 16 percent smaller"
+    },
+    {
+      "date": "2026-10-05",
+      "article_count": 6,
+      "headline_ko": "폴란드 원자력계획 개정 일정 공개 — 1호 원전 상업운전 2036년으로 3년, 2호 원전 2040년으로 1년 연기. 2호 파트너는 2027년 미·불·캐 중 선정",
+      "headline_en": "Poland puts dates on its nuclear retreat: the first plant slips three years to 2036, the second one year to 2040, with its partner picked in 2027 from US, French and Canadian bidders"
+    },
+    {
+      "date": "2026-10-04",
+      "article_count": 4,
+      "headline_ko": "미 에너지부, 비스트라에 42억 달러 대출 추진 보도 — 신규 건설이 아니라 기존 원전 출력증강(uprate)에 연방 금융이 붙기 시작",
+      "headline_en": "Washington's nuclear money turns to uprates: a reported USD 4.2 billion federal loan would raise output at three Vistra plants, no new reactor required"
+    },
+    {
+      "date": "2026-10-03",
+      "article_count": 13,
+      "headline_ko": "원전수출기획위, 미국 APR1400 2기의 기본설계·인허가·EPC·시운전 역무를 단계별로 논의 — 프레임워크에서 비어 있던 역무 경계가 의제로 올라옴",
+      "headline_en": "Korea's nuclear export committee opens the scope question the US framework left blank, working through basic design, licensing, EPC and commissioning for the two APR1400 units"
+    },
+    {
+      "date": "2026-10-02",
+      "article_count": 11,
+      "headline_ko": "한미 원전 프레임워크 확정 — 미국에 AP1000 6기·APR1400 2기, 1,200억 달러. 2025년 타협협정 예외로 한국형 노형이 미 본토 첫 해외 노형이 된다",
+      "headline_en": "Korea and the US settle a USD 120 billion framework for eight reactors, carving an exception that makes the APR1400 the first foreign design built on US soil"
+    },
+    {
+      "date": "2026-10-01",
+      "article_count": 10,
+      "headline_ko": "체르나보다 1호기 개보수 EPC 낙찰 공고 EU 관보 게시 — 한수원이 캔두에너지·안살도 컨소시엄의 정식 계약 당사자로 확인(19억 5,589만 유로)",
+      "headline_en": "KHNP named in the EU tender journal as a contracting party in the EUR 1.96 billion Cernavoda 1 refurbishment consortium"
+    },
+    {
+      "date": "2026-09-30",
+      "article_count": 9,
+      "headline_ko": "캐나다 서스캐처원주, 2050년 원자력 2,600MW 목표 발표 — 북서부 대형원전 2기(1호기 2042년)와 래퍼티 부지 BWRX-300 2기를 함께 올려 SMR 단독 노선에서 벗어남",
+      "headline_en": "Saskatchewan goes beyond SMRs: a 2,600 MW nuclear target for 2050, two large reactors in the northwest and two BWRX-300s at Rafferty"
+    },
+    {
+      "date": "2026-09-29",
+      "article_count": 7,
+      "headline_ko": "미 NRC, TVA 클린치리버 BWRX-300 건설허가 29일 발급 예정 — 미국에서 이 노형이 받는 첫 건설허가",
+      "headline_en": "The NRC is set to issue TVA the first US construction permit for a BWRX-300, at Clinch River"
+    },
+    {
+      "date": "2026-09-28",
+      "article_count": 5,
+      "headline_ko": "슬로베니아 JEK2, 실무그룹을 기반시설에너지부로 이관하고 중량물 수송로 전담 소그룹 신설 — 준비단계가 조달 준비로 내려옴",
+      "headline_en": "Slovenia moves JEK2 groundwork into its energy ministry and carves out a transport-routes sub-group"
+    },
+    {
+      "date": "2026-09-27",
+      "article_count": 5,
+      "headline_ko": "IAEA·미주개발은행 원자력 파트너십 협정 — 세계은행·ADB에 이어 지역 개발금융기관까지 원전 금융 틀 확장",
+      "headline_en": "The IAEA signs a nuclear partnership with the Inter-American Development Bank, widening multilateral financing beyond the World Bank and ADB"
+    },
+    {
+      "date": "2026-09-26",
+      "article_count": 9,
+      "headline_ko": "대만 원안위, 마안산 원전 재가동 초기 계획서 심사 통과 — 민진당 탈원전 기조 규제 단계에서 뒤집혀",
+      "headline_en": "Taiwan's regulator clears the first step toward restarting Ma-anshan, turning the ruling party's nuclear U-turn into procedure"
+    },
+    {
+      "date": "2026-09-25",
+      "article_count": 7,
+      "headline_ko": "한·미·일 SMR 협력각서 이행계획 확정 — 유럽·BWRX-300 전면, 1,500억 달러 투자 촉진 목표",
+      "headline_en": "Seoul, Washington and Tokyo set an implementation plan for third-country SMR deployments, with Europe and the BWRX-300 in the lead"
+    },
+    {
+      "date": "2026-09-24",
+      "article_count": 7,
+      "headline_ko": "폴란드 첫 원전 EPC 주요 상업조건 타결 — 삼성물산은 GE버노바·히타치·SGE와 유럽 BWRX-300 40기 선단 협약",
+      "headline_en": "Poland settles the main commercial terms of its first nuclear EPC as Samsung C&T joins a 40-unit BWRX-300 fleet pact for Europe"
+    },
+    {
+      "date": "2026-09-23",
+      "article_count": 9,
+      "headline_ko": "대미투자 원전, 미국 내 APR1400 최대 2기 합의 — 한국형 원전 수출을 묶어 온 IP 합의도 개정키로",
+      "headline_en": "Korea-US package clears up to two APR1400s for US soil and reopens the IP agreement that has constrained Korean reactor exports"
+    },
+    {
+      "date": "2026-09-22",
+      "article_count": 15,
+      "headline_ko": "웨스팅하우스, 폴란드 AP1000 2·3호기 격납용기·차폐건물 모듈 제작 자격심사 공고 — 마감 10월 12일",
+      "headline_en": "Westinghouse opens supplier qualification for AP1000 containment vessel and shield building modules in Poland, closing 12 October"
+    },
+    {
+      "date": "2026-09-21",
+      "article_count": 7,
+      "headline_ko": "한미 에너지 협력, 전력망·SMR·저탄소 기술로 확장 — 협력 대화 정례화·MOU 추진",
+      "headline_en": "Korea-US energy cooperation widens to grids and SMRs, with a regular dialogue and an MOU in the works"
+    },
+    {
+      "date": "2026-09-20",
+      "article_count": 21,
+      "headline_ko": "체코 두코바니, 체코 기업 60곳 이상 한수원 자격심사 통과 — 11월 첫 기자재 입찰 개시",
+      "headline_en": "Dukovany: over 60 Czech firms clear KHNP qualification, first equipment tender due in November"
+    },
+    {
+      "date": "2026-09-19",
+      "article_count": 17,
+      "headline_ko": "슬로베니아 JEK2, AP1000·EPR 전제로 사업 구체화 — 영국은 Xe-100 GDA 착수",
+      "headline_en": "Slovenia's JEK2 advances on an AP1000/EPR shortlist; UK opens GDA for the Xe-100"
+    }
+  ]
 }

@@ -14,9 +14,9 @@
       "country": "SE",
       "name_ko": "스웨덴",
       "name_en": "Sweden",
-      "stance": "expanding",
-      "signal": "스터드스비크가 노르웨이 사용후핵연료 16.5톤의 처리·보관을 2055년까지 맡는 계약을 확보 — 스웨덴 백엔드 서비스가 역내 수출 역무로 작동함을 확인",
-      "signal_en": "Studsvik has won a contract running to 2055 to process and store 16.5 tonnes of Norwegian used fuel, confirming Swedish back-end services as an exportable line of work in the region.",
+      "stance": "steady",
+      "signal": "기조 유지 — 스터드스비크가 노르웨이 사용후핵연료 16.5톤의 처리·보관을 2055년까지 맡는 계약을 확보, 스웨덴 백엔드 서비스가 역내 수출 역무로 작동함을 확인",
+      "signal_en": "Policy unchanged - Studsvik has won a contract running to 2055 to process and store 16.5 tonnes of Norwegian used fuel, confirming Swedish back-end services as an exportable line of work in the region.",
       "article_ids": [
         "2026-10-17-01"
       ]
@@ -25,9 +25,9 @@
       "country": "NO",
       "name_ko": "노르웨이",
       "name_en": "Norway",
-      "stance": "cautious",
-      "signal": "발전용 원자력은 여전히 미결인 가운데, NND가 할덴·셸레르 연구로 사용후핵연료를 스웨덴으로 보내 처리하고 최종처분은 자국으로 되돌리는 구조를 택했다",
-      "signal_en": "With nuclear for power generation still unresolved, NND has opted to send Halden and Kjeller research reactor fuel to Sweden for treatment while keeping final disposal at home.",
+      "stance": "steady",
+      "signal": "기조 유지 — 발전용 원자력은 여전히 미결인 가운데, NND가 할덴·셸레르 연구로 사용후핵연료를 스웨덴으로 보내 처리하고 최종처분은 자국으로 되돌리는 구조를 택했다",
+      "signal_en": "Policy unchanged - with nuclear for power generation still unresolved, NND has opted to send Halden and Kjeller research reactor fuel to Sweden for treatment while keeping final disposal at home.",
       "article_ids": [
         "2026-10-17-01"
       ]
@@ -47,9 +47,9 @@
       "country": "SK",
       "name_ko": "슬로바키아",
       "name_en": "Slovakia",
-      "stance": "expanding",
-      "signal": "모호브체 4호기 계통연결로 1986년 착공분 4기 체제가 완성 단계 — 상업운전까지 출력상승 시험과 144시간 연속운전 남음",
-      "signal_en": "Mochovce 4's grid connection brings the four-unit station begun in 1986 close to completion, with power-ascension testing and a 144-hour full-power run still to come.",
+      "stance": "steady",
+      "signal": "기조 유지 — 모호브체 4호기 계통연결로 1986년 착공분 4기 체제가 완성 단계, 상업운전까지 출력상승 시험과 144시간 연속운전 남음",
+      "signal_en": "Policy unchanged - Mochovce 4's grid connection brings the four-unit station begun in 1986 close to completion, with power-ascension testing and a 144-hour full-power run still to come.",
       "article_ids": [
         "2026-10-17-03"
       ]
@@ -69,7 +69,7 @@
       "country": "CZ",
       "name_ko": "체코",
       "name_en": "Czechia",
-      "stance": "expanding",
+      "stance": "steady",
       "signal": "기조 유지 — 두코바니→브르노 열수송 사업의 기계·배관 패키지(OB01 기술설비)가 토목·전기계측제어에 이어 추가 발주",
       "signal_en": "Policy unchanged - the Dukovany-to-Brno heat offtake project has now tendered its mechanical and pipework package (OB01 technology) after civil works and electrical/I&C.",
       "article_ids": [
@@ -113,7 +113,7 @@
       "country": "FR",
       "name_ko": "프랑스",
       "name_en": "France",
-      "stance": "expanding",
+      "stance": "steady",
       "signal": "기조 유지 — 크뤼아 2호기 교체 증기발생기 3기 인도로 계속운전 투자가 이어지고, 뉴클레오가 마르쿨 인근에 MOX 연료 개발센터를 열어 선진로 연료 기반을 확장",
       "signal_en": "Policy unchanged - three replacement steam generators delivered for Cruas 2 continue the life-extension investment, while newcleo's new MOX fuel development centre near Marcoule widens the advanced-reactor fuel base.",
       "article_ids": [
@@ -125,7 +125,7 @@
       "country": "JP",
       "name_ko": "일본",
       "name_en": "Japan",
-      "stance": "steady",
+      "stance": "expanding",
       "signal": "기조 유지 — MHI가 EDF 교체 증기발생기 9기 중 3기를 인도하고 잔여 6기를 2028년부터 납품, 유럽 개보수 기자재 수출이 20년째 이어짐",
       "signal_en": "Policy unchanged - MHI has delivered three of nine replacement steam generators for EDF with the remaining six from 2028, extending two decades of component exports into Europe's refurbishment market.",
       "article_ids": [

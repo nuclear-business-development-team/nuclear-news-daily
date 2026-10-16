@@ -1,0 +1,449 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T08:02:34+09:00",
+  "period": {
+    "from": "2026-10-16",
+    "to": "2026-10-17"
+  },
+  "overview_ko": "이틀간 해외 소식은 신규 발주보다 '사업구조 확정'에 몰렸다. 폴란드에서는 SGE와 ZE PAK이 파트누프 석탄발전 부지에 BWRX-300 최대 6기(1,800MWe) 합작사를 세워 SMR 트랙의 사업주체와 부지를 동시에 확정했고, 노르웨이 NND는 사용후핵연료 16.5톤을 스웨덴 스터드스비크로 보내 처리·보관하는 2055년까지의 계약(최소 8억 7,500만 크로나, 총액 30~40억 크로나 추정)을 맺어 백엔드 서비스를 장기 역무로 묶었다. 건설·개보수에서는 슬로바키아 모호브체 4호기가 1986년 착공 뒤 40년 만에 계통연결됐고, 캐나다 브루스 4호기는 칼란드리아관 480본 설치를 선행 호기보다 25일 앞당겨 마쳤으며, MHI는 EDF 크뤼아 2호기용 교체 증기발생기 3기를 인도했다. 인도는 카크라파르 5·6호기 지반조사와 SMR-55 상세사업계획, 증기발생기 전열관 제작기간 181일→81일 단축으로 국산화 중심 확장을 이어갔고, 체코 ČEZ는 두코바니 열수송 사업의 기계·배관 패키지를 추가로 발주했다. 선진로 쪽에서는 미 에너지부가 용융염화물로 실험로의 2027년 초임계를 겨냥해 최종단계 비용분담을 승인했고, 토리존·뉴클레오는 각각 재료 자격인증과 MOX 연료 설비로 상용화 전제를 메우기 시작했다. 영업 관점: 신규 대형원전 입찰 창은 잠잠한 대신 계속운전·완공·백엔드처럼 '기존 자산을 다루는 역무'에서 장기계약이 나오고 있어, 신규 건설 설계·시공 역무에만 초점을 두기보다 개보수·완공·후단 패키지까지 함께 보는 편이 수주 기회를 넓힌다.",
+  "overview_en": "Over these two days the overseas news was less about new tenders than about project structures being fixed. In Poland, SGE and ZE PAK formed a joint venture for up to six BWRX-300 units (1,800 MWe) on a ZE PAK coal site at Patnow, settling the owner and the site for the SMR track at once, while Norway's NND signed a contract running to 2055 for Sweden's Studsvik to process and store 16.5 tonnes of used fuel - a minimum of about SEK875 million and an estimated SEK3-4 billion in total - turning back-end work into a long-term service line. On construction and refurbishment, Slovakia's Mochovce 4 reached the grid four decades after construction began in 1986, Bruce 4 in Canada finished installing all 480 calandria tubes 25 days ahead of the previous unit, and MHI delivered three replacement steam generators for EDF's Cruas 2. India pressed on with localisation-led expansion through geotechnical work at Kakrapar 5 and 6, the SMR-55 Detailed Project Report, and steam generator tube manufacturing cut from 181 to 81 days, while Czechia's CEZ tendered a further mechanical and pipework package for the Dukovany heat offtake project. Among advanced reactors, the US DOE approved cost-shared funding for the final stage of the molten chloride reactor experiment with criticality targeted in 2027, and Thorizon and newcleo each began closing commercialisation gaps - in materials qualification and MOX fuel facilities respectively. Sales angle: with the large-reactor tender window quiet, the long-term contracts are coming from work on existing assets - life extension, completion of stalled units and back-end services - so looking beyond new-build engineering and construction to refurbishment, completion and back-end packages widens the field of opportunities.",
+  "domestic_overview_ko": "원안위가 10월 15일 제2026-16회 전체회의에서 고리 3·4호기와 한빛 1·2호기 사고관리계획서를 찬성 7·반대 2로 승인해 2019년 제출 이후 7년여 만에 관문을 넘겼고, 이행을 위한 운영변경허가도 함께 처리됐다. 다만 같은 날 처음 상정된 고리 3·4호기 10년 계속운전 허가안은 방사선환경영향평가서 공청회와 주요기기 수명평가 자료 요구로 29일 회의로 미뤄졌다. 원전 공론화위원회는 대주제를 '우리는 앞으로 어떤 전기로 살 것인가'로 확정하면서 개별 호기 계속운전·확정 부지·재생에너지 목표는 논의에서 제외했고, 두산에너빌리티는 박상현 부회장 승진과 송용진 COO 신설 선임으로 원자력·가스터빈 중심 운영체제를 재편했다. 영업 관점: 계속운전 심의가 다시 미뤄진 만큼 '인허가 예측 가능성'을 해외 LTO 제안의 강점으로 쓰기는 아직 이르고, 29일 결과를 확인한 뒤 레퍼런스 문구를 확정하는 것이 안전하다.",
+  "domestic_overview_en": "At its 16th plenary meeting of 2026 on 15 October, the NSSC approved the accident management plans for Kori 3 and 4 and Hanbit 1 and 2 by 7 votes to 2, clearing a hurdle some seven years after the plans were submitted in 2019, and approved the accompanying operating change permit. The 10-year continued operation (life extension) licence for Kori 3 and 4, however, came to the plenary for the first time the same day and was deferred to the 29 October meeting after members asked for more material on the radiological environmental impact assessment public hearing and on major equipment lifespan evaluation. The nuclear public deliberation committee settled its headline question as \"what kind of electricity will we live with in the future?\" while ruling individual reactor licence extensions, already-settled sites and renewable targets out of scope, and Doosan Enerbility reshaped its leadership around nuclear and gas turbines by promoting Park Sang-hyun to vice chairman and creating a COO role for Song Yong-jin. Sales angle: with the life-extension review deferred again, it is premature to sell Korean licensing predictability as a strength in overseas long-term operation bids - better to wait for the 29 October outcome before fixing the reference wording.",
+  "countries_pulse": [
+    {
+      "country": "SE",
+      "name_ko": "스웨덴",
+      "name_en": "Sweden",
+      "stance": "expanding",
+      "signal": "스터드스비크가 노르웨이 사용후핵연료 16.5톤의 처리·보관을 2055년까지 맡는 계약을 확보 — 스웨덴 백엔드 서비스가 역내 수출 역무로 작동함을 확인",
+      "signal_en": "Studsvik has won a contract running to 2055 to process and store 16.5 tonnes of Norwegian used fuel, confirming Swedish back-end services as an exportable line of work in the region.",
+      "article_ids": [
+        "2026-10-17-01"
+      ]
+    },
+    {
+      "country": "NO",
+      "name_ko": "노르웨이",
+      "name_en": "Norway",
+      "stance": "cautious",
+      "signal": "발전용 원자력은 여전히 미결인 가운데, NND가 할덴·셸레르 연구로 사용후핵연료를 스웨덴으로 보내 처리하고 최종처분은 자국으로 되돌리는 구조를 택했다",
+      "signal_en": "With nuclear for power generation still unresolved, NND has opted to send Halden and Kjeller research reactor fuel to Sweden for treatment while keeping final disposal at home.",
+      "article_ids": [
+        "2026-10-17-01"
+      ]
+    },
+    {
+      "country": "PL",
+      "name_ko": "폴란드",
+      "name_en": "Poland",
+      "stance": "expanding",
+      "signal": "제2원전 제도화에 이어 SMR 트랙도 사업주체·부지 확정 — SGE·ZE PAK 합작사가 파트누프 석탄부지에 BWRX-300 최대 6기(1,800MWe)",
+      "signal_en": "After formalising its second large plant, Poland's SMR track now has an owner and a site: an SGE-ZE PAK joint venture for up to six BWRX-300s (1,800 MWe) on the Patnow coal site.",
+      "article_ids": [
+        "2026-10-17-02"
+      ]
+    },
+    {
+      "country": "SK",
+      "name_ko": "슬로바키아",
+      "name_en": "Slovakia",
+      "stance": "expanding",
+      "signal": "모호브체 4호기 계통연결로 1986년 착공분 4기 체제가 완성 단계 — 상업운전까지 출력상승 시험과 144시간 연속운전 남음",
+      "signal_en": "Mochovce 4's grid connection brings the four-unit station begun in 1986 close to completion, with power-ascension testing and a 144-hour full-power run still to come.",
+      "article_ids": [
+        "2026-10-17-03"
+      ]
+    },
+    {
+      "country": "IN",
+      "name_ko": "인도",
+      "name_en": "India",
+      "stance": "expanding",
+      "signal": "카크라파르 5·6호기 지반조사 착수와 SMR-55 상세사업계획 공개, 증기발생기 전열관 제작기간 181일→81일 단축 — 2047년 100GWe 목표 아래 국산화 가속",
+      "signal_en": "Geotechnical work has begun for Kakrapar 5 and 6, the SMR-55 Detailed Project Report is out, and steam generator tube manufacturing is down from 181 to 81 days - localisation accelerating behind the 100 GWe by 2047 target.",
+      "article_ids": [
+        "2026-10-17-04"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "기조 유지 — 두코바니→브르노 열수송 사업의 기계·배관 패키지(OB01 기술설비)가 토목·전기계측제어에 이어 추가 발주",
+      "signal_en": "Policy unchanged - the Dukovany-to-Brno heat offtake project has now tendered its mechanical and pipework package (OB01 technology) after civil works and electrical/I&C.",
+      "article_ids": [
+        "2026-10-17-05"
+      ]
+    },
+    {
+      "country": "NL",
+      "name_ko": "네덜란드",
+      "name_en": "Netherlands",
+      "stance": "expanding",
+      "signal": "기조 유지 — 토리존이 TNO와 용융염로 재료·부식 프로그램을 시작해 2030년 토리존 원 착공 목표의 기술 전제를 메우기 시작",
+      "signal_en": "Policy unchanged - Thorizon has started a materials and corrosion programme with TNO, beginning to close the technical gaps behind its around-2030 construction target for Thorizon One.",
+      "article_ids": [
+        "2026-10-17-06"
+      ]
+    },
+    {
+      "country": "INT",
+      "name_ko": "국제 (아세안)",
+      "name_en": "International (ASEAN)",
+      "stance": "expanding",
+      "signal": "아세안 SMR 도입의 병목이 기술이 아니라 규제라는 진단과 함께 ASEANTOM 산하 공동 표준설계평가·ISO 19443/NQA-1 기준 공급사 평가가 제안됐다",
+      "signal_en": "A diagnosis that regulation rather than technology is the bottleneck for ASEAN SMRs, paired with proposals for a joint generic design evaluation under ASEANTOM and vendor assessment against ISO 19443/NQA-1.",
+      "article_ids": [
+        "2026-10-17-07"
+      ]
+    },
+    {
+      "country": "CA",
+      "name_ko": "캐나다",
+      "name_en": "Canada",
+      "stance": "expanding",
+      "signal": "기조 유지 — 브루스 4호기가 칼란드리아관 480본 설치를 선행 호기보다 25일 앞당겨 마쳐, 130억 캐나다달러 개보수 프로그램의 공기 단축 추세 유지",
+      "signal_en": "Policy unchanged - Bruce 4 finished installing all 480 calandria tubes 25 days ahead of the previous unit, keeping the CAD13 billion refurbishment programme on its schedule-compression trend.",
+      "article_ids": [
+        "2026-10-17-08"
+      ]
+    },
+    {
+      "country": "FR",
+      "name_ko": "프랑스",
+      "name_en": "France",
+      "stance": "expanding",
+      "signal": "기조 유지 — 크뤼아 2호기 교체 증기발생기 3기 인도로 계속운전 투자가 이어지고, 뉴클레오가 마르쿨 인근에 MOX 연료 개발센터를 열어 선진로 연료 기반을 확장",
+      "signal_en": "Policy unchanged - three replacement steam generators delivered for Cruas 2 continue the life-extension investment, while newcleo's new MOX fuel development centre near Marcoule widens the advanced-reactor fuel base.",
+      "article_ids": [
+        "2026-10-17-09",
+        "2026-10-17-10"
+      ]
+    },
+    {
+      "country": "JP",
+      "name_ko": "일본",
+      "name_en": "Japan",
+      "stance": "steady",
+      "signal": "기조 유지 — MHI가 EDF 교체 증기발생기 9기 중 3기를 인도하고 잔여 6기를 2028년부터 납품, 유럽 개보수 기자재 수출이 20년째 이어짐",
+      "signal_en": "Policy unchanged - MHI has delivered three of nine replacement steam generators for EDF with the remaining six from 2028, extending two decades of component exports into Europe's refurbishment market.",
+      "article_ids": [
+        "2026-10-17-09"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "기조 유지 — 에너지부가 용융염화물로 실험로(MCRE) 최종단계에 비용분담을 승인, 2027년 초임계 목표. 연료염 생산 병목을 국립연구소가 직접 해소",
+      "signal_en": "Policy unchanged - the DOE has approved cost-shared funding for the final stage of the MCRE molten chloride experiment, targeting criticality in 2027, with the national laboratory resolving the fuel-salt bottleneck directly.",
+      "article_ids": [
+        "2026-10-17-11"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Norwegian used fuel to be stored in Sweden",
+      "title_ko": "스웨덴 스터드스비크, 노르웨이 사용후핵연료 16.5톤 처리·보관 계약 — 최소 8억 7,500만 크로나, 총액 30~40억 크로나 추정, 2055년까지",
+      "title_en": "Norwegian used fuel to be stored in Sweden",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/norwegian-used-fuel-to-be-stored-in-sweden",
+      "published": "2026-10-16",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "SE",
+        "NO"
+      ],
+      "importance": 3,
+      "summary_ko": "노르웨이 원자력해체공사(NND)가 스웨덴 기술서비스사 스터드스비크(Studsvik)와 할덴·셸레르 연구로의 사용후핵연료 약 16.5톤을 스웨덴으로 옮겨 검사하고 필요한 경우 금속우라늄 연료 산화 등 처리를 거친 뒤 최종처분을 위해 노르웨이로 반환하는 계약을 맺었다. 계약은 2055년까지이며, 2035년까지 전량을 스웨덴으로 옮기는 것을 전제로 계약상 최소금액은 8억 7,500만 스웨덴크로나(8,830만 달러), 사전조사 범위와 NND 발주 물량에 따라 총액은 30~40억 크로나로 추정된다. 6개월 내 사업계획과 예산을 확정하는 사전조사를 시작하고 작업 대부분은 이후 20년에 걸쳐 수행되며, NND는 사전조사 후 12개월 또는 이후 5년 경과 시 18개월 통보로 해지할 수 있다.",
+      "summary_en": "Norwegian Nuclear Decommissioning (NND) has contracted Swedish technical services firm Studsvik to move about 16.5 tonnes of used fuel from the former Halden and Kjeller research reactors to Studsvik's licensed facilities outside Nykoping, Sweden, for inspection and, where needed, treatment including oxidation of metallic uranium fuel, before the fuel returns to Norway for final disposal. The agreement runs to 2055, with a contractual minimum of about SEK875 million (USD88.3 million) assuming all fuel reaches Sweden by 2035, and an estimated total value of SEK3-4 billion depending on the pre-study scope and NND's work orders. A pre-study defining the project plan and budget starts within six months, most of the work falls over the following two decades, and NND may terminate after the pre-study on 12 months' notice or later on 18 months' notice.",
+      "sales_note": "백엔드(사용후핵연료 처리·보관) 서비스가 30년 단위 장기계약으로 묶인 사례로, 신규 건설 외에 해체·후단 서비스가 독립 수익원이 됨을 보여준다. 자국 처분·처리 설비가 없는 시장에서는 '이송–처리–반환' 패키지 제안이 진입 경로가 될 수 있고, 계약 대부분의 물량이 사전조사 이후에 확정되는 구조이므로 접촉 시점은 사전조사 단계다.",
+      "sales_note_en": "A back-end services contract locked in over three decades shows that used-fuel handling and storage can be a standalone revenue line alongside new build. In markets with no domestic treatment or disposal capacity, a transport-treat-return package can be the way in, and because most of the volume is fixed only after the pre-study, the pre-study phase is when to make contact.",
+      "related": [
+        "https://www.nucnet.org/news/studsvik-signs-landmark-spent-nuclear-fuel-agreement-with-norway-10-5-2026"
+      ],
+      "id": "2026-10-17-01"
+    },
+    {
+      "title": "Joint venture formed for six-unit SMR plant in Poland",
+      "title_ko": "폴란드 파트누프 석탄발전 부지에 BWRX-300 최대 6기(1,800MWe) 합작사 설립 — SGE·ZE PAK",
+      "title_en": "Joint venture formed for six-unit SMR plant in Poland",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/joint-venture-formed-for-six-unit-smr-plant-in-poland",
+      "published": "2026-10-15",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "PL"
+      ],
+      "importance": 3,
+      "summary_ko": "SGE(구 신토스 그린에너지)와 ZE PAK이 폴란드 파트누프의 기존 석탄발전 부지에 GE버노바 히타치 BWRX-300 최대 6기, 합계 1,800MWe 규모 발전소를 짓기 위한 합작사를 세웠다. ZE PAK이 부지 사용권을 합작사에 출자하고 이후 소수지분으로 남거나 지분을 SGE에 매각할 수 있으며, 지분율은 공개되지 않았다. 폴란드는 BWRX-300 26기 도입을 원칙적으로 결정한 상태이고, SGE는 영국에서도 3개 부지 14기 제안을 심사받고 있다.",
+      "summary_en": "SGE (formerly Synthos Green Energy) and ZE PAK have formed a joint venture to build up to six GE Vernova Hitachi BWRX-300 units, totalling 1,800 MWe, on the site of an existing ZE PAK coal plant at Patnow, Poland. ZE PAK will contribute land rights to the venture and may later stay on as a minority shareholder or sell its stake to SGE; the ownership split was not disclosed. Poland has an in-principle decision for 26 BWRX-300s in total, and SGE also has a proposal under consideration in the UK for 14 SMRs across three sites.",
+      "sales_note": "폴란드는 대형원전(웨스팅하우스 AP1000)·제2원전(기술 미선정)·SMR 세 트랙이 동시에 돌아가고, SMR 트랙은 민간 컨소시엄이 부지를 선점하는 방식으로 굳어지고 있다. 석탄부지 전환형 SMR은 계통·용수 인프라가 이미 있어 토목·BOP 발주가 상대적으로 빨리 뜨므로, 합작사 설립 직후인 지금이 범위 확정 전 접촉 시점이다.",
+      "sales_note_en": "Poland is running three tracks at once - large reactors (Westinghouse AP1000), a second plant with no technology picked yet, and SMRs - and the SMR track is settling into a pattern of private consortia locking up sites first. Coal-to-SMR conversions come with grid and water infrastructure already in place, so civil and balance-of-plant packages tend to follow sooner; the window just after a joint venture forms, before scope is fixed, is the time to engage.",
+      "id": "2026-10-17-02"
+    },
+    {
+      "title": "Mochovce 4 connected to the grid",
+      "title_ko": "슬로바키아 모호브체 4호기 계통연결 — 10월 15일 20시 41분, VVER-440 471MWe. 1986년 착공·1992년 중단 뒤 완공",
+      "title_en": "Mochovce 4 connected to the grid",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/mochovce-4-connected-to-the-grid",
+      "published": "2026-10-16",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "SK"
+      ],
+      "importance": 2,
+      "summary_ko": "슬로벤스케 엘렉트라르네가 운영하는 모호브체 4호기(VVER-440, 471MWe)가 10월 15일 20시 41분 출력 20% 상태에서 계통에 연결됐다. 3·4호기는 1986년 착공했으나 1992년 공사가 멈췄고, 10년 뒤 재개된 완공사업의 추정 비용은 67억 유로(76억 달러)였다. 4호기는 8월 6일 최초임계에 도달했으며, 상업운전까지 두 번째 터빈발전기 연결, 단계별 출력상승 시험, 100% 출력 144시간 연속운전이 남았다.",
+      "summary_en": "Mochovce 4, a 471 MWe VVER-440 operated by Slovenske elektrarne, was connected to the grid at 20:41 on 15 October at 20% power. Construction of units 3 and 4 began in 1986 and stalled in 1992; the completion project restarted ten years later at an estimated cost of EUR6.7 billion (USD7.6 billion). The unit reached first criticality on 6 August, and commercial operation still requires connecting the second turbogenerator, staged power-ascension testing, and a 144-hour run at full power.",
+      "sales_note": "중단된 호기를 수십 년 뒤 완공한 사례로, 루마니아 체르나보다 3·4호기 같은 '건설재개' 시장의 공정·비용 벤치마크가 된다. 완공형 사업은 기존 구조물 경년평가와 설비 현대화가 핵심이어서 신규 건설과는 다른 역량 조합이 필요하다.",
+      "sales_note_en": "Finishing a unit decades after work stopped gives the market a cost and schedule benchmark for restart projects such as Romania's Cernavoda 3 and 4. Completion work turns on ageing assessment of existing structures and plant modernisation, so it calls for a different mix of capabilities than greenfield construction.",
+      "id": "2026-10-17-03"
+    },
+    {
+      "title": "Multiple milestones for India's nuclear projects",
+      "title_ko": "인도, 카크라파르 5·6호기(700MWe PHWR 2기) 지반조사 착수·SMR-55 상세사업계획 공개·증기발생기 전열관 국산화로 제작기간 181일→81일",
+      "title_en": "Multiple milestones for India's nuclear projects",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/multiple-milestones-for-indias-nuclear-projects",
+      "published": "2026-10-16",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "IN"
+      ],
+      "importance": 2,
+      "summary_ko": "NPCIL이 구자라트 카크라파르 5·6호기(국산 700MWe 가압중수로 2기)의 시추·지구물리탐사·실내시험을 포함한 지반조사에 착수했다. 핵연료공사(NFC)는 플릿모드 PHWR용 증기발생기 전열관 12차분을 9월 28일 NPCIL에 납품했고 제작기간을 초기 181일에서 81일로 줄여 수입 대체를 이뤘다. 10월 1일에는 NPCIL과 바바원자력연구센터가 공동개발한 55MWe급 소형 가압경수로 SMR-55의 상세사업계획서가 공개됐으며, SMR-55와 BSMR-200의 초호기 부지로는 마하라슈트라 타라푸르가 제안됐다. 인도 정부 목표는 2047년까지 최소 100GWe다.",
+      "summary_en": "NPCIL has begun geotechnical investigations - borehole drilling, geophysical surveys and laboratory testing - for Kakrapar 5 and 6, two indigenous 700 MWe PHWRs in Gujarat. Nuclear Fuel Complex supplied its 12th set of steam generator tubes for the fleet-mode PHWR programme to NPCIL on 28 September, cutting manufacturing time from an initial 181 days to 81 and replacing what used to be imported. On 1 October the Detailed Project Report was released for SMR-55, a 55 MWe compact PWR co-developed by NPCIL and the Bhabha Atomic Research Centre, with Tarapur in Maharashtra proposed for the lead units of both SMR-55 and BSMR-200. India targets at least 100 GWe of nuclear capacity by 2047.",
+      "sales_note": "인도는 기자재를 빠르게 국산화하고 있어 단순 공급보다 설계·인허가·공정관리 같은 상위 용역에서 접점을 찾아야 한다. 플릿모드 반복발주로 납기를 절반 이하로 줄인 실적은 우리 공급망이 맞춰야 하는 경쟁 기준이 된다.",
+      "sales_note_en": "India is localising components fast, so the opening is in higher-tier services - design, licensing, schedule management - rather than straight supply. Halving delivery time through repeat fleet-mode orders sets the competitive benchmark Korean suppliers will be measured against.",
+      "id": "2026-10-17-04"
+    },
+    {
+      "title": "9503 - Vyvedení tepla z EDU pro město Brno - OB01 - Technologie vyvedení tepla z HVB I a HVB II",
+      "title_ko": "체코 ČEZ, 두코바니(EDU)→브르노 열수송 사업 9503 OB01 '열 인출 기술설비' 공고 — 제1·2주발전동 배관설치, 마감 10월 21일",
+      "title_en": "9503 - Heat offtake from Dukovany NPP for the city of Brno - OB01 - Heat offtake technology from main production blocks I and II",
+      "language": "cs",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/716646-2026/pdf",
+      "published": "2026-10-16",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "CZ"
+      ],
+      "importance": 2,
+      "summary_ko": "ČEZ가 두코바니 원전에서 브르노로 열을 보내는 9503 사업의 OB01 패키지 가운데 제1·2주발전동(HVB I·II)에서 열을 인출하는 기술설비 공고를 냈다. 분류코드는 배관설비 설치(CPV 45231112)와 난방·증기용 배관(44163140)이며, 접수 마감은 10월 21일 12시, 공고 후 협상을 수반하는 경쟁절차다. 공고에 기재된 추정금액은 유효한 값이 아니어서 확인하지 못했다.",
+      "summary_en": "CEZ has tendered the heat-offtake technology from main production blocks I and II under package OB01 of project 9503, which will pipe heat from the Dukovany nuclear plant to the city of Brno. The notice is classified under pipework installation (CPV 45231112) and pipes for heating and steam (44163140), closes at 12:00 on 21 October, and runs as a negotiated procedure with a call for competition. The estimated value shown in the notice is a placeholder and could not be confirmed.",
+      "sales_note": "같은 9503 사업에서 토목(OB01)·전기계측제어(OB03)에 이어 기계·배관 패키지까지 분할 발주가 이어지고 있다. 운영 중 원전의 부대설비 공사는 패키지 간 공고 간격이 짧아, 분할 구조를 미리 파악해 두면 후속 입찰 대응 시간을 확보할 수 있다.",
+      "sales_note_en": "The same project 9503 has now put out civil works (OB01), electrical and I&C (OB03) and this mechanical and pipework package in sequence. Ancillary works at operating plants come out in closely spaced packages, so mapping the split in advance buys time to respond to the next one.",
+      "id": "2026-10-17-05"
+    },
+    {
+      "title": "Thorizon, TNO launch MSR materials programme",
+      "title_ko": "토리존–TNO, 용융염로 재료·부식 공동 프로그램 착수 — 구조재 자격인증 데이터와 연료 카트리지 수명 산정 목표",
+      "title_en": "Thorizon, TNO launch MSR materials programme",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/thorizon-tno-launch-msr-materials-programme",
+      "published": "2026-10-16",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "NL"
+      ],
+      "importance": 2,
+      "summary_ko": "네덜란드 용융염로 개발사 토리존과 응용과학연구기구 TNO가 용융염로 구조재 자격인증을 위한 재료·부식 프로그램을 시작했다. 설계 선택 검증, 연료 카트리지 수명 산정, 운전 중 재료 감시를 목표로 재료 특성평가·부식시험·모델링·검증을 수행하며 암스테르담 토리존 시설과 페턴 TNO 연구소에서 착수됐다. 델프트공대·NRG-팔라스·프랑스 CEA·EU 공동연구센터가 참여 예정이고, 연료염 카트리지는 5~10년마다 교체한다. 토리존은 250MWt/100MWe 노형인 토리존 원을 2030년경 착공할 계획이다.",
+      "summary_en": "Dutch molten salt reactor developer Thorizon and the research organisation TNO have launched a materials and corrosion programme to qualify MSR structural materials, aiming to confirm design choices, determine fuel cartridge lifetime and monitor materials in operation through characterisation, corrosion testing, modelling and validation. Work has started at Thorizon's Amsterdam facilities and TNO's Petten laboratories, with Delft University of Technology, NRG-Pallas, France's CEA and the European Commission's Joint Research Centre planned as collaborators. Fuel-salt cartridges are replaced every five to ten years, and Thorizon plans to start building the 250 MWt / 100 MWe Thorizon One around 2030.",
+      "sales_note": "용융염로는 구조재 부식이 상용화의 병목이어서 재료 데이터 확보 일정이 사실상 사업 일정이다. 2030년 착공 목표가 유지되는지는 이 프로그램 성과로 판단하는 것이 정확하다.",
+      "sales_note_en": "For molten salt reactors, structural material corrosion is the bottleneck to commercialisation, so the materials data schedule is effectively the project schedule. Whether the around-2030 construction start holds is best judged from this programme's results rather than from the developer's targets.",
+      "id": "2026-10-17-06"
+    },
+    {
+      "title": "Viewpoint: Unlocking ASEAN's nuclear potential - a case for regulatory convergence on SMRs",
+      "title_ko": "[관점] 아세안 SMR의 관건은 규제 수렴 — 모트맥도널드, ASEANTOM 산하 공동 표준설계평가와 ISO 19443·NQA-1 기준 공급사 평가 제안",
+      "title_en": "Viewpoint: Unlocking ASEAN's nuclear potential - a case for regulatory convergence on SMRs",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/viewpoint-unlocking-aseans-nuclear-potential---a-case-for-regulatory-convergence-on-smrs",
+      "published": "2026-10-16",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "INT",
+        "ID",
+        "MY",
+        "PH",
+        "SG",
+        "TH",
+        "VN"
+      ],
+      "importance": 2,
+      "summary_ko": "모트맥도널드의 밍 탄과 스테파니 리아우는 아세안 SMR 도입의 관건이 기술이 아니라 규제라고 보고, ASEANTOM 산하 지역 SMR 수렴 포럼과 아세안 규제기관 공동 표준설계평가(부지별 사안은 각국 소관)를 제안했다. 공통 용어·핵심 안전요건과 규제 결과 상호인정, ISO 19443 또는 NQA-1에 근거한 투명한 공급사 평가, HALEU 공동대응을 포함한 기술중립적 연료전략도 함께 제시했다. 국가별 계획으로는 인도네시아 2040년 수GW, 필리핀 2050년 4.8GWe와 바탄 재개 검토, 태국 600MWe, 베트남 대형 2기와 2050년까지 8GWe 추가, 말레이시아 2035년 이후 재검토, 싱가포르 기술조사를 들었고, 대부분 국가가 첫 운전까지 10년 가까이 걸릴 것으로 봤다.",
+      "summary_en": "Writing for World Nuclear News, Ming Tan and Stephanie Liaw of Mott MacDonald argue that regulation, not technology, will decide whether ASEAN deploys SMRs, and propose a regional SMR convergence forum under ASEANTOM plus a joint generic design evaluation by ASEAN regulators, leaving site-specific matters to national jurisdiction. They also call for shared terminology and common core safety expectations with mutual recognition of regulatory outputs, transparent vendor assessment referencing ISO 19443 or NQA-1, and technology-neutral fuel strategies including a coordinated regional approach to HALEU. On national plans they cite multi-gigawatt capacity in Indonesia by 2040, 4.8 GWe in the Philippines by 2050 with a possible Bataan restart, 600 MWe in Thailand, two large plants plus 8 GWe more in Vietnam by 2050, Malaysia reopening the option beyond 2035 and a Singapore technology study - with most countries likely needing close to a decade before first operation.",
+      "sales_note": "아세안은 규제·인허가 체계가 아직 없어 벤더 선정보다 규제 역량 구축 용역과 사업타당성·인허가 지원이 먼저 열린다. 공급사 평가 기준으로 ISO 19443·NQA-1을 명시한 점은 폴란드가 모듈 본계약 조건으로 NQA-1을 요구한 것과 같은 흐름이어서, 인증 보유가 지역을 가리지 않는 진입 요건이 되고 있다.",
+      "sales_note_en": "With licensing frameworks still to be built, the first ASEAN openings are regulatory capacity-building, feasibility and licensing support rather than vendor selection. Naming ISO 19443 and NQA-1 as the yardstick for vendor assessment echoes Poland making NQA-1 a condition for firming up module orders - certification is becoming an entry requirement regardless of region.",
+      "id": "2026-10-17-07"
+    },
+    {
+      "title": "Milestone for Bruce 4 refurbishment",
+      "title_ko": "캐나다 브루스 4호기 칼란드리아관 480본 설치 완료 — 3호기 같은 공정보다 25일 단축, 다음은 연료채널 설치",
+      "title_en": "Milestone for Bruce 4 refurbishment",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/milestone-for-bruce-4-refurbishment",
+      "published": "2026-10-15",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "CA"
+      ],
+      "importance": 2,
+      "summary_ko": "브루스파워가 브루스 4호기(CANDU 가압중수로) 주요기기교체(MCR) 공사에서 칼란드리아관 480본 설치를 마쳤고, 3호기의 같은 공정보다 25일 앞섰다. 다음 단계는 연료채널 설치이며 쇼어라인파워그룹·ATS오토메이션·칼리안엔지니어링이 참여했다. 4호기 MCR 정비는 2025년 2월 시작됐고, 3~8호기를 2033년까지 복귀시키는 프로그램 규모는 130억 캐나다달러(90억 달러)다. 6호기는 2024년, 3호기는 2026년 6월 MCR을 마쳤고 5호기는 11월 착수, 7·8호기가 뒤따른다. 1·2호기는 이미 개보수를 마쳤다.",
+      "summary_en": "Bruce Power has finished installing all 480 calandria tubes in the Major Component Replacement (MCR) outage on Bruce 4, a CANDU pressurised heavy water reactor, 25 days ahead of the same milestone on Unit 3. Fuel channel installation comes next, with Shoreline Power Group, ATS Automation and Calian Engineering involved. Unit 4's MCR outage began in February 2025, and the programme to return units 3 to 8 to service by 2033 is worth CAD13 billion (USD9 billion). Unit 6 completed MCR in 2024 and Unit 3 in June 2026; Unit 5 starts in November, with units 7 and 8 to follow, while units 1 and 2 are already refurbished.",
+      "sales_note": "CANDU 계속운전 시장은 호기를 반복하며 공기를 줄이는 구조여서, 후행 호기 수주 시 선행 호기 실적이 그대로 평가지표가 된다. 체르나보다 개보수처럼 CANDU 계열 사업을 제안할 때 이 공기 단축 실적이 경쟁사의 근거로 쓰인다.",
+      "sales_note_en": "CANDU life-extension work is structured as a repeating series in which each unit beats the last, so a bidder's record on earlier units is the yardstick for later ones. On CANDU-family prospects such as the Cernavoda refurbishment, this schedule compression is the number competitors will cite.",
+      "id": "2026-10-17-08"
+    },
+    {
+      "title": "MHI delivers replacement steam generators for French reactor",
+      "title_ko": "미쓰비시중공업, EDF 크뤼아 2호기용 교체 증기발생기 3기 인도 — 총 9기 중 3기, 잔여 6기는 2028년부터",
+      "title_en": "MHI delivers replacement steam generators for French reactor",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/mhi-delivers-replacement-steam-generators-for-french-reactor",
+      "published": "2026-10-15",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "FR",
+        "JP"
+      ],
+      "importance": 2,
+      "summary_ko": "미쓰비시중공업(MHI)이 EDF 크뤼아 원전 2호기에 설치될 교체 증기발생기 3기를 인도했다. 고베 공장에서 2024년 1월 제작을 마치고 2월 말 프랑스 규제기준 적합 증명서를 받은 뒤 선적했다. EDF는 2019년 국제경쟁입찰을 거쳐 MHI와 2002년부터의 프랑스 시장 제휴사 오네테크놀로지에 교체 증기발생기 9기를 발주했으며, 남은 6기는 고베에서 제작해 2028년부터 인도한다. MHI는 2005년 이후 이번 물량을 빼고 EDF에 교체 증기발생기 15기를 공급했다고 밝혔다.",
+      "summary_en": "Mitsubishi Heavy Industries has delivered three replacement steam generators for unit 2 of EDF's Cruas plant in southeastern France. Built at MHI's Kobe works, manufacturing finished in January 2024 and the units were certified against French regulatory standards at the end of February before shipping. EDF ordered nine replacement steam generators from MHI following an international tender in 2019, jointly with Onet Technologies, MHI's alliance partner in the French market since 2002; the remaining six are being built at Kobe for delivery from 2028. MHI says it has supplied 15 replacement steam generators to EDF since 2005, not counting this shipment.",
+      "sales_note": "유럽 계속운전 시장의 주기기 교체는 일본 업체가 20년간 레퍼런스를 쌓아 선점한 영역이다. 국내 주기기 업체가 들어가려면 단품 공급보다 설치·공정을 포함한 패키지와 현지 제휴사 확보가 전제 조건임을 보여준다.",
+      "sales_note_en": "Replacement of major components in Europe's life-extension market is held by a Japanese supplier that has built references there for two decades. For Korean heavy-component makers, the lesson is that entry needs a package including installation and schedule, plus a local alliance partner, rather than component supply alone.",
+      "id": "2026-10-17-09"
+    },
+    {
+      "title": "Newcleo opens MOX fuel development centre",
+      "title_ko": "뉴클레오, 프랑스 마르쿨 인근에 MOX 연료 개발센터 'FASTER' 개소 — 1,000만 유로, 2030년 첫 MOX 생산라인 목표",
+      "title_en": "Newcleo opens MOX fuel development centre",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/newcleo-opens-mox-fuel-development-centre",
+      "published": "2026-10-15",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "FR",
+        "IT"
+      ],
+      "importance": 2,
+      "summary_ko": "납냉각 고속로 개발사 뉴클레오가 프랑스 가르 주 쉬클랑(마르쿨 원자력단지 인근)에 1,000만 유로(1,100만 달러)를 들여 연료 개발센터 FASTER를 열었다. 분말 계량, 글로브박스 작업성, 펠릿 취급, 연료봉 조립·오염제거, 펠릿 검사, 헬륨 충전 등 7개 시험설비가 가동되며 약 100명의 연료 인력이 쓴다. 안전옵션서는 2024년 12월 프랑스 ASNR에 제출해 2026년 7월 의견을 받았고, 오브 주 노장쉬르센 인근 MOX 공장 첫 생산라인은 2030년(초기 투자 18억 유로·직접고용 850명), 첫 상용로 최종투자결정은 2029년, 프랑스 첫 호기 가동은 2032년을 목표로 한다. 2040년까지 2개 라인을 더하면 32억 유로가 추가된다.",
+      "summary_en": "Lead-cooled fast reactor developer newcleo has opened FASTER, a EUR10 million (USD11 million) fuel development centre at Chusclan in France's Gard department, near the Marcoule nuclear site. Seven test facilities are operational - covering powder dosing, glovebox ergonomics, pellet handling, fuel pin assembly and decontamination, pellet inspection and helium filling - serving a fuel team of about 100 engineers and specialists. The Safety Options File went to France's ASNR in December 2024 and drew an opinion in July 2026; the first production line of the planned MOX plant near Nogent-sur-Seine in the Aube department is scheduled for 2030 on an initial EUR1.8 billion investment with 850 direct jobs, a final investment decision on the first commercial plant is expected in 2029, and the first reactor in France is targeted for 2032. Two further MOX lines by 2040 would add EUR3.2 billion.",
+      "sales_note": "선진로 사업은 노형 인허가와 연료공급을 함께 묶어야 자금조달이 되므로, 연료 쪽 투자 일정이 노형 사업화 시점의 선행지표다. MOX·고속로 연료 설비는 유럽 내 공급자가 제한적이어서 설비·기자재 공급 접점이 생길 수 있다.",
+      "sales_note_en": "Advanced reactor ventures only raise finance when reactor licensing and fuel supply move together, so the fuel investment schedule is a leading indicator of when a design becomes a real project. Suppliers for MOX and fast-reactor fuel facilities are thin in Europe, which can open equipment and plant supply opportunities.",
+      "id": "2026-10-17-10"
+    },
+    {
+      "title": "US DOE funding to accelerate molten salt reactor development",
+      "title_ko": "미 에너지부, 용융염화물로 실험로(MCRE) 최종단계 비용분담 지원 승인 — 2027년 세계 첫 고속 용융염화물로 초임계 목표",
+      "title_en": "US DOE funding to accelerate molten salt reactor development",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/us-doe-funding-to-accelerate-molten-chloride-reactor-development",
+      "published": "2026-10-15",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "미 에너지부가 선진로실증사업(ARDP)에서 용융염화물로 실험로(MCRE)의 최종단계를 앞당기기 위한 비용분담 지원을 승인했다. 서던컴퍼니·아이다호국립연구소(INL)·해양 원자력 전문사 코어파워가 참여하며, 액체 염을 연료와 냉각재로 함께 쓰는 고속 스펙트럼 노형으로 2027년 초임계를 목표로 한다. 연료염 생산은 2020년 시작해 당초 우라늄 전환율 90%·배치당 18kg 목표에 미달했으나 2024년 공정 변경으로 전환율 95%와 전량 생산을 달성했고 현재는 하루 한 배치까지 가능하다. 초임계까지 72~75배치가 필요하며, 지원 금액은 공개되지 않았다.",
+      "summary_en": "The US Department of Energy has approved cost-shared funding to accelerate the final stage of the Molten Chloride Reactor Experiment (MCRE) under its Advanced Reactor Demonstration Program. Southern Company, Idaho National Laboratory and maritime nuclear specialist Core Power are the partners on what would be the world's first fast-spectrum molten chloride reactor to reach criticality, targeted for 2027. Fuel salt production began in 2020 and initially fell short of a 90% uranium conversion and 18 kg per batch goal, but a 2024 process change achieved 95% conversion and full batches, and INL says a batch can now be made in as little as a day. The reactor needs 72 to 75 batches to go critical; the funding amount was not disclosed.",
+      "sales_note": "미국은 실증로 단계에서 연료공급 병목을 국립연구소가 직접 푸는 구조로, 노형 경쟁이 연료주기 역량 경쟁으로 넘어가고 있다. 해양 원자력(코어파워 참여)이 선진로의 실수요처로 자리 잡는 흐름도 함께 확인된다.",
+      "sales_note_en": "In the US the fuel-supply bottleneck at the demonstration stage is being solved by the national laboratories directly, which shifts reactor competition toward fuel-cycle capability. Core Power's involvement also confirms maritime applications settling in as a real demand source for advanced reactors.",
+      "id": "2026-10-17-11"
+    },
+    {
+      "title": "고리 3·4호기- 한빛 1·2호 ‘원전 4기 재가동’ 29일 결론",
+      "title_ko": "원안위, 고리 3·4호기·한빛 1·2호기 사고관리계획서 승인(찬성 7·반대 2) — 고리 3·4호기 계속운전 허가는 29일 회의로 연기",
+      "title_en": "Korea's regulator approves accident management plans for four reactors but defers the Kori 3 and 4 licence extension to 29 October",
+      "language": "ko",
+      "source": "투데이에너지",
+      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304253",
+      "published": "2026-10-16",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR"
+      ],
+      "importance": 3,
+      "summary_ko": "원자력안전위원회가 10월 15일 제2026-16회 전체회의에서 한수원이 제출한 고리 3·4호기와 한빛 1·2호기 사고관리계획서를 찬성 7·반대 2로 승인했다. 9월 11일과 30일 두 차례 보류된 뒤 세 번째 상정에서 통과했고, 이행을 위한 운영변경허가(외부 주입 유로·전원공급 기기·공기공급 유로 신설, 수위 계측기 교체)도 함께 승인됐다. 같은 날 처음 상정된 고리 3·4호기 10년 계속운전 허가안은 위원들이 방사선환경영향평가서 공청회와 주요기기 수명평가 자료를 추가로 요구해 결론을 내지 못하고 29일 회의로 미뤄졌다. 고리 3호기는 2024년 9월, 4호기는 2025년 8월 설계수명이 만료돼 정지 상태이며, 허가되면 각각 2034년 9월·2035년 8월까지 운전할 수 있고 한수원은 허가 후 약 3개월 내 상업운전 재개를 예상한다.",
+      "summary_en": "At its 16th plenary meeting of 2026 on 15 October, Korea's Nuclear Safety and Security Commission (NSSC) approved, by 7 votes to 2, the accident management plans KHNP submitted for Kori 3 and 4 and Hanbit 1 and 2. The item passed on its third submission after being deferred on 11 and 30 September, and the accompanying operating change permit was approved too, covering new external water injection lines, new power supply equipment, new air supply lines and replacement of water level instruments. The 10-year continued operation (life extension) licence for Kori 3 and 4 came to the plenary for the first time the same day but was deferred to the 29 October meeting after members asked for further material on the public hearing for the radiological environmental impact assessment and on major equipment lifespan evaluation. Kori 3 and 4 have been shut since their design lives expired in September 2024 and August 2025; if licensed they could run to September 2034 and August 2035, and KHNP expects to resume commercial operation about three months after the licence is granted.",
+      "sales_note": "계속운전 인허가 처리 속도는 해외 입찰에서 우리 규제체계의 예측 가능성을 보여주는 지표로 쓰인다. 사고관리계획서가 2019년 제출 이후 7년여 만에 처리된 반면 계속운전 허가는 다시 미뤄진 만큼, 해외 LTO·개보수 사업 제안에서 '규제 일정 리스크'는 우리가 먼저 설명하는 편이 안전하다.",
+      "sales_note_en": "How quickly Korea processes life-extension licences is read abroad as a proxy for the predictability of its regulatory system. With the accident management plans cleared only some seven years after their 2019 submission and the licence extension deferred again, it is safer to address regulatory schedule risk up front when bidding long-term operation and refurbishment work overseas.",
+      "related": [
+        "https://www.energydaily.co.kr/news/articleView.html?idxno=204080",
+        "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785328",
+        "https://view.asiae.co.kr/article/2026101514441047649"
+      ],
+      "id": "2026-10-17-12"
+    },
+    {
+      "title": "원전 공론화위원회, 공론화 대주제 ‘우리는 앞으로 어떤 전기로 살 것인가’로 확정",
+      "title_ko": "원전 공론화위원회, 공론화 대주제 ‘우리는 앞으로 어떤 전기로 살 것인가’ 확정 — 소주제는 미래 전력수요 속 원전의 역할과 비중, 개별 호기 계속운전·확정 부지는 제외",
+      "title_en": "Korea's nuclear public deliberation committee settles its headline question - and rules individual licence extensions and settled sites out of scope",
+      "language": "ko",
+      "source": "정책브리핑 (기후에너지환경부)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785268",
+      "published": "2026-10-15",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR"
+      ],
+      "importance": 2,
+      "summary_ko": "원전 공론화위원회가 공론화 대주제를 '우리는 앞으로 어떤 전기로 살 것인가'로 확정했다. 전기신문 보도에 따르면 소주제는 미래 전력수요에서 원전의 역할과 비중이며, 최대 10명 규모의 전문가 패널을 구성한다. 개별 호기 계속운전 결정, 이미 부지가 정해진 사업, 재생에너지 목표, 구체적 부지 선정은 공론화 대상에서 제외된다.",
+      "summary_en": "Korea's nuclear public deliberation committee has set the headline question for its public process as \"what kind of electricity will we live with in the future?\". According to Electimes, the sub-theme is the role and share of nuclear power in meeting future electricity demand, and the committee will form an expert panel of up to 10 members. Decisions on continued operation of individual reactors, projects whose sites are already settled, renewable energy targets and specific site selection are excluded from the deliberation.",
+      "sales_note": "개별 호기 계속운전과 확정 부지를 논의에서 뺀 것은 진행 중 사업의 불확실성을 줄이는 방향이다. 다만 신규 원전 비중이 공론화 결과에 달리게 되므로 국내 추가 발주 시점은 당분간 확정하기 어렵고, 해외 입찰에서 내세울 '내수 기반 지속성' 근거도 결과가 나올 때까지는 보수적으로 쓰는 편이 낫다.",
+      "sales_note_en": "Excluding individual reactor licence extensions and already-settled sites reduces uncertainty for projects under way. But because the share of new nuclear now rests on the deliberation's outcome, the timing of further domestic orders cannot be fixed for now, and claims about a durable home market in overseas bids are best used conservatively until the result is in.",
+      "related": [
+        "https://www.electimes.com/news/articleView.html?idxno=373455"
+      ],
+      "id": "2026-10-17-13"
+    },
+    {
+      "title": "두산에너빌리티, 박상현 부회장 승진·송용진 COO 선임",
+      "title_ko": "두산에너빌리티, 박상현 대표이사 사장 부회장 승진·송용진 사장 COO 선임 — 원자력·가스터빈·해상풍력 경쟁력 강화",
+      "title_en": "Doosan Enerbility promotes Park Sang-hyun to vice chairman and names Song Yong-jin as COO",
+      "language": "ko",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=373545",
+      "published": "2026-10-16",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR"
+      ],
+      "importance": 1,
+      "summary_ko": "두산에너빌리티가 박상현 대표이사 사장(CFO)을 부회장으로 승진시키고, 송용진 전략·혁신부문장 사장을 신설 COO로 선임했다. 박 부회장은 ㈜두산 CFP팀장, 두산인프라코어 재무관리부문장, 두산밥캣 대표를 거쳤고, 송 COO는 2008년 두산에너빌리티 전략팀장으로 입사해 풍력BG장을 지냈다. 회사는 급변하는 글로벌 에너지 환경에 선제 대응하고 미래 성장동력과 사업 경쟁력을 강화하기 위한 인사라고 설명했으며, 송 COO 중심으로 원자력·가스터빈·해상풍력 등 핵심사업 경쟁력을 높인다는 계획을 밝혔다. 시행일은 공개되지 않았다.",
+      "summary_en": "Doosan Enerbility has promoted president and CFO Park Sang-hyun to vice chairman and appointed president Song Yong-jin, head of strategy and innovation, to the newly created role of chief operating officer. Park previously led the CFP team at Doosan Corporation, ran financial management at Doosan Infracore and served as CEO of Doosan Bobcat; Song joined Doosan Enerbility in 2008 as head of the strategy team and has led its wind business group. The company said the moves respond to a rapidly changing global energy environment and strengthen future growth drivers and business competitiveness, and that under Song as COO it plans to raise competitiveness in core businesses including nuclear power, gas turbines and offshore wind. No effective date was disclosed.",
+      "sales_note": "두코바니 주기기와 롤스로이스 SMR 기자재를 맡은 국내 주기기 업체의 운영 총괄이 새로 생긴 만큼, 납기·투자 의사결정 창구를 다시 확인할 필요가 있다.",
+      "sales_note_en": "With a new operating chief at the Korean heavy-component maker carrying both the Dukovany main equipment scope and Rolls-Royce SMR component work, it is worth re-confirming who now owns delivery and investment decisions.",
+      "id": "2026-10-17-14"
+    }
+  ]
+}

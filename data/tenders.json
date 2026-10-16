@@ -1,8 +1,21 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-17",
   "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
   "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
   "tenders": [
+    {
+      "country": "CZ",
+      "buyer": "ČEZ, a. s.",
+      "title": "두코바니 원전→브르노 열수송 사업 9503 OB01 — 제1·2주발전동(HVB I·II) 열 인출 기술설비",
+      "title_en": "Project 9503, heat offtake from Dukovany NPP for the city of Brno - package OB01, heat offtake technology from main production blocks I and II",
+      "scope": "두코바니 원전 제1·2주발전동에서 브르노행 열을 인출하는 기술설비. 분류코드는 배관설비 설치(CPV 45231112)와 난방·증기용 배관(44163140)이며, 공고 후 협상을 수반하는 경쟁절차다. 공고에 기재된 추정금액은 유효한 값이 아니어서 확인되지 않았다.",
+      "scope_en": "Heat offtake technology drawing heat from main production blocks I and II at the Dukovany nuclear plant for the city of Brno. Classified under pipework installation (CPV 45231112) and pipes for heating and steam (44163140), run as a negotiated procedure with a call for competition. The estimated value shown in the notice is a placeholder and could not be confirmed.",
+      "portal": "TED (EU 공공조달)",
+      "notice_no": "716646-2026",
+      "published": "2026-10-16",
+      "deadline": "2026-10-21",
+      "url": "https://ted.europa.eu/en/notice/716646-2026/pdf"
+    },
     {
       "country": "GB",
       "buyer": "Great British Energy - Nuclear",
@@ -54,32 +67,6 @@
       "published": "2026-10-15",
       "deadline": "2026-11-04",
       "url": "https://ted.europa.eu/en/notice/712302-2026/pdf"
-    },
-    {
-      "country": "FR",
-      "buyer": "EDF SA",
-      "title": "시농(Chinon) A1 열교환기실 안전조치·조사 및 준비공사",
-      "title_en": "Securing, investigation and preparatory works in the heat exchanger rooms of Chinon A1",
-      "scope": "해체 중인 시농 A1 원전 열교환기실의 조사와 안전조치, 준비공사. 전체 용역에 수반되는 설계, 가설공사, 시험시공, 그리고 접착·고착·섬유·뭉치 형태를 포함한 석면 등 모든 형태의 분진·잔재를 완전히 제거하는 시설 전체 안전조치를 포함한다. 계약기간 24개월, 응찰 마감 2026년 10월 16일 16시. 추정금액은 공고에 공개되지 않았다.",
-      "scope_en": "Investigation, securing and preparatory works in the heat exchanger rooms of the Chinon A1 plant, which is being decommissioned. The scope includes the design work attached to the whole service, preliminary site set-up, a test work area, and full securing of the premises by complete removal of dust and residues of every form, including bonded, embedded, fibrous and loose asbestos. The contract runs 24 months and responses were due by 16:00 on 16 October 2026. No estimated value is disclosed.",
-      "portal": "TED",
-      "notice_no": "710336-2026",
-      "published": "2026-10-14",
-      "deadline": "2026-10-16",
-      "url": "https://ted.europa.eu/en/notice/710336-2026/pdf"
-    },
-    {
-      "country": "CZ",
-      "buyer": "ČEZ, a. s.",
-      "title": "두코바니 원전→브르노 열수송 사업 9503 OB01 — 열수송 기계실(SVT) 건설 및 탈염수 탱크 기초 공사",
-      "title_en": "Dukovany-to-Brno heat transmission project 9503 OB01 — construction of the heat transfer machine room (SVT) and demineralised water tank foundations",
-      "scope": "사업 '9503 — 두코바니 원전에서 브르노시로의 열 공급 — OB01 — HVB I·HVB II 열수송 기술설비' 중 열수송 기계실(SVT) 건설과 탈염수 탱크 기초 공사. CPV 45231112, 44163140. 협상절차이며 공고에 마감일이 기재돼 있지 않다",
-      "scope_en": "Within project '9503 — heat supply from Dukovany nuclear power plant to the city of Brno — OB01 — heat transmission technology for HVB I and HVB II', construction of the heat transfer machine room (SVT) and the demineralised water tank foundations. CPV 45231112 and 44163140. A negotiated procedure; the notice states no deadline",
-      "portal": "TED",
-      "notice_no": "677521-2026",
-      "published": "2026-10-01",
-      "deadline": "2026-10-16",
-      "url": "https://ted.europa.eu/en/notice/677521-2026/pdf"
     },
     {
       "country": "LT",

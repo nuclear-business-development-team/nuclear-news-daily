@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-17",
+  "run_started": "2026-10-17T08:02:34+09:00",
+  "run_finished": "2026-10-17T08:32:20+09:00",
+  "run_minutes": 29.8,
+  "articles": 14,
+  "by_region": {
+    "overseas": 11,
+    "domestic": 3
+  },
+  "by_importance": {
+    "3": 3,
+    "2": 10,
+    "1": 1
+  },
+  "detection_lag_hours": {
+    "median": 23.04,
+    "max": 47.04,
+    "n": 14
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "정책브리핑 korea.kr (원전·SMR·원자력 3회)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "전기신문",
+    "투데이에너지",
+    "에너지데일리",
+    "TED 검색 API",
+    "UK Find a Tender OCDS API"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "stale_feed — HTTP 200이나 최신 항목이 2026-06-16, 4개월간 갱신 없음"
+    },
+    {
+      "name": "더트래커 (RSS)",
+      "reason": "301 — www 호스트가 리다이렉트만 반환. 리다이렉트 추적 후 정상 수신(원전 관련 항목 0건)"
+    },
+    {
+      "name": "TED 공고 본문 (/pdf, /xml)",
+      "reason": "HTTP 202 size 0 — 비동기 생성. 검색 API 필드로 우회"
+    },
+    {
+      "name": "wysokienapiecie.pl",
+      "reason": "403 — 폴란드 합작사 기사 본문 확인 실패, 토지 매각금액 미채택"
+    },
+    {
+      "name": "rolls-royce-smr.com",
+      "reason": "403 (Cloudflare) — 보도자료 본문 확인 실패, 검색 색인으로만 확인"
+    }
+  ],
+  "languages": {
+    "en": 10,
+    "cs": 1,
+    "ko": 3
+  },
+  "note": "토요일 회차. 직전 브리핑(10-15) 이후 창(10-16~10-17)으로 수집했으나, 10-15자 기사 중 직전 회차가 담지 못한 건(korea.kr 보도자료 3건·WNN 5건)은 사건 기준 중복 제외 목록에 없어 함께 담았다. 해외 11 / 국내 3. RSS 6개 중 Nuclear Engineering International 은 HTTP 200이나 최신 항목이 2026-06-16로 4개월간 갱신이 없어 사실상 정지 상태이며(보고서 '출처 점검 필요'에 기재), 더트래커는 www 호스트가 301만 반환해 리다이렉트 추적 후 수신했다(원전 관련 항목 0건). TED 공고 본문(/pdf·/xml)은 전 건 HTTP 202 size 0 으로 막혀 검색 API `description-lot` 필드로 우회했고, wysokienapiecie.pl·rolls-royce-smr.com 은 403으로 본문 확인에 실패해 해당 수치(파트누프 토지 매각금액, 롤스로이스 공급사 프로그램 게재일)를 채택하지 않았다. 한수원 보도자료는 10-12, 한전 보도·설명자료는 10-15가 최신이며 원자력 관련 신규 항목은 없었다. detection_lag_hours 는 게재일만 있는 기사를 해당일 09:00(+09:00)로 간주해 계산했다."
+}

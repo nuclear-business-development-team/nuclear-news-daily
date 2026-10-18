@@ -1,0 +1,165 @@
+{
+ "date": "2026-10-19",
+ "generated_at": "2026-10-19T08:24:04+09:00",
+ "period": {
+  "from": "2026-10-18",
+  "to": "2026-10-19"
+ },
+ "overview_ko": "주말(10/17~18) 수집 기간에 원자력 전문지·기관 발표에서 새로 게재된 기사는 0건이다 — WNN·NucNet·ANS·IAEA·NEI·POWER·영국 에너지부 피드와 목록 페이지가 모두 10월 16일에서 멈춰 있다. 오늘 브리핑의 내용은 전부 10월 19일자로 공개된 EU 공공조달(TED) 계약체결 공고이며, 그중 체코가 6건이다. 가장 무게가 있는 것은 ČEZ가 두코바니 물리적방호설비(TSFO) 보강 공사를 862만 코루나로 발주하면서 공사 사유를 '두코바니 신규원전(NJZ) 건설 착수로 야기된' 것으로 조달 문서에 직접 적은 건으로, 신규 호기 현장 준비가 문서상 확인되는 단계로 들어섰다. 같은 날 ČEZ ENERGOSERVIS는 두코바니·테멜린 양 부지의 현장 건설역무(각 상한 5억 코루나)와 보온공사(각 상한 1억 코루나) 기본협약을 체결했는데 낙찰자 전원이 체코 업체이고 양 부지 낙찰자가 4개사 겹친다. 슬로베니아에서는 크르슈코 원전(NEK)이 냉각탑 계통 현대화 타당성조사 확장용역을 Westinghouse Nuclear Spain에 71,850유로 수의계약으로 내려 10월 세 번째 설비개선 발주가 됐다. 영업 관점: 체코 운영 호기의 현장 노무·시공은 다년 기본협약으로 현지 업체에 닫혔으므로 진입 지점은 설계·엔지니어링과 주기기 쪽이며, 크르슈코에서는 경쟁 벤더가 타당성조사를 쥐고 후속 공사의 범위 정의를 선점하는 전형적인 경로가 다시 확인됐다.",
+ "overview_en": "The weekend window of 17-18 October produced no new articles at all from the trade press or institutional newsrooms: the WNN, NucNet, ANS, IAEA, NEI, POWER and UK energy department feeds and listing pages all stop at 16 October. Everything in today's briefing is a contract award notice published on 19 October in the EU's TED procurement journal, six of them Czech. The weightiest is CEZ's CZK 8.6 million award for hardening the physical protection system at Dukovany, in which the buyer's own notice gives the reason as the commencement of construction of the new nuclear source at the site - putting site preparation for the new units on the documentary record. On the same day CEZ Energoservis concluded framework agreements for site construction labour at both Dukovany and Temelin, capped at CZK 500 million each, and for insulation works, capped at CZK 100 million each; every awardee is a Czech company and four of them hold frameworks at both sites. In Slovenia, Krsko's operator placed the extension of its cooling-tower modernisation feasibility study with Westinghouse Nuclear Spain for EUR 71,850 by direct award, the third upgrade-related award at that plant in October. Sales angle: site labour and erection at Czechia's operating plants is now closed to outsiders through multi-year frameworks held by domestic firms, so the entry point is design and engineering or major components - while Krsko is another instance of the familiar route by which a competing vendor holds the feasibility study and thereby claims the scope definition for the work that follows.",
+ "domestic_overview_ko": "특이 동향 없음. 정책브리핑(korea.kr)을 원전·SMR·원자력 세 가지로 검색했고 한국수력원자력·한국전력 보도자료 게시판과 국내 RSS(더구루·더트래커)를 모두 확인했으나 10월 15일 이후 신규 게재가 없다. 원안위의 고리 3·4호기·한빛 1·2호기 계속운전 허가 심의는 10월 29일로 예정돼 있어 이번 주 후반이 다음 확인 시점이다. 영업 관점: 국내에서 해외 수주 레퍼런스에 영향을 주는 변수는 계속운전 허가 결정이며, 29일 전까지는 새로 반영할 사실이 없다.",
+ "domestic_overview_en": "Nothing of note. The korea.kr policy briefing was searched under all three terms - nuclear plant, SMR and nuclear energy - and the KHNP and KEPCO press boards and the domestic RSS feeds were all checked, but none has posted anything since 15 October. The regulator's decision on continued operation for Kori 3 and 4 and Hanbit 1 and 2 is set for 29 October, which makes the latter part of this week the next point to check. Sales angle: the domestic variable that bears on overseas bid references is the continued-operation ruling, and until the 29th there is no new fact to factor in.",
+ "countries_pulse": [
+  {
+   "country": "CZ",
+   "name_ko": "체코",
+   "name_en": "Czechia",
+   "stance": "expanding",
+   "signal": "ČEZ 조달 문서가 처음으로 '두코바니 신규원전(NJZ) 건설 착수'를 공사 사유로 명기했고(물리적방호설비 경계 남측 보강), 같은 날 양 부지 현장 건설·보온 역무가 상한 12억 코루나 규모 다년 기본협약으로 체코 업체군에 정리됐다.",
+   "signal_en": "A CEZ procurement document names the start of new-build construction at Dukovany as the reason for the work for the first time - hardening the southern guarded-area boundary - and on the same day site construction and insulation labour at both plants was tied down with Czech contractors in multi-year frameworks capped at CZK 1.2 billion.",
+   "article_ids": [
+    "2026-10-19-01",
+    "2026-10-19-02",
+    "2026-10-19-03",
+    "2026-10-19-05",
+    "2026-10-19-06"
+   ]
+  },
+  {
+   "country": "SI",
+   "name_ko": "슬로베니아",
+   "name_en": "Slovenia",
+   "stance": "steady",
+   "signal": "기조 유지 — 신규 호기(JEK2) 진전 소식은 없고, 크르슈코 기존 호기의 설비개선 투자만 10월 세 번째 발주로 이어진다. 냉각탑 현대화 타당성조사 확장은 웨스팅하우스 스페인 법인이 단독 응찰로 받았다.",
+   "signal_en": "Stance unchanged - no movement on the proposed new unit, while upgrade investment in Krsko's existing units produced a third award in October. The extension of the cooling-tower modernisation study went to Westinghouse's Spanish arm on a single tender.",
+   "article_ids": [
+    "2026-10-19-04"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "title": "KII - 9417 - Zodolnění a úpravy TSFO EDU vyvolané zahájením výstavby NJZ EDU",
+   "title_ko": "체코 ČEZ, 두코바니 물리적방호설비(TSFO) 보강·개량 계약 체결 — 공고가 사유를 '두코바니 신규원전(NJZ) 건설 착수'로 명기, 862만 코루나",
+   "title_en": "CEZ awards hardening and modification of the Dukovany physical protection system, citing the start of new-build construction at the site",
+   "language": "cs",
+   "source": "TED (EU 공공조달)",
+   "url": "https://ted.europa.eu/en/notice/721957-2026/pdf",
+   "published": "2026-10-19",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "CZ"
+   ],
+   "importance": 3,
+   "summary_ko": "ČEZ가 두코바니 원전의 기술적 물리적방호설비(TSFO) 보강·확장 공사를 체코 Trade FIDES에 8,616,222코루나로 발주했다(수의계약, 낙찰 결정 9월 21일). 공고 본문은 공사 사유를 '두코바니 신규원전(NJZ EDU) 건설 착수로 야기된' 것으로 적고, 경비구역 경계 남측을 방호설비로 확보하는 것이 목적이며 원자력법(263/2016 Sb.)과 시행령(361/2016 Sb.)의 신규 요건을 따른다고 밝혔다. 기존 운영 중인 TSFO 제어계통의 하드웨어·소프트웨어 플랫폼 위에 단말 설비를 증설·통합하는 방식이다.",
+   "summary_en": "CEZ has awarded Czech firm Trade FIDES a CZK 8,616,222 contract, by negotiated procedure without a call and decided on 21 September, to harden and extend the technical physical protection system (TSFO) at the Dukovany nuclear plant. The notice states the work is required because construction of the new nuclear source at Dukovany (NJZ EDU) is commencing, and that its purpose is to secure the southern edge of the guarded-area boundary under new requirements in the Czech Atomic Act (263/2016) and its implementing decree (361/2016). The added end devices are to be integrated onto the hardware and software platform of the TSFO control system already in service.",
+   "sales_note": "금액은 작지만 발주처가 조달 문서에서 신규원전 건설 착수를 공사 사유로 직접 적은 첫 건이다. 두코바니 신규 호기의 현장 준비가 문서상 확인되는 단계로 들어섰다는 뜻이고, 경비구역 경계 재설정은 통상 본공사 가설·출입 동선 확정과 함께 움직인다. 같은 사유로 발주되는 후속 부지 준비·가설 패키지를 ČEZ 조달 창구에서 미리 확인해 둘 가치가 있다.",
+   "sales_note_en": "The sum is small, but this is the first procurement document in which the buyer itself gives the start of new-build construction as the reason for the work. It puts site preparation for the new Dukovany units on the documentary record, and redrawing a guarded-area boundary normally moves together with fixing temporary works and site access for the main build. It is worth tracking CEZ's procurement channel for the follow-on site-preparation and temporary-works packages issued on the same grounds.",
+   "id": "2026-10-19-01"
+  },
+  {
+   "title": "RD-Zajištění stavebních činností v oblasti logického celku Strojovna, logického celku Venkovní objekty, logického celku Stavba Jaderné elektrárny Dukovany",
+   "title_ko": "체코 ČEZ ENERGOSERVIS, 두코바니 원전 기계동·옥외설비·건축 3개 구역 건설역무 기본협약 체결 — 상한 5억 코루나, 낙찰 5개사 전원 체코 업체",
+   "title_en": "CEZ Energoservis signs a framework agreement for construction works across three asset groups at Dukovany, capped at CZK 500 million, with five Czech contractors",
+   "language": "cs",
+   "source": "TED (EU 공공조달)",
+   "url": "https://ted.europa.eu/en/notice/722012-2026/pdf",
+   "published": "2026-10-19",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "CZ"
+   ],
+   "importance": 2,
+   "summary_ko": "ČEZ 그룹 정비회사 ČEZ ENERGOSERVIS가 두코바니 원전의 기계동(LC CS)·옥외설비(LC CV)·건축(LC CT) 구역 건설역무 기본협약을 체결했다(공고 후 협상 경쟁절차, 낙찰 결정 9월 29일). 기본협약 상한은 5억 코루나이고 이 공고에 기재된 계약금액은 4,941,501코루나다. 역무는 시간 단위로 투입하는 건설·기술 작업과 건설공, 건설기계 운전, 배관·용접, 조적, 비계, 목공, 판금, 전기, 기술검사, 설계 등 직종 인력 제공이며, 낙찰자는 MK stav-invest, DAM Energy, STAVOS Brno, BETVAR, Metrostav DIZ 5개사로 전원 체코 업체다.",
+   "summary_en": "CEZ Energoservis, the CEZ group's maintenance arm, has concluded a framework agreement for construction works across the turbine-hall (LC CS), outdoor-structures (LC CV) and civil (LC CT) asset groups at the Dukovany plant, under a negotiated procedure with a call and decided on 29 September. The framework is capped at CZK 500 million, with CZK 4,941,501 recorded as contracted in this notice. The scope is hours-based construction and technical labour across trades from plant operators and pipefitters to bricklayers, scaffolders, electricians, inspectors and designers. All five awardees - MK stav-invest, DAM Energy, STAVOS Brno, BETVAR and Metrostav DIZ - are Czech companies.",
+   "sales_note": "운영 중인 체코 원전의 현장 건설·정비 인력 역무는 다년 기본협약으로 묶이고, 낙찰자는 전원 현지 업체다. 즉 이 시장에서 해외 업체의 진입 지점은 현장 노무·시공 패키지가 아니라 설계·엔지니어링과 주기기·기자재 쪽이라는 뜻이다. 기본협약이 체결되면 그 기간 동안 같은 역무의 신규 공고는 사실상 닫히므로, 주요 발주처의 기본협약 갱신 시점을 역무별로 파악해 두는 것이 공고를 기다리는 것보다 빠르다.",
+   "sales_note_en": "Site construction and maintenance labour at Czechia's operating plants is bundled into multi-year frameworks, and every awardee here is a domestic firm. The entry point for a foreign supplier in this market is therefore design and engineering, or major components and equipment, rather than site labour and erection packages. Once a framework is in place it effectively closes new notices for the same scope for its duration, so mapping when a buyer's frameworks come up for renewal, scope by scope, beats waiting for notices to appear.",
+   "id": "2026-10-19-02"
+  },
+  {
+   "title": "RD-Zajištění stavebních činností v oblasti logického celku Strojovna, logického celku Venkovní objekty, logického celku Stavba Jaderné elektrárny Temelín",
+   "title_ko": "체코 ČEZ ENERGOSERVIS, 테멜린 원전 건설역무 기본협약도 동시 체결 — 상한 5억 코루나, 계약금액 2,474만 코루나",
+   "title_en": "CEZ Energoservis signs the matching construction-works framework for Temelin, capped at CZK 500 million with CZK 24.7 million contracted",
+   "language": "cs",
+   "source": "TED (EU 공공조달)",
+   "url": "https://ted.europa.eu/en/notice/720562-2026/pdf",
+   "published": "2026-10-19",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "CZ"
+   ],
+   "importance": 2,
+   "summary_ko": "같은 날 ČEZ ENERGOSERVIS는 테멜린 원전에 대해서도 동일한 구조의 건설역무 기본협약을 체결했다(낙찰 결정 9월 29일). 기본협약 상한은 두코바니와 같은 5억 코루나이며, 이 공고에 기재된 계약금액은 24,735,428코루나로 두코바니 건(494만 코루나)보다 크다. 낙찰자는 BETVAR, DAM Energy, MK stav-invest, G-Team, STAVOS Brno 5개사이고 전원 체코 업체다. 두코바니 건과 낙찰자 4개사가 겹친다.",
+   "summary_en": "On the same day CEZ Energoservis concluded an identically structured construction-works framework for the Temelin plant, decided on 29 September. The cap matches Dukovany at CZK 500 million, while the amount recorded as contracted in this notice, CZK 24,735,428, is the larger of the two. The five awardees - BETVAR, DAM Energy, MK stav-invest, G-Team and STAVOS Brno - are all Czech, and four of them also hold the Dukovany framework.",
+   "sales_note": "두 부지 합쳐 상한 10억 코루나 규모의 현장 건설역무가 사실상 같은 체코 업체군에 다년간 배정됐다. 낙찰자가 중복된다는 점은 발주처가 공급사 풀을 넓히기보다 검증된 소수를 양 부지에 돌려 쓰는 쪽을 택했다는 뜻으로, 신규 진입 장벽이 가격이 아니라 실적·자격 쪽에 있음을 보여준다.",
+   "sales_note_en": "Across the two sites, site construction labour worth up to CZK 1 billion has in effect been allocated to the same pool of Czech firms for several years. The overlap in awardees suggests the buyer has chosen to rotate a small set of proven contractors across both sites rather than widen its supplier pool, which puts the barrier to entry in track record and qualification rather than price.",
+   "id": "2026-10-19-03"
+  },
+  {
+   "title": "Razširitev Študije izvedljivosti za posodobitev sistema hladilnih stolpov",
+   "title_ko": "슬로베니아 크르슈코 원전(NEK), 냉각탑 계통 현대화 타당성조사 확장용역을 웨스팅하우스 스페인에 수의계약 — 7만 1,850유로, 3개월",
+   "title_en": "Krsko awards the extension of its cooling-tower modernisation feasibility study to Westinghouse's Spanish arm for EUR 71,850",
+   "language": "sl",
+   "source": "TED (EU 공공조달)",
+   "url": "https://ted.europa.eu/en/notice/722482-2026/pdf",
+   "published": "2026-10-19",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "SI"
+   ],
+   "importance": 2,
+   "summary_ko": "슬로베니아 크르슈코 원전 운영사 NEK이 냉각탑 계통 현대화 타당성조사의 확장용역을 Westinghouse Nuclear Spain S.A.U.에 발주했다. 공고 추정금액은 8만 유로, 계약금액은 71,850유로이며 계약기간은 3개월이다. 절차는 공고 없는 협상절차(수의계약)이고 접수된 입찰은 1건이다. 분류코드는 엔지니어링 설계용역(CPV 71300000)과 기술시험·분석·자문(71600000)이다.",
+   "summary_en": "NEK, the operator of Slovenia's Krsko plant, has placed the extension of its cooling-tower system modernisation feasibility study with Westinghouse Nuclear Spain S.A.U. The notice gives an estimated value of EUR 80,000 against EUR 71,850 contracted, over a three-month term. It ran as a negotiated procedure without a call, drawing a single tender, and is classified under engineering design services (CPV 71300000) and technical testing, analysis and consultancy (71600000).",
+   "sales_note": "금액은 작지만 자리가 중요하다. 설비개선의 타당성조사를 쥔 업체가 후속 기본설계·발주 범위의 전제를 쓰게 되므로, 냉각탑 현대화가 실제 공사로 넘어갈 때 경쟁 벤더가 범위 정의를 선점한 상태에서 출발한다. 10월에 들어서만 크르슈코의 설비개선 관련 발주가 세 건째로, 이 부지는 신규 호기(JEK2)보다 기존 호기 계속운전 투자 쪽에서 발주 창이 열리고 있다.",
+   "sales_note_en": "The sum is small but the position is not. Whoever holds the feasibility study for a plant upgrade ends up writing the premises for the basic design and the scope that follows, so when cooling-tower modernisation turns into real work, a competing vendor will already own the scope definition. This is the third upgrade-related award at Krsko in October alone: at this site the procurement window is opening on life-extension investment in the existing units rather than on the proposed new unit.",
+   "id": "2026-10-19-04"
+  },
+  {
+   "title": "RD – Provádění izolatérských prací v rámci logického celku Strojovna, logického celku Venkovní objekty, logického celku Stavba Jaderné elektrárny Temelín / Dukovany",
+   "title_ko": "체코 ČEZ ENERGOSERVIS, 테멜린·두코바니 보온(단열)공사 기본협약 2건 체결 — 각 상한 1억 코루나, 낙찰 SUTOR Global·Izolace KS",
+   "title_en": "CEZ Energoservis signs two insulation-works frameworks for Temelin and Dukovany, each capped at CZK 100 million",
+   "language": "cs",
+   "source": "TED (EU 공공조달)",
+   "url": "https://ted.europa.eu/en/notice/720745-2026/pdf",
+   "published": "2026-10-19",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "CZ"
+   ],
+   "importance": 1,
+   "summary_ko": "ČEZ ENERGOSERVIS가 테멜린·두코바니 양 부지의 기계동·옥외설비·건축 구역 보온(단열)공사 기본협약을 각각 체결했다(낙찰 결정 9월 29일). 상한은 각 1억 코루나이며, 테멜린 건(720745-2026)은 SUTOR Global이 3,345,925코루나로, 두코바니 건(722530-2026)은 Izolace KS가 낙찰받았다(두코바니 건의 계약금액은 공고에 0으로 기재). 역무는 배관·곡관·플랜지·밸브·압력용기 보온재 해체·설치와 외장 판금, 보조 가설물 조립, 작업절차 수립, 기술보고서 작성이다.",
+   "summary_en": "CEZ Energoservis has concluded separate insulation-works frameworks covering the turbine-hall, outdoor-structures and civil asset groups at both Temelin and Dukovany, each decided on 29 September and capped at CZK 100 million. The Temelin framework (720745-2026) went to SUTOR Global at CZK 3,345,925 and the Dukovany one (722530-2026) to Izolace KS, whose contracted amount is recorded as zero in the notice. The scope covers removing and fitting insulation on pipework, bends, flanges, valves and pressure vessels together with outer cladding, erecting ancillary structures, setting work procedures and producing technical reports.",
+   "sales_note": "건설역무와 같은 날 같은 구조로 체결됐다. ČEZ가 부지 유지보수 역무를 공종별로 쪼개 다년 기본협약으로 일괄 정리하는 중이라는 신호다.",
+   "sales_note_en": "These were concluded on the same day and in the same form as the construction-works frameworks, a sign that CEZ is working through its site maintenance scopes trade by trade and tying each one down in a multi-year framework.",
+   "related": [
+    "https://ted.europa.eu/en/notice/722530-2026/pdf"
+   ],
+   "id": "2026-10-19-05"
+  },
+  {
+   "title": "I445 - 2VF30D02-M1 - MODIFIKACE MOTORU V 2GO27",
+   "title_ko": "체코 ČEZ, 기기냉각수(TVD) 펌프 고압전동기 교체공사를 자사 정비회사 ENERGOSERVIS에 발주 — 1,226만 코루나",
+   "title_en": "CEZ awards replacement of an essential service water pump's HV motor to its own maintenance subsidiary for CZK 12.3 million",
+   "language": "cs",
+   "source": "TED (EU 공공조달)",
+   "url": "https://ted.europa.eu/en/notice/722247-2026/pdf",
+   "published": "2026-10-19",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "CZ"
+   ],
+   "importance": 1,
+   "summary_ko": "ČEZ가 기기냉각수(TVD) 계통 펌프의 기존 전동기를 해체하고 신규 고압전동기를 조달·설치하는 공사를 ČEZ ENERGOSERVIS에 12,260,180코루나로 발주했다(낙찰 결정 8월 17일). 역무에는 설계문서 작성과 준공도면·기술문서 인계가 포함된다. 분류코드는 전동기(CPV 31110000)다.",
+   "summary_en": "CEZ has awarded CZK 12,260,180 to CEZ Energoservis, decided on 17 August, to remove the existing motor from an essential service water (TVD) pump, supply and install a new high-voltage motor, and prepare the design documentation and as-built records. The notice is classified under electric motors (CPV 31110000).",
+   "sales_note": "단일 기기 교체 건이며, 발주처가 같은 그룹 정비회사에 내린 건이라 외부 응찰 여지는 없다.",
+   "sales_note_en": "This is a single-component replacement placed with a maintenance company inside the buyer's own group, so there is no opening for an outside bidder.",
+   "id": "2026-10-19-06"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-19",
+  "run_started": "2026-10-19T08:07:05+09:00",
+  "run_finished": "2026-10-19T08:23:54+09:00",
+  "run_minutes": 16.8,
+  "articles": 6,
+  "by_region": {
+    "overseas": 6,
+    "domestic": 0
+  },
+  "by_importance": {
+    "3": 1,
+    "2": 3,
+    "1": 2
+  },
+  "detection_lag_hours": {
+    "median": -0.88,
+    "max": -0.88,
+    "n": 6
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS + 목록)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "ANS Nuclear Newswire (목록)",
+    "Nuclear Engineering International (RSS, -L 리다이렉트 추적 후)",
+    "더구루 (RSS)",
+    "더트래커 (RSS, -L 리다이렉트 추적 후)",
+    "정책브리핑 korea.kr (원전·SMR·원자력 3회)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "TED 검색 API (다국어 전문검색 10종)",
+    "UK Find a Tender OCDS API"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS, www 호스트)",
+      "reason": "301 — 리다이렉트만 반환해 1차 요청이 0바이트. -L 추적 후 정상 수신(14,339바이트, 기간 내 0건). 직전 2회차의 empty_response·stale_feed 판정은 리다이렉트 미추적이 원인이었던 것으로 확인"
+    },
+    {
+      "name": "더트래커 (RSS, www 호스트)",
+      "reason": "302 — www 없는 호스트로 리다이렉트. -L 추적 후 정상 수신(210,024바이트, 원전 관련 0건)"
+    },
+    {
+      "name": "Rolls-Royce SMR 보도자료 (rolls-royce-smr.com)",
+      "reason": "403 (Cloudflare) — 본문 접근 불가 지속"
+    },
+    {
+      "name": "OPG 조달 (opg.com)",
+      "reason": "403 — 조달 페이지 차단 지속(검색 색인으로만 확인, 신규 0건)"
+    },
+    {
+      "name": "Hilma 조달 API (hankintailmoitukset.fi)",
+      "reason": "404 — 공개 API 경로 미확인. 웹 검색으로 대체했고 색인된 Helen 원자력 프로그램 공고는 절차 ID(11506/16349)가 과거 번호대여서 기간 밖으로 제외. EU 기준액 이상 건은 TED 핀란드어 검색(FT~ydinvoima, 0건)으로 커버"
+    },
+    {
+      "name": "korea.kr 최신뉴스 사이드바",
+      "reason": "게재일 미표시 — 사이드바 항목(ID 156785585~156785587)의 날짜를 확인할 수 없어 기간 판정 불가. 본문 목록(최신 10-15)으로만 판정"
+    }
+  ],
+  "languages": {
+    "cs": 5,
+    "sl": 1
+  },
+  "note": "월요일 회차. 수집 창(10-18 일 ~ 10-19 월 08:07)에 게재된 언론·기관 기사는 해외·국내 모두 0건이며, 막혀서 0건이 아니라 주말이어서 0건이다 — RSS 8종, WNN·ANS 목록, 정책브리핑 3회 검색, 한수원·한전 게시판, 현지어 검색(CZ·PL), 업계지도·무역틀 검색을 모두 실행해 확인했다(영어·한국어 피드와 목록이 전부 10-16, 국내 공식 게시판은 10-15에서 정지). 수록한 6건은 전부 10-19자 TED 계약체결 공고로, TED 검색 API로 10-17 이후 게재분 4,029건을 다국어 전문검색(nuclear·jadern·jedrsk·reactor·reaktor·nucleaire·kernenergie·ydinvoima·radioactive·decommissioning) 10종으로 훑어 찾았다. 검색에 떴으나 규칙대로 제외한 건: CPV 09300000(전기·열·태양·원자력 에너지) 분류 때문에 전문검색에 걸린 일반 에너지 공급 공고 다수, 독일 운터푀링 시청사 리모델링 설계용역(721704-2026), 노르웨이 Statnett 전력변압기·분로리액터 시장조사(720247-2026) 등 비(非)원자력 건. detection_lag_hours 는 게재일만 있는 기사를 해당일 09:00(+09:00)로 간주하는 규약을 그대로 적용한 결과로, 당일 게재분을 그 가정 시각(09:00)보다 이른 08:07에 실행해 잡았기 때문에 음수가 됐다 — 지연이 아니라 당일 포착을 뜻한다. 이 규약은 당일 TED 공고에는 맞지 않으므로 보완이 필요하다."
+}

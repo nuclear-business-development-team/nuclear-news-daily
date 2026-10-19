@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-20",
+  "run_started": "2026-10-20T08:04:14+09:00",
+  "run_finished": "2026-10-20T08:33:00+09:00",
+  "run_minutes": 28.8,
+  "articles": 15,
+  "by_region": {
+    "overseas": 12,
+    "domestic": 3
+  },
+  "by_importance": {
+    "3": 4,
+    "2": 6,
+    "1": 5
+  },
+  "detection_lag_hours": {
+    "median": 23.07,
+    "max": 23.07,
+    "n": 15
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "Nuclear Engineering International (RSS, 주소 수정 후)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS, 주소 수정 후)",
+    "ANS Nuclear Newswire (목록 페이지)",
+    "TED 검색 API (api.ted.europa.eu/v3/notices/search)",
+    "UK Find a Tender OCDS API",
+    "정책브리핑 korea.kr (원전·SMR·원자력 3회)",
+    "한국수력원자력 보도자료 게시판",
+    "한국전력 보도·설명자료 게시판",
+    "전기신문",
+    "에너지데일리",
+    "투데이에너지",
+    "Centrus Energy SEC 8-K"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (https://www.neimagazine.com/feed)",
+      "reason": "301 — 리다이렉트 미추적 시 0바이트. 응답 헤더에 DataDome 보호. `-L` 적용 또는 sources.yaml 주소를 '/feed/'(슬래시 포함)로 수정하면 정상(이번 회차는 -L로 수신 성공)"
+    },
+    {
+      "name": "더트래커 (https://www.thetracker.co.kr/RSS/RSS.aspx)",
+      "reason": "301 — www. 호스트가 thetracker.co.kr 로 이동. 미추적 시 154바이트 안내 HTML. sources.yaml 주소에서 www. 제거 필요(이번 회차는 -L로 수신 성공)"
+    },
+    {
+      "name": "Rolls-Royce SMR 공급망 (rolls-royce-smr.com)",
+      "reason": "403 (Cloudflare) — 보도자료 본문 접근 불가 지속"
+    },
+    {
+      "name": "원자력안전위원회 (nssc.go.kr)",
+      "reason": "unreachable 등재 유지 — 보도자료 목록이 비어 로드. 정책브리핑(korea.kr)으로 대체 확인"
+    }
+  ],
+  "languages": {
+    "en": 8,
+    "ko": 4,
+    "ro": 1,
+    "sk": 1,
+    "cs": 1
+  },
+  "note": "화요일 회차(10/19 월 ~ 10/20 화 08:04). 해외 12건·국내 3건. 해외는 전문지 피드 신규 게재 6건(WNN 4·NucNet 2) 중 중복 1건(모호브체 4호기 계통연결 — 10/17 회차 수록)을 제외하고, ANS 목록에서 2건, UK Find a Tender에서 1건, TED에서 3건(공고 7건을 발주처·성격별로 3개 기사로 묶음)을 더해 구성했다. NucNet 센트러스–웨스터먼 인수는 본문 유료이므로 센트러스 SEC 8-K 보도자료 원문으로 사실을 확인했다(§1 규칙 적용). 국내는 정책브리핑 3회 검색 결과 수집 기간 내 원자력 관련 부처·원안위 보도자료 0건, 한수원 게시판은 사회공헌 캠페인 1건으로 홍보성 단신 제외 규칙을 적용, 한전 게시판은 원자력 관련 0건이다. 국내 3건은 전기신문·에너지데일리 국정감사 보도에서 확보했다. detection_lag_hours: 게재일이 날짜까지만 있는 기사를 그날 09:00(UTC+9)으로 간주하는 규칙상, 게재일이 오늘(10/20)인 TED 공고 4건은 산식상 음수(-0.93h)가 나오므로 0으로 처리했다. 중간값 23.07h는 10/19 게재분이 다수(11건)인 데 따른 값이다. sources_failed 4건 중 2건(NEI·더트래커)은 리다이렉트 미추적에 따른 것으로 이번 회차에 -L 로 수신에 성공했으나, sources.yaml 주소 수정이 필요해 실패로 계상하고 보고서 '출처 점검 필요'에 남겼다."
+}

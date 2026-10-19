@@ -1,0 +1,459 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T08:33:00+09:00",
+  "period": {
+    "from": "2026-10-19",
+    "to": "2026-10-20"
+  },
+  "overview_ko": "민간 수요가 SMR 사업의 발주 동력으로 자리 잡은 날이다. AEP·엑스에너지가 인디애나 폐석탄 부지에 Xe-100 12기(960MW)를 짓는 공동개발협약을 맺고 아마존이 자금지원과 장기 전력구매로 참여했으며, 로사톰은 인도네시아 북말루쿠에 부유식 원전 2기(200MW)를 국가예산 없는 민간투자 B2B 전력판매 구조로 공급하기로 합의했다 — 설비를 팔지 않고 소유·운영을 유지한 채 전력만 파는 방식이다. 연료·소재 공급망에서는 세 건이 같은 방향을 가리켰다. 센트러스가 원심분리기 부품 공급사 웨스터먼을 1억 1,600만 달러에 인수해 수직계열화했고, ASP Isotopes 자회사와 남아공 Necsa가 펠린다바에 HALEU 합작사(지분 80:20, 테라파워 오프테이크 보유)를 세우며, 프라마톰은 IBA와 아스타틴-211 합작사를 설립해 낭트에 3,000만 유로를 투자한다. 제도 쪽에서는 7월 서명된 미·사우디 123협정이 의회 불승인 결의안에 걸렸다 — 상원 표결은 11월 29일 이후이고, 부결되면 협정은 그대로 발효된다. 유럽 공고는 운영 호기 유지보수가 전부였고(루마니아 체르나보다 2건, 슬로바키아 JAVYS 2건, 체코 ČEZ 통신 계약 2건), 영국에서는 GBE-N이 SMR 부지 그윈도드의 고고학 조사 1단계를 기존 기본협약으로 직접 발주하며 부지 물리작업에 들어갔다. 영업 관점: 사우디는 11월 29일 이후 상원 표결이 입찰 전제조건을 가르고, 영국은 '잔여 고고학 역무 경쟁 조달' 예고가 부지 공종 발주 창의 선행 신호이며, 인도네시아는 기자재·EPC 단품 제안이 아니라 금융·운영을 묶은 구조 없이는 경쟁사와 같은 테이블에 앉지 못한다.",
+  "overview_en": "Today was about private demand becoming the engine behind SMR orders. AEP and X-energy signed a joint development agreement for twelve Xe-100 units (960 MW) on a retired coal site in Indiana, with Amazon joining through a funding agreement and a long-term power purchase agreement, while Rosatom agreed to supply two floating units (200 MW) off North Maluku in Indonesia as a privately financed business-to-business power sale with no call on the state budget - selling electricity rather than plant, and keeping ownership and operation. Three deals pointed the same way in the fuel and materials supply chain: Centrus integrated vertically by buying centrifuge component supplier Westerman for $116 million; an ASP Isotopes subsidiary and South Africa's Necsa set up a HALEU joint venture at Pelindaba (80:20, with TerraPower offtake already in place); and Framatome formed an astatine-211 joint venture with IBA, investing EUR 30 million at Nantes. On the policy side, the US-Saudi 123 Agreement signed in July has run into disapproval resolutions in Congress - the Senate votes after 29 November, and the agreement takes effect if they fail. European tenders were entirely operating-plant maintenance (two at Cernavoda in Romania, two from JAVYS in Slovakia, two CEZ communications contracts in Czechia), while in Britain GBE-N moved onto its Gwyndod SMR site physically, awarding Phase 1 archaeology direct through an existing framework. Sales angle: for Saudi Arabia the post-29 November Senate vote decides the precondition for bidding; in the UK the promised competitive procurement for the remaining archaeology is the leading indicator for when site packages open; and in Indonesia there is no seat at the table alongside the competition without a financing-and-operations structure, rather than an equipment or EPC offer on its own.",
+  "domestic_overview_ko": "국정감사에서 한국형 원전의 '공기·비용' 실적이 국회 자료로 수치화됐다. 박지혜 의원이 한수원 제출자료를 근거로 APR1400 8기 총사업비가 27조 9,000억원에서 42조 4,000억원으로 14조 5,000억원(52%) 늘고 준공이 6~12년 지연됐다고 밝혔고(새울 3·4 7.6→11.7조, 신한울 3·4 8.3→12.3조), 김회천 한수원 사장은 향후 건설비 산정에 현실적인 비용과 일정을 써야 한다는 데 동의했다. 함께 제시된 비용 쟁점은 사용후핵연료 관리부담금 다발당 3.2억→6.16억원(+92.5%, 연 약 1.1조원)과 상반기 출력감발 40회·최저출력 70%(2032년 50% 목표)다. 같은 위원회에서 김정호 위원장은 5년간 온배수 어업피해 보상 2,311억 8,000만원 중 한수원이 1,688억원(73%)이고 원전 온배수 재활용률은 0.001%라고 지적했다. 인사로는 이진호 제6대 한국원자력환경공단 이사장이 취임해 고준위 방폐물 부지선정 로드맵의 차질 없는 이행을 약속했다. 영업 관점: 52% 증액·6~12년 지연 수치는 경쟁 벤더와 발주처 자문사가 그대로 인용할 수 있으므로, 수출 제안에서 총액 비교로 맞서지 말고 증액 요인을 사업 외 요인(금융비용·제도변경·부담금)과 공정 요인으로 분해해 계약구조상의 차단 장치로 설명할 자료를 지금 준비해야 한다.",
+  "domestic_overview_en": "The parliamentary audit put hard numbers on the cost and schedule record of Korea's own reactors. Citing data submitted by KHNP, Rep. Park Ji-hye said the total project cost of eight APR1400 units had risen from KRW 27.9 trillion to KRW 42.4 trillion - up KRW 14.5 trillion, or 52% - with completion six to twelve years late (Saeul 3-4 from 7.6 to 11.7 trillion, Shin-Hanul 3-4 from 8.3 to 12.3 trillion), and KHNP President Kim Hoe-cheon agreed that realistic costs and timelines should be used in future estimates. The cost items raised alongside were the spent fuel management levy, up from KRW 320 million to 616 million per bundle (+92.5%, about KRW 1.1 trillion a year), and 40 output curtailments in the first half with minimum output cut to 70% of rated capacity, targeting 50% by 2032. In the same committee, chair Kim Jung-ho noted that of KRW 231.18 billion in thermal-discharge fishery compensation over five years, KHNP accounted for KRW 168.8 billion (73%), and that reuse of nuclear thermal discharge stands at 0.001%. On appointments, Lee Jin-ho took office as the sixth president of the Korea Radioactive Waste Agency, pledging to keep the high-level waste siting roadmap on schedule. Sales angle: the 52% increase and six-to-twelve-year delay are figures rival vendors and owners' advisers can quote verbatim, so export proposals should not contest them on totals but should be armed now with a decomposition separating factors outside project execution (financing cost, regulatory change, levies) from execution ones, explained through the contractual protections in place for export units.",
+  "countries_pulse": [
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "민간 수요(아마존 PPA)가 SMR 12기 공동개발을 끌어내고, DOE 연구인가 경로(NRIC 발사대)와 연방·주 정치권의 1호기 지지가 동시에 확인됐다. 다만 사우디 123협정은 의회 불승인 결의안으로 상원 표결(11월 29일 이후) 전까지 불확실.",
+      "signal_en": "Private demand - an Amazon PPA - pulled a twelve-unit SMR project into joint development, while the DOE research-authorisation route (the NRIC Launch Pad) and federal and state political backing for a first-of-a-kind unit were both on display. The Saudi 123 Agreement, though, stays uncertain until a Senate vote after 29 November on a disapproval resolution.",
+      "article_ids": [
+        "2026-10-20-01",
+        "2026-10-20-02",
+        "2026-10-20-05",
+        "2026-10-20-08",
+        "2026-10-20-09"
+      ]
+    },
+    {
+      "country": "SA",
+      "name_ko": "사우디아라비아",
+      "name_en": "Saudi Arabia",
+      "stance": "expanding",
+      "signal": "7월 서명된 미·사우디 123협정이 90일 의회 심의에 들어갔고, 농축 5% 허용과 추가의정서 부재를 문제 삼은 불승인 결의안이 상·하원에 제출돼 발효 여부가 11월 29일 이후 상원 표결에 달렸다.",
+      "signal_en": "The US-Saudi 123 Agreement signed in July is in a 90-day congressional review, and with disapproval resolutions filed in both chambers over the 5% enrichment allowance and the missing Additional Protocol, entry into force now hinges on a Senate vote after 29 November.",
+      "article_ids": [
+        "2026-10-20-02"
+      ]
+    },
+    {
+      "country": "ID",
+      "name_ko": "인도네시아",
+      "name_en": "Indonesia",
+      "stance": "expanding",
+      "signal": "로사톰과 부유식 원전 2기(200MW) 공급에 합의 — 국가예산을 쓰지 않는 민간투자 B2B 전력판매 구조로, 소형 부유식 선행 후 대형 육상으로 넘어가는 2단계 경로가 제시됐다.",
+      "signal_en": "Indonesia has agreed with Rosatom on two floating units totalling 200 MW, structured as a privately financed business-to-business power sale with no call on the state budget, and framed as phase one of a path that moves on to large land-based reactors.",
+      "article_ids": [
+        "2026-10-20-03"
+      ]
+    },
+    {
+      "country": "RU",
+      "name_ko": "러시아",
+      "name_en": "Russia",
+      "stance": "expanding",
+      "signal": "설비 수출이 아니라 소유·운영을 유지하고 전력을 파는 부유식 모델로 동남아 신규 도입국에 진입 — 발주국의 자본·규제 부담을 걷어내는 방식을 전면에 세웠다.",
+      "signal_en": "Rosatom is entering a Southeast Asian newcomer market not by exporting plant but by keeping ownership and operation and selling the electricity - putting a model that removes the host's capital and regulatory burden at the front of its offer.",
+      "article_ids": [
+        "2026-10-20-03"
+      ]
+    },
+    {
+      "country": "GB",
+      "name_ko": "영국",
+      "name_en": "United Kingdom",
+      "stance": "expanding",
+      "signal": "SMR 부지 그윈도드에서 고고학 조사·저감 1단계가 기존 기본협약(SCAPE)을 통한 직접 발주로 착수 — 설계·자문 단계를 지나 부지 물리적 작업으로 넘어갔고, 잔여 고고학 역무는 경쟁 조달이 예고됐다.",
+      "signal_en": "At the Gwyndod SMR site, Phase 1 archaeological investigation and mitigation has started via a direct award under an existing framework (SCAPE), moving the programme past design and advisory work into physical activity on site, with a competitive procurement promised for the remaining archaeology.",
+      "article_ids": [
+        "2026-10-20-07"
+      ]
+    },
+    {
+      "country": "ZA",
+      "name_ko": "남아프리카공화국",
+      "name_en": "South Africa",
+      "stance": "expanding",
+      "signal": "국영 Necsa가 지분 20%와 인허가·안전조치 지원, EPC 역할까지 걸고 펠린다바에 HALEU 생산 합작사를 세운다 — 비전통 농축기술로 선진로 연료 공급국에 진입하는 경로.",
+      "signal_en": "State-owned Necsa is taking a 20% stake, providing licensing and safeguards support and is intended to take the EPC role in a HALEU production joint venture at Pelindaba - a route into supplying advanced-reactor fuel on non-traditional enrichment technology.",
+      "article_ids": [
+        "2026-10-20-04"
+      ]
+    },
+    {
+      "country": "FR",
+      "name_ko": "프랑스",
+      "name_en": "France",
+      "stance": "steady",
+      "signal": "기조 유지 — 프라마톰이 IBA와 의료용 동위원소(At-211) 합작사를 세워 낭트에 3,000만 유로를 투자하며, 노형 발주 경기와 분리된 수익원을 넓히고 있다.",
+      "signal_en": "No change in direction: Framatome has set up a medical isotope joint venture with IBA for astatine-211, investing EUR 30 million at Nantes and broadening into revenue that does not track the reactor order cycle.",
+      "article_ids": [
+        "2026-10-20-06"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "기조 유지 — 운영 호기의 통신·배선 등 보조계통이 또 체코 업체 다년 기본협약(상한 6,500만 코루나·72개월)으로 정리됐다. 공종이 분명한 현장 역무는 공고가 아니라 기본협약 단계에서 닫히는 패턴이 이어진다.",
+      "signal_en": "Direction unchanged: ancillary systems at the operating plants - communications and cabling - have again been locked up with Czech firms under multi-year frameworks (a CZK 65 million ceiling, 72 months). Clearly bounded site trades keep closing at the framework stage rather than through published tenders.",
+      "article_ids": [
+        "2026-10-20-12"
+      ]
+    },
+    {
+      "country": "RO",
+      "name_ko": "루마니아",
+      "name_en": "Romania",
+      "stance": "steady",
+      "signal": "기조 유지 — 누클레아렐렉트리카가 체르나보다 운영 호기 투자 공고(복수기 냉각수 펌프 정비, 예비 데이터센터)를 계속 내는 한편, 3·4호기 건설재개 관련 발주는 아직 나오지 않았다.",
+      "signal_en": "Direction unchanged: Nuclearelectrica keeps issuing investment tenders for the operating units at Cernavoda - condenser cooling water pump overhaul, a backup data centre - while nothing tied to resuming construction of Units 3 and 4 has yet appeared.",
+      "article_ids": [
+        "2026-10-20-10"
+      ]
+    },
+    {
+      "country": "SK",
+      "name_ko": "슬로바키아",
+      "name_en": "Slovakia",
+      "stance": "steady",
+      "signal": "기조 유지 — 국영 JAVYS가 계측제어 정비와 여과계통 필터 공급을 규제고시 근거의 다년 계약으로 묶어 발주했다(각 65만 8천·69만 4천 유로, 마감 11월 19일).",
+      "signal_en": "Direction unchanged: state-owned JAVYS has tendered I&C maintenance and filtration-system filter supply as multi-year contracts grounded in regulatory decree (EUR 658,430 and EUR 694,000, both closing 19 November).",
+      "article_ids": [
+        "2026-10-20-11"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-20-01",
+      "title": "AEP, Amazon and X-energy planning 12-SMR plant",
+      "title_ko": "美 AEP·아마존·엑스에너지, 인디애나 폐석탄 부지에 Xe-100 12기(960MW) 공동개발 합의 — 아마존이 자금지원·장기 전력구매, FID 조건",
+      "title_en": "AEP, Amazon and X-energy sign joint development agreement for a twelve-unit, 960 MW Xe-100 plant in Indiana",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/aep-amazon-and-x-energy-plan-12-smr-plant",
+      "published": "2026-10-19",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "US"
+      ],
+      "importance": 3,
+      "summary_ko": "미국 전력사 AEP와 엑스에너지가 인디애나주 설리번군의 옛 I&M 브리드 석탄화력 부지에 Xe-100 12기(4기씩 3개군, 각 80MWe·합계 960MW)를 짓는 공동개발협약(JDA)을 체결했다. 아마존이 자금지원 협약과 장기 전력구매계약(PPA)으로 참여해 시설의 비용과 운영을 계약기간 동안 부담하며, 사업은 최종투자결정(FID)에 도달할 때만 진행된다. 2024년 아마존–엑스에너지 협력의 두 번째 사업으로 첫 사업은 워싱턴주 캐스케이드 선진에너지시설이며, 양측은 2039년까지 미국 전력망에 5GW 이상을 추가하는 것을 목표로 한다.",
+      "summary_en": "US utility AEP and X-energy have signed a joint development agreement to evaluate a 960 MW plant made up of twelve Xe-100 reactors - three groups of four, 80 MWe each - at the former I&M Breed coal station in Sullivan County, Indiana. Amazon joins through a funding agreement and a long-term power purchase agreement that covers the facility's costs and operations for the contract term, and the project advances only if it reaches a final investment decision. It is the second project under the 2024 Amazon-X-energy collaboration, after the Cascade Advanced Energy Facility in Washington state, and the partners are targeting more than 5 GW of new US nuclear capacity by 2039.",
+      "sales_note": "하이퍼스케일러 전력구매가 SMR 사업의 FID를 끌고 가는 구조가 반복 확인됐다. 12기 반복건설은 주기기·모듈 양산 발주로 이어지므로, 국내 공급망이 노리는 자리는 노형 경쟁이 아니라 반복호기 기자재·모듈 제작 공급권이다. 발주 창은 FID 전 장납기품 조달 단계에서 먼저 열린다.",
+      "sales_note_en": "This is another case of hyperscaler offtake, not government policy, carrying an SMR project toward FID. A twelve-unit build means repeat orders for major components and modules, so the opening for Korean suppliers is fabrication scope on repeat units rather than the reactor-design contest - and that window opens at long-lead procurement, before FID.",
+      "related": [
+        "https://www.ans.org/news/2026-10-19/article-8501/amazon-aep-xenergy-explore-smr-feasibility-in-indiana/"
+      ]
+    },
+    {
+      "id": "2026-10-20-02",
+      "title": "Merkley and Markey introduce resolution to block U.S.-Saudi deal",
+      "title_ko": "美 상원, 사우디 123협정 불승인 결의안(JRD) 제출 — 5% 농축 허용·추가의정서 부재가 쟁점, 상원 표결은 11월 29일 이후",
+      "title_en": "US senators file a joint resolution of disapproval against the US-Saudi 123 Agreement",
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-10-19/article-8500/merkley-and-markey-introduce-resolution-to-block-ussaudi-deal/",
+      "published": "2026-10-19",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "US",
+        "SA"
+      ],
+      "importance": 3,
+      "summary_ko": "머클리·마키 상원의원이 10월 15일 미·사우디 민간원자력협력협정(원자력법 123조 협정)에 대한 불승인 공동결의안을 발표했다. 협정은 7월 22일 미 에너지부가 발표하고 크리스 라이트 장관과 사우디 압둘아지즈 빈 살만 에너지장관이 서명한 것으로, 사우디 내 우라늄 농축을 U-235 5%까지 허용하고 이후 20% 미만까지 상향할 수 있게 한다. 의원들은 2009년 미·UAE 협정이 농축·재처리를 포기시킨 '골드 스탠더드'와 달리 이 협정에는 IAEA 검증을 강화하는 추가의정서가 없다는 점을 문제로 들었다. 협정은 9월 14일 의회에 제출돼 90일(상임위 30일·상원 본회의 60일) 심의에 들어갔고, 두 의원은 상원 표결이 11월 29일 이후에 이뤄진다고 밝혔다. 9월 17일 하원에도 거의 동일한 결의안이 제출됐으며, 기한 내 통과되지 않으면 협정은 발효된다.",
+      "summary_en": "Senators Jeff Merkley and Edward Markey announced a joint resolution of disapproval on 15 October against the US-Saudi civil nuclear cooperation agreement, a section 123 agreement under the Atomic Energy Act that DOE announced on 22 July and that Energy Secretary Chris Wright signed with Saudi Energy Minister Prince Abdulaziz bin Salman. The agreement would let Saudi Arabia enrich uranium domestically to 5% U-235, with a possible later rise to under 20%. The senators object that, unlike the 2009 US-UAE agreement widely called the gold standard for forgoing enrichment and reprocessing, this one carries no Additional Protocol strengthening IAEA verification. Submitted to Congress on 14 September, it is in a 90-day review - 30 days in committee, 60 on the Senate floor - with the Senate vote expected after 29 November; a near-identical House resolution was filed on 17 September, and the agreement enters into force if neither passes in time.",
+      "sales_note": "사우디 신규원전 입찰의 전제조건이 미 의회 일정에 묶였다. 123협정이 발효되면 미국 노형(AP1000)이 제도적 우위를 갖고 들어오므로, 11월 29일 이후 상원 표결 결과가 사우디 발주 구도의 분기점이다. 결의안이 부결돼 협정이 발효되는 쪽이 기본 시나리오이되, 농축 허용 조항을 둘러싼 의회 저항은 사우디 측 일정 지연 요인으로 남는다.",
+      "sales_note_en": "The precondition for bidding on Saudi new-build now sits on the US congressional calendar. If the 123 Agreement takes effect, American technology (AP1000) enters with an institutional advantage, making the post-29 November Senate vote the fork in the road for how Saudi procurement is shaped. The base case is that the resolution fails and the agreement enters into force, but congressional resistance over the enrichment clause remains a source of schedule slippage on the Saudi side."
+    },
+    {
+      "id": "2026-10-20-03",
+      "title": "Rosatom signs floating nuclear power deal for Indonesia",
+      "title_ko": "로사톰, 인도네시아 부유식 원전 2기(합계 200MW) 공급 합의 — 북말루쿠 할마헤라 북부, 소유·운영은 로사톰이 유지하고 전력만 판매",
+      "title_en": "Rosatom signs a deal to supply two floating nuclear units totalling 200 MW for North Halmahera, Indonesia",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/rosatom-signs-floating-nuclear-power-deal-for-indonesia",
+      "published": "2026-10-19",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "ID",
+        "RU"
+      ],
+      "importance": 3,
+      "summary_ko": "러시아 로사톰이 모스크바 '러시아 에너지주간'에서 인도네시아 PT Pembangkit Listrik Nuklir와 부유식 원자력 발전설비(FPU-100) 2기, 합계 200MW 공급 합의에 서명했다. 설치 위치는 북말루쿠주 할마헤라섬 북부이고, 수출형 부유식 발전설비는 RITM-200M 노형을 쓰며 로사톰은 5년 내 전력 공급 개시를 예상한다. 사업은 인도네시아 정부 예산에 의존하지 않는 민간투자 B2B 방식으로, 설비 소유·운영은 로사톰이 유지하고 발주처는 생산된 전력에 대해 대가를 지불한다. 로사톰은 인도네시아 측에 소형 부유식을 먼저 투입하고 이후 대형 육상 원전으로 넘어가는 2단계 접근을 제안했다.",
+      "summary_en": "Rosatom signed an agreement at Russian Energy Week in Moscow with Indonesia's PT Pembangkit Listrik Nuklir to supply two FPU-100 floating nuclear power units totalling 200 MW, to be sited off northern Halmahera in North Maluku. The export floating plants use RITM-200M reactors, and Rosatom expects them to be supplying electricity within five years. It is structured as a business-to-business deal on private investment with no call on Indonesia's state budget: Rosatom retains ownership and operation of the units and the customer pays for the electricity generated. Rosatom also put a two-phase approach to Indonesian officials - small floating units first, then land-based large reactors.",
+      "sales_note": "동남아 신규 진입 시장에서 경쟁사가 '인허가·재원 부담이 없는 전력판매 모델'로 먼저 들어왔다. 신규 도입국은 자본조달과 규제 역량이 병목이므로, 설비 수출이 아니라 BOO(건설·소유·운영)형 전력판매 패키지를 들고 오는 쪽이 유리하다는 점이 확인됐다. 인도네시아에 대한 우리 접근도 기자재·EPC 단품 제안보다 금융·운영을 묶은 구조 설계가 선행돼야 한다. 또한 로사톰이 명시한 '2단계(부유식→대형 육상)' 전략은 소형으로 선점해 대형 발주권을 가져가는 경로이므로 대형 입찰이 열릴 때 이미 불리한 출발이 될 수 있다.",
+      "sales_note_en": "A competitor has entered a new Southeast Asian market with a sell-the-electricity model that shifts financing and much of the licensing burden off the host. For newcomer countries, where capital and regulatory capacity are the real bottlenecks, that beats selling hardware - so any Korean approach to Indonesia needs a financing-and-operations structure designed before any EPC or equipment offer. Rosatom's stated two-phase path (floating first, then large land-based units) is also a way to pre-empt the large-reactor award, which could leave us starting from behind when that tender opens.",
+      "related": [
+        "https://interfax.com/newsroom/top-stories/119577/"
+      ]
+    },
+    {
+      "id": "2026-10-20-04",
+      "title": "Joint venture to produce HALEU in South Africa",
+      "title_ko": "퀀텀리프에너지(ASP Isotopes)–남아공 Necsa, HALEU 생산 합작사 설립 — 80:20 지분, 펠린다바 부지, 테라파워와 공급계약 보유",
+      "title_en": "Quantum Leap Energy and South Africa's Necsa form an 80:20 joint venture to produce HALEU at Pelindaba",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/joint-ventureto-produce-haleu-in-south-africa",
+      "published": "2026-10-19",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "ZA",
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "ASP Isotopes의 자회사 퀀텀리프에너지와 남아공 국영 원자력공사 Necsa가 고순도저농축우라늄(HALEU, U-235 5~20%) 생산 합작사를 설립하는 구속력 있는 기본합의서(HoA)에 서명했다. 지분은 퀀텀리프에너지 약 80%·Necsa 약 20%이며, 퀀텀리프가 운영과 자금조달을 주도하고 Necsa는 부지 제공·핵물질 안전조치·인허가 지원을 맡는다. 양측은 Necsa가 설계·조달·시공(EPC) 역할을 맡는 것을 의도하고 있다. 시설은 시험설비(test bench)와 상업 규모 설비 2단계로, 위치는 프리토리아 서쪽 약 30km의 Necsa 중앙연구단지 펠린다바(SAFARI-1 연구로 소재)다. 2024년 11월 MOU, 2026년 2월 선행용역계약을 거쳤고 7월 남아공 전력에너지부가 펠린다바에서의 핵물질·관련 기술 취득·보유·사용·처분·운송을 승인했다. 퀀텀리프에너지는 ASP Isotopes의 공기역학 분리법과 레이저 기반 양자농축 기술 2종의 전 세계 독점권을 보유하며, 생산 예정 HALEU는 테라파워와 공급계약이 걸려 있다.",
+      "summary_en": "Quantum Leap Energy, a subsidiary of ASP Isotopes, and Necsa, South Africa's state nuclear corporation, have signed binding Heads of Agreement for a joint venture to produce high-assay low-enriched uranium (5-20% U-235), owned about 80% by Quantum Leap and 20% by Necsa. Quantum Leap will lead operations and raise capital; Necsa provides site access, safeguards support and licensing and regulatory support, and the parties intend for Necsa to take an EPC role. The plan runs from a test bench to a commercial-scale facility at Pelindaba, Necsa's main research centre about 30 km west of Pretoria and home to the 20 MW SAFARI-1 reactor. The deal follows a November 2024 MOU and a February 2026 pre-implementation services contract, and in July South Africa's Ministry of Electricity and Energy authorised Quantum Leap to acquire, hold, use, dispose of and transport source material and nuclear technology at Pelindaba. Quantum Leap holds exclusive global rights to two ASP Isotopes processes - Aerodynamic Separation and laser-based Quantum Enrichment - and has supply agreements for the expected output with TerraPower.",
+      "sales_note": "HALEU 공급원이 미·유럽 밖으로 분산되는 흐름이다. 선진로 사업의 연료 리스크를 러시아 밖에서 해소하려는 수요가 비전통 농축기술과 신흥국 부지로 넘어가고 있고, 테라파워가 선행 오프테이크를 잡은 점이 그 증거다. 우리 선진로·SMR 참여 사업의 연료 조달 선택지로 추적할 값이 있으며, Necsa가 EPC 역할을 맡는 구조는 농축시설 시공 레퍼런스를 쌓을 경로가 국영기업 쪽으로 열린다는 뜻이다.",
+      "sales_note_en": "HALEU supply is spreading beyond the US and Europe. Demand to de-risk advanced-reactor fuel outside Russia is moving toward non-traditional enrichment processes and emerging-market sites, and TerraPower locking in early offtake is the proof. Worth tracking as a fuel option for any advanced-reactor or SMR project we join; the structure, with Necsa taking the EPC role, also shows that construction references on enrichment facilities are opening up through state-owned firms."
+    },
+    {
+      "id": "2026-10-20-05",
+      "title": "Centrus Announces $116 Million Acquisition Of Centrifuge Component Supplier Westerman",
+      "title_ko": "美 센트러스, 원심분리기 부품 공급사 웨스터먼 홀딩스 1억 1,600만 달러에 인수 — 현금 9,500만·주식 2,100만 달러, 농축 공급망 수직계열화",
+      "title_en": "Centrus buys centrifuge component supplier Westerman Holdings for about $116 million",
+      "language": "en",
+      "source": "Centrus Energy (SEC Form 8-K 보도자료)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001065059/000162828026066212/ex991_101926westermanpr.htm",
+      "published": "2026-10-19",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "미국 농축기업 센트러스에너지가 10월 19일 원심분리기 케이싱 등 주요 부품을 공급해 온 웨스터먼 홀딩스를 약 1억 1,600만 달러에 인수했다고 발표했다. 대금은 보유현금 9,500만 달러와 클래스A 보통주 2,100만 달러로 지급했고, 거래 종결 시 웨스터먼의 후순위채 보유자에게 약 3,150만 달러, 기존 텀론 상환에 1,270만 달러가 지급됐다. 센트러스는 핵심 공급사를 확보하고 웨스터먼의 생산능력을 확장하겠다고 밝혔으며, 거래가 종결 후 1년 내 조정 주당순이익에 기여할 것으로 예상했다. 웨스터먼은 석유·가스 등 비원자력 산업 고객도 두고 있다. 운전자본 정산은 통상 조건에 따라 미정 상태다.",
+      "summary_en": "US enricher Centrus Energy announced on 19 October that it had acquired Westerman Holdings, one of its largest suppliers, for about $116 million - $95 million in cash on hand and $21 million in Class A common stock. At closing, roughly $31.5 million went to holders of Westerman's subordinated notes and $12.7 million repaid a term loan, with a customary working-capital adjustment still open. Westerman already makes centrifuge casings and other major centrifuge components for Centrus, which says the deal secures a key supplier and will expand Westerman's capabilities; Centrus expects the acquisition to be accretive to adjusted earnings per share within the first year after closing. Westerman also serves non-nuclear customers in oil and gas and other industrial sectors.",
+      "sales_note": "농축 사업자가 부품 공급사를 직접 사들이는 단계에 들어섰다. 미국 내 농축 증설의 병목이 기술이 아니라 원심분리기 제작 역량이라는 뜻이며, 유사 공정설비를 만드는 국내 기자재 업체에는 비원전 금속가공 경험을 원자력 공급망 자격으로 전환할 수요가 열린다는 신호다. 다만 수직계열화가 진행되면 외부 조달 창구는 좁아지므로 진입 시점 판단이 중요하다.",
+      "sales_note_en": "Enrichers are now buying their component suppliers outright, which says the bottleneck in US enrichment expansion is centrifuge manufacturing capacity rather than technology. For Korean fabricators with comparable process-equipment capability, that points to demand for converting non-nuclear metalworking experience into nuclear supply-chain qualification - though as vertical integration proceeds the external sourcing window narrows, so timing matters.",
+      "related": [
+        "https://www.nucnet.org/news/centrus-announces-usd116-million-acquisition-of-centrifuge-component-supplier-westerman-10-1"
+      ]
+    },
+    {
+      "id": "2026-10-20-06",
+      "title": "IBA and Framatome form Ekalia for At-211 production",
+      "title_ko": "프라마톰–IBA, 아스타틴-211 생산 합작사 '에칼리아' 설립 — 1호 생산기지 프랑스 낭트에 3,000만 유로, 2027년 초 착공·2028년 가동",
+      "title_en": "Framatome and IBA create Ekalia to produce astatine-211 at industrial scale",
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-10-19/article-8498/iba-and-framatome-form-ekalia-for-at211-production/",
+      "published": "2026-10-19",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "FR",
+        "BE",
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "프랑스 프라마톰과 벨기에 IBA(Ion Beam Applications)가 표적 알파 암치료용 방사성동위원소 아스타틴-211(At-211)을 산업 규모로 생산하는 공동출자회사 '에칼리아(Ekalia)'를 설립했다. 수요처 인근에 생산기지를 두는 네트워크 방식이며, 1호 기지는 프랑스 낭트로 인허가를 신청했고 2027년 초 착공·2028년 가동이 예상된다. 낭트 기지 투자액은 3,000만 유로(약 3,360만 달러)이고, 2호 시범기지는 미국에 두기로 했으나 위치와 시기는 미확정이다. IBA는 사이클로트론과 동위원소 생산기술을 현물출자하고, 프라마톰은 루테튬-177 대량생산 지원 경험을 포함한 원자력 산업 역량을 투입한다. 지분율은 공개되지 않았다.",
+      "summary_en": "France's Framatome and Belgium's IBA (Ion Beam Applications) have formed Ekalia, a jointly owned company, to produce astatine-211 - a radioisotope for targeted alpha cancer therapy - at industrial scale through a network of sites close to customers. The first production site is Nantes, France, where a permit application has been filed, construction is expected to start in early 2027 and operations in 2028; Ekalia expects to invest EUR 30 million (about $33.6 million) there. A second pilot site will be in the United States, with location and timing not yet set. IBA contributes its cyclotron and isotope production technologies in kind, while Framatome brings nuclear industrial expertise including experience supporting large-scale lutetium-177 production. The ownership split was not disclosed.",
+      "sales_note": "원자력 주기기 업체가 의료용 동위원소로 수익원을 넓히는 사례다. 노형·발주 경기와 무관한 현금흐름을 만들어 두는 전략이며, 프라마톰은 체코·폴란드 등 유럽 입찰에서 마주치는 공급사이므로 그 사업 포트폴리오 변화를 경쟁사 체력 지표로 볼 값이 있다.",
+      "sales_note_en": "A nuclear component maker broadening into medical isotopes - a way to build cash flow that does not track the reactor order cycle. Framatome is a supplier we meet in European tenders such as Czechia and Poland, so shifts in its business mix are worth reading as an indicator of a competitor's financial resilience."
+    },
+    {
+      "id": "2026-10-20-07",
+      "title": "Archaeology Investigation and Mitigation - Priority Phase 1 Delivery Agreement",
+      "title_ko": "영국 GBE-N, SMR 부지 '그윈도드' 고고학 조사·저감 1단계 용역을 SCAPE 기본협약으로 퍼펙트서클 JV에 직접 발주 — 잔여 고고학 역무는 경쟁입찰 예고",
+      "title_en": "Great British Energy-Nuclear awards Phase 1 archaeology works at its Gwyndod SMR site direct, with a larger competitive tender to follow",
+      "language": "en",
+      "source": "UK Find a Tender (공고 098405-2026)",
+      "url": "https://www.find-tender.service.gov.uk/Notice/098405-2026",
+      "published": "2026-10-19",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "GB"
+      ],
+      "importance": 2,
+      "summary_ko": "영국 그레이트브리티시에너지–뉴클리어(GBE-N)가 자사 SMR 부지 '그윈도드(Gwyndod)'의 고고학 조사·저감 공사 '우선 1단계' 이행협약을 공고 없이 SCAPE 기본협약(경쟁입찰로 선정된 단독 공급사 프레임워크)을 통해 퍼펙트서클 JV(Perfect Circle JV Ltd)에 발주했다. 공고는 직접 발주 사유를 '부지의 잔여 고고학 역무에 대해 더 큰 규모의 경쟁 조달을 진행하는 동안 공정상 임계경로 작업을 먼저 착수할 수 있도록'이라고 적었다. 발주근거는 EU 조달지침(2014/24) 적용 범위 밖, CPV는 71351914(고고학 용역)·45112450(고고학 부지 굴착)이며 하도급이 있다. 계약금액은 공고에 공개되지 않았다.",
+      "summary_en": "Great British Energy-Nuclear has awarded the Priority Phase 1 delivery agreement for archaeological investigation and mitigation works at its Gwyndod SMR site to Perfect Circle JV Ltd, placed without a call for competition through the SCAPE framework - a competitively tendered single-supplier framework. The notice states the direct award was made so that critical-path works can start while a larger competitive procurement is run for the remainder of the archaeological works on the site. The legal basis is recorded as falling outside the scope of the procurement directive, the CPV codes are 71351914 (archaeological services) and 45112450 (excavation at archaeological sites), and subcontracting applies. No contract value was published.",
+      "sales_note": "영국 SMR 사업이 설계·자문 단계를 지나 부지에서 물리적 작업을 시작하는 전환점이다. 고고학 조사는 통상 부지 준비·가설 공종 발주의 바로 앞 단계이므로, 공고가 예고한 '잔여 고고학 역무 경쟁 조달'과 그 뒤를 따르는 부지 공종 발주 일정을 함께 추적할 시점이다. 발주처가 신규 공고 대신 기존 기본협약(SCAPE)으로 임계경로를 처리했다는 점도 중요하다 — 영국에서는 공고를 기다리는 감시가 늦고, 등재된 프레임워크 진입이 선행 과제다.",
+      "sales_note_en": "This marks the UK SMR programme crossing from design and advisory work into physical activity on site. Archaeology typically sits immediately ahead of site preparation and enabling-works packages, so the competitive procurement the notice promises for the remaining archaeology, and the site packages that follow it, are now the schedule to track. It also matters that the buyer handled critical-path work through an existing framework (SCAPE) rather than a fresh notice: in the UK, watching for published tenders is already late, and getting onto the listed frameworks is the prior task."
+    },
+    {
+      "id": "2026-10-20-08",
+      "title": "Oklo plans isotope facility under US Launch Pad initiative",
+      "title_ko": "오클로, DOE '원자력 발사대' 사업으로 동위원소 생산시설 '그로브스-2 포지' 추진 — 8월 임계 달성한 그로브스 시험로에 핫셀 공정 결합, 루테튬-177 우선",
+      "title_en": "Oklo plans a Groves-2 Forge isotope facility under the DOE Nuclear Energy Launch Pad",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/oklo-plans-isotope-facility-under-us-launch-pad-initiative",
+      "published": "2026-10-19",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "미국 오클로가 동위원소 생산·처리·정제 시범시설 '그로브스-2 포지(Groves-2 Forge)' 계획을 진행한다. 2026년 8월 최초 임계에 도달한 그로브스 동위원소 시험로(텍사스주 콜드웰군 록하트 인근)를 기반으로 노내 조사에 핫셀 공정(동위원소 분리·제품 회수·포장·수송)을 결합하는 방식이며, 초기 대상은 표적 암치료용 루테튬-177이다. 그로브스 시험로는 2025년 8월 DOE 원자로 시범사업에 선정됐고 1년 내 임계에 도달했으며, 현재 원자력규제위원회(NRC) 절차가 아닌 DOE 인가로 운전한다. 그로브스-2 포지의 상업 규모 생산으로 넘어가려면 NRC 상업운전 허가가 필요하고, 착수·완공 일정은 제시되지 않았다. '원자력 발사대(Nuclear Energy Launch Pad)'는 아이다호국립연구소 기반 DOE 국립원자로혁신센터(NRIC) 사업으로 2026년 8월 참여기업 12곳을 발표했고 오클로가 그중 하나다.",
+      "summary_en": "Oklo is advancing Groves-2 Forge, a pilot facility for producing, processing and purifying isotopes. It would build on the Groves Isotope Test Reactor near Lockhart in Caldwell County, Texas, which reached first criticality in August 2026, by adding hot-cell processing - isotope separation, product recovery, packaging and transport - to in-reactor irradiation, starting with lutetium-177 for targeted cancer treatment. The Groves reactor was selected for the DOE Nuclear Reactor Pilot Program in August 2025, reached criticality in under a year, and operates under DOE authorisation rather than the NRC process; moving Groves-2 Forge to commercial-scale production would require NRC commercial operation licences, and no start or completion dates were given. The Nuclear Energy Launch Pad is a programme of DOE's National Reactor Innovation Center at Idaho National Laboratory, which named twelve participating companies in August 2026, Oklo among them.",
+      "sales_note": "DOE 인가 경로로 1년 안에 시험로를 임계까지 올린 사례가 후속 사업으로 확장되고 있다. 선진로 사업자가 NRC 상업허가를 기다리지 않고 연방 연구인가 체계에서 실증·수익모델을 먼저 쌓는 경로가 작동한다는 뜻이며, 인허가 일정이 병목인 국내 선진로 사업에 비교 가능한 선례다.",
+      "sales_note_en": "A test reactor taken to criticality within a year under DOE authorisation is now being extended into a follow-on facility. It shows advanced-reactor developers can build demonstration experience and revenue inside the federal research authorisation system without waiting on NRC commercial licensing - a comparable precedent for Korean advanced-reactor work, where licensing schedule is the binding constraint."
+    },
+    {
+      "id": "2026-10-20-09",
+      "title": "빌 게이츠, 주지사·상원의원 데리고 테라파워 美케머러 SMR 1호기 건설 현장 방문",
+      "title_ko": "빌 게이츠, 주지사 3명·상원의원 2명과 테라파워 케머러 1호기 건설현장 방문 — 3월 NRC 건설허가·4월 착공한 345MWe 나트륨냉각 고속로",
+      "title_en": "Bill Gates tours TerraPower's Kemmerer 1 site with three governors and two senators",
+      "language": "ko",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=108436",
+      "published": "2026-10-19",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "테라파워 이사회 의장 빌 게이츠가 현지시간 10월 16일 와이오밍주 케머러 1호기 건설현장 방문을 주도했다. 아이다호·와이오밍·유타 주지사와 아이다호 리시, 유타 커티스 상원의원, 에너지부 원자력국 마이클 고프 선임부차관보가 동행했고, 게이츠가 현장에서 노형 기술과 공정을 설명했다. 케머러 1호기는 345MWe(500MW까지 확장 가능)의 나트륨냉각 고속로(SFR)로 2026년 3월 미 원자력규제위원회(NRC)가 상용 선진원자로로는 처음 건설허가를 발급했고 4월 공사를 시작했다. 현대건설은 2026년 8월 테라파워와 나트륨 원자로 사업 기본합의를 맺고 테라파워가 추진하는 최대 8기 추가 호기의 EPC 우선권을 확보했으며, SK이노베이션도 나트륨 SMR 협력과 차세대 SMR 해외시장 진출 협약을 맺고 케머러 1호기와 후속 상용사업 참여 확대를 계획하고 있다.",
+      "summary_en": "TerraPower board chairman Bill Gates led a visit to the Kemmerer 1 construction site in Wyoming on 16 October local time, joined by the governors of Idaho, Wyoming and Utah, Senators James Risch of Idaho and John Curtis of Utah, and Michael Goff, a senior deputy assistant secretary in the Department of Energy's nuclear office; Gates briefed the group on the technology and progress on site. Kemmerer 1 is a 345 MWe sodium-cooled fast reactor, expandable to 500 MW, for which the US Nuclear Regulatory Commission issued a construction permit in March 2026 - described as the first for a commercial advanced reactor - with construction starting in April. Hyundai E&C signed a basic agreement with TerraPower for sodium reactor projects in August 2026, gaining EPC priority for up to eight further units TerraPower plans, while SK Innovation has agreements on sodium SMR cooperation and overseas market entry for next-generation SMRs and plans to expand its participation in Kemmerer 1 and follow-on commercial projects.",
+      "sales_note": "미 연방·주 정치권이 선진로 1호기에 공개 지지를 보냈다는 점이 실질이다. 현대건설이 후속 최대 8기의 EPC 우선권을 쥐고 있어 케머러 1호기의 공정·예산 실적이 곧 국내 EPC의 미국 선진로 레퍼런스가 된다. 1호기 지연은 우리 쪽 후속 수주 일정과 직결되므로 공정 지표를 분기 단위로 추적할 필요가 있다.",
+      "sales_note_en": "What matters here is open federal and state political backing for a first-of-a-kind advanced reactor. Hyundai E&C holds EPC priority on up to eight follow-on units, so Kemmerer 1's schedule and budget performance effectively becomes the Korean EPC reference for advanced reactors in the US. Delay on the first unit feeds straight through to the timing of our follow-on work, so its progress metrics are worth tracking quarterly."
+    },
+    {
+      "id": "2026-10-20-10",
+      "title": "Servicii de reparatii capitale pentru 2 electropompe tip NMV 2000 RA - CR # 45365 / Centru de date de rezerva pentru achizitia si publicarea datelor de proces - CR#43020",
+      "title_ko": "루마니아 누클레아렐렉트리카, 체르나보다 신규 공고 2건 — 복수기 냉각수 NMV 2000 RA 전동펌프 2대 전면정비(218만, 마감 11/16)와 공정데이터 예비 데이터센터(355만, 마감 11/23)",
+      "title_en": "Romania's Nuclearelectrica opens two Cernavoda tenders: overhaul of two condenser cooling water pumps and a backup process-data centre",
+      "language": "ro",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/723390-2026/pdf",
+      "published": "2026-10-20",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "RO"
+      ],
+      "importance": 1,
+      "summary_ko": "루마니아 국영 누클레아렐렉트리카가 체르나보다 원전 관련 공개입찰 공고 2건을 올렸다. ① TED 723390-2026 — 1·2호기 복수기 냉각수계통(BSI 71210)의 NMV 2000 RA형 전동펌프 2대 전면정비 용역으로, 펌프 탈거·설치, 교체 예비품 포함 전면정비, 체르나보다–업체 간 왕복 운송을 포함한다. 공고 기재액 2,189,323(통화 미표기), 실제 용역 수행기간 48개월, 계약기간 49개월, 마감 2026년 11월 16일 15시. ② TED 718810-2026(10월 19일 게재) — 체르나보다 지사 1동의 현행 데이터센터 기능을 이중화하는 예비 데이터센터 구축으로, 스위치·라우터·서버를 갖춘 패널 공급과 설계·설치·구성 용역이 포함되고 공정계산기 소프트웨어 설정 백업 검증과 이력데이터 예비 저장 기능이 추가된다. 공고 기재액 3,549,946.4, 기간 8개월, 마감 2026년 11월 23일 15시.",
+      "summary_en": "Romania's state-owned Nuclearelectrica has published two open tenders at Cernavoda. First, TED 723390-2026 covers capital overhaul of two NMV 2000 RA electropumps in the Units 1 and 2 condenser cooling water system (BSI 71210), including removal and reinstallation, overhaul with replacement spares, and transport to and from the contractor; the notice records 2,189,323 (currency not stated), 48 months of actual service within a 49-month contract, and a deadline of 16 November 2026, 15:00. Second, TED 718810-2026, published on 19 October, covers a backup data centre duplicating the functions of the existing one in Pavilion 1 at the Cernavoda branch - supply of a cabinet with network equipment (switches, routers, servers) plus design, installation and configuration services, adding verification of process-computer software configuration backups and reserve storage of historical data; the notice records 3,549,946.4, an 8-month term, and a deadline of 23 November 2026, 15:00.",
+      "sales_note": "두 건 모두 운영 호기의 단일 계통·설비 정비라 당사 역무와 겹치지 않는다. 다만 같은 발주처가 체르나보다 3·4호기 건설재개의 주체이므로, 운영 호기 투자 공고가 꾸준히 나오는 가운데 건설재개 관련 발주는 아직 보이지 않는다는 점이 발주 준비 단계의 지표다.",
+      "sales_note_en": "Both are single-system maintenance packages on operating units and do not overlap our scope. The signal is comparative: the same buyer is the entity behind resuming construction of Cernavoda 3 and 4, and while investment notices for the operating units keep coming, nothing tied to construction resumption has appeared yet - a useful read on how far that project's procurement preparation has got.",
+      "related": [
+        "https://ted.europa.eu/en/notice/718810-2026/pdf"
+      ]
+    },
+    {
+      "id": "2026-10-20-11",
+      "title": "Opravy a údržba zariadení MaRT / Filtre vzduchové",
+      "title_ko": "슬로바키아 JAVYS, 신규 공고 2건 — 계측제어(MaRT) 설비 예방·교정정비(65만 8,430유로)와 공기·액체·선량계 필터 공급(69만 4,000유로), 마감 모두 11월 19일",
+      "title_en": "Slovakia's JAVYS tenders I&C equipment maintenance and filter supply, both closing 19 November",
+      "language": "sk",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/724774-2026/pdf",
+      "published": "2026-10-20",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "SK"
+      ],
+      "importance": 1,
+      "summary_ko": "슬로바키아 국영 원자력·해체회사 JAVYS가 공개입찰 공고 2건을 올렸다. ① TED 724774-2026 — 계측·제어기술(MaRT) 설비의 예방정비와 비계획(교정)정비, 선정 설비 점검, 예비품 확보 용역으로, 슬로바키아 원자력규제청 고시 103/2016(430/2011 원자력안전 요건 개정)을 따른다. 공고 기재액 658,430유로, 마감 2026년 11월 19일 9시. ② TED 725627-2026 — JAVYS 공조 여과계통용 공기·액체·선량계 필터 공급으로 공고 기재액·기본협약 상한 모두 694,000유로, 마감 동일.",
+      "summary_en": "Slovakia's state nuclear and decommissioning company JAVYS has published two open tenders. TED 724774-2026 covers preventive and unplanned (corrective) maintenance of measurement and control (MaRT) equipment, inspection of selected equipment and provision of spare parts, carried out under Slovak nuclear regulator decree 103/2016 amending the 430/2011 nuclear safety requirements; the notice records EUR 658,430, closing 19 November 2026 at 09:00. TED 725627-2026 covers supply of air, liquid and dosimetric filters for JAVYS ventilation filtration systems, with both the notice value and the framework ceiling at EUR 694,000 and the same deadline.",
+      "sales_note": "두 건은 역무 범위가 좁은 정비·소모품 공급이라 직접 참여 대상은 아니다. 다만 JAVYS가 계측제어 정비를 규제고시 근거로 다년 계약화하는 패턴은 해체·계속운전 시장에서 발주처가 역무를 공종별로 쪼개 장기 계약으로 묶는다는 신호이며, 같은 시장을 노릴 때 단품 공고가 아니라 기본협약 진입 시점을 봐야 한다는 뜻이다.",
+      "sales_note_en": "Both are narrow maintenance and consumables packages, not something to bid directly. The pattern is what counts: JAVYS is putting I&C maintenance into multi-year contracts on a regulatory-decree basis, which is how buyers in the decommissioning and long-term-operation market slice scope by trade and lock it up long term - meaning anyone targeting that market should be watching framework entry points rather than individual notices.",
+      "related": [
+        "https://ted.europa.eu/en/notice/725627-2026/pdf"
+      ]
+    },
+    {
+      "id": "2026-10-20-12",
+      "title": "OBNOVA, MODERNIZACE A ROZŠÍŘENÍ HLASOVÝCH RÁDIOVÝCH SÍTÍ A PAGINGU ETE / Strukturovaný kabelážní systém pro jaderné elektrárny",
+      "title_ko": "체코 ČEZ, 원전 통신 인프라 계약 2건 체결 — 테멜린 음성무선·페이징을 단일 디지털망으로 통합(기본협약 상한 6,500만 코루나, TTC MARCONI)과 원전용 구조화배선 공급(ELTODO, 72개월)",
+      "title_en": "CEZ contracts out Temelin's digital radio network and a structured cabling framework for its nuclear plants",
+      "language": "cs",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/725411-2026/pdf",
+      "published": "2026-10-20",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "CZ"
+      ],
+      "importance": 1,
+      "summary_ko": "ČEZ와 ČEZ ICT Services가 원전 통신 인프라 계약 2건의 체결 공고를 올렸다. ① TED 725411-2026 — 테멜린 원전(ETE)의 음성 무선망과 페이징을 하나의 디지털 무선망으로 통합하는 '갱신·현대화·확장' 사업으로, 무선·페이징 인프라 개량, 단말기와 운영 라이선스 공급, 주파수 개별이용허가 신청서와 실시설계도서 작성, 목표개념 수립 지원을 포함한다. 공고 후 협상절차(neg-w-call), 낙찰 TTC MARCONI s.r.o.(체코), 낙찰 결정 7월 27일, 기본협약 상한 6,500만 코루나, 공고 기재 계약금액 897,000코루나. ② TED 725494-2026 — 원전용 구조화배선계통(SKS, 메탈·광케이블) 공급·설치·인증측정과 전화단자·구내방송·단일시각 계통 공급으로, 개별 계약에 설계도서가 포함될 수 있다. 낙찰 ELTODO a.s.(체코), 낙찰 결정 8월 12일, 계약기간 72개월, 공고 기재액 192,759코루나(입찰액 156,126코루나).",
+      "summary_en": "CEZ and CEZ ICT Services have published award notices for two nuclear communications infrastructure contracts. TED 725411-2026 covers renewal, modernisation and expansion of the voice radio networks and paging at Temelin into a single digital radio network, including infrastructure upgrade, supply of terminal devices and operating licences, preparation of the individual radio-frequency authorisation application and implementation design documentation, and support for the target concept; awarded under a negotiated procedure with a call to TTC MARCONI s.r.o. of Czechia, decided 27 July, with a framework ceiling of CZK 65 million and a recorded contract value of CZK 897,000. TED 725494-2026 covers supply, installation and certified measurement of structured cabling (copper and fibre) for the nuclear plants, plus telephone outlets, plant public address and unified time systems, with design documentation possible under individual contracts; awarded to ELTODO a.s. of Czechia, decided 12 August, 72-month term, recorded value CZK 192,759 against a tender of CZK 156,126.",
+      "sales_note": "체코 운영 호기의 보조계통 발주가 또 체코 업체에 다년 기본협약으로 묶였다. 통신·배선처럼 공종이 분명한 역무는 상한액을 둔 장기 계약으로 닫히고 있어, 이 시장에서 신규 진입 여지는 현장 공종보다 설계·엔지니어링과 주기기 쪽이라는 판단이 유지된다.",
+      "sales_note_en": "Another round of ancillary-system work at Czechia's operating plants has gone to Czech firms under multi-year frameworks. Clearly bounded trades such as communications and cabling are being closed out through long-term contracts with value ceilings, which keeps the assessment that the entry room in this market lies in design and engineering and major components rather than site trades.",
+      "related": [
+        "https://ted.europa.eu/en/notice/725494-2026/pdf"
+      ]
+    },
+    {
+      "id": "2026-10-20-13",
+      "title": "(2026 국감) 원전 건설비 14.5조↑…공론화서 따질 ‘진짜 비용’은?",
+      "title_ko": "(2026 국감) APR1400 8기 총사업비 27.9조→42.4조원(+14.5조·52%), 공기 6~12년 지연 — 사용후핵연료 관리부담금 다발당 3.2억→6.16억원, 출력감발 상반기 40회",
+      "title_en": "Parliamentary audit: cost of Korea's eight APR1400 units rises 52% to KRW 42.4 trillion, with completion delayed six to twelve years",
+      "language": "ko",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=373637",
+      "published": "2026-10-19",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR"
+      ],
+      "importance": 3,
+      "summary_ko": "박지혜 의원(민주당)이 10월 19일 국회 기후에너지환경노동위원회 국정감사에서 한국수력원자력 제출자료를 근거로 APR1400 8기의 총사업비가 27조 9,000억원에서 42조 4,000억원으로 14조 5,000억원(52%) 늘고 준공 일정이 당초 계획보다 6~12년 지연됐다고 밝혔다. 새울 3·4호기는 7조 6,000억원에서 11조 7,000억원, 신한울 3·4호기는 8조 3,000억원에서 12조 3,000억원으로 증가했다. 박 의원은 공론화에서 객관적 자료로 경제성을 따져야 한다며 출력감발과 발전원가 전망 자료의 포함을 요구했고, 김회천 한수원 사장은 향후 건설비 산정에 현실적인 비용과 일정을 써야 한다는 데 동의하고 자료 제출 요구는 검토하겠다고 답했다. 쟁점 비용으로는 ① 경수로 사용후핵연료 관리부담금이 13년 동결 끝에 올해 1월 다발당 3억 2,000만원에서 6억 1,600만원으로 2억 9,600만원(92.5%) 인상돼 한수원 연 부담이 약 1조 1,000억원(kWh당 약 2~3원) 수준이고 고준위 처분시설 등 평가에 따라 추가될 수 있다는 점, ② 올 상반기 출력감발 40회와 최저운전출력 정격 80%→70% 하향·2032년 50% 목표, ③ 온배수 영향(2024년 8월 한빛 배수구 인근 39.9℃, 32℃ 이상 구역 최대 8.4km)이 제시됐다.",
+      "summary_en": "At the National Assembly's Climate, Energy, Environment and Labour Committee audit on 19 October, Rep. Park Ji-hye of the Democratic Party, citing data submitted by Korea Hydro & Nuclear Power, said the total project cost of Korea's eight APR1400 units had risen from KRW 27.9 trillion to KRW 42.4 trillion - up KRW 14.5 trillion, or 52% - with completion delayed six to twelve years against the original plans. Saeul 3 and 4 went from KRW 7.6 trillion to 11.7 trillion and Shin-Hanul 3 and 4 from KRW 8.3 trillion to 12.3 trillion. Park argued that the public deliberation on new reactors must test economics against objective data and asked for figures on output curtailment and generation cost outlooks; KHNP President Kim Hoe-cheon agreed that realistic costs and timelines should be used in future cost estimates and said he would review the request. Three cost items were raised: the spent fuel management levy for light-water reactors, frozen for thirteen years, rose in January from KRW 320 million to 616 million per bundle (up 92.5%), putting KHNP's annual contribution at about KRW 1.1 trillion, or roughly 2-3 won per kWh, with more to come depending on assessments including high-level waste disposal facilities; KHNP recorded 40 output curtailments in the first half of this year and has cut minimum operating output from 80% to 70% of rated capacity, targeting 50% by 2032; and thermal discharge effects, with water near the Hanbit outfall reaching 39.9C in August 2024 and the area at or above 32C extending up to 8.4 km.",
+      "sales_note": "APR1400의 '공기·비용' 레퍼런스가 국회 자료로 공개 수치화됐다는 점이 해외영업에 직접 영향을 준다. 체코·폴란드·중동 입찰에서 한국형 원전의 최대 강점으로 제시해 온 정시·정예산 실적이 자국 호기에서 52% 증액·6~12년 지연으로 기록됐고, 이 수치는 경쟁 벤더와 발주처 자문사가 그대로 인용할 수 있다. 대응은 총액 비교가 아니라 증액 요인의 분해(금융비용·제도변경·물가·부담금 인상 등 사업 외 요인과 공정 요인의 구분)와 수출 호기 계약구조에서의 차단 장치 설명으로 가야 한다. 사용후핵연료 관리부담금 92.5% 인상과 출력감발 확대는 발전원가 전망의 상방 요인이어서, 해외 제안서의 LCOE 근거 자료도 최신화가 필요하다.",
+      "sales_note_en": "The direct consequence for export sales is that the APR1400's cost and schedule reference has now been quantified in public, in National Assembly data. On-time, on-budget delivery has been the headline strength offered in Czech, Polish and Middle Eastern bids, and the record on Korea's own units now reads as a 52% cost increase and six to twelve years of delay - numbers that rival vendors and owners' advisers can quote directly. The answer is not to argue totals but to decompose the increase, separating factors outside project execution (financing cost, regulatory change, inflation, levy increases) from execution ones, and to explain the contractual protections against them in export units. The 92.5% rise in the spent fuel levy and wider output curtailment both push generation cost outlooks upward, so the LCOE evidence base in overseas proposals needs updating too."
+    },
+    {
+      "id": "2026-10-20-14",
+      "title": "[국감] \"발전 온배수 어업피해 보상만 5년간 2312억원… 재활용률은 고작 1%\"",
+      "title_ko": "[2026 국감] 발전 온배수 어업피해 보상 5년간 2,311억 8,000만원 — 한수원이 1,688억원(73%), 원전 온배수 2025년 320억 4,000만톤(전체 52%)·재활용률 0.001%",
+      "title_en": "Audit: KRW 231.2 billion in fishery compensation for thermal discharge over five years, with KHNP accounting for 73%",
+      "language": "ko",
+      "source": "에너지데일리",
+      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204171",
+      "published": "2026-10-19",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR"
+      ],
+      "importance": 1,
+      "summary_ko": "국회 기후에너지환경노동위원회 김정호 위원장(민주당)이 기후에너지환경부와 발전 6사 제출자료를 근거로, 연간 온배수 배출량이 611억 1,000만톤이고 2022년부터 2026년 9월까지 어업피해 보상이 21건 2,311억 8,000만원에 이른다고 밝혔다. 이 가운데 한국수력원자력이 8건 1,688억원으로 약 73%를 차지했다. 2025년 원전 온배수는 320억 4,000만톤으로 전체의 약 52%이고 평균 배출온도는 25.4℃로 평균 취수 해수온 16.0℃보다 9.5℃ 높았다. 2025년 재활용량은 6억 4,625만톤으로 전체 배출량의 1.06%였고, 서부·중부발전이 LNG 기화열 공급으로 재활용량의 95% 이상을 차지한 반면 한수원 재활용률은 0.001%(월성 원전 양식장 공급 32만톤)에 머물렀다.",
+      "summary_en": "Rep. Kim Jung-ho of the Democratic Party, chair of the National Assembly's Climate, Energy, Environment and Labour Committee, said - citing data from the Ministry of Climate, Energy and Environment and the six generation companies - that annual thermal discharge totals 61.11 billion tonnes and that fishery damage compensation from 2022 to September 2026 came to 21 cases worth KRW 231.18 billion. Korea Hydro & Nuclear Power accounted for 8 cases and KRW 168.8 billion, about 73% of the total. Nuclear thermal discharge in 2025 was 32.04 billion tonnes, roughly 52% of the total, at an average 25.4C against an average intake seawater temperature of 16.0C, a difference of 9.5C. Reuse in 2025 was 646.25 million tonnes, or 1.06% of discharge, with Korea Western Power and Korea Midland Power accounting for more than 95% of it through LNG vaporisation heat supply, while KHNP's reuse rate stood at 0.001% - 320,000 tonnes supplied to aquaculture at the Wolsong plant.",
+      "sales_note": "온배수 보상 누적액과 재활용률은 해외 입찰의 환경영향평가·주민수용성 항목에서 발주처가 묻는 실적 자료다. 한수원이 보상액의 73%를 차지하고 재활용률이 0.001%라는 수치는 그대로 인용될 수 있으므로, 수출 호기 제안에서는 취수·배수 설계와 열영향 저감 대책을 운영 실적과 분리해 제시할 근거를 준비해 둘 필요가 있다.",
+      "sales_note_en": "Cumulative thermal-discharge compensation and reuse rates are exactly the kind of operating record owners ask about under environmental impact and public acceptance in overseas bids. With KHNP accounting for 73% of compensation and a reuse rate of 0.001%, those figures can be quoted as they stand, so proposals for export units need a prepared basis for presenting intake and outfall design and thermal mitigation measures separately from this domestic operating record.",
+      "related": [
+        "https://energy-news.co.kr/news/articleView.html?idxno=229075"
+      ]
+    },
+    {
+      "id": "2026-10-20-15",
+      "title": "이진호 원자력환경공단 이사장 취임...“고준위 방폐물 부지선정 차질 없이 추진”",
+      "title_ko": "이진호 한국원자력환경공단 제6대 이사장 취임 — 고준위 방폐물 부지선정 로드맵 차질 없는 이행 약속 (취임식 10월 14일, 경주 본사)",
+      "title_en": "Lee Jin-ho takes office as sixth president of Korea Radioactive Waste Agency, pledging to keep the high-level waste siting roadmap on schedule",
+      "language": "ko",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=373651",
+      "published": "2026-10-19",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR"
+      ],
+      "importance": 1,
+      "summary_ko": "이진호 신임 이사장이 한국원자력환경공단 제6대 이사장으로 취임했다(취임식 10월 14일, 경북 경주 본사). 이 이사장은 성균관대 기계공학 박사로 IAEA 안전기준위원회 위원, 한국원자력안전기술원 부원장을 지냈고 현재 원자력안전위원회 SMR 규제연구추진단 비상임이사를 맡고 있다. 취임사에서 고준위 방폐물 관리를 수만 년을 내다봐야 하는 국가적 과제로 규정하고, 과학적 조사와 정보 공개, 지역 소통을 바탕으로 부지선정 로드맵을 차질 없이 이행하겠다고 밝혔다. 이와 함께 처분 역량 강화, AI·디지털 전환을 활용한 방폐물 관리체계 구축, 주민 참여 확대를 중점 과제로 제시했다. 취임 후 첫 공식 일정으로 경주 중·저준위 방사성폐기물 처분시설을 현장점검했다.",
+      "summary_en": "Lee Jin-ho has taken office as the sixth president of the Korea Radioactive Waste Agency, at an inauguration held on 14 October at the agency's headquarters in Gyeongju. Lee holds a doctorate in mechanical engineering from Sungkyunkwan University, has served on the IAEA Safety Standards Committee and as vice president of the Korea Institute of Nuclear Safety, and is currently a non-standing director of the Nuclear Safety and Security Commission's SMR regulatory research team. In his inaugural address he called high-level waste management a national task that must be viewed over tens of thousands of years, and pledged to implement the siting roadmap on schedule through scientific investigation, disclosure of information and communication with host communities. He also set out strengthening disposal capacity, building an AI- and digital-enabled waste management system, and wider resident participation as priorities. His first official engagement was an inspection of the low- and intermediate-level waste disposal facility in Gyeongju.",
+      "sales_note": "고준위 방폐물 부지선정 일정은 해외 발주처가 한국형 원전 제안을 검토할 때 '사용후핵연료 최종 해법'의 신뢰도로 환산되는 항목이다. 신임 이사장이 규제기관(KINS·원안위 SMR 규제연구) 출신이라는 점은 부지선정과 SMR 규제 논의가 같은 인맥 축에서 다뤄진다는 뜻이어서, i-SMR 사용후핵연료 처분 경로 설명자료의 갱신 창구로 활용할 값이 있다.",
+      "sales_note_en": "The high-level waste siting schedule is read by overseas owners as a proxy for how credible Korea's answer on final spent fuel disposal is when they assess Korean reactor offers. That the new president comes from the regulatory side - KINS and the NSSC's SMR regulatory research team - means siting and SMR regulation are being handled through the same professional network, which makes this a useful channel for refreshing the explanatory material on the spent fuel disposal pathway for i-SMR.",
+      "related": [
+        "https://www.todayenergy.kr/news/articleView.html?idxno=304153"
+      ]
+    }
+  ]
+}

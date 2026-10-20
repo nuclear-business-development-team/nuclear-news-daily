@@ -1,0 +1,405 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T09:12:00+09:00",
+  "period": {
+    "from": "2026-10-20",
+    "to": "2026-10-21"
+  },
+  "overview_ko": "오늘 해외의 중심 사건은 유럽 원전시장의 진입 조건이 서로 반대 방향으로 움직인 것이다. 벡텔 폴란드가 AP1000 3기용 복수탈염설비 자격심사를 내면서 응찰 자격을 정부조달협정(GPA) 가입 여부로 정의한 반면, 같은 날 유럽 원자력업계는 EU 집행위에 2030년 이후 체계에서 원자력을 재생에너지와 동등하게 지원하라는 서한을 보냈다 — 지원이 커질수록 역내산 조건도 함께 강해질 수 있는 구도다. 미국에서는 인디애나주 한 곳에서 이틀 사이 Xe-100 960MW와 최대 6GW CANDU 검토 MOU가 겹쳐, 주정부 단위 유치 경쟁이 노형 중립적으로 벌어지고 있음이 드러났다. 필리핀은 2032년 1.2GW·2050년 4.8GW 목표와 조달 틀 설계 현황을 공개했으나 노형 선정과 입찰은 아직이며, 민간 전력사(메랄코 MGen)의 기술 선정이 2027년 3분기로 일정화됐다. 연료 쪽에서는 모리타니 티리스가 연내 최종투자결정으로 가는 반면 나미비아 투마스는 자본시장 여건으로 결정을 미뤄, 신규 우라늄 공급이 가격이 아니라 자금조달 구조에서 갈리고 있다. 영업 관점: 유럽은 '제도 조건'이, 미국은 '부지와 전력 수요'가, 동남아는 '민간 발주처의 기술 선정 일정'이 각각 수주 변수의 1순위로 바뀌었으므로 권역별 접근 경로를 같은 틀로 짜지 말아야 한다.",
+  "overview_en": "The day's main overseas story is Europe pulling in two directions at once on who may sell into its reactor programme. Bechtel Polska opened prequalification for the condensate polishing package on Poland's three AP1000s and defined eligibility by membership of the Government Procurement Agreement; the same day, Europe's nuclear industry wrote to the Commission asking that nuclear be supported on equal terms with renewables after 2030 - the more support nuclear wins, the harder the local-content conditions attached to it are likely to become. In the United States, Indiana produced both a 960 MW Xe-100 plan and an MOU to evaluate up to 6 GW of Candu within two days, showing states competing for nuclear investment on a technology-neutral basis. The Philippines published targets of 1.2 GW by 2032 and 4.8 GW by 2050 and described a procurement framework still being drafted, with no technology selected; the commercially decisive date is Meralco's MGen completing its SMR study in Q3 2027. On fuel, Mauritania's Tiris is heading for a final investment decision this year while Namibia's Tumas defers one on market conditions - new uranium supply is being sorted by financing structure rather than price. Sales angle: the first-order variable is now different in each region - regulatory conditions in Europe, site and offtake control in the United States, and the private buyer's technology-selection calendar in Southeast Asia - so the three should not be worked through a single playbook.",
+  "domestic_overview_ko": "국내에서 가장 무거운 건은 두코바니 수주 이후 처음으로 제도 리스크가 정부 간 공식 의제가 된 것이다. 김정관 산업통상부 장관은 제3차 두코바니 이행점검 협의체에서 사업이 일정대로 가고 있음을 확인하는 한편, EU 산업가속화법이 비EU 기업의 EU 원전시장 참여를 과도하게 제약하는 방향으로 논의된다는 우려를 체코 측에 전달하고 EU 내 외교 대응을 요청했다. 제4차 협의체는 연내 한국에서 열리며 테멜린 3·4호기 협력 기대도 함께 밝혔다. 미국 SMR에서는 인디애나 Xe-100 12기 건을 계기로 DL이앤씨(2,000만 달러 투자·설계계약·EPC)와 두산에너빌리티(500만 달러 투자·주기기 구속계약)의 단계적 참여 구조가 드러났으나, 모두 최종투자결정 전 단계다. 산업부 통계로는 1~9월 해외 플랜트 수주가 250억 2,300만 달러로 34.8% 줄었는데 지난해 두코바니 187억 달러 기저효과 때문이며, 이를 빼면 27.2% 증가다. 영업 관점: 유럽 후속 수주(테멜린 3·4호기, 폴란드 2단계)는 가격·기술이 아니라 역내산 요건이 1차 관문이 될 가능성이 커졌으므로, 법안이 유럽의회·이사회 심의에 들어가기 전에 현지 생산·기술이전 비중을 설계한 대안 제안을 준비해 둘 필요가 있다.",
+  "domestic_overview_en": "The heaviest domestic item is that regulatory risk has become a formal government-to-government agenda item for the first time since the Dukovany award. At the third Dukovany implementation review committee, Minister Kim Jung-kwan confirmed the project is on schedule while telling the Czech side that discussion of the EU Industrial Accelerator Act is trending toward excessive restriction of non-EU participation in Europe's nuclear market, and asking Prague to press the point within the EU. The fourth meeting will be held in Korea this year, and Kim voiced hope that cooperation continues into Temelin 3 and 4. On the US SMR side, the Indiana Xe-100 project brought out the staged positions Korean firms have built: DL E&C with a USD20 million investment, a standardised design contract and the EPC role, and Doosan Enerbility with USD5 million invested and a binding equipment supply contract - all of it still ahead of a final investment decision. Ministry figures put January-September overseas plant orders at USD25.023 billion, down 34.8%, entirely on the base effect of last year's USD18.7 billion Dukovany award; excluding it, orders rose 27.2%. Sales angle: local-content rules, not price or technology, now look like the first gate on Korea's follow-on European prospects in Temelin 3 and 4 and Poland's second phase, so fallback offers with local manufacturing and technology-transfer shares should be designed before the act reaches Parliament and Council deliberations.",
+  "countries_pulse": [
+    {
+      "country": "PL",
+      "name_ko": "폴란드",
+      "name_en": "Poland",
+      "stance": "expanding",
+      "signal": "AP1000 3기 BOP 기자재 발주가 EPC(벡텔)를 창구로 연속 진행 — 복수탈염설비 자격심사 공고, GPA 미가입국 지배기업 배제 조항 명기",
+      "signal_en": "Balance-of-plant procurement for the three AP1000s keeps flowing through the EPC contractor: Bechtel opens prequalification for the condensate polishing package, excluding bidders controlled from non-GPA countries",
+      "article_ids": [
+        "2026-10-21-01"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "인디애나주에서 이틀 사이 노형이 다른 대형 사업 둘 — Xe-100 960MW에 이어 최대 8기·6GW CANDU 검토 MOU",
+      "signal_en": "Two large projects on different technologies land in Indiana within two days: after the 960 MW Xe-100 plan, an MOU to evaluate up to eight Candu units totalling 6 GW",
+      "article_ids": [
+        "2026-10-21-02",
+        "2026-10-21-11"
+      ]
+    },
+    {
+      "country": "CA",
+      "name_ko": "캐나다",
+      "name_en": "Canada",
+      "stance": "expanding",
+      "signal": "CANDU 수출 경로가 미국으로 — 앳킨스레알리스가 NRC 인허가 착수 의향서 제출 후 주제별 보고서 7건 중 1건 제출",
+      "signal_en": "The Candu export route now runs through the United States: AtkinsRealis has filed its NRC Notice of Intent and submitted the first of seven planned topical reports",
+      "article_ids": [
+        "2026-10-21-02"
+      ]
+    },
+    {
+      "country": "PH",
+      "name_ko": "필리핀",
+      "name_en": "Philippines",
+      "stance": "expanding",
+      "signal": "정부가 2032년 1.2GW·2050년 4.8GW 목표를 수치로 제시하고 조달 틀을 설계 중 — 노형 선정·입찰 공고는 아직 없음",
+      "signal_en": "The government puts numbers on its plans - 1.2 GW by 2032, 4.8 GW by 2050 - and is drafting a procurement framework; no technology chosen and no tender launched yet",
+      "article_ids": [
+        "2026-10-21-03"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "두코바니는 일정대로 진행 중이나, 양국 장관 협의 의제가 공정 점검에서 EU 산업가속화법 대응으로 옮겨감. 테멜린 3·4호기는 정부 검토 단계 유지",
+      "signal_en": "Dukovany stays on schedule, but the ministerial agenda has shifted from progress review to handling the EU Industrial Accelerator Act. Temelin 3 and 4 remain under government consideration",
+      "article_ids": [
+        "2026-10-21-10"
+      ]
+    },
+    {
+      "country": "FR",
+      "name_ko": "프랑스",
+      "name_en": "France",
+      "stance": "expanding",
+      "signal": "EDF가 수출 EPR의 운영정보체계(OIMS) 표준을 건설 수주 전에 선점 — 아토스와 최장 15년 파트너십",
+      "signal_en": "EDF locks in the digital operating standard for its export EPRs ahead of winning the builds, in a partnership with Atos running up to 15 years",
+      "article_ids": [
+        "2026-10-21-06"
+      ]
+    },
+    {
+      "country": "IT",
+      "name_ko": "이탈리아",
+      "name_en": "Italy",
+      "stance": "cautious",
+      "signal": "원자력 복귀 논의와 별개로, 해체 공기업이 폐쇄 원전 부지를 배터리저장 양허사업으로 재활용 발주(5억 5,460만 유로)",
+      "signal_en": "Separately from the debate on returning to nuclear, the state decommissioning company tenders a EUR554.6 million concession to reuse a closed reactor site for battery storage",
+      "article_ids": [
+        "2026-10-21-07"
+      ]
+    },
+    {
+      "country": "RO",
+      "name_ko": "루마니아",
+      "name_en": "Romania",
+      "stance": "expanding",
+      "signal": "기조 유지 — 운영 호기·연구기관 조달은 계속되나 체르나보다 3·4호기 건설재개 관련 신규 발주는 없음",
+      "signal_en": "No change in direction: procurement for operating units and research bodies continues, but nothing new on resuming construction of Cernavoda 3 and 4",
+      "article_ids": [
+        "2026-10-21-08"
+      ]
+    },
+    {
+      "country": "AT",
+      "name_ko": "오스트리아",
+      "name_en": "Austria",
+      "stance": "retreating",
+      "signal": "국가 정책은 반원전 기조 유지 — 다만 자국 스타트업이 가속기 구동 미임계 토륨로를 '원자력 인접' 규제로 분류받기를 기대하며 네덜란드에서 인허가 준비",
+      "signal_en": "National policy remains anti-nuclear, yet an Austrian start-up is preparing to license an accelerator-driven subcritical thorium module in the Netherlands, hoping it will be regulated as 'nuclear adjacent'",
+      "article_ids": [
+        "2026-10-21-09"
+      ]
+    },
+    {
+      "country": "NL",
+      "name_ko": "네덜란드",
+      "name_en": "Netherlands",
+      "stance": "expanding",
+      "signal": "2028년까지 SMR 부지 4곳 선정 목표 아래 선행 인허가 문의가 이어짐 — 에메랄드호라이즌이 에인트호번에 2029년 시제기 계획",
+      "signal_en": "Pre-licensing enquiries continue under the goal of choosing four SMR sites by the end of 2028, with Emerald Horizon planning a 2029 prototype in Eindhoven",
+      "article_ids": [
+        "2026-10-21-09"
+      ]
+    },
+    {
+      "country": "MR",
+      "name_ko": "모리타니",
+      "name_en": "Mauritania",
+      "stance": "expanding",
+      "signal": "티리스 우라늄 사업이 연내 최종투자결정 단계 진입 — 주요 인허가 확보, 정부 지분 15%, 11월 시험공장 가동",
+      "signal_en": "The Tiris uranium project moves to a final investment decision this year with principal approvals in place, a 15% government stake and a pilot plant starting in November",
+      "article_ids": [
+        "2026-10-21-05"
+      ]
+    },
+    {
+      "country": "NA",
+      "name_ko": "나미비아",
+      "name_en": "Namibia",
+      "stance": "cautious",
+      "signal": "딥옐로가 투마스 사업 최종투자결정을 자본시장 여건을 이유로 4분기에는 내리지 않기로 — 토목공사는 보유현금으로 계속",
+      "signal_en": "Deep Yellow will not take a final investment decision on Tumas this quarter, citing equity market conditions, though civil works continue on existing cash",
+      "article_ids": [
+        "2026-10-21-05"
+      ]
+    },
+    {
+      "country": "INT",
+      "name_ko": "국제",
+      "name_en": "International",
+      "stance": "expanding",
+      "signal": "유럽 원자력업계가 EU 2030년 이후 체계에서 원자력·재생에너지를 묶는 공동 청정에너지 목표를 공식 요구 — 지원 확대와 역내산 조건 강화가 같은 방향으로 움직일 소지",
+      "signal_en": "Europe's nuclear industry formally asks for a common clean energy target covering nuclear alongside renewables in the EU's post-2030 framework - support and local-content conditions may well tighten together",
+      "article_ids": [
+        "2026-10-21-04"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-21-01",
+      "title": "Poland – Water-purifying apparatus – Condensate Polishing Package",
+      "title_ko": "벡텔 폴란드, 폴란드 AP1000 3기용 복수탈염설비(Condensate Polishing Package) 공급사 자격심사 공고 — GPA 미가입국 지배기업 배제 조항 명기",
+      "title_en": "Bechtel Polska opens prequalification for the condensate polishing package on Poland's three AP1000s, barring bidders controlled from non-GPA countries",
+      "language": "en",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/728533-2026/pdf",
+      "published": "2026-10-21",
+      "category": "large",
+      "countries": [
+        "PL"
+      ],
+      "importance": 3,
+      "summary_ko": "벡텔 폴란드(BECHTEL POLSKA)가 10월 21일 TED에 폴란드 원전 AP1000 3기 전체를 대상으로 한 복수탈염설비(Condensate Polishing Package, 벡텔 물품코드 MWDC)의 경쟁입찰 자격심사 공고를 냈다. 역무는 설계·조달·제작·스키드 탑재·공장시험·납품이며, 호기별로 전치여과기, 복수탈염탑, 양이온·음이온 재생탑과 부속계통 일체를 포함한다. 자격요건은 유사 복수탈염·수지재생 설비 실적, ISO 9001:2015 또는 동등 품질체계(벡텔·PEJ 승인), 재무건전성이고, 통과 업체는 NDA 체결 후 RFQ를 받는다. 공고는 EU와 정부조달협정(GPA)을 맺지 않은 국가의 기업이 직·간접 지배하거나 그 역량에 의존하는 응찰자를 배제할 수 있다고 명기했으며, 이 결정에는 이의를 제기할 수 없다고 못박았다.",
+      "summary_en": "Bechtel Polska published a prequalification notice on 21 October for the condensate polishing package (Bechtel code MWDC) covering all three AP1000 units of Poland's first nuclear plant. The scope runs from design and procurement through fabrication, skid mounting, shop testing and delivery, and covers pre-filters, polisher vessels and cation/anion regeneration vessels for each unit. Bidders must show comparable condensate-polishing and resin-regeneration experience, ISO 9001:2015 or an equivalent quality programme approved by Bechtel and PEJ, and financial standing; those who pass sign an NDA before receiving the RFQ. The notice reserves Bechtel's right to exclude any bidder owned or controlled by, or relying on the capacity of, entities from countries outside the EU's Government Procurement Agreement, and says that decision cannot be appealed.",
+      "sales_note": "발주 창구가 노형사에서 EPC(벡텔)로 넘어간 10월 6일 수직터빈펌프 공고에 이어 같은 주체가 BOP 기자재 자격심사를 연속으로 내고 있다. 특히 GPA 배제 조항은 한국이 GPA 가입국이라는 점에서 같은 날 제기된 EU 산업가속화법 우려와 방향이 반대다 — 이 공고 기준으로는 한국 업체의 응찰 자격이 유지된다. 벡텔 조달 채널(iSupplier 등록)을 폴란드 사업 접근 경로로 공식화할 시점이다.",
+      "sales_note_en": "This is the second Bechtel-issued balance-of-plant prequalification in two weeks, confirming that the procurement window for Poland has moved from the reactor vendor to the EPC contractor. The GPA clause cuts the opposite way from the EU Industrial Accelerator Act concerns raised the same day: Korea is a GPA party, so Korean suppliers remain eligible under this notice. Registering in Bechtel's iSupplier portal should now be treated as the formal route into the Polish programme.",
+      "region": "overseas"
+    },
+    {
+      "id": "2026-10-21-02",
+      "title": "Indiana considering 6 GW Candu nuclear project",
+      "title_ko": "미 인디애나주, 최대 6GW CANDU 원전 검토 양해각서 — 앳킨스레알리스·후지어에너지·인디애나주, 가스-투-뉴클리어 모델로 폐쇄 발전소 부지 평가",
+      "title_en": "Indiana considering 6 GW Candu nuclear project",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/indiana-considering-6-gw-candu-nuclear-project",
+      "published": "2026-10-20",
+      "category": "large",
+      "countries": [
+        "US",
+        "CA"
+      ],
+      "importance": 3,
+      "summary_ko": "앳킨스레알리스(AtkinsRéalis)와 후지어에너지(Hoosier Energy), 인디애나주가 주 내에 최대 8기·합계 6GW 규모의 CANDU 원전 배치 시나리오를 평가하는 양해각서를 맺었다. 대상 노형 Enhanced CANDU 6는 700MW급 가압중수로로 천연우라늄을 쓰고 운전 중 재장전이 가능하다. 부지는 아직 정해지지 않았고, 폐쇄·폐쇄 예정 발전소를 쓰는 가스-투-뉴클리어 건설 모델을 함께 검토한다. 앳킨스레알리스는 2026년 6월 미 NRC에 인허가 착수 의향서를 냈고 8월 첫 공개회의를 거쳐 총 7건 예정인 주제별 보고서 중 품질보증 분야 1건을 제출했다. 일정과 비용은 제시되지 않았으며, CANDU 지식재산권은 캐나다 정부가 보유하고 AECL이 관리한다.",
+      "summary_en": "AtkinsRéalis, Hoosier Energy Rural Electric Cooperative and the State of Indiana signed an MOU to evaluate deployment scenarios for up to eight Candu units totalling 6 GW in the state. The Enhanced Candu 6 is a 700+ MW-class pressurised heavy water reactor running on natural uranium with online refuelling. No site has been chosen; the study will weigh a gas-to-nuclear model using retired or retiring generating sites. AtkinsRéalis filed a Notice of Intent with the US NRC in June 2026, held its first public licensing meeting in August and has submitted the first of seven planned topical reports, covering quality assurance. No timeline or cost figures were given, and the Candu intellectual property remains with the Canadian government, held by AECL.",
+      "sales_note": "미국 시장에 AP1000·BWRX-300·Xe-100에 이어 CANDU가 대형 선택지로 들어왔다. 중수로는 경수로와 기자재·공급망이 겹치지 않아 한국 주기기 업체의 직접 수혜는 제한적이지만, 같은 주(인디애나)에서 이틀 사이 X-에너지 960MW 건과 6GW CANDU 건이 동시에 뜬 것은 주정부 단위 유치 경쟁이 노형 중립적으로 벌어지고 있다는 신호다. 대미 투자 원전 논의에서 노형 고정보다 부지·전력수요 확보가 선행 변수임을 보여준다.",
+      "sales_note_en": "Candu now joins AP1000, BWRX-300 and Xe-100 as a large-reactor option in the US market. Heavy-water designs share little of their supply chain with PWRs, so the direct opening for Korean component makers is limited. The signal that matters is that Indiana produced both a 960 MW X-energy project and a 6 GW Candu MOU within two days: states are competing for nuclear investment on a technology-neutral basis, which suggests site and offtake control, not reactor choice, is the leading variable in US new-build discussions.",
+      "region": "overseas"
+    },
+    {
+      "id": "2026-10-21-03",
+      "title": "Philippines advances plans for nuclear power as energy demand rises",
+      "title_ko": "필리핀, 2032년 1.2GW·2035년 2.4GW·2050년 4.8GW 원전 목표 제시 — 메랄코 자회사 MGen은 SMR 타당성조사 최종본 2027년 3분기 예정",
+      "title_en": "Philippines advances plans for nuclear power as energy demand rises",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/philippines-advances-plans-for-nuclear-power-as-energy-demand-rises",
+      "published": "2026-10-20",
+      "category": "policy",
+      "countries": [
+        "PH"
+      ],
+      "importance": 3,
+      "summary_ko": "마닐라에서 열린 세계원자력협회(WNA) 공급망 회의(10월 20~21일)에서 필리핀 정부가 첫 원전 사업의 정책·규제·상업 기반 정비 현황을 발표했다. 목표는 2032년 1.2GW, 2035년 2.4GW, 2050년 4.8GW이며 속도는 SMR 가용성에 좌우된다고 밝혔다. 2026년 7월 기준 최대수요 20.1GW·설비용량 약 32.5GW이고 1차에너지의 51.5%를 수입에 의존한다. 정부는 IAEA 마일스톤 방식에 따라 법·규제체계, 비상대응, 폐기물, 인력, 부지평가, 조달 틀을 동시에 진행 중이며 아직 노형 선정이나 입찰 공고 단계는 아니다. 메랄코 자회사 MGen은 미 USTDA 280만 달러 지원으로 사전트앤런디와 SMR 타당성조사를 진행해 후보 기술·부지 1차 보고서를 마쳤고 최종본은 2027년 3분기 예정이다. 정부간 협력 대상국으로 일본·미국·한국·헝가리가 거명됐다.",
+      "summary_en": "At the World Nuclear Association supply chain conference in Manila (20-21 October), Philippine officials set out the policy, regulatory and commercial groundwork for the country's first nuclear project. The targets are 1.2 GW by 2032, 2.4 GW by 2035 and 4.8 GW by 2050, with the pace tied to SMR availability. Peak demand stood at 20.1 GW against roughly 32.5 GW of installed capacity in July 2026, and net imports make up 51.5% of primary energy supply. The government is following the IAEA milestone approach, working in parallel on the legal and regulatory framework, emergency preparedness, waste, workforce, site assessment and a procurement framework; no reactor technology has been selected and no tender has been launched. Meralco's MGen, backed by a USD2.8 million USTDA grant, is working with Sargent & Lundy on an SMR feasibility study, has completed an initial report shortlisting technologies and sites, and expects the final study in Q3 2027. Government-to-government cooperation was cited with Japan, the USA, South Korea and Hungary.",
+      "sales_note": "필리핀은 발주처가 정부가 아니라 민간 전력사(메랄코·아보이티즈)로 먼저 서는 구조다. 한수원은 7월 아보이티즈파워와 사전타당성조사 MOU를 맺어 이미 한 축에 들어가 있고, 이번 발표로 경쟁 축인 MGen의 기술 선정 일정이 2027년 3분기로 공개됐다. 대형로 1.2GW 트랙과 SMR 트랙이 병행되므로 APR1400과 i-SMR 양쪽 제안을 같은 창구에서 준비할 수 있는 드문 시장이다. 조달 틀이 아직 설계 중이라는 점이 오히려 규격 형성 단계 참여 기회다.",
+      "sales_note_en": "In the Philippines the buyers forming first are private utilities - Meralco and Aboitiz - rather than the state. KHNP already sits on one side of that through its July pre-feasibility MOU with AboitizPower, and this update puts a date on the competing track: MGen's technology selection firms up with its final study in Q3 2027. Because a 1.2 GW large-reactor track and an SMR track are running in parallel, this is one of the few markets where APR1400 and i-SMR can be offered through the same channel. The procurement framework is still being written, which is itself the opening: specifications are not yet fixed.",
+      "region": "overseas"
+    },
+    {
+      "id": "2026-10-21-04",
+      "title": "Nuclear Industry Calls For Concrete Action In EU Post-2030 Energy Framework",
+      "title_ko": "유럽 원자력업계 경영진, EU 집행위에 2030년 이후 에너지·기후체계에서 원자력과 재생에너지를 함께 묶는 '공동 청정에너지 목표' 요구 서한",
+      "title_en": "Nuclear Industry Calls For Concrete Action In EU Post-2030 Energy Framework",
+      "language": "en",
+      "source": "NucNet",
+      "url": "https://www.nucnet.org/news/nuclear-industry-calls-for-concrete-action-in-eu-post-2030-energy-framework-10-2-2026",
+      "published": "2026-10-20",
+      "category": "policy",
+      "countries": [
+        "INT"
+      ],
+      "importance": 2,
+      "summary_ko": "유럽 원자력업계 고위 경영진들이 EU 집행위에 서한을 보내 2030년 이후 에너지·기후체계에서 원자력 투자를 뒷받침할 '구체적 조치'를 요구했다. 핵심 요구는 원자력과 재생에너지를 함께 포괄하는 공동 청정에너지 목표 설정으로, 두 전원에 동등한 지원을 적용하라는 것이다. (NucNet은 유료 매체로 공개된 제목과 리드만 확인했다.)",
+      "summary_en": "Senior executives from Europe's nuclear industry have written to the European Commission asking for 'concrete steps' to support nuclear investment under the EU's post-2030 energy and climate framework. Their central ask is a common clean energy target covering both nuclear power and renewables, so that the two receive equal support. (NucNet is a subscription service; only the published headline and lead were available.)",
+      "sales_note": "EU 차원에서 원자력의 제도적 지위를 올리려는 업계 압력과, 같은 날 한국 정부가 제기한 산업가속화법의 역내산 제약 우려가 동시에 진행 중이다. 두 흐름은 상충하지 않는다 — 원자력 지원이 커질수록 그 지원을 'EU산'으로 묶으려는 조건도 함께 강해질 수 있다. 유럽 수주 건의 계약 구조를 짤 때 지원제도 수혜 요건과 역내산 요건을 한 묶음으로 봐야 한다.",
+      "sales_note_en": "Two European currents are running at once: industry pressure to raise nuclear's standing in EU support schemes, and the local-content restrictions Seoul flagged the same day in the Industrial Accelerator Act. They are not in conflict - the more support nuclear attracts, the stronger the pull to condition that support on EU origin. For European bids, eligibility for support schemes and local-content requirements need to be modelled as a single constraint, not two.",
+      "region": "overseas"
+    },
+    {
+      "id": "2026-10-21-05",
+      "title": "Aura aims for final investment decision on Mauritania project this year",
+      "title_ko": "오라에너지, 모리타니 티리스 우라늄광 연내 최종투자결정 목표 — 연산 180만 파운드·총 4,610만 파운드 U3O8, 개발비 3억 4,980만 달러",
+      "title_en": "Aura aims for final investment decision on Mauritania project this year",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/aura-aims-fid-mauritania-project-this-year",
+      "published": "2026-10-20",
+      "category": "fuel",
+      "countries": [
+        "MR",
+        "NA"
+      ],
+      "importance": 2,
+      "summary_ko": "호주 상장사 오라에너지(Aura Energy)가 모리타니 동부 티리스(Tiris) 우라늄 사업의 최종투자결정을 2026년 말까지 내는 것을 목표로 금융 파트너와 구조를 연내 확정하겠다고 밝혔다. 연간 생산 180만 파운드 U3O8, 총 판매량 4,610만 파운드, 광산 수명 26년이며 개발비는 3억 4,980만 달러, 건설기간은 약 2년이다. 파운드당 90달러 기준 NPV 5억 30만 달러(오라 지분 4억 2,530만 달러), 내부수익률 28%, 첫 생산 후 3.2년 회수로 제시됐다. 주요 인허가는 확보됐고 모리타니 정부가 15% 지분을 보유한다. 비르모그레인 시험공장이 11월 티리스 광석 80톤 처리로 가동을 시작한다. 같은 자료에서 딥옐로는 나미비아 투마스 사업의 최종투자결정을 자본시장 여건을 이유로 2026년 4분기에는 내리지 않겠다고 밝혔다.",
+      "summary_en": "ASX-listed Aura Energy is targeting a final investment decision on its Tiris uranium project in eastern Mauritania by the end of 2026, saying it aims to pick its financing partner and structure within the year. The project is sized at 1.8 million lb U3O8 a year, 46.1 million lb of total saleable production and a 26-year mine life, with development capital of USD349.8 million and a build of about two years. At a USD90.00/lb base case it shows an NPV of USD500.3 million (USD425.3 million attributable to Aura), a 28% IRR and 3.2-year payback from first production. Principal approvals are in place and the Mauritanian government holds 15%. A pilot plant at Bir Moghrein starts in November processing 80 tonnes of Tiris ore. In the same item, Deep Yellow said it will not take an FID on its Tumas project in Namibia in Q4 2026 because of equity market conditions.",
+      "sales_note": "두 건이 반대 방향을 가리킨다 — 인허가와 정부 지분이 정리된 사업은 파운드당 90달러 가정으로 자금을 모으고 있는 반면, 자본시장 조달에 기댄 사업은 최종투자결정을 미룬다. 신규 우라늄 공급은 가격보다 자금조달 구조에서 갈리고 있으며, 2030년대 초 장기 연료계약 협상 시 공급사의 자금 확보 상태를 가격 못지않은 실사 항목으로 봐야 한다.",
+      "sales_note_en": "The two items point in opposite directions: a project with permits and a government partner in place is raising money against a USD90/lb case, while one dependent on equity markets is deferring its decision. New uranium supply is being sorted by financing structure rather than by price. When negotiating long-term fuel contracts for the early 2030s, a supplier's funding position deserves as much diligence as its quoted price.",
+      "region": "overseas"
+    },
+    {
+      "id": "2026-10-21-06",
+      "title": "Atos selected by EDF to accelerate the digital transformation of nuclear operations for its EPR export projects",
+      "title_ko": "프랑스 EDF, 수출용 EPR 운영정보관리시스템(OIMS) 개발 파트너로 아토스 선정 — 최장 15년, 금액·대상국 미공개",
+      "title_en": "Atos selected by EDF to build the operations information management system for its EPR export projects",
+      "language": "en",
+      "source": "GlobeNewswire (Atos 보도자료)",
+      "url": "https://www.globenewswire.com/news-release/2026/10/19/3383446/0/en/atos-selected-by-edf-to-accelerate-the-digital-transformation-of-nuclear-operations-for-its-epr-export-projects.html",
+      "published": "2026-10-19",
+      "category": "large",
+      "countries": [
+        "FR"
+      ],
+      "importance": 2,
+      "summary_ko": "EDF가 프랑스 밖에서 건설하는 EPR 수출 사업의 운영정보관리시스템(OIMS) 개발 파트너로 아토스(Atos)를 선정했다고 10월 19일 발표했다. OIMS는 운전 데이터와 정비·업무 프로세스를 한곳에 모으는 발전소 운영의 디지털 중심 플랫폼이며, 아토스는 신규 원전 사업마다 재사용할 수 있는 표준화·복제 가능한 템플릿 모델로 만들겠다고 밝혔다. 파트너십 기간은 최장 15년으로 보도됐으나 보도자료 자체는 '다년'으로만 표현했고, 계약금액·착수시점·대상 국가·대상 사업은 공개되지 않았다.",
+      "summary_en": "EDF announced on 19 October that it has selected Atos to develop the Operations Information Management System (OIMS) for the EPR projects it builds outside France. The OIMS is to be the central digital platform for plant operations, pulling operational data together with maintenance and business processes, and Atos says it will build a standardised, replicable template reusable across new nuclear programmes. Reporting puts the partnership at up to 15 years, though the release itself says only 'multi-year'; no contract value, start date, country or specific project was disclosed.",
+      "sales_note": "EDF가 수출 EPR의 운영 단계 디지털 표준을 건설 수주 이전에 미리 고정하고 있다. 운영정보체계를 노형사가 선점하면 발주처는 O&M 단계에서 노형사 생태계에 묶이고, 입찰 평가에서 '전주기 패키지' 항목의 비교 기준도 그쪽으로 움직인다. 한수원의 수출 제안에서도 운영·정비 정보체계를 건설 제안의 부속이 아니라 독립 비교항목으로 끌어올려 둘 필요가 있다.",
+      "sales_note_en": "EDF is fixing the digital standard for the operating phase of its export EPRs before the construction contracts are even won. If the reactor vendor owns the operations information layer, the owner is tied into that vendor's ecosystem through O&M, and bid evaluations start comparing 'whole-lifecycle packages' on the vendor's terms. Korean export bids should treat the operations and maintenance information system as a standalone evaluated item rather than an annex to the construction proposal.",
+      "region": "overseas"
+    },
+    {
+      "id": "2026-10-21-07",
+      "title": "C0246S26 — Concessione (PPP) per sistemi di accumulo dell'energia a batteria (BESS) presso l'area dell'impianto “Cirene”, ex Centrale Nucleare di Latina",
+      "title_ko": "이탈리아 소진(Sogin), 폐쇄 라티나 원전 부지 '치레네' 구역에 배터리저장장치(BESS) 설계·건설·운영 민관협력 양허 공고 — 추정 5억 5,460만 유로, 마감 11월 19일",
+      "title_en": "Italy's Sogin tenders a EUR554.6 million PPP concession to build and run battery storage on the decommissioned Latina nuclear site",
+      "language": "it",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/726843-2026/pdf",
+      "published": "2026-10-21",
+      "category": "policy",
+      "countries": [
+        "IT"
+      ],
+      "importance": 1,
+      "summary_ko": "이탈리아 원자력 해체 공기업 소진(Sogin)이 10월 21일 TED에 민간투자(프로젝트 파이낸스) 방식의 민관협력 양허 공고를 냈다. 대상은 소진 보유 부지, 특히 폐쇄된 라티나 원전 단지 내 '치레네(Cirene)' 설비 구역에 배터리에너지저장장치(BESS)를 설계·건설·정비·운영하는 사업이다. 추정금액 5억 5,460만 706유로, 공개입찰, 마감 2026년 11월 19일 12시다.",
+      "summary_en": "Sogin, Italy's state nuclear decommissioning company, published an open-procedure notice on TED on 21 October for a public-private partnership concession financed as project finance. The concessionaire would design, build, maintain and operate battery energy storage systems on Sogin sites, specifically in the area of the 'Cirene' plant within the decommissioned Latina nuclear station complex. The estimated value is EUR554,600,706 and tenders are due by 12:00 on 19 November 2026.",
+      "sales_note": "해체 완료 부지의 후속 활용을 해체 공기업이 직접 양허사업으로 발주하는 사례다. 규모가 5억 유로대로 해체 역무 자체보다 크다는 점에서, 해체 시장 진입을 검토할 때 철거 역무만이 아니라 부지 재활용 사업권까지 수익 구조에 넣어 보는 접근이 필요하다.",
+      "sales_note_en": "Here the decommissioning authority itself is tendering what comes after the clean-up, as a concession. At over half a billion euros the follow-on use is worth more than much of the dismantling work, which argues for scoping site-reuse rights into the revenue case when assessing entry into decommissioning markets, rather than pricing the demolition scope alone.",
+      "region": "overseas"
+    },
+    {
+      "id": "2026-10-21-08",
+      "title": "Plumb 1000 tone",
+      "title_ko": "루마니아 원자력에너지기술공사(RATEN), 납 1,000톤 공급 공고 — 마감 11월 23일",
+      "title_en": "Romania's RATEN tenders for 1,000 tonnes of lead",
+      "language": "ro",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/727853-2026/pdf",
+      "published": "2026-10-21",
+      "category": "fuel",
+      "countries": [
+        "RO"
+      ],
+      "importance": 1,
+      "summary_ko": "루마니아 원자력에너지기술공사(Regia Autonomă Tehnologii pentru Energia Nucleară, RATEN)가 10월 21일 TED에 납 1,000톤 공급 공고를 냈다. 공개입찰이며 마감은 2026년 11월 23일 15시다. 공고 데이터에 추정금액과 용도는 기재되지 않았다.",
+      "summary_en": "Romania's nuclear energy technology authority RATEN published a TED notice on 21 October for the supply of 1,000 tonnes of lead, by open procedure, with tenders due at 15:00 on 23 November 2026. The notice data gives no estimated value and does not state the intended use.",
+      "sales_note": "",
+      "sales_note_en": "",
+      "region": "overseas"
+    },
+    {
+      "id": "2026-10-21-09",
+      "title": "Austrian Start-Up Pitches Container-Sized Thorium Reactor, With Storage Coming First",
+      "title_ko": "오스트리아 에메랄드호라이즌, 가속기 구동 토륨 용융염 모듈 'SMRX' 제시 — 모듈당 25MWt·약 10MWe, 시제기 2029년·실증기 2031년 목표",
+      "title_en": "Austrian Start-Up Pitches Container-Sized Thorium Reactor, With Storage Coming First",
+      "language": "en",
+      "source": "POWER Magazine",
+      "url": "https://www.powermag.com/austrian-start-up-pitches-container-sized-thorium-reactor-with-storage-coming-first/",
+      "published": "2026-10-20",
+      "category": "smr",
+      "countries": [
+        "AT",
+        "NL"
+      ],
+      "importance": 1,
+      "summary_ko": "오스트리아 그라츠의 에메랄드호라이즌(Emerald Horizon AG)이 가속기 구동 미임계 토륨 용융염 모듈 'SMRX'를 제시했다. 핵심인 ADES는 외부 가속기 중성자원을 쓰는 미임계(실효증배계수 1 미만) 방식으로 가속기를 끄면 반응이 멈추며, 기술성숙도(TRL)는 9단계 중 4.5단계이고 통합계통은 아직 실증되지 않았다. 모듈당 25MWt·약 10MWe(1세대는 약 7MWe)이며 20년 무재장전을 내세운다. 시제기 비용 7,500만 유로, 산업화 추가 1억 5,000만 유로를 가정하고 시제기 2029년(네덜란드 에인트호번)·실증기 2031년을 목표로 한다. 매출 기반은 먼저 배터리·용융염 축열 결합 제품(DUALstorePLUS, 5~100MWh)으로 잡았고 2026년 4분기 납품 가능성을 제시했다. VDL그룹이 공동개발·제작을 맡고, 네덜란드 인허가는 하스코닝이 자문한다. 회사는 ADES가 '원자력 인접' 규제로 분류되기를 기대하나 어떤 규제기관도 아직 동의하지 않았다고 밝혔다.",
+      "summary_en": "Graz-based Emerald Horizon AG is pitching SMRX, an accelerator-driven subcritical thorium molten-salt module. Its ADES core runs below criticality on an external accelerator neutron source, so the reaction stops when the accelerator is switched off; it sits at technology readiness level 4.5 of 9 and the integrated system is undemonstrated. Each module is rated 25 MWt and about 10 MWe - closer to 7 MWe for first-generation units - with no refuelling for 20 years. The company assumes a EUR75 million prototype cost plus up to EUR150 million for industrial scale-up, targeting a prototype in Eindhoven in 2029 and a demonstration plant in 2031. Early revenue is to come first from DUALstorePLUS, a 5-100 MWh battery-plus-molten-salt storage product it says could ship from Q4 2026. VDL Groep is co-developing and would manufacture; Haskoning advises on Dutch pre-licensing. The company hopes ADES will be regulated as 'nuclear adjacent' but says no regulator has yet agreed.",
+      "sales_note": "",
+      "sales_note_en": "",
+      "region": "overseas"
+    },
+    {
+      "id": "2026-10-21-10",
+      "region": "domestic",
+      "title": "한-체코, 두코바니 일정 점검...EU 진입 규제 대응 논의",
+      "title_ko": "한-체코, 두코바니 일정 점검...EU 진입 규제 대응 논의 — 산업장관, EU 산업가속화법의 역외기업 제약 우려 전달하고 체코에 EU 내 외교 대응 요청",
+      "title_en": "Seoul tells Prague the EU's Industrial Accelerator Act could shut non-EU suppliers out of Europe's reactor build, and asks Czechia to push back inside the EU",
+      "language": "ko",
+      "source": "에너지신문",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229106",
+      "published": "2026-10-20",
+      "category": "policy",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "importance": 3,
+      "summary_ko": "김정관 산업통상부 장관과 카렐 하블리체크 체코 산업통상부 장관이 10월 20일 화상으로 제3차 두코바니 이행점검 협의체를 열었다. 양국 정부와 발주사 EDU II, 한수원이 참여해 사업이 예정 일정대로 가고 있음을 확인하고 체코 현지 인허가 신청 등 주요 절차의 기한 준수 계획을 점검했다. 김 장관은 지난 3월 발표된 EU 산업가속화법(Industrial Accelerator Act) 논의가 비EU 국가의 EU 원전시장 참여를 과도하게 제약하는 방향으로 가고 있다는 우려를 전달하고, EU의 원전 공급망이 약해진 만큼 한국 같은 공급망 보유국과의 협력이 필요하다며 체코가 EU 내에서 외교적으로 대응해 줄 것을 요청했다. 제4차 협의체는 연내 한국에서 열리며 양국 원전기업 공동 행사도 함께 추진된다. 테멜린 3·4호기는 체코 정부가 추진 여부를 검토 중인 단계로, 김 장관은 두코바니에 이어 테멜린에서도 협력이 이어지기를 기대한다고 밝혔다. 협의체는 2월 발족했고 2차 회의는 6월에 열렸다.",
+      "summary_en": "Korea's Minister of Trade, Industry and Energy Kim Jung-kwan and Czech Minister of Industry and Trade Karel Havlicek held the third Dukovany implementation review committee by video on 20 October, joined by both governments, the Czech owner EDU II and KHNP. They confirmed the project is on its planned schedule and reviewed the deadlines for key steps including the Czech local licensing application. Kim raised Korea's concern that discussion of the EU Industrial Accelerator Act, proposed in March, is moving toward excessively restricting non-EU participation in the EU nuclear market, argued that Europe's weakened nuclear supply chain makes cooperation with supplier countries like Korea necessary to keep its build programmes on schedule, and asked Czechia to keep pressing the point diplomatically within the EU. The fourth meeting will be held in Korea before the end of the year, alongside a joint event for nuclear companies from both countries. On Temelin 3 and 4, still under Czech government consideration, Kim said he hoped the partnership would continue there after Dukovany. The committee was launched in February and last met in June.",
+      "sales_note": "두코바니 수주 이후 처음으로 제도 리스크가 정부 간 협의 의제로 공식화됐다. 같은 날 벡텔 폴란드 공고가 GPA 가입국 기준으로 응찰 자격을 정의한 것과 비교하면, EU의 역내산 조건이 '조달협정 기준'에서 '역내 생산·소유·기술이전 기준'으로 이동할 경우 한국의 유럽 후속 수주(테멜린 3·4호기, 폴란드 2단계)가 직접 영향을 받는다. 법안이 유럽의회·이사회 심의에 들어가기 전에 체코·폴란드 등 수주국을 통한 조건 완화 교섭과, 현지 생산·기술이전 비중을 미리 설계한 대안 제안을 병행해 준비할 필요가 있다.",
+      "sales_note_en": "For the first time since the Dukovany award, regulatory risk has become a formal agenda item between the two governments. Set against the Bechtel Polska notice published the same day, which defines eligibility by GPA membership, the exposure is clear: if the EU's local-content test shifts from procurement-agreement status to EU production, ownership and technology transfer, Korea's follow-on European prospects - Temelin 3 and 4, Poland's second phase - are directly affected. Before the act reaches Parliament and Council deliberations, the work is twofold: lobbying for softened conditions through client states such as Czechia and Poland, and preparing fallback offers with local manufacturing and technology-transfer shares designed in from the start."
+    },
+    {
+      "id": "2026-10-21-11",
+      "region": "domestic",
+      "title": "[단독] DL이앤씨·두산에너빌 파트너 '엑스에너지' 대박 예고...아마존과 SMR 프로젝트 파트너십",
+      "title_ko": "[단독] DL이앤씨·두산에너빌 파트너 '엑스에너지' 대박 예고...아마존과 SMR 프로젝트 파트너십 — 인디애나 Xe-100 12기 건의 국내 공급망 지분 구조 공개",
+      "title_en": "The Korean supply-chain side of X-energy's Indiana project: DL E&C's engineering stake and Doosan's equipment contract",
+      "language": "ko",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=108476",
+      "published": "2026-10-20",
+      "category": "smr",
+      "countries": [
+        "KR",
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "전날 보도된 미 인디애나 설리번카운티 Xe-100 12기(최대 960MW) 공동개발합의에 대해, 국내 두 참여사의 지분·계약 구조가 추가로 확인됐다. 엑스에너지·아마존·AEP는 현지시각 19일 타당성조사를 위한 공동개발협약(JDA)을 맺었고 아마존이 조사비 일부를 부담하며 조사 후 최종투자결정을 내린다. Xe-100은 80MW 모듈 4기(발전소당 320MW) 구성으로 페블형 연료를 쓰고 약 600℃ 열을 공급한다. DL이앤씨는 2023년 1월 2,000만 달러(약 300억원), 두산에너빌리티는 500만 달러(약 80억원)를 투자했고, 4월 엑스에너지 상장 후 지분가치는 각각 약 1,720억원·약 400억원으로 5배 이상이 됐다. DL이앤씨는 2026년 3월 엑스에너지와 SMR 표준화 설계 계약을 맺어 EPC를 맡고 계열 DL에너지가 개발·투자와 운영을 맡는 구조이며, 두산에너빌리티는 같은 달 Xe-100 주기기 제작·공급 구속력 있는 계약을 체결했다. 엑스에너지와 아마존은 2024년 전략적 합의로 2039년까지 Xe-100 60기 이상·최대 5GW를 목표로 하며, 1호 공동사업은 워싱턴주 리치랜드 인근 12기로 2030년 이전 착공 예정이다. 인디애나·워싱턴 사업의 EPC·기자재 계약금액과 확정 공정은 공개되지 않았다.",
+      "summary_en": "Following yesterday's report of the 12-unit, up-to-960 MW Xe-100 project in Sullivan County, Indiana, the Korean supply-chain positions behind it have been set out. X-energy, Amazon and AEP signed a joint development agreement on 19 October local time for a feasibility study, part-funded by Amazon, with a final investment decision to follow. Each Xe-100 plant comprises four 80 MW modules (320 MW), uses pebble fuel and delivers heat at about 600C. DL E&C invested USD20 million and Doosan Enerbility USD5 million in January 2023; after X-energy's April listing those stakes are valued at about KRW172 billion and KRW40 billion respectively, more than five times the original outlay. DL E&C signed a standardised SMR design contract with X-energy in March 2026 and would act as EPC, with affiliate DL Energy developing, investing in and later operating projects; Doosan Enerbility signed a binding contract the same month to manufacture and supply key Xe-100 equipment. X-energy and Amazon's 2024 strategic agreement targets more than 60 Xe-100 units and up to 5 GW by 2039, with their first joint project twelve units near Richland, Washington, construction to start before 2030. No EPC or equipment contract values, and no firm schedule, were disclosed for either project.",
+      "sales_note": "국내 업체가 해외 SMR 사업에 지분투자 → 설계계약 → 기자재 구속계약 → EPC로 단계를 밟아 올라간 사례가 실적으로 쌓이고 있다. 한수원 중심 팀코리아 수주 모델과 달리 개발사 지분을 먼저 잡고 역무를 따라가는 경로이며, 발주처가 데이터센터 사업자(아마존)인 민간 거래에서는 이 경로가 정부 간 협상보다 빠르다. 다만 최종투자결정 전 단계라 수주로 확정된 금액은 아직 없다는 점을 구분해 봐야 한다.",
+      "sales_note_en": "Korean firms are compounding a position in overseas SMRs step by step: equity first, then a design contract, then binding equipment supply, then EPC. Unlike the KHNP-led Team Korea model, this route buys into the developer and follows the work downstream - and where the offtaker is a data-centre operator like Amazon, it moves faster than government-to-government negotiation. The caveat is that all of it still sits ahead of a final investment decision, so none of it is booked order value yet."
+    },
+    {
+      "id": "2026-10-21-12",
+      "region": "domestic",
+      "title": "중동 플랜트 수주 확대를 위해 민관이 힘 모으기로",
+      "title_ko": "산업부 중동 플랜트 간담회 — 1~3분기 해외 플랜트 수주 250억 2,300만 달러(-34.8%), 두코바니 187억 달러 기저효과 제외 시 +27.2%",
+      "title_en": "Korea's overseas plant orders fall 34.8% to USD25.0 billion - but rise 27.2% once last year's USD18.7 billion Dukovany award is stripped out",
+      "language": "ko",
+      "source": "아주경제",
+      "url": "https://www.ajunews.com/view/20261020103553854",
+      "published": "2026-10-20",
+      "category": "policy",
+      "countries": [
+        "KR"
+      ],
+      "importance": 2,
+      "summary_ko": "산업통상부가 10월 20일 중동 플랜트 기업 간담회를 열고 수주 확대를 위한 민관 지원 방안을 논의했다. 올해 1~3분기 중동 플랜트 수주액은 58억 3,000만 달러로 전년 동기 대비 39.8% 줄었으나 분기별 감소폭은 1분기 91.1%·2분기 72.5%·3분기 39.8%로 축소되고 있다. 1~9월 전체 해외 플랜트 수주액은 250억 2,300만 달러로 전년 동기 383억 7,600만 달러 대비 34.8% 감소했는데, 지난해 실적에 체코 두코바니 원전 187억 달러가 포함된 기저효과 때문이며 이를 제외하면 전년 동기 대비 27.2% 증가다. 정부는 무역보험공사·KOTRA·플랜트산업협회를 통해 금융 지원과 발주 정보 제공, 고위급 협의를 강화하고 해외 플랜트 수주 통계를 분기마다 정례 발표하기로 했다. 간담회에는 대우건설·DL이앤씨·삼성E&A·삼성물산·GS건설·현대건설·현대엔지니어링이 참석했다.",
+      "summary_en": "Korea's Ministry of Trade, Industry and Energy held a roundtable with Middle East plant contractors on 20 October to agree joint public-private support for winning more work. Middle East plant orders for the first three quarters came to USD5.83 billion, down 39.8% year on year, though the quarterly decline is narrowing - 91.1% in Q1, 72.5% in Q2, 39.8% in Q3. Total overseas plant orders for January-September were USD25.023 billion against USD38.376 billion a year earlier, a 34.8% fall driven by the base effect of the USD18.7 billion Dukovany award booked last year; excluding it, orders are up 27.2%. The government will step up financing support, order-pipeline intelligence and high-level engagement through K-SURE, KOTRA and the Korea Plant Industries Association, and will publish overseas plant order statistics quarterly. Daewoo E&C, DL E&C, Samsung E&A, Samsung C&T, GS E&C, Hyundai E&C and Hyundai Engineering attended.",
+      "sales_note": "두코바니 한 건이 연간 해외 플랜트 수주 통계를 좌우한다는 사실이 정부 수치로 확인됐다 — 187억 달러는 지난해 1~9월 전체 실적의 절반에 가깝다. 원전 수주가 국가 플랜트 실적의 변동성 자체를 만드는 구조이므로, 후속 수주 공백은 산업 전체 지표로 즉시 드러난다. 수출금융·무역보험 지원 창구가 중동 중심으로 재편되는 흐름은 유럽·동남아 원전 건의 금융 패키지를 짤 때 경쟁 자원 배분 측면에서 함께 봐야 한다.",
+      "sales_note_en": "The government's own figures confirm how much a single reactor award moves the national plant-export number: the USD18.7 billion Dukovany contract is close to half of last year's nine-month total. Nuclear awards now generate the volatility in Korea's plant export statistics, which means a gap between reactor contracts shows up immediately as an industry-wide decline. The parallel point is resourcing: as export finance and trade insurance support is reorganised around the Middle East, the financing packages being assembled for European and Southeast Asian nuclear bids are competing for the same capacity."
+    }
+  ]
+}

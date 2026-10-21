@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
   "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
   "tenders": [
@@ -80,6 +80,19 @@
       "published": "2026-10-12",
       "deadline": "2026-11-02",
       "url": "https://ted.europa.eu/en/notice/702999-2026/pdf"
+    },
+    {
+      "country": "SI",
+      "buyer": "Nuklearna elektrarna Krško d.o.o.",
+      "title": "크르슈코 원전 소내 변압기 T1·T2 절연상버스(IPB) 분기 개량 [재공고·협상방식]",
+      "title_en": "Upgrade of the isolated phase bus (IPB) branch to station transformers T1 and T2 at Krsko NPP [re-advertised, negotiated procedure]",
+      "scope": "소내 변압기 T1·T2로 가는 절연상버스(IPB) 분기 개량. 공고 후 협상 절차.",
+      "scope_en": "Upgrade of the isolated phase bus branch feeding station transformers T1 and T2. Negotiated procedure with a prior call.",
+      "portal": "TED",
+      "notice_no": "727619-2026",
+      "published": "2026-10-21",
+      "deadline": "2026-11-02",
+      "url": "https://ted.europa.eu/en/notice/727619-2026/pdf"
     },
     {
       "country": "SE",
@@ -292,19 +305,6 @@
     {
       "country": "CZ",
       "buyer": "ČEZ, a. s.",
-      "title": "제2주발전동(2.HVB) SPACOM 100계열 보호계통 전면 교체 (G799)",
-      "title_en": "Complete replacement of SPACOM series 100 protection relays in the second main production block (G799)",
-      "scope": "설계도서 작성과 SPACOM 100계열 보호계전기 완전 교체를 낙찰자 비용·위험으로 수행한다. 절차는 공고 후 협상이고 계약기간은 98개월, 입찰 마감은 2026년 11월 18일 12시다. 추정금액은 공고에 공개되지 않았다. 10월 14일 게재된 동일 제목 공고(710622-2026)의 마감은 11월 17일이다.",
-      "scope_en": "Preparation of the design documentation and complete replacement of the SPACOM series 100 protection relays, at the contractor's own cost and risk. The procedure is negotiated with a call for competition, the contract runs 98 months and bids close at 12:00 on 18 November 2026. No estimated value is disclosed. A notice with the same title published on 14 October (710622-2026) carries a 17 November deadline.",
-      "portal": "TED",
-      "notice_no": "714978-2026",
-      "published": "2026-10-15",
-      "deadline": "2026-11-18",
-      "url": "https://ted.europa.eu/en/notice/714978-2026/pdf"
-    },
-    {
-      "country": "CZ",
-      "buyer": "ČEZ, a. s.",
       "title": "중화(Neutralizace) 건물 49% 수산화나트륨 하역·저장 설비 재건 (A069)",
       "title_en": "Rebuild of the 49% sodium hydroxide unloading and storage plant, Neutralisation building (A069)",
       "scope": "49% 수산화나트륨 하역·저장 설비의 일부 기술설비 교체 및 영향 설비 조정. 안전·신뢰성 있는 운전 확보 목적. 절차는 공고 후 협상. 추정금액은 공고 데이터에 유효값이 없다",
@@ -314,6 +314,19 @@
       "published": "2026-10-12",
       "deadline": "2026-11-18",
       "url": "https://ted.europa.eu/en/notice/701699-2026/pdf"
+    },
+    {
+      "country": "CZ",
+      "buyer": "ČEZ, a. s.",
+      "title": "제2주발전동(2.HVB) SPACOM 100계열 보호계통 전면 교체 (G799)",
+      "title_en": "Complete replacement of SPACOM series 100 protection relays in the second main production block (G799)",
+      "scope": "설계도서 작성과 SPACOM 100계열 보호계전기 완전 교체를 낙찰자 비용·위험으로 수행한다. 절차는 공고 후 협상이고 계약기간은 98개월, 입찰 마감은 2026년 11월 18일 12시다. 추정금액은 공고에 공개되지 않았다. 10월 14일 게재된 동일 제목 공고(710622-2026)의 마감은 11월 17일이다.",
+      "scope_en": "Preparation of the design documentation and complete replacement of the SPACOM series 100 protection relays, at the contractor's own cost and risk. The procedure is negotiated with a call for competition, the contract runs 98 months and bids close at 12:00 on 18 November 2026. No estimated value is disclosed. A notice with the same title published on 14 October (710622-2026) carries a 17 November deadline.",
+      "portal": "TED",
+      "notice_no": "714978-2026",
+      "published": "2026-10-15",
+      "deadline": "2026-11-18",
+      "url": "https://ted.europa.eu/en/notice/714978-2026/pdf"
     },
     {
       "country": "CZ",
@@ -395,6 +408,19 @@
     },
     {
       "country": "GB",
+      "buyer": "Nuclear Waste Services Limited",
+      "title": "영국 Nuclear Waste Services — 부지특성조사 전문용역 지원(SCPSS) 프레임워크 3개 로트",
+      "title_en": "Site Characterisation Professional Services Support (SCPSS) framework, three lots",
+      "scope": "부지특성조사 기획·기술자문 등 3개 로트 프레임워크. 추정 1,380만 파운드(부가세 제외). 마감일 공고 데이터 미기재",
+      "scope_en": "Three-lot framework covering site characterisation planning and technical advisory services. Estimated GBP 13.8 million excluding VAT. No submission deadline stated in the notice data",
+      "portal": "UK FTS",
+      "notice_no": "095106-2026",
+      "published": "2026-10-08",
+      "deadline": null,
+      "url": "https://www.find-tender.service.gov.uk/Notice/095106-2026"
+    },
+    {
+      "country": "GB",
       "buyer": "Nuclear Restoration Services Limited",
       "title": "저장수조 계통 저압 전원반 설계·시공·설치·시운전 일괄 (PME)",
       "title_en": "Design, build, install and commissioning of ponds services switchboards (PME)",
@@ -418,19 +444,6 @@
       "published": "2026-10-06",
       "deadline": null,
       "url": "https://ted.europa.eu/en/notice/687978-2026/pdf"
-    },
-    {
-      "country": "GB",
-      "buyer": "Nuclear Waste Services Limited",
-      "title": "영국 Nuclear Waste Services — 부지특성조사 전문용역 지원(SCPSS) 프레임워크 3개 로트",
-      "title_en": "Site Characterisation Professional Services Support (SCPSS) framework, three lots",
-      "scope": "부지특성조사 기획·기술자문 등 3개 로트 프레임워크. 추정 1,380만 파운드(부가세 제외). 마감일 공고 데이터 미기재",
-      "scope_en": "Three-lot framework covering site characterisation planning and technical advisory services. Estimated GBP 13.8 million excluding VAT. No submission deadline stated in the notice data",
-      "portal": "UK FTS",
-      "notice_no": "095106-2026",
-      "published": "2026-10-08",
-      "deadline": null,
-      "url": "https://www.find-tender.service.gov.uk/Notice/095106-2026"
     },
     {
       "country": "PL",
@@ -457,6 +470,45 @@
       "published": "2026-10-21",
       "deadline": null,
       "url": "https://ted.europa.eu/en/notice/728533-2026/pdf"
+    },
+    {
+      "country": "PL",
+      "buyer": "Narodowe Centrum Badań Jądrowych (NCBJ)",
+      "title": "연구원자로 MARIA 배기·급기 환기계통 개량",
+      "title_en": "Modernisation of the extract and supply ventilation systems of the MARIA research reactor",
+      "scope": "3단계 구성 — ①현장조사·기존 계통 조사와 실시설계도서 작성, 납품·설치·SAT 공정표 ②폴란드 원자력기구(PAA) 인허가 획득 지원 ③2027년 정기정비 기간 중 8주 이내 기자재 납품(FAT 선행)·기존 설비 해체·신규 설치와 제어·전원·계측제어 통합·SAT·준공도서·운전원 교육(최소 20명). 마감일은 공고 데이터에 기재되지 않았다.",
+      "scope_en": "Three stages: a site survey and inventory plus detailed technical design and a delivery, installation and site-acceptance-test schedule; support in obtaining approval from the National Atomic Energy Agency (PAA); and execution within eight weeks during a 2027 outage, covering factory-tested equipment delivery, removal of existing units, installation and integration of controls, power and I&C, site acceptance testing, as-built documentation and operator training for at least 20 staff. No deadline is stated in the notice data.",
+      "portal": "TED",
+      "notice_no": "731646-2026",
+      "published": "2026-10-22",
+      "deadline": null,
+      "url": "https://ted.europa.eu/en/notice/731646-2026/pdf"
+    },
+    {
+      "country": "HU",
+      "buyer": "MVM Paksi Atomerőmű Zrt.",
+      "title": "팍시 원전 최종안전보고서(VBJ) 갱신·2027년 주기적안전성평가(IBF) 지원 엔지니어링 기본협약",
+      "title_en": "Engineering framework for Final Safety Report updates and support for the 2027 Periodic Safety Review at Paks NPP",
+      "scope": "VVER-440 호기의 최종안전보고서(VBJ) 연단위 갱신과 2027년 도래 주기적안전성평가(IBF)·주기적안전보고서(IBJ) 작성에 필요한 기술엔지니어링·학술지원. 기본상한 7억 7,470만 포린트(부가세 별도), 계약기간 60개월. 마감일은 공고 데이터에 기재되지 않았다.",
+      "scope_en": "Technical engineering and scientific support for the annual consolidation of the VVER-440 Final Safety Report and for the Periodic Safety Review due in 2027, including the closing Periodic Safety Report. Ceiling HUF 774.7 million excluding VAT over a 60-month term. No deadline is stated in the notice data.",
+      "portal": "TED",
+      "notice_no": "731719-2026",
+      "published": "2026-10-22",
+      "deadline": null,
+      "url": "https://ted.europa.eu/en/notice/731719-2026/pdf"
+    },
+    {
+      "country": "NL",
+      "buyer": "Gemeente Den Helder",
+      "title": "덴헬더르 지자체 관내 소형모듈원전(SMR) 도입 타당성 시장조사",
+      "title_en": "Market consultation on the feasibility of a Small Modular Reactor (SMR) within the Municipality of Den Helder",
+      "scope": "관내 SMR 도입 타당성에 대한 사전 시장조사. SMR 기술의 가용성·성숙도, 기술·경제성 타당성, 부지여건·공간계획 통합·일정·리스크관리, 전력수요·계통연계, 개발·소유·운영·협력 모델, 투자규모·자금조달 모델, 인허가·건설·운영 소요기간, 사회적 수용성·주민참여 방안을 묻는다. 마감일은 공고 데이터에 기재되지 않았다.",
+      "scope_en": "Prior market consultation on the feasibility of an SMR inside the municipality, covering SMR technology availability and maturity, technical and economic feasibility, site conditions and spatial integration, energy offtake and grid integration, development, ownership and operating models, investment volume and financing, permitting and construction lead times, and public acceptance. No deadline is stated in the notice data.",
+      "portal": "TED",
+      "notice_no": "731770-2026",
+      "published": "2026-10-22",
+      "deadline": null,
+      "url": "https://ted.europa.eu/en/notice/731770-2026/pdf"
     }
   ]
 }

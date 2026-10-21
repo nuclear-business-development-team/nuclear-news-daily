@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-22",
+  "run_started": "2026-10-22T08:04:45+09:00",
+  "run_finished": "2026-10-22T08:31:25+09:00",
+  "run_minutes": 26.7,
+  "articles": 13,
+  "by_region": {
+    "overseas": 11,
+    "domestic": 2
+  },
+  "by_importance": {
+    "3": 3,
+    "2": 7,
+    "1": 3
+  },
+  "detection_lag_hours": {
+    "median": 23.1,
+    "max": 47.1,
+    "n": 13
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "ANS Nuclear Newswire",
+    "TED Search API (api.ted.europa.eu/v3)",
+    "더구루 (RSS)",
+    "더트래커 (RSS, www 없는 주소)",
+    "정책브리핑 korea.kr (원전/SMR/원자력)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "UK Find a Tender (검색)",
+    "한국경제"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "empty response (0 bytes), 2 attempts"
+    },
+    {
+      "name": "더트래커 RSS (sources.yaml 등록 주소 www.thetracker.co.kr)",
+      "reason": "302 redirect, empty body at configured URL"
+    },
+    {
+      "name": "TED 공고 본문 PDF (ted.europa.eu/en/notice/<no>/pdf)",
+      "reason": "empty page via fetch; facts taken from TED API instead"
+    },
+    {
+      "name": "asahi.com",
+      "reason": "EGRESS_BLOCKED (search user-agent)"
+    },
+    {
+      "name": "economictimes.indiatimes.com",
+      "reason": "EGRESS_BLOCKED (search user-agent)"
+    },
+    {
+      "name": "thehindubusinessline.com",
+      "reason": "EGRESS_BLOCKED (search user-agent)"
+    }
+  ],
+  "languages": {
+    "en": 7,
+    "hu": 1,
+    "pl": 1,
+    "sl": 2,
+    "ko": 2
+  },
+  "method_changes": [
+    "TED 전문검색 어근을 19개에서 46개로 확장했다 — 언어별 원자력 어근에 발주처·부지명 27개(Dukovany·Temelin·Cernavoda·Paks·Krsko·Kozloduy·Olkiluoto·Borssele·Ignalina 등)를 더했다. 게재일 2026-10-21~22 구간에서 고유 공고 95건을 얻었다(전 회차 동일 구간 길이에서 68건). TED 검색 API 자체는 이전 회차부터 쓰던 경로이며, 이번 회차의 변경점은 어근 확장이다.",
+    "UK Find a Tender 를 OCDS API 로 기간 내 482건(5페이지) 전수 조회했다 — 원자력 관련 9건 전건 수집 범위 밖. 발주처명이 'Great British Energy' 인 사전공고는 본문에서 태양광 사업임을 확인했고, 원자력 전담 조직 GBE-N 과는 별개 발주처다. 발주처명만으로 판정하지 않는다는 규칙의 근거가 됐다.",
+    "`rolls-royce-smr.com` 조회 경로를 직접 접속에서 웹검색으로 바꿨다 — 직접 접속은 계속 403(Cloudflare)이나 웹검색 경로로는 정상 조회됐다. 직접 접속이 막힌 출처는 앞으로 웹검색을 1차 경로로 쓴다."
+  ]
+}

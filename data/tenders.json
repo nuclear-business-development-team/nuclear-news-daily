@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
   "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
   "tenders": [
@@ -509,6 +509,58 @@
       "published": "2026-10-22",
       "deadline": null,
       "url": "https://ted.europa.eu/en/notice/731770-2026/pdf"
+    },
+    {
+      "country": "CZ",
+      "buyer": "ČEZ ENERGOSERVIS spol. s r.o.",
+      "title": "두코바니·테멜린 원전 배관·용접 역무 공급사 자격심사시스템 — 역량지원(인력 공급) 범주",
+      "title_en": "Supplier qualification system for piping and welding work at the Dukovany and Temelin nuclear plants - capacity support category",
+      "scope": "장래 발주를 위한 유자격 공급사 명부 구성이 목적이다. 두코바니(EDU)·테멜린(ETE) 원전의 기계설비·배관계통에 대한 설치·해체·수리·개조·정비 활동에 투입할 유자격 인력 공급이 대상이며, 기술문서와 기술절차·적용 기술표준에 따라 열·압력으로 금속 및 일부 비금속 재료를 영구 접합하는 전문 작업이 중심이다. CPV 50500000·45262680. 마감일과 추정금액은 공고에 기재되지 않았다(자격심사시스템은 상시 접수 창구).",
+      "scope_en": "The purpose is to build a roster of qualified suppliers for future contracts. It covers the supply of qualified personnel for installation, dismantling, repair, reconstruction and maintenance of mechanical equipment and piping systems at the Dukovany (EDU) and Temelin (ETE) plants, centred on specialist work permanently joining metallic and some non-metallic materials by heat or pressure in accordance with technical documentation, procedures and applicable standards. CPV 50500000 and 45262680. No deadline or estimated value is stated in the notice; a qualification system accepts applications on an ongoing basis.",
+      "portal": "TED",
+      "notice_no": "730671-2026",
+      "published": "2026-10-22",
+      "deadline": null,
+      "url": "https://ted.europa.eu/en/notice/730671-2026/pdf"
+    },
+    {
+      "country": "CZ",
+      "buyer": "ČEZ ENERGOSERVIS spol. s r.o.",
+      "title": "두코바니·테멜린 원전 배관·용접 역무 공급사 자격심사시스템 — 자체작업반 범주",
+      "title_en": "Supplier qualification system for piping and welding work at the Dukovany and Temelin nuclear plants - own work group category",
+      "scope": "같은 발주처의 두 번째 자격심사 범주다. 두코바니·테멜린 원전 설비의 정상 기능 확보를 목적으로 용접·배관 작업을 수행하되, 용접 시공과 함께 용접 준비 전반을 포함한다 — 용접사 자격(국가자격·EN ISO) 확인, 용접절차서(WPS) 등 기술문서 작성, 작업안전(BOZP)·방화 조치 등 조직·행정·기술 준비가 범위에 들어간다. 기술절차는 ČEZ EGS 및 관련 주체의 승인을 받아야 한다. CPV 50500000·45262680. 마감일과 추정금액은 공고에 기재되지 않았다.",
+      "scope_en": "This is the buyer's second qualification category. It covers welding and piping work to keep plant equipment at Dukovany and Temelin functioning properly, and spans not only the welding itself but the surrounding preparation - verifying welder qualifications (national certification and EN ISO), producing technical documentation such as welding procedure specifications, and occupational safety and fire-protection measures. The contractor's technical procedures must be approved by CEZ EGS and the related entities. CPV 50500000 and 45262680. No deadline or estimated value is stated in the notice.",
+      "portal": "TED",
+      "notice_no": "736607-2026",
+      "published": "2026-10-23",
+      "deadline": null,
+      "url": "https://ted.europa.eu/en/notice/736607-2026/pdf"
+    },
+    {
+      "country": "LT",
+      "buyer": "Valstybės įmonė Ignalinos atominė elektrinė",
+      "title": "고화처리 저준위폐기물 포장용기 방사선학적 특성평가 설비 소프트웨어 갱신",
+      "title_en": "Software upgrade for the facility that radiologically characterises cemented low-level waste packages",
+      "scope": "해체가 진행 중인 이그날리나 원전에서, 고화처리된 저준위폐기물 포장용기의 방사선학적 특성평가 설비에 쓰이는 소프트웨어를 갱신하는 조달이다. CPV 48710000(백업·복구 소프트웨어 패키지)·80500000(교육훈련 서비스). 추정금액은 공고에 기재되지 않았다.",
+      "scope_en": "At the Ignalina plant, now under decommissioning, this procurement upgrades the software used by the facility that radiologically characterises cemented low-level waste packages. CPV 48710000 (backup or recovery software package) and 80500000 (training services). No estimated value is stated in the notice.",
+      "portal": "TED",
+      "notice_no": "730767-2026",
+      "published": "2026-10-22",
+      "deadline": "2026-11-25",
+      "url": "https://ted.europa.eu/en/notice/730767-2026/pdf"
+    },
+    {
+      "country": "LT",
+      "buyer": "Valstybės įmonė Ignalinos atominė elektrinė",
+      "title": "단선식 현수 천장크레인·공기식 호이스트 구매",
+      "title_en": "Purchase of single-girder suspended overhead cranes and pneumatic hoists",
+      "scope": "이그날리나 원전의 단선식 현수 천장크레인과 공기식 호이스트 구매다. CPV 42414000(크레인·이동식 양중프레임·크레인 장착 작업차)·71320000(설계용역)·80500000(교육훈련 서비스)로 분류돼, 기자재 공급과 함께 설계·교육이 포함된 구성으로 보인다. 추정금액은 공고에 기재되지 않았다.",
+      "scope_en": "Purchase of single-girder suspended overhead cranes and pneumatic hoists for the Ignalina plant. The CPV codes - 42414000 (cranes, mobile lifting frames and works trucks fitted with a crane), 71320000 (engineering design services) and 80500000 (training services) - suggest the package combines equipment supply with design and training. No estimated value is stated in the notice.",
+      "portal": "TED",
+      "notice_no": "735126-2026",
+      "published": "2026-10-23",
+      "deadline": "2026-11-03",
+      "url": "https://ted.europa.eu/en/notice/735126-2026/pdf"
     }
   ]
 }

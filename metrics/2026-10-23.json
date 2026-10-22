@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-23",
+  "run_started": "2026-10-23T08:04:30+09:00",
+  "run_finished": "2026-10-23T08:28:13+09:00",
+  "run_minutes": 24,
+  "articles": 12,
+  "by_region": {
+    "overseas": 9,
+    "domestic": 3
+  },
+  "by_importance": {
+    "3": 4,
+    "2": 6,
+    "1": 2
+  },
+  "detection_lag_hours": {
+    "median": 23.07,
+    "max": 23.07,
+    "n": 12
+  },
+  "sources_ok": [
+    "World Nuclear News",
+    "NucNet",
+    "IAEA Top News",
+    "Nuclear Engineering International",
+    "POWER Magazine",
+    "UK DESNZ (gov.uk)",
+    "ANS Nuclear Newswire",
+    "TED (검색 API)",
+    "UK Find a Tender (OCDS API)",
+    "정책브리핑 (korea.kr)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "더구루",
+    "더트래커",
+    "Finnish Government (valtioneuvosto.fi)"
+  ],
+  "sources_failed": [
+    {
+      "name": "OECD NEA News",
+      "reason": "403"
+    }
+  ],
+  "languages": {
+    "cs": 1,
+    "en": 6,
+    "ko": 4,
+    "lt": 1
+  },
+  "notes": [
+    "NEI·더트래커 피드는 301 리다이렉트가 원인이던 전 회차 빈 응답이 curl -L 로 해소됨(둘 다 정상 수집). sources.yaml 주소 수정 권장.",
+    "TED 공고 본문 PDF는 WebFetch 빈 페이지·curl HTTP 202(본문 0바이트)로 열리지 않아 공고 내용은 전부 TED 검색 API 필드에서 확인함.",
+    "korea.kr 보도자료 본문은 첨부 PDF를 /common/download.do 로 받아 pdftotext 로 확인함(전 회차 미확인 건과 같은 유형).",
+    "한국전력 보도·설명자료 게시판은 접속됐으나 개별 글 본문이 스크립트 링크로만 제공되어 10/22 '한전 출자회사 임원 선임' 건의 원전 관련 여부를 확인하지 못해 기사에 싣지 않음.",
+    "현지어 검색(금요일 대상 16개국)은 기간 내 신규 보도를 반출하지 않음 — 검색엔진 색인 지연."
+  ]
+}

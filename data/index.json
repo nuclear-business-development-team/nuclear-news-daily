@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-10-24",
+      "article_count": 8,
+      "headline_ko": "로사톰이 우즈베키스탄 지자흐 대형원전 2기(각 1,000MW) 착공을 2027년으로 못박았다 — 같은 부지의 SMR 2기는 이미 5월 기초슬래브를 치고 시공 중이고, 설비용량이 당초 330MW에서 2,100MWe 이상으로 커지는 동안 공급사는 경쟁 과정 없이 로사톰으로 유지됐다. 미국에서는 NRC와 FERC가 2003년 대정전 이후 20년 만에 합동회의를 열어 데이터센터발 수요(10년간 여름 최대수요 224GW 증가)와 계통연계 병목을 다뤘고, 폐쇄 원전 재가동 3건이 다른 발전소의 연계권리를 넘겨받는 방식으로 진행 중임이 확인됐다. 국내는 금요일 정부·기관 발표가 없었고, 한전기술이 도화엔지니어링과 해외 발전시장 공동진출 업무협약을 맺은 것이 유일한 동향이다(범위에 원자력은 빠짐)",
+      "headline_en": "Rosatom has put a date on Uzbekistan's large reactors - 2027 - while two SMRs on the same site are already being built; what the market should notice is that planned capacity grew from 330 MW to over 2,100 MWe without the work ever going back out to competition. In Washington, the NRC and FERC met jointly for the first time since the 2003 blackout, where the binding constraint on new nuclear now looks less like licensing than like getting onto the grid: three restarts are advancing on interconnection rights inherited from other plants. Seoul was quiet, with only an MOU between KEPCO E&C and Dohwa Engineering on overseas power projects - nuclear not included"
+    },
+    {
       "date": "2026-10-23",
       "article_count": 12,
       "headline_ko": "로이터 보도로 헝가리가 팍시 2단계 주계약자 로사톰 교체를 검토하고 대체 공급사 접촉을 시작한 것이 확인됐다 — 2014년 수의계약으로 넘어간 EU 내 대형원전 2기가 다시 열릴 수 있는 첫 신호이고 결정은 2026년 말~2027년 초, 다만 부지·설계가 VVER 기준이어서 노형 교체 시 설계 전환 범위가 쟁점이 된다. 영국에서는 SGE의 BWRX-300 14기(4.2GW)에 OPG 자회사가 운영사로 붙어 개발사–노형공급사–운영사 3분 구조가 굳어졌고, 핀란드는 포시바 올킬루오토 처분장에 2070년까지 유효한 운영허가를 내 심층처분장 세계 첫 사례가 됐다. 국내는 산업통상부가 스트라스부르에서 EU 산업가속화법 소관 유럽의회 의원 9명을 연쇄 면담하고 원전을 자동차·철강·배터리와 묶어 동등성 원칙 적용을 요청해, 이틀 전 '우려 전달' 단계였던 사안이 입법 심의 창구로 올라갔다",

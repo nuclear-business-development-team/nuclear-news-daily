@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
   "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
   "tenders": [
@@ -212,19 +212,6 @@
       "url": "https://ted.europa.eu/en/notice/696565-2026/pdf"
     },
     {
-      "country": "GB",
-      "buyer": "Great British Energy - Nuclear",
-      "title": "그윈도드(Gwyndod) 소형모듈원자로 사업 및 SMR 프로그램 재원·자금조달 자문",
-      "title_en": "Financial advisory services for the Gwyndod small modular reactor project and the wider SMR programme",
-      "scope": "그윈도드 SMR 사업과 SMR 프로그램 전반의 공공·민간·혼합 조달방식에 대한 장단점·위험·전제조건 분석, 시장 소통 지원, 향후 정부 결정 근거 작성. 추정금액은 부가세 포함 60만 파운드이며 발주처의 현재 가정에 따른 총 지출 추정치다. 상세 과업지시서는 상호 비밀유지협약 체결 뒤 초청 참가자에게 배포된다.",
-      "scope_en": "Analysis of the advantages, risks and enabling conditions of public, private and hybrid funding and financing approaches for the Gwyndod SMR project and the wider SMR programme, support for market engagement, and the evidence base for future government decisions. The estimated value is GBP 600,000 including VAT, a total potential spend on the buyer's current assumptions. The detailed scope is issued to invited tenderers after a mutual non-disclosure agreement.",
-      "portal": "UK Find a Tender",
-      "notice_no": "097231-2026",
-      "published": "2026-10-14",
-      "deadline": "2026-11-12",
-      "url": "https://www.find-tender.service.gov.uk/Notice/097231-2026"
-    },
-    {
       "country": "TR",
       "buyer": "European Commission, INTPA - International Partnerships",
       "title": "EU 집행위(INTPA) — 튀르키예 원자력규제청(NDK)·기술지원기관(NÜTED) 역량강화 용역",
@@ -252,16 +239,16 @@
     },
     {
       "country": "GB",
-      "buyer": "Nuclear Restoration Services Limited",
-      "title": "힝클리포인트A 1·2호기 스프링행거 철거 — 설계·시공 사전시장조사(RFI)",
-      "title_en": "Removal of spring hangers, Hinkley Point A Reactors 1 and 2 — preliminary market engagement",
-      "scope": "1·2호기 스프링행거 조립체 철거의 설계와 시공. 가설지지대 설계·설치, 스프링 하중 해제, 조립체 전량 철거, 가설물 철거. 공고 기재값 570만 파운드(부가세 포함 684만), 중소기업 적합 표시. 회신 마감 11월 13일, 본 공고 예고 2027년 2월 1일, 계약기간 2027년 7월~2029년 6월",
-      "scope_en": "Design and delivery of works to remove the spring hanger assemblies on Reactors 1 and 2: design and installation of temporary supports, de-energisation of the springs, removal of the assemblies in their entirety and removal of the temporary works. Notice value GBP 5.7 million (GBP 6.84 million incl. VAT), flagged suitable for SMEs. Responses due 13 November; the tender notice is signalled for 1 February 2027 and the contract would run July 2027 to June 2029.",
+      "buyer": "Great British Energy - Nuclear",
+      "title": "그윈도드(Gwyndod) 소형모듈원자로 사업 및 SMR 프로그램 재원·자금조달 자문",
+      "title_en": "Financial advisory services for the Gwyndod small modular reactor project and the wider SMR programme",
+      "scope": "그윈도드 SMR 사업과 SMR 프로그램 전반의 공공·민간·혼합 조달방식에 대한 장단점·위험·전제조건 분석, 시장 소통 지원, 향후 정부 결정 근거 작성. 추정금액은 부가세 포함 60만 파운드이며 발주처의 현재 가정에 따른 총 지출 추정치다. 상세 과업지시서는 상호 비밀유지협약 체결 뒤 초청 참가자에게 배포된다.",
+      "scope_en": "Analysis of the advantages, risks and enabling conditions of public, private and hybrid funding and financing approaches for the Gwyndod SMR project and the wider SMR programme, support for market engagement, and the evidence base for future government decisions. The estimated value is GBP 600,000 including VAT, a total potential spend on the buyer's current assumptions. The detailed scope is issued to invited tenderers after a mutual non-disclosure agreement.",
       "portal": "UK Find a Tender",
-      "notice_no": "096201-2026",
-      "published": "2026-10-12",
-      "deadline": "2026-11-13",
-      "url": "https://www.find-tender.service.gov.uk/Notice/096201-2026"
+      "notice_no": "097231-2026",
+      "published": "2026-10-14",
+      "deadline": "2026-11-12",
+      "url": "https://www.find-tender.service.gov.uk/Notice/097231-2026"
     },
     {
       "country": "SK",
@@ -275,6 +262,19 @@
       "published": "2026-10-13",
       "deadline": "2026-11-13",
       "url": "https://ted.europa.eu/en/notice/706302-2026/pdf"
+    },
+    {
+      "country": "GB",
+      "buyer": "Nuclear Restoration Services Limited",
+      "title": "힝클리포인트A 1·2호기 스프링행거 철거 — 설계·시공 사전시장조사(RFI)",
+      "title_en": "Removal of spring hangers, Hinkley Point A Reactors 1 and 2 — preliminary market engagement",
+      "scope": "1·2호기 스프링행거 조립체 철거의 설계와 시공. 가설지지대 설계·설치, 스프링 하중 해제, 조립체 전량 철거, 가설물 철거. 공고 기재값 570만 파운드(부가세 포함 684만), 중소기업 적합 표시. 회신 마감 11월 13일, 본 공고 예고 2027년 2월 1일, 계약기간 2027년 7월~2029년 6월",
+      "scope_en": "Design and delivery of works to remove the spring hanger assemblies on Reactors 1 and 2: design and installation of temporary supports, de-energisation of the springs, removal of the assemblies in their entirety and removal of the temporary works. Notice value GBP 5.7 million (GBP 6.84 million incl. VAT), flagged suitable for SMEs. Responses due 13 November; the tender notice is signalled for 1 February 2027 and the contract would run July 2027 to June 2029.",
+      "portal": "UK Find a Tender",
+      "notice_no": "096201-2026",
+      "published": "2026-10-12",
+      "deadline": "2026-11-13",
+      "url": "https://www.find-tender.service.gov.uk/Notice/096201-2026"
     },
     {
       "country": "BE",
@@ -407,32 +407,6 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/674253-2026"
     },
     {
-      "country": "GB",
-      "buyer": "Nuclear Waste Services Limited",
-      "title": "영국 Nuclear Waste Services — 부지특성조사 전문용역 지원(SCPSS) 프레임워크 3개 로트",
-      "title_en": "Site Characterisation Professional Services Support (SCPSS) framework, three lots",
-      "scope": "부지특성조사 기획·기술자문 등 3개 로트 프레임워크. 추정 1,380만 파운드(부가세 제외). 마감일 공고 데이터 미기재",
-      "scope_en": "Three-lot framework covering site characterisation planning and technical advisory services. Estimated GBP 13.8 million excluding VAT. No submission deadline stated in the notice data",
-      "portal": "UK FTS",
-      "notice_no": "095106-2026",
-      "published": "2026-10-08",
-      "deadline": null,
-      "url": "https://www.find-tender.service.gov.uk/Notice/095106-2026"
-    },
-    {
-      "country": "GB",
-      "buyer": "Nuclear Restoration Services Limited",
-      "title": "저장수조 계통 저압 전원반 설계·시공·설치·시운전 일괄 (PME)",
-      "title_en": "Design, build, install and commissioning of ponds services switchboards (PME)",
-      "scope": "저장수조 계통의 저압 전원반과 부속 케이블 설비 신설. 낙찰자가 상세설계, 기자재 조달, 설치, 시험, 시운전을 수행하고 기존 전원 공급 경로 재배선을 포함한다. 주설계자와 주시공자 책임은 발주처가 유지한다. 추정금액 160만 파운드(부가세 포함 200만 파운드). 공고는 발주 준비(planning) 단계로 입찰 마감일이 아직 공고되지 않았다.",
-      "scope_en": "New low-voltage switchboards and associated cabling infrastructure for the ponds services system. The contractor carries out detailed design, procurement, installation, testing and commissioning, including re-routing of existing electrical supplies, while the buyer retains principal designer and principal contractor duties. Estimated value GBP 1.6 million (GBP 2.0 million including VAT). The notice is at planning stage and no bid deadline has been published.",
-      "portal": "UK Find a Tender",
-      "notice_no": "096664-2026",
-      "published": "2026-10-13",
-      "deadline": null,
-      "url": "https://www.find-tender.service.gov.uk/Notice/096664-2026"
-    },
-    {
       "country": "PL",
       "buyer": "Bechtel Polska Sp. z o.o.",
       "title": "AP1000 수직터빈펌프 33대 제작·공급 — 폴란드 AP1000 3기",
@@ -509,6 +483,32 @@
       "published": "2026-10-22",
       "deadline": null,
       "url": "https://ted.europa.eu/en/notice/731770-2026/pdf"
+    },
+    {
+      "country": "GB",
+      "buyer": "Nuclear Waste Services Limited",
+      "title": "영국 Nuclear Waste Services — 부지특성조사 전문용역 지원(SCPSS) 프레임워크 3개 로트",
+      "title_en": "Site Characterisation Professional Services Support (SCPSS) framework, three lots",
+      "scope": "부지특성조사 기획·기술자문 등 3개 로트 프레임워크. 추정 1,380만 파운드(부가세 제외). 마감일 공고 데이터 미기재",
+      "scope_en": "Three-lot framework covering site characterisation planning and technical advisory services. Estimated GBP 13.8 million excluding VAT. No submission deadline stated in the notice data",
+      "portal": "UK FTS",
+      "notice_no": "095106-2026",
+      "published": "2026-10-08",
+      "deadline": null,
+      "url": "https://www.find-tender.service.gov.uk/Notice/095106-2026"
+    },
+    {
+      "country": "GB",
+      "buyer": "Nuclear Restoration Services Limited",
+      "title": "저장수조 계통 저압 전원반 설계·시공·설치·시운전 일괄 (PME)",
+      "title_en": "Design, build, install and commissioning of ponds services switchboards (PME)",
+      "scope": "저장수조 계통의 저압 전원반과 부속 케이블 설비 신설. 낙찰자가 상세설계, 기자재 조달, 설치, 시험, 시운전을 수행하고 기존 전원 공급 경로 재배선을 포함한다. 주설계자와 주시공자 책임은 발주처가 유지한다. 추정금액 160만 파운드(부가세 포함 200만 파운드). 공고는 발주 준비(planning) 단계로 입찰 마감일이 아직 공고되지 않았다.",
+      "scope_en": "New low-voltage switchboards and associated cabling infrastructure for the ponds services system. The contractor carries out detailed design, procurement, installation, testing and commissioning, including re-routing of existing electrical supplies, while the buyer retains principal designer and principal contractor duties. Estimated value GBP 1.6 million (GBP 2.0 million including VAT). The notice is at planning stage and no bid deadline has been published.",
+      "portal": "UK Find a Tender",
+      "notice_no": "096664-2026",
+      "published": "2026-10-13",
+      "deadline": null,
+      "url": "https://www.find-tender.service.gov.uk/Notice/096664-2026"
     },
     {
       "country": "CZ",

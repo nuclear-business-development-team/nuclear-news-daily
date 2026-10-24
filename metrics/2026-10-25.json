@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-25",
+  "run_started": "2026-10-25T08:04:17+09:00",
+  "run_finished": "2026-10-25T08:19:30+09:00",
+  "run_minutes": 15.2,
+  "articles": 8,
+  "by_region": {
+    "overseas": 7,
+    "domestic": 1
+  },
+  "by_importance": {
+    "3": 2,
+    "2": 4,
+    "1": 2
+  },
+  "detection_lag_hours": {
+    "median": 59.07,
+    "max": 71.07,
+    "n": 8
+  },
+  "sources_ok": [
+    "World Nuclear News",
+    "NucNet",
+    "IAEA Top News",
+    "POWER Magazine",
+    "UK DESNZ (gov.uk)",
+    "더구루",
+    "더트래커",
+    "ANS Nuclear Newswire",
+    "정책브리핑(korea.kr)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "OSGE (보도자료)",
+    "Business Wire",
+    "PR Newswire",
+    "Demokracija",
+    "머니투데이"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "stale_feed — HTTP 200 (14KB, redirect followed) but newest item still 2026-06-16; unchanged 4+ months"
+    },
+    {
+      "name": "Nuclear Engineering International (RSS, no -L)",
+      "reason": "301 — feed requires redirect following; resolved with curl -L"
+    },
+    {
+      "name": "더트래커 (RSS, no -L)",
+      "reason": "301 — feed requires redirect following; resolved with curl -L"
+    }
+  ],
+  "languages": {
+    "en": 5,
+    "pl": 1,
+    "sl": 1,
+    "ko": 1
+  },
+  "notes": "Sunday run. No overseas or domestic source published anything inside the window (2026-10-24 ~ 2026-10-25): WNN/ANS/NucNet/IAEA/DESNZ all newest 2026-10-23, domestic feeds carried no nuclear items, korea.kr/KHNP newest 2026-10-22. 7 of 8 articles are catch-up on 2026-10-22~23 publications the previous runs missed; all publication dates verified in the article or release body. TED publishes no notices at weekends, so no new tenders. One claim was rejected for lack of verification: a 2026-10-24 Neutron Bytes opinion piece asserting Westinghouse cancelled commercial eVinci work in October — contradicted by Westinghouse's own releases (Army Janus selection in August, 663C high-temperature criticality on 15 September) and not independently confirmed, so excluded. The same piece misstated Indiana's designation tier names; the state's own names (Nuclear Aware/Prepared/Ready) were used instead."
+}

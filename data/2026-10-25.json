@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T09:06:00+09:00",
+  "period": {
+    "from": "2026-10-24",
+    "to": "2026-10-25"
+  },
+  "overview_ko": "일요일 수집분이라 신규 게재는 매우 적었고, 해외 전문지(WNN·ANS·NucNet)와 IAEA·영국 에너지부 피드 모두 10월 23일 이후 신규 기사가 없었다. 대신 전일까지의 브리핑에서 빠진 10월 22~23일 게재분을 다시 훑어 일곱 건을 보강했다(기간 내 게재는 슬로베니아 1건뿐이다). 가장 중요한 움직임은 캐나다 총리가 앳킨스레알리스의 튀르키예 신규 원전 입찰을 직접 거론하며 결정 시점을 \"연말 또는 COP31 무렵\"으로 제시한 것으로, 시놉 부지에 CANDU 타당성조사가 이미 진행 중이고 현지 시공사 협력·공급망 현지화가 제안 축으로 공개됐다. 폴란드에서는 오를렌·신토스·OSGE가 우산협약을 맺어 BWRX-300 사업의 주도권을 합작사에서 부지별 주도 투자자로 내리고, 브와츠와베크는 오를렌 지배 특수목적회사가 단계별로 시행하며 오를렌이 노형 라이선스를 직접 취득하는 구조로 바뀌었다 — 앞으로 공고 주체가 OSGE가 아닌 SPC 명의로 나올 수 있다는 뜻이다. 슬로베니아는 반대 방향으로, GEN에너기야 신임 사장이 JEK2 착공을 2035년 전후·시운전을 2040년 이후로 제시하고 국가공간계획이 1년 6개월~2년 지연 상태임을 인정했다. 미국에서는 안타레스 Mark-1이 DOE 원자력안전설계협약을 통과해 2027년 INL 전출력 운전 경로에 올랐고, 데어리랜드파워가 폐지 석탄부지에 BWXT mPower 기반 100MWe SMR 검토 의향서를 맺었다. 영업 관점: 튀르키예는 노형 비교가 아니라 현지 파트너·금융·산업협력을 묶은 패키지로 두 달 안에 승부가 나는 국면이고, 폴란드는 공고 주체가 합작사에서 특수목적회사로 내려가므로, 발주 창구를 SPC 단위로 다시 파악하는 것이 당장 할 일이다.",
+  "overview_en": "This is a Sunday run and very little was newly published: the overseas trade press (WNN, ANS, NucNet) and the IAEA and UK energy department feeds carried nothing dated after 23 October. The run therefore went back over what the previous briefings had missed and added seven items published on 22-23 October; only one article, from Slovenia, was published inside the window. The most significant is that Canada's prime minister spoke directly about AtkinsRéalis' bid for Turkey's next nuclear plant and put the decision \"from here to the end of the year, or around COP31\"; a CANDU feasibility study at Sinop is already under way, and local construction partnerships and supply-chain localisation were named as the pitch. In Poland, Orlen, Synthos and OSGE signed an umbrella agreement moving leadership of the BWRX-300 programme down from the joint venture to a lead investor per site: Włocławek will be delivered in stages by an Orlen-controlled special purpose company, with Orlen taking the reactor licence directly - which means notices may start appearing under the SPC's name rather than OSGE's. Slovenia moved the other way, with the new head of GEN energija putting JEK2 construction around 2035 and operation after 2040 and acknowledging the national spatial plan is one and a half to two years behind. In the United States, Antares' Mark-1 cleared DOE's Nuclear Safety Design Agreement, putting it on course for full-power operation at Idaho National Laboratory in 2027, and Dairyland Power signed a letter of intent to study a 100 MWe mPower-based SMR on a retired coal site. Sales angle: Turkey will be decided within two months on a package of local partners, financing and industrial cooperation rather than on reactor-type comparison, and in Poland the procurement channel is dropping from the joint venture to special purpose companies, so the immediate task is to re-establish who will actually be letting the work.",
+  "domestic_overview_ko": "국내는 주말이라 정부·공공기관 신규 발표가 없었다. 정책브리핑(korea.kr)은 원전·SMR·원자력 세 검색어 모두 10월 22일 이후 신규 보도자료가 없고, 한수원 보도자료는 10월 22일(청정수소 교육) 이후, 한전은 10월 23일 2건(송전망 보도설명·HR 수상)으로 모두 원전과 무관하다. 국내 피드(더구루·더트래커)에도 원전 관련 기사가 없었다. 대신 전일 누락분으로, 원자력안전위원회가 10월 27일 제17회 회의에서 고리 3·4호기 계속운전 허가안을 다시 심의한다는 사실을 확인했다. 10월 15일 제16회 회의에서 결론을 내지 못하고 방사선환경영향평가 보완이 지적된 안건으로, 고리 3호기는 2024년 9월부터, 4호기는 2025년 8월부터 설계수명 만료로 멈춰 있다. 영업 관점: 계속운전 심의가 방사선환경영향평가 보완으로 반복 지연되는 패턴은 해외 입찰에서 내세우는 운영·규제 레퍼런스의 예측가능성에 그대로 걸리는 반면, 27일 허가가 나면 계속운전 실적 부지가 둘로 늘어 LTO·개보수 시장 제안서에 쓸 자국 실적이 보강되므로 결과에 맞춘 레퍼런스 자료 갱신을 미리 준비해 둘 필요가 있다.",
+  "domestic_overview_en": "Nothing new came from government or public bodies over the weekend. The policy briefing portal (korea.kr) has had no nuclear, SMR or atomic-energy releases dated after 22 October; KHNP's board has had nothing since 22 October (a clean-hydrogen training course); and KEPCO's two posts dated 23 October concern the transmission grid and an HR award, neither nuclear. The domestic feeds (TheGuru, TheTracker) carried no nuclear items. What the run did confirm, as a catch-up on what the previous briefing missed, is that the Nuclear Safety and Security Commission will take up the continued-operation permit for Kori 3 and 4 again at its 17th meeting on 27 October. The item went unresolved at the 16th meeting on 15 October, where members pointed to the need to supplement the radiation environmental impact assessment. Kori 3 has been shut since September 2024 and Kori 4 since August 2025, both at the end of their design lives. Sales angle: a continued-operation review that keeps slipping over supplements to the radiation environmental impact assessment feeds into the predictability of the operating and regulatory record we present in overseas bids, while approval on 27 October would take Korea to two sites with life-extension experience and strengthen the domestic record available for long-term-operation and refurbishment proposals - so reference material should be prepared for either outcome.",
+  "countries_pulse": [
+    {
+      "country": "TR",
+      "name_ko": "튀르키예",
+      "name_en": "Turkey",
+      "stance": "expanding",
+      "signal": "시놉 2호 사업 공급사 결정이 연말~COP31 무렵으로 좁혀졌고 캐나다가 CANDU로 총리 차원 지원에 나섬 — 트라키아(3호 사업)는 별도 트랙",
+      "signal_en": "The supplier decision for the Sinop plant has narrowed to year-end or around COP31, with Canada backing a CANDU bid at prime-ministerial level; Thrace remains a separate track",
+      "article_ids": [
+        "2026-10-25-01"
+      ]
+    },
+    {
+      "country": "CA",
+      "name_ko": "캐나다",
+      "name_en": "Canada",
+      "stance": "expanding",
+      "signal": "CANDU 수출을 정부 통상 의제로 끌어올려 튀르키예 시놉 타당성조사에 착수 — 현지 시공 협력·공급망 구축을 제안 축으로 제시",
+      "signal_en": "Ottawa has lifted CANDU exports into its trade agenda, starting a feasibility study at Sinop in Turkey and pitching local construction partnerships and supply-chain build-out",
+      "article_ids": [
+        "2026-10-25-01"
+      ]
+    },
+    {
+      "country": "PL",
+      "name_ko": "폴란드",
+      "name_en": "Poland",
+      "stance": "expanding",
+      "signal": "SMR 사업 주도권이 합작사에서 부지별 주도 투자자로 이전 — 브와츠와베크는 오를렌 지배 SPC가 단계별 시행, 오를렌이 BWRX-300 라이선스 직접 취득",
+      "signal_en": "Leadership of the SMR programme shifts from the joint venture to lead investors per site: Włocławek goes to an Orlen-controlled SPC delivering in stages, with Orlen taking the BWRX-300 licence directly",
+      "article_ids": [
+        "2026-10-25-02"
+      ]
+    },
+    {
+      "country": "SI",
+      "name_ko": "슬로베니아",
+      "name_en": "Slovenia",
+      "stance": "cautious",
+      "signal": "발주처 GEN에너기야 신임 사장이 JEK2 착공을 2035년 전후, 시운전을 2040년 이후로 제시 — 국가공간계획 1.5~2년 지연, 재원 구조와 노형 모두 미정",
+      "signal_en": "The new head of owner GEN energija puts JEK2 construction around 2035 and operation after 2040, with the national spatial plan 1.5-2 years late and both financing and reactor type still undecided",
+      "article_ids": [
+        "2026-10-25-03"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "DOE 인가경로가 실증기를 2년 내 전출력으로 올리는 통로로 반복 작동(안타레스 Mark-1 NSDA)하고, 폐지 석탄부지·협동조합 PPA·라이선시 주도 구조의 SMR 개발이 이어지며 주정부는 지역 수용성 사전 인증제로 부지를 선점",
+      "signal_en": "The DOE authorization route keeps working as a path to full power within about two years (Antares' Mark-1 NSDA), licensee-led SMR projects on retired coal sites with cooperative PPAs continue, and states are pre-certifying community readiness to line up sites",
+      "article_ids": [
+        "2026-10-25-04",
+        "2026-10-25-05",
+        "2026-10-25-06"
+      ]
+    },
+    {
+      "country": "KE",
+      "name_ko": "케냐",
+      "name_en": "Kenya",
+      "stance": "expanding",
+      "signal": "원전 도입 추진국으로서 폐기물·해체 관리 제도 점검을 받아 IAEA가 안전관리 의지를 확인 — 발주까지는 거리가 먼 기반구조 단계",
+      "signal_en": "As a newcomer country, Kenya had its waste and decommissioning framework reviewed and the IAEA confirmed its commitment to safe management - infrastructure groundwork still far from procurement",
+      "article_ids": [
+        "2026-10-25-07"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-25-01",
+      "title": "Candu attitude: Carney says Canadian bid for Turkish nuclear plant has 'good chances'",
+      "title_ko": "캐나다 총리, 튀르키예 신규 원전 CANDU 입찰 '승산 있다' — 시놉 타당성조사 착수, 결정은 연말 또는 COP31 무렵",
+      "title_en": "Carney says Canada's CANDU bid for Turkey's next nuclear plant has 'good chances'; decision expected by year-end",
+      "language": "en",
+      "source": "Canadian Press / CTV News",
+      "url": "https://www.ctvnews.ca/politics/article/candu-attitude-carney-says-canadian-bid-for-turkish-nuclear-plant-has-good-chances/",
+      "published": "2026-10-23",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "TR",
+        "CA"
+      ],
+      "importance": 3,
+      "summary_ko": "마크 카니 캐나다 총리가 앳킨스레알리스(AtkinsRéalis)가 튀르키예 신규 원전 사업의 유력 후보라고 공개적으로 밝히고, 결정 시점을 \"지금부터 연말까지, 또는 COP31 무렵\"으로 제시했다. 이언 에드워즈 앳킨스레알리스 CEO는 흑해 연안 시놉(Sinop)에 CANDU 노형 건설을 추진하기 위한 타당성조사를 수행한다고 확인했다. 카니 총리는 CANDU 기술력과 함께 시공 분야를 포함한 튀르키예 현지 기업과의 협력, 현지 공급망 구축 역량을 근거로 들었고, 최종 결정은 튀르키예 정부 몫이라고 전제했다. 시놉 부지는 과거 프랑스-일본 컨소시엄이 PWR 4기를 계획했다가 비용 문제로 무산된 곳이다.",
+      "summary_en": "Canadian Prime Minister Mark Carney said publicly that AtkinsRéalis is a serious contender for Turkey's next nuclear plant and put the decision \"probably from here to the end of the year, or around COP31.\" AtkinsRéalis CEO Ian Edwards confirmed the company is running a feasibility study for CANDU units at Sinop on the Black Sea coast. Carney cited CANDU technology, partnerships with Turkish companies including on construction, and the ability to build out local supply chain elements, while noting the call rests with Ankara. Sinop is the site where a French-Japanese consortium previously planned four PWRs before the project stalled on cost.",
+      "sales_note": "시놉은 러시아·한국과도 공급사 협의가 거론돼 온 부지로, 경쟁 벤더가 총리 차원의 지원과 '현지 시공사 협력 + 공급망 현지화' 패키지를 앞세워 연말 결정 창구를 선점하려는 국면이다. 결정 시한이 두 달 안쪽으로 제시된 만큼 노형 비교 단계가 아니라 현지 파트너·금융·산업협력 조건을 묶은 제안으로 대응 수준을 올려야 하며, 튀르키예가 시놉(2호 사업)과 트라키아(3호 사업)를 분리 발주하는 구조를 전제로 어느 쪽을 겨냥할지 먼저 정리할 필요가 있다.",
+      "sales_note_en": "Sinop is a site where supplier talks with Russia and Korea have also been reported, and a competing vendor is now using prime-ministerial backing plus a package of local construction partnerships and supply-chain localisation to get ahead of a year-end decision. With the window stated as under two months, the response has to move past reactor-type comparison to an offer bundling local partners, financing and industrial cooperation - and we should first settle which of the two tracks to target, given that Turkey appears to be splitting Sinop (its second plant) from Thrace (its third).",
+      "related": [
+        "https://www.dailysabah.com/business/economy/canadas-atkinsrealis-contender-to-build-turkiye-nuclear-plant-carney",
+        "https://www.arabnews.com/middle-east/carney-says-atkinsrealis-is-a-contender-to-build-nuclear-power-plant-in-turkiye-3007901"
+      ]
+    },
+    {
+      "id": "2026-10-25-02",
+      "title": "Orlen, SGE i OSGE zawarły Porozumienie Parasolowe dotyczące współpracy przy programie SMR BWRX-300",
+      "title_ko": "폴란드 오를렌·신토스, BWRX-300 SMR 사업 '우산협약' 체결 — 브와츠와베크는 오를렌이 주도사로, 오를렌이 노형 라이선스 직접 취득",
+      "title_en": "Orlen, Synthos Green Energy and OSGE sign umbrella agreement restructuring Poland's BWRX-300 SMR programme",
+      "language": "pl",
+      "source": "OSGE (보도자료)",
+      "url": "https://osge.com/orlen-sge-i-osge-zawarly-porozumienie-parasolowe-dotyczace-wspolpracy-przy-programie-smr-bwrx-300/",
+      "published": "2026-10-22",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "PL"
+      ],
+      "importance": 3,
+      "summary_ko": "오를렌(Orlen), 신토스그린에너지(SGE), 합작사 OSGE가 BWRX-300 SMR 사업의 추진 틀을 정하는 '우산협약(Porozumienie Parasolowe)'을 맺었다. 브와츠와베크(Włocławek) 사업은 오를렌이 지배하는 특수목적회사 'BWRX-300 Włocławek sp. z o.o.'가 단계별로 시행하며 오를렌이 주도 투자자, 스타비모노브스키에(Stawy Monowskie)는 SGE가 주도 투자자를 맡는다. 오를렌은 BWRX-300 기술에 대한 라이선스 권리를 직접 확보하고, 단계마다 일정·예산·공사범위를 따로 정해 앞 단계 목표 달성 여부에 따라 다음 단계 자금을 집행한다. OSGE는 6개 부지 24기에 대한 원칙결정(decyzja zasadnicza)을 보유하고 있고, 브와츠와베크 1호기 가동 목표는 2030년대 중반, 연내 세부 이행협약 체결을 예고했다. 다음 절차는 환경·부지 조사, 에너지부와의 지원제도 협의, 국가원자력청(PAA) 건설허가 신청이다.",
+      "summary_en": "Orlen, Synthos Green Energy (SGE) and their joint venture OSGE concluded an umbrella agreement (\"Porozumienie Parasolowe\") setting the framework for Poland's BWRX-300 SMR programme. The Włocławek project will be delivered in stages by BWRX-300 Włocławek sp. z o.o., a special purpose company controlled by Orlen, with Orlen as lead investor; SGE leads at Stawy Monowskie. Orlen will obtain direct licensing rights to the BWRX-300 technology, and each stage gets its own schedule, budget and scope, with financing for later stages conditional on earlier ones being met. OSGE holds approvals in principle for 24 units across six locations, targets first operation at Włocławek in the mid-2030s, and says implementing agreements will follow within this year. Next steps are environmental and site studies, work with the Ministry of Energy on a support model, and a construction permit application to the national atomic energy agency (PAA).",
+      "sales_note": "폴란드의 SMR 사업 의사결정 주체가 합작사(OSGE)에서 부지별 주도 투자자(브와츠와베크=오를렌)로 내려오고, 오를렌이 노형 라이선스를 직접 쥐면서 기자재·시공 발주 창구가 SPC 단위로 쪼개진다. 즉 앞으로 공고·자격심사는 OSGE가 아니라 'BWRX-300 Włocławek sp. z o.o.' 명의로 나올 가능성이 높아 포털 감시 키워드를 SPC 명칭으로 넓혀야 하고, 단계별 자금 집행 구조는 초기 단계 용역(환경·부지조사, 기본설계)이 먼저 열린다는 뜻이므로 해당 시점을 겨냥한 접촉이 유효하다.",
+      "sales_note_en": "Decision-making on Poland's SMR programme moves down from the joint venture to a lead investor per site (Orlen at Włocławek), and with Orlen holding the reactor licence directly, equipment and construction packages will be let at SPC level. Notices and prequalifications are therefore likely to appear under \"BWRX-300 Włocławek sp. z o.o.\" rather than OSGE, so portal monitoring keywords need to cover the SPC name. The staged financing structure also means early-stage services - environmental and site studies, basic design - open first, which is where contact is worth timing.",
+      "related": [
+        "https://www.wnp.pl/rynki/orlen-i-sge-uzgodnily-zasady-dalszej-wspolpracy-dot-budowy-modulowych-reaktorow-jadrowych,1111833.html",
+        "https://energia.rp.pl/atom/art45377481-orlen-i-synthos-porozumieli-sie-ws-malego-atomu-orlen-nie-opusci-projektu"
+      ]
+    },
+    {
+      "id": "2026-10-25-03",
+      "title": "Mag. Andrej Vizjak: Drugega bloka Jedrske elektrarne Krško (JEK2) ne gradimo zase, temveč za zanamce",
+      "title_ko": "슬로베니아 GEN에너기야 신임 사장: JEK2 착공 2035년 전후·시운전 2040년 이후 — 국가공간계획 1.5~2년 지연, 재원 구조 미정",
+      "title_en": "New GEN energija chief puts JEK2 construction around 2035 and operation after 2040, with the spatial plan 1.5-2 years late",
+      "language": "sl",
+      "source": "Demokracija",
+      "url": "https://demokracija.si/fokus/mag-andrej-vizjak-drugega-bloka-jedrske-elektrarne-krsko-jek2-ne-gradimo-zase-temvec-za-zanamce/",
+      "published": "2026-10-24",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "SI"
+      ],
+      "importance": 2,
+      "summary_ko": "8월 31일 취임한 안드레이 비지야크(Andrej Vizjak) GEN에너기야 사장이 인터뷰에서 크르슈코 2호기(JEK2) 일정을 착공 2035년 전후, 시운전 2040년 이후로 제시했다. 송전선 이설·개폐소 조정 같은 준비공사는 2030년 이후 먼저 시작될 수 있다고 했다. 국가공간계획(DPN)은 형식상 2028년 말 완료가 목표지만 현실적으로는 2030년 채택이 최선이며 현재 1년 6개월~2년 지연 상태로, 환경단체 대응과 인접국 월경영향평가가 추가 지연 요인이라고 밝혔다. 재원 구조는 미정으로 타국·투자자 참여나 별도 사업회사 설립(제2철도 2TDK 방식)이 선택지로 거론되고, 국내 에너지기업의 연간 현금흐름 기여는 약 5억 유로 수준, 차입에는 국가보증이 필요하다고 했다. 냉각탑은 200m 가까운 높이가 현재까지 우선안이며 확정되지 않았다. 노형·공급사와 설비용량은 언급되지 않았다.",
+      "summary_en": "Andrej Vizjak, who became general director of GEN energija on 31 August, said in an interview that construction of Krško 2 (JEK2) would start around 2035 and trial operation would come after 2040. Preparatory works such as relocating power lines and adjusting the switchyard could begin after 2030. The national spatial plan (DPN) is formally targeted for the end of 2028, but on the best realistic timeline would be adopted in 2030; it is currently one and a half to two years behind, with NGO action and cross-border assessment as further risks. Financing remains open, with options including other states or investors joining or a dedicated project company on the model of the 2TDK rail entity; domestic energy companies could contribute about EUR 500 million a year in cash flow, and debt would need state guarantees. A cooling tower of nearly 200 m is the preferred option so far but is not settled. No reactor type, vendor or capacity was mentioned.",
+      "sales_note": "JEK2는 발주처 수장이 공식 일정보다 늦은 시점을 직접 제시한 만큼 단기 수주 기회로 보기 어렵고 장기 과제로 두는 편이 맞다. 다만 노형·공급사가 아직 공개 언급조차 없고 재원 구조도 열려 있어 기술·금융 패키지 제안 창구는 닫히지 않았으며, 2030년 이후 먼저 열리는 준비공사(송전 이설·개폐소·부지 기반)와 냉각계통 설계 같은 선행 용역이 실질적인 첫 접점이 된다.",
+      "sales_note_en": "Since the owner's own chief executive has put JEK2 later than the official schedule, it is better treated as a long-horizon prospect than a near-term bid. The window for a technology and financing package is not closed, however: no reactor type or vendor has even been named publicly and the funding structure is still open. The practical first points of contact are the preparatory works that open after 2030 - line relocation, switchyard, site infrastructure - and early design work such as the cooling system.",
+      "related": [
+        "https://www.delo.si/delov-poslovni-center/energetika/odlocitev-o-jek-2-naj-bi-sprejeli-do-konca-leta-2028"
+      ]
+    },
+    {
+      "id": "2026-10-25-04",
+      "title": "Antares Clears First DOE Authorization Gate for Mark-1, Its Electricity-Producing Reactor",
+      "title_ko": "안타레스, 발전형 마이크로원자로 'Mark-1' DOE 1차 인가관문 통과 — 원자력안전설계협약(NSDA) 승인, 2027년 INL서 수개월 전출력 운전 목표",
+      "title_en": "Antares clears DOE's first authorization gate for Mark-1, its electricity-producing microreactor",
+      "language": "en",
+      "source": "Business Wire (Antares 보도자료)",
+      "url": "https://www.businesswire.com/news/home/20261023509758/en/Antares-Clears-First-DOE-Authorization-Gate-for-Mark-1-Its-Electricity-Producing-Reactor",
+      "published": "2026-10-23",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "미 에너지부(DOE)가 안타레스(Antares)의 발전형 마이크로원자로 Mark-1에 대한 원자력안전설계협약(NSDA)을 승인했다. NSDA는 DOE 인가 절차의 첫 단계로, 건설·운전 전 과정에 적용되는 설계요건과 안전해석 방식을 확정하는 문서다. Mark-1은 질소 폐회로 브레이턴 사이클 발전계통과 결합해 2027년 아이다호국립연구소(INL)에서 수개월간 정격 전출력 운전을 계획하고 있으며, 선행기인 Mark-0와 전규모 노심·TRISO 연료·시험대를 공유한다. Mark-0는 2025년 10월 NSDA를 받고 2026년 6월 4일 임계에 도달했다.",
+      "summary_en": "The US Department of Energy has approved the Nuclear Safety Design Agreement (NSDA) for Antares' Mark-1, an electricity-producing microreactor. The NSDA is the first step in DOE's authorization pathway and fixes the design requirements and safety analysis approach that apply through construction and operation. Mark-1 is to run at full electrical power for several months in 2027 at Idaho National Laboratory, paired with Antares' nitrogen closed Brayton cycle power conversion system, and shares its full-scale core, TRISO fuel and test bay with the earlier Mark-0. Mark-0 received its NSDA in October 2025 and reached criticality on 4 June 2026.",
+      "sales_note": "DOE 인가 경로(NSDA→예비·확정 안전해석)가 NRC 상업 인허가를 우회해 실증기를 2년 안에 전출력까지 올리는 통로로 반복 작동하고 있음을 보여주는 사례다. 미 연방·군 부지를 발판으로 실증을 끝낸 뒤 상업시장에 들어오는 순서가 마이크로·SMR 분야의 표준 경로가 되고 있어, 우리 쪽 해외 실증 참여도 상업 인허가 이전 단계의 연방 프로그램 접점을 통해 설계하는 편이 빠르다.",
+      "sales_note_en": "This is another case showing the DOE authorization route (NSDA, then preliminary and documented safety analyses) working repeatedly as a way to get a demonstration unit to full power within about two years, bypassing NRC commercial licensing. Finishing demonstration on federal or military sites and only then entering the commercial market is becoming the standard sequence in the microreactor and SMR space, so our own participation in overseas demonstrations is likely faster if designed around federal programme entry points ahead of commercial licensing.",
+      "related": [
+        "https://interestingengineering.com/energy/us-power-producing-microreactor-safety-milestone"
+      ]
+    },
+    {
+      "id": "2026-10-25-05",
+      "title": "Dairyland Power and Applied Atomics Announce Collaboration to Explore Small Modular Nuclear Technology",
+      "title_ko": "미 데어리랜드파워–어플라이드아토믹스, 위스콘신 제노아 부지 SMR 검토 의향서(LOI) 체결 — BWXT mPower 기반 100MWe급, 전력구매계약 연계 검토",
+      "title_en": "Dairyland Power and Applied Atomics sign LOI to study mPower-based SMRs at the Genoa site in Wisconsin",
+      "language": "en",
+      "source": "PR Newswire (Dairyland Power Cooperative)",
+      "url": "https://www.prnewswire.com/news-releases/dairyland-power-and-applied-atomics-announce-collaboration-to-explore-small-modular-nuclear-technology-302916826.html",
+      "published": "2026-10-22",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "미 전력협동조합 데어리랜드파워(Dairyland Power Cooperative)와 어플라이드아토믹스(Applied Atomics)가 위스콘신주 제노아(Genoa) 기존 부지에 SMR 1기 이상 설치 타당성을 검토하는 비구속 의향서(LOI)를 발표했다. 대상 노형은 BWXT가 설계·제작한 가압경수로 mPower 기반 100MWe급이며, 어플라이드아토믹스는 mPower의 육상 전용 독점 라이선스를 보유하고 있다. 데어리랜드는 생산 전력을 전력구매계약(PPA)으로 확보하는 방안을 함께 검토한다. 제노아 부지에는 해체된 50MW 원전과 2021년 폐지된 345MW 석탄화력이 있었고 NRC 허가 사용후연료 건식저장시설(ISFSI)이 남아 있다.",
+      "summary_en": "US generation cooperative Dairyland Power Cooperative and Applied Atomics announced a non-binding letter of intent to study installing one or more SMRs at Dairyland's existing Genoa site in Wisconsin. The technology is a 100 MWe unit based on mPower, the pressurised light water reactor designed and manufactured by BWXT, for which Applied Atomics holds the exclusive land-based licence. Dairyland is also exploring securing the output through a power purchase agreement. The Genoa site previously hosted a decommissioned 50 MW nuclear plant and a 345 MW coal plant retired in 2021, and still has an NRC-licensed independent spent fuel storage installation (ISFSI).",
+      "sales_note": "폐지 석탄부지 + 기존 원자력 라이선스 이력 + 협동조합 PPA를 묶는 미국형 SMR 개발 공식이 또 한 번 반복됐고, 사장돼 있던 BWXT mPower 설계가 라이선스 재배치로 시장에 복귀한 점이 눈에 띈다. 노형 개발사가 아닌 라이선시가 사업 주체로 나서는 구조가 늘어나는 만큼, 기자재·시공 수주 접점은 노형사 본사가 아니라 이런 라이선시·부지 보유 발주처 쪽으로 옮겨 관리해야 한다.",
+      "sales_note_en": "The American formula for SMR development - a retired coal site, an existing nuclear licensing history and a cooperative PPA - repeats here, and what stands out is that BWXT's dormant mPower design is back in the market through a licence transfer. As more projects are led by licensees rather than the reactor designers themselves, the contact points for equipment and construction work need to shift from vendor headquarters toward these licensees and the site-owning offtakers.",
+      "related": [
+        "https://www.wispolitics.com/2026/dairyland-power-cooperative-dairyland-power-and-applied-atomics-announce-collaboration-to-explore-small-modular-nuclear-technology/",
+        "https://www.wizmnews.com/2026/10/22/dairyland-power-evaluating-bringing-back-nuclear-power-to-genoa-site/"
+      ]
+    },
+    {
+      "id": "2026-10-25-06",
+      "title": "State seeks applicants for Indiana Advanced Nuclear Ready Communities program",
+      "title_ko": "미 인디애나주, '선진원자력 준비 지역' 지정제 신청 접수 — 3단계(인식·준비·완비) 등급, 스펜서카운티가 1호 1단계 지정",
+      "title_en": "Indiana opens applications for its Advanced Nuclear Ready Communities designation programme",
+      "language": "en",
+      "source": "Inside Indiana Business",
+      "url": "https://www.insideindianabusiness.com/articles/state-seeks-applicants-for-indiana-advanced-nuclear-ready-communities-program",
+      "published": "2026-10-22",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "US"
+      ],
+      "importance": 1,
+      "summary_ko": "인디애나주 에너지개발국(OED)이 '선진원자력 준비 지역(Advanced Nuclear Ready Communities)' 지정제 신청을 받기 시작했다. 등급은 1단계 '원자력 인식(Nuclear Aware)' — 주민 공개설명회 2회 이상, 2단계 '원자력 준비(Nuclear Prepared)' — 지방정부 공식 약속·부지 적격성·인력계획, 3단계 '원자력 완비(Nuclear Ready)' — 규제 이해·전력회사 협의·경제개발 전략까지 3단계다. 주 내 모든 카운티·광역이 산하 시·타운과 공동으로 신청할 수 있고, 스펜서카운티가 1호로 1단계 지정을 받았다. 7월 마이크 브라운 주지사가 제도를 출범시켰다.",
+      "summary_en": "Indiana's Office of Energy Development has opened applications for its Advanced Nuclear Ready Communities designation programme. There are three tiers: Tier 1 \"Nuclear Aware\", requiring at least two public education meetings; Tier 2 \"Nuclear Prepared\", adding formal local government commitments, site qualification and workforce planning; and Tier 3 \"Nuclear Ready\", which also requires regulatory awareness, utility coordination and an economic development strategy. All Indiana counties and regions may apply in coordination with their cities and towns, and Spencer County was the first to receive a Tier 1 designation. Governor Mike Braun launched the programme in July.",
+      "sales_note": "최근 두 주 사이 인디애나에 Xe-100 12기, CANDU 최대 8기, 해군 마이크로원자로가 잇따라 몰린 배경에 주정부가 만든 '지역 수용성 사전 인증' 제도가 깔려 있다. 미국에서는 부지 선정이 발주 공고가 아니라 지방정부 지정·수용성 단계에서 사실상 결정되므로, 주별 준비등급 명단을 발주 선행지표로 관리하면 공고 이전 단계에 접점을 만들 수 있다.",
+      "sales_note_en": "Behind the cluster of projects landing in Indiana over the past fortnight - twelve Xe-100 units, up to eight Candu units, a navy microreactor - sits a state scheme that pre-certifies local acceptance. In the United States siting is effectively decided at the stage of local designation and community consent rather than by a tender notice, so tracking each state's readiness lists as a leading indicator opens a point of contact well before anything is advertised.",
+      "related": [
+        "https://www.in.gov/oed/indianas-energy-policy/advanced-nuclear-ready/index",
+        "https://www.ans.org/news/article-8216/indiana-launches-nuclear-readiness-designation-system/"
+      ]
+    },
+    {
+      "id": "2026-10-25-07",
+      "title": "IAEA Mission Finds Kenya Committed to Safe Management of Radioactive Waste as it Develops a Nuclear Power Programme",
+      "title_ko": "IAEA, 케냐 방사성폐기물 관리 점검 결과 '안전관리 의지 확인' — 원전 도입 추진국 대상 ARTEMIS 자문단 파견",
+      "title_en": "IAEA mission finds Kenya committed to safe radioactive waste management as it develops a nuclear power programme",
+      "language": "en",
+      "source": "IAEA",
+      "url": "https://www.iaea.org/newscenter/pressreleases/iaea-mission-finds-kenya-committed-to-safe-management-of-radioactive-waste-as-it-develops-a-nuclear-power-programme",
+      "published": "2026-10-22",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "KE",
+        "INT"
+      ],
+      "importance": 1,
+      "summary_ko": "IAEA가 원전 도입을 추진 중인 케냐에 방사성폐기물·사용후연료·해체 관리 체계를 점검하는 자문단을 파견해, 케냐가 안전한 폐기물 관리에 의지를 보이고 있다고 평가했다. 신규 도입국의 폐기물·해체 제도 정비는 IAEA 기반구조 이정표(Milestone) 평가와 연결되는 항목이다.",
+      "summary_en": "The IAEA sent a review mission to Kenya, which is developing a nuclear power programme, to assess its framework for radioactive waste, spent fuel and decommissioning, and concluded that the country is committed to safe waste management. For newcomer countries, putting a waste and decommissioning regime in place is one of the items tied to the IAEA's Milestones infrastructure assessment.",
+      "sales_note": "아프리카 신규 도입국의 제도 정비 단계는 발주까지 거리가 멀지만, IAEA 점검 통과 이력이 금융기관 실사와 입찰 자격요건의 전제가 되므로 장기 시장 후보군 관리 지표로 기록해 둘 가치가 있다.",
+      "sales_note_en": "Institutional groundwork in an African newcomer country is still far from any procurement, but a record of passing IAEA reviews becomes a precondition for lenders' due diligence and for bid eligibility requirements, so it is worth logging as an indicator for the long-term market pipeline.",
+      "related": []
+    },
+    {
+      "id": "2026-10-25-08",
+      "title": "고리 3·4호기 원전 '계속운전' 통과할까… 원안위, 27일 회의 개최",
+      "title_ko": "고리 3·4호기 원전 '계속운전' 통과할까… 원안위, 27일 회의 개최",
+      "title_en": "Korea's nuclear regulator to take up Kori 3 and 4 continued operation on 27 October after deferring the decision",
+      "language": "ko",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/tech/2026/10/23/2026102309280028711",
+      "published": "2026-10-23",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR"
+      ],
+      "importance": 2,
+      "summary_ko": "원자력안전위원회가 10월 27일 제17회 회의를 열어 고리 3·4호기 계속운전 허가안을 심의한다. 이 안건은 10월 15일 제16회 회의에 처음 올랐으나 결론을 내지 못했고, 방사선환경영향평가 보완 필요성이 지적됐다(같은 회의에서 3·4호기 사고관리계획서는 원안대로 승인). 고리 3호기는 2024년 9월 28일, 4호기는 2025년 8월 6일 설계수명 만료로 가동이 멈춰 있다. 허가가 나더라도 한수원 준비와 규제기관 검사를 거쳐 수개월 뒤 재가동된다. 앞서 고리 2호기는 세 차례 심의를 거쳐 허가됐고 당시에도 방사선환경영향평가가 핵심 쟁점이었다.",
+      "summary_en": "Korea's Nuclear Safety and Security Commission (NSSC) will hold its 17th meeting on 27 October to review the continued operation (life extension) permit for Kori units 3 and 4. The item was first tabled at the 16th meeting on 15 October without a conclusion, with members pointing to the need to supplement the radiation environmental impact assessment; the accident management plan for the two units was approved at that same meeting. Kori 3 has been shut since 28 September 2024 and Kori 4 since 6 August 2025, both at the end of their 40-year design lives. Even if the permit is granted, restart would follow months later after KHNP's preparations and regulatory inspections. Kori 2 was approved only after three rounds of review, where the radiation environmental impact assessment was also the central issue.",
+      "sales_note": "계속운전 심의가 2회차에서도 결론을 내지 못하고 방사선환경영향평가 보완으로 반복 지연되는 패턴은, 해외 입찰에서 우리가 내세우는 '운영·규제 레퍼런스'의 예측가능성 항목에 그대로 걸린다. 반대로 27일 허가가 나면 계속운전 실적 2개 부지로 늘어나 LTO·개보수 시장(핀란드 OL1·2, 루마니아 체르나보다 1호기 유형) 제안서에 쓸 수 있는 자국 실적이 보강되므로, 결과에 따라 레퍼런스 자료 갱신을 준비해 둘 필요가 있다.",
+      "sales_note_en": "A continued-operation review that fails to conclude at a second sitting and keeps slipping over supplements to the radiation environmental impact assessment feeds directly into the predictability line item of the operating and regulatory record we present in overseas bids. Conversely, approval on 27 October would take Korea to two sites with life-extension experience, strengthening the domestic record available for long-term-operation and refurbishment proposals of the kind seen at Olkiluoto 1-2 and Cernavoda 1, so reference material should be ready to update either way.",
+      "related": []
+    }
+  ]
+}

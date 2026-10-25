@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
   "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
   "tenders": [
@@ -442,7 +442,7 @@
       "portal": "TED",
       "notice_no": "728533-2026",
       "published": "2026-10-21",
-      "deadline": null,
+      "deadline": "2026-11-10",
       "url": "https://ted.europa.eu/en/notice/728533-2026/pdf"
     },
     {
@@ -455,7 +455,7 @@
       "portal": "TED",
       "notice_no": "731646-2026",
       "published": "2026-10-22",
-      "deadline": null,
+      "deadline": "2026-11-02",
       "url": "https://ted.europa.eu/en/notice/731646-2026/pdf"
     },
     {
@@ -468,7 +468,7 @@
       "portal": "TED",
       "notice_no": "731719-2026",
       "published": "2026-10-22",
-      "deadline": null,
+      "deadline": "2026-11-05",
       "url": "https://ted.europa.eu/en/notice/731719-2026/pdf"
     },
     {
@@ -481,7 +481,7 @@
       "portal": "TED",
       "notice_no": "731770-2026",
       "published": "2026-10-22",
-      "deadline": null,
+      "deadline": "2026-12-01",
       "url": "https://ted.europa.eu/en/notice/731770-2026/pdf"
     },
     {

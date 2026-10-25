@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T08:52:00+09:00",
+  "period": {
+    "from": "2026-10-25",
+    "to": "2026-10-26"
+  },
+  "overview_ko": "월요일 아침 수집분으로, 수집기간(10/25~26) 안에 새로 게재된 해외 기사는 없었다 — 해외 전문지 피드(WNN·NucNet·ANS·IAEA·영국 에너지부)가 모두 10월 23~24일 이후 신규 게재가 없고, EU 공공조달(TED)도 10월 24~26일 사흘간 전 분야 공고가 0건이다(전수 조회로 확인, 대조군 10월 23일은 3,548건). 대신 10월 23일 게재분 가운데 전일까지 놓친 두 건을 보강했다. 중요한 쪽은 체코 산업통상부가 '신규 원자력원(NJZ) 개발 법률용역' 기본협약(상한 4,000만 코루나·48개월)을 하벨앤파트너스에 발주한 낙찰공고로, 과업 범위가 '두코바니 신규호기(NJZ EDU) 투자자와의 계약 준비·체결 지원, 경우에 따라 테멜린 신규호기(NJZ ETE) 또는 SMR 포함'으로 적혀 있고 이행 장소에 'EU 기관 소재지, 특히 브뤼셀·룩셈부르크'가 명시됐다 — 두코바니 이후 단계와 EU 제도 대응을 체코 정부가 한 계약 안에 묶어 2030년까지 확보한 것이다. 다른 한 건은 루마니아 누클레아렐렉트리카의 체르나보다 공기중 삼중수소 감시설비 정비 48개월 낙찰로, 같은 발주처가 10월에 낸 공고가 전부 운전·정비 건이고 3·4호기 완공 관련 발주는 여전히 0건임을 보여준다. 영업 관점: 체코에서 다음 발주 신호는 ČEZ 가 아니라 산업통상부 채널에서 먼저 나올 수 있고 범위에 SMR 까지 미리 들어가 있으므로 부처 공고까지 감시 범위를 넓혀야 하며, 루마니아는 완공 관련 발주가 넉 달째 나오지 않는 만큼 일정 전제를 보수적으로 두는 편이 안전하다.",
+  "overview_en": "This is a Monday morning run and nothing overseas was newly published inside the window (25-26 October). The trade press feeds - World Nuclear News, NucNet, ANS, the IAEA and the UK energy department - carry nothing dated after 23-24 October, and the EU procurement journal TED published no notices at all, in any sector, on 24-26 October; a control query returned 3,548 notices for 23 October, so the zero is real. The run therefore went back over 23 October and picked up two notices the previous briefings had missed. The one that matters is a Czech award notice: the Ministry of Industry and Trade has retained Havel & Partners under a framework worth up to CZK 40 million over 48 months for legal services on new nuclear sources. Its stated scope is preparing and concluding the contracts between the ministry and the investor in the new Dukovany units, 'and where applicable the new Temelin units or SMRs', with places of performance that include 'the premises of the relevant EU institutions, in particular Brussels and Luxembourg'. In other words Prague has tied what comes after Dukovany and its EU regulatory work into a single retainer running to 2030. The second notice is Romanian: Nuclearelectrica awarded a 48-month maintenance contract for the airborne tritium monitors at Cernavoda - one more sign that everything this buyer has tendered in October concerns operating units, with still nothing for the resumption of units 3 and 4. Sales angle: in Czechia the next procurement signal may surface through the ministry rather than CEZ, and the scope already names SMRs, so the watch should widen to ministry notices; in Romania, with no construction-resumption package in four months, schedule assumptions are better kept conservative.",
+  "domestic_overview_ko": "국내는 수집기간 중 정부·공공기관 신규 발표가 없었다. 정책브리핑(korea.kr)은 원전·SMR·원자력 세 검색어 모두 10월 22일 이후 신규 보도자료가 없고, 한수원 보도자료는 10월 22일(청정수소 교육) 이후 추가가 없으며, 한전은 10월 23일 2건(송전망 보도설명·HR 수상)으로 원전과 무관하다. 국내 피드(더구루·더트래커)와 전기신문·원자력신문 목록에도 10월 24일 이후 원전 기사가 없다. 기간 내 유일한 국내 보도는 10월 26일 아침 기사로, 원자력안전위원회가 27일 제17회 회의에서 고리 3·4호기 계속운전 허가안을 다시 심의한다는 사실을 확인하면서 선행 사례인 고리 2호기가 세 차례 심의를 거쳐 허가된 뒤 4월에 재가동했고 그때도 방사선환경영향평가 서류가 쟁점이었다는 점, 허가가 나더라도 한수원 준비와 규제기관 검사에 수개월이 더 걸린다는 점을 함께 전했다. 영업 관점: 고리 2호기 선례대로 세 번째 심의에서 결론이 날 가능성과 허가 후 수개월의 준비기간을 함께 보면, 27일 결과가 긍정적이어도 계속운전 실적을 해외 제안서에 '운전 중 실적'으로 쓸 수 있는 시점은 내년으로 넘어간다 — 따라서 당장은 허가 자체(규제 승인 실적)와 재가동 시점을 구분해 적는 레퍼런스 문구를 준비해 두는 것이 실용적이다.",
+  "domestic_overview_en": "Nothing new came from Korean government bodies or utilities inside the window. The policy briefing portal (korea.kr) has had no releases on nuclear power, SMRs or atomic energy dated after 22 October; KHNP's board has added nothing since 22 October; and KEPCO's two posts of 23 October concern the transmission grid and an HR award, neither nuclear. The domestic feeds (TheGuru, TheTracker) and the trade titles Electimes and KNP News carry no nuclear item dated after 24 October. The only domestic report inside the window is a Monday morning piece confirming that the Nuclear Safety and Security Commission will take up the continued-operation (life extension) permit for Kori 3 and 4 again at its 17th meeting on 27 October. It adds two points of context: the precedent, Kori 2, was approved only at a third deliberation and restarted in April, and the dispute there also turned on the radiological environmental impact assessment documents; and even with a permit, KHNP's preparations and the regulator's inspections take several more months. Sales angle: read together, those two points mean that even a favourable decision on the 27th pushes the point at which these units count as operating experience into next year, so the practical task now is reference wording that separates the regulatory approval itself from the restart date.",
+  "countries_pulse": [
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "산업통상부가 신규 원자력원 법률용역을 48개월 기본협약으로 확보하면서 과업 범위에 두코바니 투자자 계약·테멜린 신규호기·SMR 과 EU 기관 상대 업무를 함께 넣음 — 두코바니 이후 단계가 정부 계약서에 문서로 나타남",
+      "signal_en": "The industry ministry has locked in a 48-month legal retainer for new nuclear whose scope covers the Dukovany investor contracts, the possible new Temelin units and SMRs, plus work before the EU institutions - the first paper trail for what follows Dukovany",
+      "article_ids": [
+        "2026-10-26-01"
+      ]
+    },
+    {
+      "country": "RO",
+      "name_ko": "루마니아",
+      "name_en": "Romania",
+      "stance": "steady",
+      "signal": "기조 유지 — 10월 발주가 전부 운전 중 호기의 정비·계측 건이고 체르나보다 3·4호기 완공 관련 발주는 넉 달째 0건",
+      "signal_en": "Holding steady - every notice the operator issued in October covers maintenance or instrumentation on the running units, with nothing for the resumption of Cernavoda 3 and 4 in four months",
+      "article_ids": [
+        "2026-10-26-02"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-26-01",
+      "title": "Právní služby pro rozvoj nových jaderných zdrojů",
+      "title_ko": "체코 산업통상부, 신규 원자력원(NJZ) 개발 법률용역 기본협약 낙찰 — 범위에 두코바니 투자자 계약·테멜린 신규호기·SMR, 이행지에 브뤼셀·룩셈부르크 명시",
+      "title_en": "Czech industry ministry awards legal retainer for new nuclear - scope covers the Dukovany investor contracts, possible new Temelin units and SMRs",
+      "language": "cs",
+      "source": "TED (EU 공공조달) 낙찰공고 737128-2026",
+      "url": "https://ted.europa.eu/en/notice/737128-2026/pdf",
+      "published": "2026-10-23",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "CZ"
+      ],
+      "importance": 2,
+      "summary_ko": "체코 산업통상부(MPO)가 '신규 원자력원(NJZ) 개발 법률용역' 기본협약을 하벨앤파트너스(HAVEL & PARTNERS)에 발주한 낙찰공고가 올랐다(낙찰결정 10월 21일, 입찰공고 7월 29일, 응찰 1건). 공고에 적힌 과업은 '발주처와 NJZ EDU(두코바니 신규호기) 투자자 사이 계약관계의 준비·체결, 경우에 따라 NJZ ETE(테멜린 신규호기) 또는 SMR 을 포함'하며 이해관계자 협의와 이행 단계 법률지원까지 포함한다. 이행 장소로는 '관련 EU 기관 소재지(특히 브뤼셀·룩셈부르크), 발주처 건물, 발주처가 지정하는 체코 내 장소'가 명시됐다. 기본협약 상한은 4,000만 코루나, 기간은 48개월이다. 공동수행자로 헝가리 로펌 나기에쉬트로차니(Nagy és Trócsányi)가 등재됐다. 낙찰금액은 공고 내 기재가 엇갈려 적지 않는다.",
+      "summary_en": "A Czech award notice shows the Ministry of Industry and Trade has retained Havel & Partners under a framework agreement for legal services on the development of new nuclear sources (decision 21 October, tender published 29 July, one bid received). The published scope is comprehensive legal support for preparing and concluding the contracts between the ministry and the investor in NJZ EDU - the new units at Dukovany - 'and where applicable NJZ ETE' - the new units at Temelin - 'or SMRs', including support in negotiations with affected parties and through implementation. Places of performance are given as the premises of the relevant EU institutions, in particular Brussels and Luxembourg, the ministry's own buildings, and other locations in Czechia. The framework is capped at CZK 40 million over 48 months. A Hungarian firm, Nagy és Trócsányi, is listed alongside the winner. The award value is not reported here because the figures inside the notice are inconsistent.",
+      "sales_note": "체코의 다음 원전 발주 신호가 ČEZ·EDU II 가 아니라 산업통상부 채널에서 먼저 나올 수 있음을 보여주는 1차 자료이므로, 체코 감시 대상에 부처 공고와 법률·금융 자문 성격의 조달까지 넣어야 한다. 범위에 테멜린 신규호기와 SMR 이 미리 들어가 있고 기간이 2030년까지인 점은 두코바니 후속 사업의 계약 구조가 아직 정부-투자자 단계에서 설계되고 있다는 뜻이고, 이행지에 브뤼셀·룩셈부르크가 포함된 것은 EU 제도 대응이 같은 계약에 묶였음을 시사한다.",
+      "sales_note_en": "This is primary evidence that Czechia's next procurement signal may come through the ministry rather than through CEZ or the EDU II project company, so the watch on Czechia should include ministry notices and advisory-type procurement, not only plant packages. That the scope already names the new Temelin units and SMRs, and runs to 2030, says the contract structure for what follows Dukovany is still being designed at the state-investor level; the inclusion of Brussels and Luxembourg as places of performance suggests the EU regulatory track sits inside the same retainer."
+    },
+    {
+      "id": "2026-10-26-02",
+      "title": "Servicii de mentenanta pentru sisteme de monitorizare tritiu in aer - CR # 43396",
+      "title_ko": "루마니아 누클레아렐렉트리카, 체르나보다 공기중 삼중수소 감시설비(TAM) 정비 48개월 낙찰 — 10월 발주가 전부 운전 호기 건이고 3·4호기 완공 관련 발주는 0건",
+      "title_en": "Nuclearelectrica awards 48-month maintenance of Cernavoda airborne tritium monitors",
+      "language": "ro",
+      "source": "TED (EU 공공조달) 낙찰공고 734037-2026",
+      "url": "https://ted.europa.eu/en/notice/734037-2026/pdf",
+      "published": "2026-10-23",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "RO"
+      ],
+      "importance": 1,
+      "summary_ko": "루마니아 누클레아렐렉트리카가 체르나보다 원전의 공기중 삼중수소 감시설비(TAM) 예방·교정 정비와 예비품 공급을 48개월 계약으로 발주하고 MATE-FIN 을 낙찰자로 공고했다(낙찰결정 10월 21일, 입찰공고 9월 28일). 역무는 1호기 고정계통 5루프·2호기 8루프를 연 2회 예방정비(각 40회·64회 세션)하고 이동형 모니터 8회 세션을 포함하며, 방사선방호기술과 소관이다. 공고 기재금액은 648,216 이지만 같은 공고 안에서 통화가 유로와 레우로 엇갈려 표기돼 확정하지 않는다.",
+      "summary_en": "Romania's Nuclearelectrica has awarded a 48-month contract for preventive and corrective maintenance of the airborne tritium monitoring systems at Cernavoda, with spare parts, to MATE-FIN (decision 21 October, tender published 28 September). The work covers twice-yearly preventive maintenance on five monitoring loops at unit 1 and eight at unit 2 - 40 and 64 sessions respectively - plus eight sessions on a portable monitor, and sits with the plant's radiation protection service. The notice states a value of 648,216 but gives the currency inconsistently as both euro and leu, so the figure is not reported as confirmed.",
+      "sales_note": "발주처의 10월 조달이 전부 운전 중 호기의 정비·계측 건이라는 사실 자체가 신호다 — 체르나보다 3·4호기 완공 관련 발주는 넉 달째 나오지 않았으므로, 이 사업을 전제로 한 일정 가정은 보수적으로 두는 편이 안전하다.",
+      "sales_note_en": "For anyone waiting on the resumption of Cernavoda 3 and 4, the signal is what this buyer did not tender: everything it put out in October concerns maintenance and instrumentation on the operating units, and nothing for the resumption has appeared in four months, so schedule assumptions are better kept conservative."
+    },
+    {
+      "id": "2026-10-26-03",
+      "title": "고리 3·4호기 '계속운전' 결전의 날… 내일 원안위서 논의",
+      "title_ko": "고리 3·4호기 '계속운전' 결전의 날… 내일 원안위서 논의 — [후속] 선례인 고리 2호기는 세 차례 심의 끝에 허가, 허가 후 재가동까지 수개월 더",
+      "title_en": "Kori 3 and 4 life-extension permit returns to Korea's nuclear regulator on 27 October",
+      "language": "ko",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/tech/2026/10/26/2026102313080342503",
+      "published": "2026-10-26",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR"
+      ],
+      "importance": 2,
+      "summary_ko": "[후속] 전일 브리핑이 다룬 '원안위 27일 제17회 회의 고리 3·4호기 계속운전 허가안 재심의'에 두 가지가 새로 붙었다. 첫째, 선행 사례인 고리 2호기는 세 차례 심의 끝에 허가돼 올해 4월 재가동했고 당시 쟁점도 방사선환경영향평가 서류였다는 점이다. 둘째, 허가가 나더라도 한수원 준비와 규제기관 검사에 수개월이 더 걸린다는 점이다. 10월 15일 제16회 회의에서는 사고관리계획서 승인안만 통과하고 계속운전 허가안은 결론을 내지 못했으며, 일부 위원이 방사선환경영향평가 보완을 지적했다. 고리 3호기는 2024년 9월 설계수명 40년 만료로, 4호기는 2025년 8월부터 멈춰 있다.",
+      "summary_en": "[Follow-up] Two details are added to the item carried in the previous briefing, that the Nuclear Safety and Security Commission will revisit the continued-operation (life extension) permit for Kori 3 and 4 at its 17th meeting on 27 October. First, the precedent: Kori 2 was approved only at a third deliberation and restarted in April this year, and the argument there also turned on the radiological environmental impact assessment documents. Second, even with a permit, KHNP's preparations and the regulator's inspections take several more months. At the 16th meeting on 15 October the commission approved the severe accident management plan but reached no conclusion on the permit, with some members saying the radiological environmental impact assessment needs supplementing. Kori 3 has been shut since its 40-year design life expired in September 2024, Kori 4 since August 2025.",
+      "sales_note": "해외 입찰에서 쓰는 레퍼런스 관점에서는 '규제 승인을 받은 실적'과 '실제 운전 중 실적'을 분리해 적어 둘 필요가 있다 — 고리 2호기 선례대로 27일에 허가가 나도 재가동까지 수개월이 더 걸리므로 운전실적 전환은 내년 몫이 된다. 동시에 계속운전 심의가 방사선환경영향평가 보완으로 반복 지연되는 패턴은 LTO·개보수 시장 제안서에서 인허가 예측가능성을 설명할 때 그대로 질문거리가 된다.",
+      "sales_note_en": "For reference material used in overseas bids, it is worth separating 'permit obtained' from 'unit operating': on the Kori 2 precedent, even approval on the 27th leaves several months before restart, so the operating-experience claim belongs to next year. At the same time, the pattern of life-extension reviews slipping over the radiological environmental impact assessment is exactly what gets asked about when explaining licensing predictability in LTO and refurbishment proposals.",
+      "related": [
+        "https://www.mt.co.kr/tech/2026/10/23/2026102309280028711"
+      ]
+    }
+  ]
+}

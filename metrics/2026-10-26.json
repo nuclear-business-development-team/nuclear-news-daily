@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-26",
+  "run_started": "2026-10-26T08:04:17+09:00",
+  "run_finished": "2026-10-26T09:11:00+09:00",
+  "run_minutes": 66.7,
+  "articles": 3,
+  "by_region": {
+    "overseas": 2,
+    "domestic": 1
+  },
+  "by_importance": {
+    "3": 0,
+    "2": 2,
+    "1": 1
+  },
+  "detection_lag_hours": {
+    "median": 71.1,
+    "max": 71.1,
+    "n": 3
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "ANS Nuclear Newswire (목록)",
+    "정책브리핑 korea.kr (원전·SMR·원자력 3회)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "전기신문 (목록)",
+    "원자력신문 (목록)",
+    "TED 검색 API",
+    "TED 공고 XML",
+    "UK Find a Tender OCDS API",
+    "머니투데이"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "stale — HTTP 200이나 최신 항목 게재일이 2026-06-17 로 갱신 정지"
+    },
+    {
+      "name": "TED 공고 PDF 본문 (735779·737128·734037-2026)",
+      "reason": "추출 실패 — PDF 본문이 압축 스트림이어서 WebFetch 로 필드를 읽지 못함. 공고 XML·검색 API 로 대체 확인"
+    },
+    {
+      "name": "TED 공고 상세 731646-2026",
+      "reason": "202 (빈 응답) — 검색 API 로 대체 확인"
+    },
+    {
+      "name": "CanadaBuys 공고 RSS",
+      "reason": "404 — 규정 경로(WebSearch)로 대체"
+    },
+    {
+      "name": "핀란드 Hilma 공개 API",
+      "reason": "404 — 규정 경로(WebSearch)로 대체"
+    }
+  ],
+  "languages": {
+    "cs": 1,
+    "ro": 1,
+    "ko": 1
+  },
+  "note": "월요일 아침 회차이며 축소 수집이다. 수집기간(10/25~26) 안에 새로 게재된 해외 기사가 0건이다 — 해외 전문지 피드(WNN·NucNet·ANS·IAEA·DESNZ) 모두 10/23~24 이후 신규 게재가 없고, TED 는 10/24~26 사흘간 전 분야 공고가 0건으로 전수 확인됐다(대조군 10/23 전 분야 3,548건 · FT ~ nuclear 13건으로 질의 생존 입증). 해외 2건은 10/23 게재분 중 전일 회차가 놓친 건이고 국내 1건만 기간 내 신규다. detection_lag 의 중앙값·최댓값 71.1시간은 '10/23 금요일 게재분을 월요일에 보강'한 결과이고, 기간 내 신규인 국내 1건의 실제 지연은 2.1시간이다(기사 페이지에 게재시각 06:00 KST 가 표기돼 있어 SKILL §9 의 09:00 가정 대신 실제값을 썼다 — 날짜만 있는 두 건은 규정대로 09:00 가정). sources_failed 5건 중 접근 차단은 없고, NEI 피드 갱신 정지(2026-06-17)만 실질적인 수집 손실이다 — 보고서 '출처 점검 필요'에 남겼다. 나머지 4건은 모두 대체 경로로 같은 사실을 확인했다. 특히 TED 공고 PDF 본문 추출 실패는 종전 회차들이 '마감일 미확인'을 쌓아 온 원인이며, 금회 공고 XML·검색 API 경로로 바꾸자 미확인 11건 중 4건이 확정되고 4건이 분류 오류로 드러났다(pipeline-watch alerts Ⅰ-3). ★★★(중요도 3) 기사가 0건이므로 SKILL §8-2 의 .docx 보고서 생성은 건너뛰었다."
+}

@@ -1,0 +1,386 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T09:40:00+09:00",
+  "period": {
+    "from": "2026-10-26",
+    "to": "2026-10-27"
+  },
+  "overview_ko": "튀르키예 시놉 원전에서 캐나다가 정상외교와 앳킨스레알리스 타당성조사를 묶어 치고 나왔고, 한수원도 자체 타당성조사 뒤 수주를 추진한다는 방침이 확인되면서 연내 결정을 앞둔 4파전 구도가 선명해졌다. 연료 쪽에서는 미 NRC가 GLE 퍼두카 레이저농축시설에 건설·운영허가 발급을 권고했고(LEU+ 8%까지 포함), 캐나다계 뉴클레온퓨얼은 와이오밍에 연산 15,000톤 UF6 전환시설을 짓겠다며 주정부 보조금을 신청해 북미 농축·전환 신설 흐름이 이어졌다. 공고 쪽은 조용해서, 유럽에서 새로 나온 원자력 관련 건은 노르웨이 DSA의 규제 기술자문(3,000만 크로네)과 루마니아 체르나보다 운전 호기 소모품·전동기 건뿐이었고 체르나보다 3·4호기 완공 발주는 넉 달째 0건이다. 스터드스빅이 inDRUM 방폐물 처리기술을 일본 르누인더스트리즈에 라이선스하며 '본국 운영+해외 라이선스' 모델을 아시아로 넓혔다. 영업 관점: 시놉은 정부 간 채널 속도가 승부처이고, 체르나보다는 공식 일정보다 실제 착수가 늦다고 보고 제안 준비 우선순위를 조정하는 편이 합리적이다.",
+  "overview_en": "Canada moved first at Türkiye's Sinop, pairing head-of-government diplomacy with an AtkinsRealis feasibility study, while KHNP's own plan - verify the economics in-house, then pursue the award with government backing - also came on the record, sharpening a four-way race due to be decided this year. On fuel, the US NRC recommended a construction and operating licence for GLE's Paducah laser enrichment plant, covering LEU+ up to 8%, and Canadian-owned Nucleon Fuel applied for Wyoming state money for a 15,000 tU/yr conversion plant, continuing the run of new North American enrichment and conversion capacity. Procurement was quiet: the only new nuclear notices in Europe were Norway's DSA regulatory consultancy framework (NOK 30 million) and consumables and a motor for Romania's operating Cernavoda units, with still nothing in four months for completing units 3 and 4. Studsvik licensed its inDRUM waste treatment technology to Japan's ReNu Industries, extending its \"operate at home, license abroad\" model into Asia. Sales angle: at Sinop the decisive variable is the pace of the government-to-government channel, and at Cernavoda it is reasonable to assume the real start lags the official schedule and to reprioritise proposal work accordingly.",
+  "domestic_overview_ko": "삼성물산 건설부문이 DS인베스트먼트파트너스가 주도하는 컨소시엄의 전략적 투자자로 미국 원전 개발사 엘리멘틀파워와 최대 7억 5,000만 달러 개발 파트너십 예비합의에 참여했다. 자금은 엘리멘틀의 선진원전 사업 최대 3건을 FID까지 끌고 가는 착공 전 활동(인허가·계통연계·장납기 구매)에 쓰이고, 그중 하나가 BWRX-300 기반 오하이오 1.5GW 사업이다. 9월 카이로스파워 MOU에 이어 두 달 연속으로 국내 건설사가 미국 개발사 자본에 들어간 사례다. 정부·규제 쪽은 주말·월요일 신규 발표가 없었고, 한수원·한전 보도자료 게시판도 10월 22일 이후 갱신이 없다. 원안위의 고리 3·4호기 계속운전 허가안 심의는 아직 결과가 확인되지 않았다. 영업 관점: 미국 시장 진입 경로가 시공 입찰에서 개발단계 지분투자로 옮겨가고 있어, FID 이전 단계의 참여 방식을 함께 검토해야 하는 국면이다.",
+  "domestic_overview_en": "Samsung C&T's Engineering & Construction Group has joined a consortium led by DS Investment Partners as a strategic investor in a preliminary development partnership of up to $750 million with US developer Elementl Power. The funds are for pre-construction work - permitting, interconnection and long-lead procurement - carrying up to three of Elementl's advanced nuclear projects to final investment decision, one of them a 1.5 GW BWRX-300 project in Ohio. Coming after its Kairos Power MOU in September, this is the second month running in which a Korean contractor has taken capital into a US developer. There were no new government or regulator announcements over the weekend and Monday, and the KHNP and KEPCO press boards have not been updated since 22 October. The outcome of the NSSC's deliberation on continued operation for Kori 3 and 4 is not yet confirmed. Sales angle: the entry route into the US market is shifting from construction tenders to development-stage equity, so participation before FID now has to be examined alongside the construction route.",
+  "countries_pulse": [
+    {
+      "country": "TR",
+      "name_ko": "튀르키예",
+      "name_en": "Türkiye",
+      "stance": "expanding",
+      "signal": "시놉 2번째 원전 결정이 연내 목표로 좁혀졌고, 한국·캐나다·중국·러시아 4파전에서 캐나다가 정상회담·타당성조사로 먼저 움직였다.",
+      "signal_en": "The decision on a second plant at Sinop has narrowed to a target of this year, and in the four-way race with Korea, China and Russia, Canada has moved first with a summit and a feasibility study.",
+      "article_ids": [
+        "2026-10-27-01"
+      ]
+    },
+    {
+      "country": "CA",
+      "name_ko": "캐나다",
+      "name_en": "Canada",
+      "stance": "expanding",
+      "signal": "총리가 직접 CANDU 수출을 밀며 튀르키예와 전략적 동반자 관계로 격상, 앳킨스레알리스가 시놉 타당성조사 수행 예정.",
+      "signal_en": "The prime minister is personally pushing CANDU exports; ties with Türkiye were upgraded to a strategic partnership and AtkinsRealis will run a Sinop feasibility study.",
+      "article_ids": [
+        "2026-10-27-01"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "농축(GLE 퍼두카 최종환경평가 통과)·전환(뉴클레온퓨얼 와이오밍)·개발자본(엘리멘틀) 세 층에서 동시에 신규 투자가 진행 중.",
+      "signal_en": "New investment is advancing simultaneously at three levels: enrichment (GLE Paducah clears its final environmental review), conversion (Nucleon Fuel in Wyoming) and development capital (Elementl).",
+      "article_ids": [
+        "2026-10-27-04",
+        "2026-10-27-05",
+        "2026-10-27-08",
+        "2026-10-27-09",
+        "2026-10-27-12"
+      ]
+    },
+    {
+      "country": "RO",
+      "name_ko": "루마니아",
+      "name_en": "Romania",
+      "stance": "steady",
+      "signal": "기조 유지 — 10월 발주가 전부 운전 호기 정비·소모품 건이고 체르나보다 3·4호기 완공 관련 공고는 넉 달째 없다.",
+      "signal_en": "Unchanged - every October notice has been maintenance or consumables for the running units, with nothing in four months for completing Cernavoda 3 and 4.",
+      "article_ids": [
+        "2026-10-27-03"
+      ]
+    },
+    {
+      "country": "NO",
+      "name_ko": "노르웨이",
+      "name_en": "Norway",
+      "stance": "steady",
+      "signal": "기조 유지 — 연구로·폐기물시설의 운영사 이관과 해체 준비에 맞춰 규제기관이 기술자문 역량을 3,000만 크로네 규모로 외부 조달.",
+      "signal_en": "Unchanged - as the research reactors and waste facility transfer operator and prepare for shutdown, the regulator is buying in technical advisory capacity worth NOK 30 million.",
+      "article_ids": [
+        "2026-10-27-02"
+      ]
+    },
+    {
+      "country": "SE",
+      "name_ko": "스웨덴",
+      "name_en": "Sweden",
+      "stance": "expanding",
+      "signal": "스터드스빅이 inDRUM 기술을 일본에 라이선스하며 해체·폐기물 처리 기술수출을 아시아로 확대.",
+      "signal_en": "Studsvik has licensed its inDRUM technology to Japan, extending its decommissioning and waste-treatment technology exports into Asia.",
+      "article_ids": [
+        "2026-10-27-06"
+      ]
+    },
+    {
+      "country": "JP",
+      "name_ko": "일본",
+      "name_en": "Japan",
+      "stance": "steady",
+      "signal": "기조 유지 — 후쿠시마현 부흥보조금(최대 7억 엔)으로 난처리 방폐물 처리 시범설비를 외국 기술 도입으로 추진.",
+      "signal_en": "Unchanged - a prefectural reconstruction subsidy of up to JPY 700 million is funding a pilot plant for hard-to-treat waste built on imported technology.",
+      "article_ids": [
+        "2026-10-27-06"
+      ]
+    },
+    {
+      "country": "GB",
+      "name_ko": "영국",
+      "name_en": "United Kingdom",
+      "stance": "expanding",
+      "signal": "항만협회·로이드레지스터가 항만의 선진원자력 준비도 4단계 모델을 제시하며 신규 수요처 논의를 제도화.",
+      "signal_en": "The ports association and Lloyd's Register have set out a four-tier port readiness model for advanced nuclear, formalising the discussion of a new demand sector.",
+      "article_ids": [
+        "2026-10-27-07"
+      ]
+    },
+    {
+      "country": "RU",
+      "name_ko": "러시아",
+      "name_en": "Russia",
+      "stance": "expanding",
+      "signal": "기조 유지 — 신형 원자력 쇄빙선 추코트카 우현 원자로가 최소제어출력에 도달.",
+      "signal_en": "Unchanged - the starboard reactor on the new icebreaker Chukotka has reached minimum controlled power.",
+      "article_ids": [
+        "2026-10-27-10"
+      ]
+    },
+    {
+      "country": "AU",
+      "name_ko": "호주",
+      "name_en": "Australia",
+      "stance": "cautious",
+      "signal": "여론은 약 3분의 2가 원자력 도입에 찬성하지만 금지 법제는 그대로여서 정책 전환은 아직 없다.",
+      "signal_en": "About two-thirds of the public now back nuclear, but the legal ban is unchanged and there has been no policy shift.",
+      "article_ids": [
+        "2026-10-27-11"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-27-01",
+      "title": "한국 수주 저울질 중인 튀르키예 원전에 캐나다도 가세",
+      "title_ko": "[후속] 캐나다, 튀르키예 시놉 원전에 정부 차원 지원 — 한수원도 자체 타당성조사 후 수주 추진 방침",
+      "title_en": "Canada joins the race for Turkey's Sinop plant as KHNP plans its own feasibility study",
+      "language": "ko",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=108773",
+      "published": "2026-10-26",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "TR",
+        "CA",
+        "KR"
+      ],
+      "importance": 3,
+      "summary_ko": "전날 보도된 카니 캐나다 총리의 발언에 더해 한국 측 대응이 새로 확인됐다. 앳킨스레알리스는 시놉 부지 CANDU 건설 타당성조사를 수행할 예정이고, 캐나다·튀르키예는 22일 정상회담에서 에너지·원자력을 포함한 전략적 동반자 관계로 격상하기로 합의했다. 한수원은 지난해 11월 튀르키예원자력청(TAEK)과 부지평가·기술·규제인허가·현지화를 포괄하는 협력 MOU를 맺고 부지평가 공동그룹 구성에 합의했으며, 자체 타당성조사로 경제성을 검증한 뒤 정부와 함께 수주를 추진한다는 방침이다. 경쟁 구도는 한국·캐나다·중국·러시아 4파전이다.",
+      "summary_en": "Adding to yesterday's report of PM Carney's remarks, the Korean side's next step is now on the record. AtkinsRealis will run a feasibility study for CANDU units at Sinop, and Canada and Türkiye agreed on 22 October to upgrade ties to a strategic partnership covering energy and nuclear. KHNP signed a cooperation MOU with Türkiye's TAEK last November covering site evaluation, technology, regulation and licensing, and localisation, and plans to verify the economics through its own feasibility study before pursuing the award with government backing. Korea, Canada, China and Russia are all in the running.",
+      "sales_note": "경쟁사가 정상외교를 앞세워 부지 타당성조사 단계까지 올라온 반면 우리 측은 아직 자체 타당성조사 단계다. 연내 결정이 목표라면 정부 간 채널의 속도를 캐나다 수준으로 맞추는 것이 관건이고, 현지 시공사 협력·공급망 현지화라는 캐나다 제안 축에 대응할 카드를 함께 준비해야 한다.",
+      "sales_note_en": "A competitor has reached the site-feasibility stage on the back of head-of-government diplomacy while our side is still at the stage of its own study. If a decision really is due this year, matching Canada's pace on the government-to-government channel is the decisive factor, and we need an answer to the two pillars of Canada's pitch: partnership with Turkish contractors and supply-chain localisation.",
+      "related": [
+        "https://www.ctvnews.ca/politics/article/candu-attitude-carney-says-canadian-bid-for-turkish-nuclear-plant-is-in-the-mix/"
+      ]
+    },
+    {
+      "id": "2026-10-27-02",
+      "title": "Procurement of consultancy services for nuclear security, including handling used fuel, radiation protection and risk assessment",
+      "title_ko": "노르웨이 방사선·원자력안전청(DSA), 규제업무 기술자문 신규 발주 — 추정 3,000만 노르웨이크로네, 해체 전환기 대응",
+      "title_en": "Norway's DSA tenders nuclear regulatory technical consultancy, estimated NOK 30 million",
+      "language": "en",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/738486-2026/pdf",
+      "published": "2026-10-26",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "NO"
+      ],
+      "importance": 2,
+      "summary_ko": "노르웨이 DSA가 규제 핵심업무를 지원할 기술자문 용역을 공개입찰로 발주했다. 범위는 기술문서 검토·평가와 검사 지원이며, 추정금액은 3,000만 노르웨이크로네, 신청 마감은 11월 19일 11시(UTC)다. 공고는 노르웨이의 원자력시설 3곳(셸레르·할덴 연구로, 힘달렌 저·중준위 폐기물 처분·저장시설)이 운영사 IFE에서 해체 전담기관 NND로 이관되는 과정에 있고, 폐기 전 단계에서 미국이 개발한 이동식 용융고화설비(MMC) 계획을 포함한 신규 폐기물 처리시설이 필요하다고 적시했다. 보안법 적용 대상이다.",
+      "summary_en": "Norway's radiation and nuclear safety authority has put out an open tender for technical consultancy supporting its core regulatory functions — reviewing and assessing technical documentation and supporting inspections — with an estimated value of NOK 30 million and a 19 November 11:00 UTC deadline. The notice records that Norway's three nuclear installations (the Kjeller and Halden research reactors and the Himdalen low- and intermediate-level waste facility) are transferring from operator IFE to the decommissioning body NND, and that a new waste handling facility, including plans for a US-developed mobile melt consolidation unit, will be needed before shutdown can begin. The procurement falls under the Security Act.",
+      "sales_note": "노르웨이 해체 시장이 규제·폐기물 처리 양쪽에서 동시에 열리고 있다는 신호다. 규제기관 자문은 우리 역무 밖이지만, 같은 전환기에 NND가 낼 폐기물 처리시설·해체 역무 발주가 뒤따를 가능성이 높아 발주처 측 일정과 기술사양을 지금부터 추적할 가치가 있다.",
+      "sales_note_en": "A signal that Norway's decommissioning market is opening on both the regulatory and waste-handling sides at once. Advising the regulator is outside our scope, but NND is likely to follow with waste-facility and decommissioning packages during the same transition, so it is worth tracking the owner's schedule and technical specifications from now."
+    },
+    {
+      "id": "2026-10-27-03",
+      "title": "Motor electric CR 47144 / Furnizare echipamente de protecţie individuală împotriva contaminării - CR # 43931",
+      "title_ko": "루마니아 누클레아렐렉트리카, 신규 공고 1건·낙찰 2건 — 모두 운전 중인 체르나보다 1·2호기 건으로 3·4호기 완공 관련 발주는 넉 달째 0건",
+      "title_en": "Nuclearelectrica posts one new notice and two awards — all for the operating Cernavoda units, with still nothing for completing units 3 and 4",
+      "language": "ro",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/737781-2026/pdf",
+      "published": "2026-10-26",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "RO"
+      ],
+      "importance": 2,
+      "summary_ko": "누클레아렐렉트리카가 체르나보다 지점 명의로 전동기 1대 구매(사양서 CR 47144, 추정 544,067유로, 마감 11월 19일 15시)를 공개입찰로 냈고, 같은 날 오염방지 개인보호구 공급(사양서 CR #43931) 낙찰 공고 2건을 올렸다. 호흡보호구 부분은 MATE-FIN이 수주했으며, 4년간 방사선방호복 최대 2,200벌·고무장갑 최대 63,000켤레 등 운전 호기 소모품 물량이다. 10월 들어 이 발주처가 낸 공고는 모두 운전 중인 1·2호기 정비·소모품 건이고, 3·4호기 완공 관련 발주는 여전히 확인되지 않는다.",
+      "summary_en": "Nuclearelectrica's Cernavoda branch issued an open tender for a single electric motor (specification CR 47144, estimated EUR 544,067, deadline 19 November 15:00) and, the same day, two award notices for anti-contamination personal protective equipment under specification CR #43931. MATE-FIN won the respiratory protection lot; the volumes - up to 2,200 radiation-protection suits and up to 63,000 pairs of rubber gloves over four years - are operating-unit consumables. Every notice this buyer has published in October concerns maintenance or consumables for the running units 1 and 2; nothing has yet appeared for completing units 3 and 4.",
+      "sales_note": "체르나보다 3·4호기 완공은 발표된 일정과 달리 조달 측면에서 움직임이 없다. 발주처의 공고 흐름이 운전 호기 유지보수에 머무는 한 완공 사업의 실제 착수 시점은 공식 일정보다 뒤로 볼 필요가 있고, 제안 준비의 긴급도도 그에 맞춰 조정하는 것이 합리적이다.",
+      "sales_note_en": "Whatever the announced schedule says, there is no procurement movement on completing Cernavoda 3 and 4. As long as this buyer's notice flow stays on maintenance for the running units, the real start of the completion project should be read as later than the official timeline, and the urgency of proposal preparation adjusted accordingly.",
+      "related": [
+        "https://ted.europa.eu/en/notice/737963-2026/pdf",
+        "https://ted.europa.eu/en/notice/738603-2026/pdf"
+      ]
+    },
+    {
+      "id": "2026-10-27-04",
+      "title": "Regulatory milestone for US laser enrichment plant",
+      "title_ko": "美 NRC, 글로벌레이저엔리치먼트(GLE) 퍼두카 레이저농축시설 최종 환경영향평가서 발행 — 건설·운영허가 발급 권고",
+      "title_en": "NRC issues final environmental statement for GLE's Paducah laser enrichment plant, recommending a licence",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/regulatory-milestone-for-us-laser-enrichment-plant",
+      "published": "2026-10-26",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "미 원자력규제위원회가 GLE의 퍼두카 레이저농축시설에 대한 최종 환경영향평가서를 내면서 건설·운영허가 발급을 권고했다. 이 시설은 옛 퍼두카 기체확산 농축공장이 남긴 고농도 감손우라늄 테일을 실렉스(Silex)의 SILEX 레이저 기술로 재농축해 U-235 5%까지의 저농축우라늄을 생산하며, 허가에는 발전소 경제성 개선용으로 수요가 있는 8%까지의 LEU+ 생산도 포함된다. 남은 절차는 연내 예정된 최종 안전성평가보고서이고, 실렉스는 2027년 초 허가 확정을 예상한다. GLE는 카메코와 장기 농축 오프테이크 계약을 맺고 있다.",
+      "summary_en": "The US NRC has issued its Final Environmental Impact Statement for GLE's Paducah Laser Enrichment Facility and recommended that a construction and operating licence be issued. The plant would re-enrich the high-assay depleted tails left by the former Paducah gaseous diffusion plant using Silex's SILEX laser process, producing LEU up to 5% U-235, with the licence also covering LEU+ up to 8% - a grade utilities want for plant economics. The Final Safety Evaluation Report, the last step before a decision, is expected by year-end, and Silex expects the licence to be finalised in early 2027. GLE holds a long-term enrichment offtake agreement with Cameco.",
+      "sales_note": "LEU+ 공급원이 웨스팅하우스 콜롬비아 공장(10월 21일 발표)에 이어 농축 단계에서도 한 곳 더 늘어난다. 8% 농축도를 전제로 한 연료 설계·장주기 운전 제안이 북미에서 표준 옵션이 되어 가는 흐름이므로, 우리 노형의 연료 사양 대응 범위를 미리 정리해 둘 필요가 있다.",
+      "sales_note_en": "After the Westinghouse Columbia facility announced on 21 October, a second LEU+ source is now advancing, this time at the enrichment stage. Fuel designs and longer cycles premised on 8% enrichment are becoming a standard option in North America, so it is worth settling in advance how far our design can accommodate those fuel specifications."
+    },
+    {
+      "id": "2026-10-27-05",
+      "title": "Nucleon Fuel seeks $20M grant for Wyo. conversion facility",
+      "title_ko": "뉴클레온퓨얼, 와이오밍 우라늄 전환시설에 주정부 보조금 2,000만 달러 신청 — 연산 15,000톤 UF6 목표, 2030~31년 착공",
+      "title_en": "Nucleon Fuel seeks a $20 million Wyoming grant for a 15,000 tU/yr uranium conversion plant",
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-10-26/article-8517/nucleon-fuel-seeks-20m-grant-for-wyo-conversion-facility/",
+      "published": "2026-10-26",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "US",
+        "CA"
+      ],
+      "importance": 2,
+      "summary_ko": "캐나다 SMR 개발사 뉴클레온에너지의 자회사 뉴클레온퓨얼이 와이오밍주가 올해 신설한 '에너지 주도권 기금'에 2,000만 달러 보조금과 1,000만 달러 융자를 신청했다. 길레트 인근에 '포트유니언 우라늄 전환시설'을 지어 모듈(SMR-5000)당 연 5,000톤 UF6, 3기 합계 연 15,000톤을 생산한다는 구상으로, 현재 미국 유일 가동 전환공장인 솔스티스 메트로폴리스와 달리 습식 공정을 쓴다. 착공 목표는 2030~31년이며, 보조금 신청은 11월 16일까지 30일간 주민의견 수렴 중이고 NRC 인허가는 아직 신청 전(4월 의향서 제출 단계)이다.",
+      "summary_en": "Nucleon Fuel, a subsidiary of Canadian SMR developer Nucleon Energy, has applied to Wyoming's newly created Energy Dominance Fund for a $20 million grant plus a possible $10 million loan. It proposes the Fort Union Uranium Conversion Facility near Gillette, with each SMR-5000 module producing 5,000 tonnes of UF6 a year and three units giving 15,000 t/yr, using a wet process unlike the dry process at Solstice's Metropolis Works, the only US conversion plant now operating. Construction is targeted for 2030 or 2031. The grant application is in a 30-day public comment period ending 16 November, and the company has not yet filed an NRC licence application, having sent a letter of intent in April.",
+      "sales_note": "농축에 이어 전환 단계까지 북미 내 신규 설비 계획이 주정부 자금과 묶여 나오고 있다. 다만 인허가 미신청·착공 2030년대라는 조건이므로 단기 공급 대안으로 보기는 어렵고, 장기 연료 공급선 다변화 논의의 재료로 보는 것이 적절하다.",
+      "sales_note_en": "After enrichment, conversion is now also seeing new North American capacity proposals tied to state money. With no licence application filed and construction only targeted for the 2030s, though, this is not a near-term supply alternative; it belongs in the longer-run discussion of diversifying fuel supply routes."
+    },
+    {
+      "id": "2026-10-27-06",
+      "title": "Studsvik's waste treatment technology heads to Fukushima",
+      "title_ko": "스웨덴 스터드스빅, 일본 르누인더스트리즈와 inDRUM 방폐물 처리기술 기술이전 합의 — 후쿠시마현 시범설비 2028회계연도 완공 목표",
+      "title_en": "Studsvik licenses its inDRUM waste treatment technology to Japan's ReNu Industries for a Fukushima pilot",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/studsviks-waste-treatment-technology-heads-to-fukushima",
+      "published": "2026-10-26",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "SE",
+        "JP"
+      ],
+      "importance": 2,
+      "summary_ko": "스웨덴 원자력 기술서비스사 스터드스빅이 10월 21일 일본 원자력 엔지니어링 스타트업 르누인더스트리즈와 합의하고, 자사 특허 기술 inDRUM의 일본형 설비 설계조건에 관한 기술정보·자문을 제공하기로 했다. 르누는 일본의 내진·규제 요건에 맞춘 후쿠시마현 시범설비를 설계하며, 후쿠시마현 부흥보조금으로 최대 7억 엔(약 440만 달러)을 지원받았다. 기본 설계조건은 2026회계연도(2027년 3월 종료) 내, 시범설비 완공은 2028회계연도가 목표다. inDRUM은 용기째 가열해 자유액체 제거·유기물 분해·부식성 물질 중화를 거쳐 부피를 최대 90%까지 줄이는 배치식 열화학 공정이다.",
+      "summary_en": "Swedish nuclear technical services provider Studsvik agreed on 21 October to give Japanese nuclear engineering start-up ReNu Industries technical information and advice on design conditions for a Japanese version of inDRUM, its patented waste treatment system. ReNu will design a pilot plant in Fukushima Prefecture meeting Japan's seismic and regulatory requirements, backed by up to JPY 700 million (about USD 4.4 million) from a prefectural reconstruction subsidy. Basic design conditions are targeted for fiscal 2026 (ending March 2027) and the pilot plant for fiscal 2028. inDRUM is a batch thermo-chemical process that heats waste inside its own container to remove free liquids, destroy organics and neutralise corrosives, cutting volume by as much as 90%.",
+      "sales_note": "스터드스빅이 '스웨덴에서 짓고 운영, 해외는 현지 파트너에 라이선스'라는 모델을 일본에서 처음 적용했다. 해체·폐기물 처리 영역에서 기술보유사와 현지 수행사가 짝을 이루는 구조가 굳어지는 흐름이므로, 아시아권 해체 물량에 접근할 때 기술 라이선스 파트너십이 실효적인 진입 경로가 될 수 있다.",
+      "sales_note_en": "Studsvik has applied its \"build and operate in Sweden, license abroad to a local partner\" model for the first time in Japan. As technology owners pairing with local executors becomes the settled structure in decommissioning and waste treatment, a technology-licensing partnership is a realistic route into Asian decommissioning volumes."
+    },
+    {
+      "id": "2026-10-27-07",
+      "title": "Preparations for advanced nuclear at ports should begin now, study concludes",
+      "title_ko": "영국 항만협회·로이드레지스터 공동보고서 — 항만의 선진원자력 대비는 '연료 문제'가 아니라 인프라·운영모델 문제, 단계별 준비도 모델 제시",
+      "title_en": "British Ports Association and Lloyd's Register tell ports to start planning for advanced nuclear now",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/preparations-for-advanced-nuclear-at-ports-should-begin-now-study-concludes",
+      "published": "2026-10-26",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "GB",
+        "INT"
+      ],
+      "importance": 1,
+      "summary_ko": "영국 항만협회와 로이드레지스터가 '항만 환경에서의 선진원자력 기술 활용' 공동보고서를 냈다. 원자력추진 선박, 부유식·이동식 원자로, 육상 SMR·마이크로원자로를 함께 다루며, 항만이 이를 새 연료가 아니라 장기 인프라·운영모델 문제로 보고 지금부터 단계적으로 준비할 것을 권고했다. 준비도는 '원자력 인지 → 원자력 준비 → 원자력 가능 → 원자력 에너지 허브' 4단계로 제시했고, 100MWe급 SMR 1기면 원칙적으로 중형 항만과 일부 입주 산업체의 전력수요를 충당할 수 있다고 봤다. 별도 규제체계를 만들기보다 기존 항만 안전관리체계에 원자력 시나리오를 편입하라고 권했다.",
+      "summary_en": "The British Ports Association and Lloyd's Register have published a joint paper, Advanced Nuclear Technology Use Within Port Environments, covering nuclear-powered ships, floating or transportable units, and land-based SMRs and microreactors. It urges ports to treat advanced nuclear as a long-term infrastructure and operating-model question rather than a new marine fuel and to begin proportionate planning now, setting out a four-tier readiness model from \"nuclear-aware\" through \"nuclear-ready\" and \"nuclear-enabled\" to a nuclear energy hub. A single 100 MWe-class SMR could in principle meet the electricity needs of a medium-sized port and several industrial tenants. It recommends folding nuclear scenarios into existing port safety-management systems rather than creating a separate regime.",
+      "sales_note": "로테르담항 공급망 보고서(10월 22일)에 이어 항만이 SMR 수요처로 연달아 거론되고 있다. 아직 발주로 이어진 단계는 아니지만, 유럽 항만권이 '준비도' 평가를 시작하면 타당성조사·개념설계 용역이 먼저 나오는 경로이므로 공고 감시 대상에 항만청을 추가해 둘 만하다.",
+      "sales_note_en": "After the Port of Rotterdam supply-chain study on 22 October, ports are coming up repeatedly as SMR demand centres. Nothing has reached procurement yet, but once European port authorities start readiness assessments the first packages out are typically feasibility and concept-design studies, so port authorities are worth adding to the notice watch."
+    },
+    {
+      "id": "2026-10-27-08",
+      "title": "SpaceNukes receives DARPA award to ground test kilopower reactor",
+      "title_ko": "美 스페이스뉴크스, DARPA 'Fat Cat' 사업으로 킬로파워급 고속로 지상시험 수주 — 로스앨러모스 장치조립시설에서 능동 제어봉 운전 실증",
+      "title_en": "SpaceNukes wins a DARPA award to ground-test a kilopower-class fast reactor",
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-10-26/article-8520/spacenukes-receives-darpa-award-to-ground-test-kilopower-reactor/",
+      "published": "2026-10-26",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "US"
+      ],
+      "importance": 1,
+      "summary_ko": "스페이스뉴크스가 미 국방고등연구계획국(DARPA) 국방과학국의 'Fat Cat' 사업에서 기타거래협정(OTA) 방식으로 킬로파워급 고속로 지상 핵시험 과제를 받았다. 로스앨러모스 국립연구소와 협력해 장치조립시설(DAF)에서 '완전 기능 고속로의 자율 원자력 제어'를 목표로 하며, 수동 제어에 그쳤던 2018년 KRUSTY 시험과 달리 능동 제어봉 운전을 적용한다. 수행 단계는 설계·조달·통합·지상실증 순이고, 계약금액과 일정은 공개되지 않았다.",
+      "summary_en": "SpaceNukes has received an other transaction agreement under DARPA's Fat Cat programme, run by its Defense Sciences Office, to carry out a nuclear ground test of a kilopower-class fast reactor. Working with Los Alamos National Laboratory at the Device Assembly Facility, the project targets autonomous nuclear control of a fully functional fast reactor, using active control-rod operation rather than the passive control of the 2018 KRUSTY test. The stages are design, procurement, integration and ground demonstration; the award value and schedule were not disclosed.",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-10-27-09",
+      "title": "Tilted fuel assembly retrieved from Palisades plant",
+      "title_ko": "홀텍, 팰리세이즈 원전 기울어진 연료집합체 인출 완료 — 2주 만에 설계·제작한 전용 장비 투입",
+      "title_en": "Holtec retrieves tilted fuel assembly at Palisades with a purpose-built machine designed in two weeks",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/tilted-fuel-assembly-retrieved-from-palisades-plant",
+      "published": "2026-10-26",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "US"
+      ],
+      "importance": 1,
+      "summary_ko": "홀텍인터내셔널이 미시간주 팰리세이즈 원전에서 기울어진 연료집합체를 인출하는 작업을 마쳤다. 구상부터 설계·제작·납품까지 2주 만에 끝낸 전용 장비를 투입했다.",
+      "summary_en": "Holtec International has completed the retrieval of a tilted fuel assembly at the Palisades plant in Michigan, using a purpose-built machine that was conceived, engineered, manufactured and delivered in just two weeks.",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-10-27-10",
+      "title": "First reactor unit launched on Chukotka icebreaker",
+      "title_ko": "러시아 신형 쇄빙선 '추코트카', 우현 원자로 최소제어출력 도달",
+      "title_en": "Starboard reactor on Russia's Chukotka icebreaker reaches minimum controlled power",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/first-reactor-unit-launched-on-chukotka-icebreaker",
+      "published": "2026-10-26",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "RU"
+      ],
+      "importance": 1,
+      "summary_ko": "러시아의 신형 원자력 쇄빙선 '추코트카'의 우현 원자로가 최소제어출력에 도달했다.",
+      "summary_en": "The starboard reactor unit on Russia's new nuclear-powered icebreaker Chukotka has been brought to minimum controlled power level.",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-10-27-11",
+      "title": "New Polling Reveals Majority Of Australians Support Nuclear Energy",
+      "title_ko": "호주 여론조사 — 국민 약 3분의 2가 원자력을 미래 에너지원에 포함해야 한다고 응답",
+      "title_en": "New polling finds about two-thirds of Australians back nuclear in the energy mix",
+      "language": "en",
+      "source": "NucNet",
+      "url": "https://www.nucnet.org/news/new-polling-reveals-majority-of-australians-support-nuclear-energy-10-1-2026",
+      "published": "2026-10-26",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "AU"
+      ],
+      "importance": 1,
+      "summary_ko": "새 유고브(YouGov) 조사에서 호주 국민의 약 3분의 2가 원자력이 국가 에너지 미래의 일부가 되어야 한다고 답했다. 전력 수요를 감당할 수 있을지에 대한 우려가 커지는 가운데 나온 결과다. (유료 매체로 제목·리드만 확인)",
+      "summary_en": "New YouGov research finds almost two-thirds of Australians believe nuclear power should be part of the country's energy future, against a background of growing concern about Australia's ability to meet its electricity needs. (Paywalled source; headline and lead only.)",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-10-27-12",
+      "title": "ELEMENTL POWER, DS INVESTMENT PARTNERS AND SAMSUNG C&T TO ADVANCE NEW U.S. NUCLEAR DEVELOPMENT",
+      "title_ko": "삼성물산 건설부문, 美 원전 개발사 엘리멘틀파워에 전략적 투자자로 참여 — DS인베스트먼트파트너스 주도 컨소시엄, 최대 7억 5,000만 달러 개발 파트너십 예비합의",
+      "title_en": "Samsung C&T joins a Korean-led consortium in a preliminary deal of up to $750 million with US developer Elementl Power",
+      "language": "en",
+      "source": "Elementl Power (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/elementl-power-ds-investment-partners-and-samsung-ct-to-advance-new-us-nuclear-development-302919526.html",
+      "published": "2026-10-26",
+      "region": "domestic",
+      "category": "smr",
+      "countries": [
+        "KR",
+        "US"
+      ],
+      "importance": 3,
+      "summary_ko": "미국 원전 개발·자본운용 플랫폼 엘리멘틀파워가 한국 DS인베스트먼트파트너스(DSIP)가 주도하는 컨소시엄과 최대 7억 5,000만 달러 규모 개발 파트너십에 대한 예비합의(의향서+텀시트)를 맺었다. 삼성물산 건설부문이 전략적 투자자로 컨소시엄에 참여하며, 컨소시엄은 소요 자본의 일부를 대고 파트너십의 '상당한 소수지분'을 갖는다. 자금은 엘리멘틀의 선진원전 사업 최대 3건을 최종투자결정(FID)까지 끌고 가는 데 쓰이며, 인허가·계통연계·장납기 품목 구매 같은 착공 전 활동이 대상이다. 사업 중 하나는 GE버노바히타치의 BWRX-300을 쓰는 오하이오주 1.5GW 사업이다. 본계약·규제승인 등이 남아 있어 개별 사업의 FID는 아직 아니며, 엘리멘틀은 추가 투자자 유치를 위해 맥쿼리캐피털을 재무자문사로 선임했다.",
+      "summary_en": "Elementl Power, a US nuclear project delivery and capital management platform, has signed a preliminary agreement - a letter of intent plus a term sheet - with a consortium led by South Korea's DS Investment Partners for a development partnership of up to $750 million. Samsung C&T's Engineering & Construction Group is participating as a strategic investor; the consortium would fund part of the required capital and hold a significant minority interest in the partnership. The money would carry up to three of Elementl's advanced nuclear projects to final investment decision, covering pre-construction work such as permitting, interconnection and long-lead item procurement. One of them is a 1.5 GW project in Ohio using GE Vernova Hitachi's BWRX-300 SMRs. Definitive documentation and regulatory approvals are still outstanding, so this is not an FID on any project, and Elementl has retained Macquarie Capital to bring in further investors.",
+      "sales_note": "국내 건설사의 미국 진입 방식이 시공 수주에서 개발단계 지분투자로 한 칸 더 올라갔다. 삼성물산은 9월 카이로스파워 전략적 MOU에 이어 두 번째로 개발사 자본에 들어가며 FID 이전 단계에서 EPC 우선권을 확보하는 구도를 반복하고 있다. 미국에서 추진되는 BWRX-300 사업들에서도 시공 입찰 공고를 기다리는 방식은 늦고, 개발사·투자 컨소시엄 단계의 참여 경로를 함께 보아야 하는 국면이다.",
+      "sales_note_en": "Korean contractors' route into the US market has moved up a rung, from winning construction work to taking equity at the development stage. After its strategic MOU with Kairos Power in September, Samsung C&T is for the second time putting capital into a developer and locking in EPC position before FID. For the BWRX-300 projects now being developed in the US, waiting for a construction tender is too late; the live entry point is participation at the developer and investment-consortium stage.",
+      "related": [
+        "https://thetracker.co.kr/View.aspx?No=4280035"
+      ]
+    }
+  ]
+}

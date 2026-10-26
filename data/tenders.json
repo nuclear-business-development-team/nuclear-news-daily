@@ -1,47 +1,8 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
   "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
   "tenders": [
-    {
-      "country": "LT",
-      "buyer": "Valstybės įmonė Ignalinos atominė elektrinė",
-      "title": "이그날리나 액체방사성폐기물 고화시설(150, 151/154, 158/2동) 주기적 안전성평가 보고서 작성",
-      "title_en": "Periodic safety assessment report for the Ignalina liquid radioactive waste cementation facility (buildings 150, 151/154, 158/2)",
-      "scope": "기존 고화시설의 주기적 안전성평가 보고서 작성 용역",
-      "scope_en": "Consultancy to prepare the periodic safety assessment report for the existing cementation facility",
-      "portal": "TED",
-      "notice_no": "653890-2026",
-      "published": "2026-09-23",
-      "deadline": "2026-10-26",
-      "url": "https://ted.europa.eu/en/notice/653890-2026/pdf"
-    },
-    {
-      "country": "RO",
-      "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
-      "title": "고정식 감시기 예방·교정 정비 및 예비품 재고 확보 용역",
-      "title_en": "Preventive and corrective maintenance of fixed monitors, with guaranteed spare-parts stock",
-      "scope": "고정식 감시기의 예방·교정 정비와 예비품 재고 확보 용역. CPV 50411000(계측기 수리·정비). 공고 제목이 검색 결과에서 잘려 있어 감시기 종류는 원문으로 확인해야 한다.",
-      "scope_en": "Preventive and corrective maintenance of fixed monitors together with a guaranteed stock of spare parts, under CPV 50411000 (repair and maintenance of measuring apparatus). The notice title is truncated in search results; check the original for the monitor type.",
-      "portal": "TED",
-      "notice_no": "679476-2026",
-      "published": "2026-10-02",
-      "deadline": "2026-10-26",
-      "url": "https://ted.europa.eu/en/notice/-/detail/679476-2026"
-    },
-    {
-      "country": "RO",
-      "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
-      "title": "체르나보다 1·2호기 기술용수계통(RSW-BSI 71310) NMV 1000 RA형 펌프 수리 용역",
-      "title_en": "Repair services for NMV 1000 RA pumps in the service water system (RSW-BSI 71310), Cernavodă units 1 and 2",
-      "scope": "기술용수계통 NMV 1000 RA형 펌프 수리, 1·2호기 대상. CPV 50511100, 공개입찰. 공고 기재값 1,166,000(통화 미표기).",
-      "scope_en": "Repair of NMV 1000 RA pumps in the service water system for units 1 and 2. CPV 50511100, open procedure. The notice states a value of 1,166,000 with no currency given.",
-      "portal": "TED",
-      "notice_no": "709499-2026",
-      "published": "2026-10-14",
-      "deadline": "2026-10-26",
-      "url": "https://ted.europa.eu/en/notice/709499-2026/pdf"
-    },
     {
       "country": "RO",
       "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
@@ -190,12 +151,12 @@
       "buyer": "Danish Decommissioning",
       "title": "방사선 오염 검출 모니터 3대(+발주처 재량 2대) 및 부속품·용역·정비",
       "title_en": "Procurement of radiation contamination detection monitors and associated goods, services and maintenance",
-      "scope": "방사선 검출장비 3대와 부속품 일체. 발주처 재량으로 2대 추가 구매 가능하며 확정 물량은 아니다. 공고 기재 금액 375,000 EUR",
-      "scope_en": "Three radiation detection devices with all necessary accessories; two further devices may be purchased at the buyer's discretion and are not a guaranteed commitment. Notice states EUR 375,000",
+      "scope": "방사선 검출장비 3대와 부속품 일체. 발주처 재량으로 2대 추가 구매 가능하며 확정 물량은 아니다. 공고 기재 금액 375,000 EUR (2026-10-27 TED 743086-2026 으로 재게재되며 마감 연장)",
+      "scope_en": "Three radiation detection devices with all necessary accessories; two further devices may be purchased at the buyer's discretion and are not a guaranteed commitment. Notice states EUR 375,000 (re-published as TED 743086-2026 on 2026-10-27 with an extended deadline)",
       "portal": "TED",
       "notice_no": "684493-2026",
       "published": "2026-10-05",
-      "deadline": "2026-11-11",
+      "deadline": "2026-11-23",
       "url": "https://ted.europa.eu/en/notice/684493-2026/pdf"
     },
     {
@@ -561,6 +522,58 @@
       "published": "2026-10-23",
       "deadline": "2026-11-03",
       "url": "https://ted.europa.eu/en/notice/735126-2026/pdf"
+    },
+    {
+      "country": "SK",
+      "buyer": "Slovenské elektrárne, a.s.",
+      "title": "모호우체 1·2호기(EMO12) 안전계통 SORR·SIS·CPL 현대화 — 경쟁적 대화",
+      "title_en": "Modernisation of the SORR, SIS and CPL safety systems at Mochovce units 1-2 (EMO12) - competitive dialogue",
+      "scope": "안전계통 SORR·SIS·CPL 의 원자력안전 수준 제고와 장기 기능성·신뢰성·유지보수성 확보. 운전 호기 개입과 계획 정기정비 영향을 최소화하고 기존 계통과의 인터페이스를 명확히 정의하는 방식, 전 생애주기 경제성(설계·시공·인허가·운전·정비·예비품·노후화 관리) 요구. 전체 기술사양은 NDA 체결 후 단계적 공개.",
+      "scope_en": "Raising the nuclear safety level of the SORR, SIS and CPL safety systems and securing their long-term functionality, reliability and maintainability. The solution must minimise intervention in operating units and the impact on planned outages, define interfaces with existing plant systems clearly, and be economic over the whole life cycle (design, construction, licensing, operation, maintenance, spares and obsolescence management). The full technical specification is released in stages after an NDA.",
+      "portal": "TED",
+      "notice_no": "741571-2026",
+      "published": "2026-10-27",
+      "deadline": "2026-12-08",
+      "url": "https://ted.europa.eu/en/notice/741571-2026/pdf"
+    },
+    {
+      "country": "SK",
+      "buyer": "Jadrová a vyraďovacia spoločnosť, a.s. (JAVYS)",
+      "title": "V1 부지 SO639 공조설비 재건 — 실시설계·기기공급·철거설치·시운전 일괄 (추정 430,000유로)",
+      "title_en": "Reconstruction of the air-conditioning installations in building SO639 at the V1 site - design, supply, removal and installation, and commissioning (estimated EUR 430,000)",
+      "scope": "실시설계도서 작성·승인, 냉동설비(실외기·실내기) 공급, 철거·설치 및 건축공사, 개별·기능·종합시험과 평가, 기술·준공도서 작성, 전기설비 검사, 인도.",
+      "scope_en": "Preparation and approval of detailed design documentation, supply of cooling units (outdoor and indoor), removal and installation plus construction work, individual, functional and integrated testing with evaluation, technical and as-built documentation, electrical inspection, and handover.",
+      "portal": "TED",
+      "notice_no": "743993-2026",
+      "published": "2026-10-27",
+      "deadline": "2026-11-13",
+      "url": "https://ted.europa.eu/en/notice/743993-2026/pdf"
+    },
+    {
+      "country": "NO",
+      "buyer": "Direktoratet for strålevern og atomsikkerhet (DSA)",
+      "title": "원자력안전 규제업무 기술자문 — 사용후연료 취급·방사선방호·위험도평가 포함 (추정 3,000만 노르웨이크로네)",
+      "title_en": "Consultancy services for nuclear security, including handling used fuel, radiation protection and risk assessment (estimated NOK 30 million)",
+      "scope": "규제기관의 핵심업무를 지원하는 기술용역으로 기술문서 검토·평가와 검사 지원을 포함한다. 공고는 노르웨이 원자력시설 3곳(셸레르·할덴 연구로, 힘달렌 저·중준위 폐기물 처분·저장시설)의 운영사 이관과 폐기 준비 과정, 신규 폐기물 처리시설 필요성을 배경으로 적고 있다. 보안법 적용 대상.",
+      "scope_en": "Technical services supporting the regulator's core functions, including reviewing and assessing technical documentation and supporting inspections. The notice sets out the background: the transfer of operator responsibility for Norway's three nuclear installations (the Kjeller and Halden research reactors and the Himdalen low- and intermediate-level waste facility), preparations for shutdown, and the need for a new waste handling facility. The procurement falls under the Security Act.",
+      "portal": "TED",
+      "notice_no": "738486-2026",
+      "published": "2026-10-26",
+      "deadline": "2026-11-19",
+      "url": "https://ted.europa.eu/en/notice/738486-2026/pdf"
+    },
+    {
+      "country": "RO",
+      "buyer": "Societatea Nationala NUCLEARELECTRICA S.A. (Sucursala CNE Cernavoda)",
+      "title": "체르나보다 전동기 1대 구매 (사양서 CR 47144, 추정 544,067유로)",
+      "title_en": "Supply of one electric motor for Cernavoda (specification CR 47144, estimated EUR 544,067)",
+      "scope": "사양서 CR 47144 및 그 정오표에 따른 전동기 1대 구매.",
+      "scope_en": "Purchase of one electric motor in accordance with specification CR 47144 and its corrigendum.",
+      "portal": "TED",
+      "notice_no": "737781-2026",
+      "published": "2026-10-26",
+      "deadline": "2026-11-19",
+      "url": "https://ted.europa.eu/en/notice/737781-2026/pdf"
     }
   ]
 }

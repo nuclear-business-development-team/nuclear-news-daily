@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
   "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
   "tenders": [
@@ -574,6 +574,19 @@
       "published": "2026-10-26",
       "deadline": "2026-11-19",
       "url": "https://ted.europa.eu/en/notice/737781-2026/pdf"
+    },
+    {
+      "country": "CZ",
+      "buyer": "ČEZ, a. s.",
+      "title": "두코바니(EDU)→브르노 열수송 사업 9503 — OB02: 열수송 기계실 기술설비 및 외부 연결배관",
+      "title_en": "Dukovany-to-Brno heat supply project 9503 - OB02: machine room technology and external connecting pipework",
+      "scope": "실시설계도서 작성과 열수송 기계실 기계·기술설비 및 외부 연결배관의 공급·설치·시운전. 저장탱크 간 배관 연결, 주발전동 기계실 경계에서 두코바니 방호구역 밖 열공급관 접속점까지의 예단열 배관, 밸브실·펌프군, 열교환기(순수 예열기·블로다운 냉각기), 열적 탈기 탱크, 순환·보충·급수 펌프와 주파수변환기, 비상 펌프, 화학약품 주입실 설비, 체결재·개스킷·보온·배관 지지 강구조물. 공고 후 협상절차(neg-w-call), CPV 45231112·44163140·42122000·42511100. 추정금액은 공고 구조화 데이터에 없음",
+      "scope_en": "Detailed design documentation plus supply, erection and commissioning of the mechanical technology in the heat-export machine room and the external connecting pipework: interconnections between storage tanks, pre-insulated pipe from the main production block machine hall boundary to beyond the plant's guarded area to the heat main connection point, valve rooms and pump groups, heat exchangers (demineralised water preheater and blowdown cooler), a thermal deaeration tank, circulation, make-up and feed pumps with variable-frequency drives, emergency pumps, chemical dosing room equipment, fasteners, gaskets, insulation and steel pipe supports. Negotiated procedure with prior call (neg-w-call); CPV 45231112, 44163140, 42122000, 42511100. No estimated value appears in the notice's structured data",
+      "portal": "TED",
+      "notice_no": "743826-2026",
+      "published": "2026-10-27",
+      "deadline": "2026-12-02",
+      "url": "https://ted.europa.eu/en/notice/743826-2026/pdf"
     }
   ]
 }

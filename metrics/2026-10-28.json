@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-28",
+  "run_started": "2026-10-28T08:04:21+09:00",
+  "run_finished": "2026-10-28T10:28:00+09:00",
+  "run_minutes": 143.7,
+  "articles": 9,
+  "by_region": {
+    "overseas": 5,
+    "domestic": 4
+  },
+  "by_importance": {
+    "3": 3,
+    "2": 5,
+    "1": 1
+  },
+  "detection_lag_hours": {
+    "median": 23.1,
+    "max": 23.1,
+    "n": 9
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "Nuclear Engineering International (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "ANS Nuclear Newswire",
+    "TED (EU 공공조달 API)",
+    "UK Find a Tender (OCDS API)",
+    "정책브리핑 korea.kr",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "에너지데일리",
+    "투데이에너지",
+    "더트래커 기사본문",
+    "ajupress"
+  ],
+  "sources_failed": [
+    {
+      "name": "IAEA News (iaea.org 기사 본문)",
+      "reason": "402 — sources.yaml unreachable 등재 상태와 일치. 과기정통부 보도자료·국내외 보도로 대체"
+    },
+    {
+      "name": "TED 공고 PDF/XML 렌더링 (ted.europa.eu/.../pdf, /xml)",
+      "reason": "202 Accepted 후 본문 미생성 — 검색 API 필드(description-lot 등)로 대체"
+    },
+    {
+      "name": "korea.kr 보도자료 본문 3건",
+      "reason": "본문이 HWPX·PDF 첨부에만 있어 페이지에서 미독출 — 언론 보도로 교차 확인"
+    },
+    {
+      "name": "jsonschema (pip)",
+      "reason": "설치 불가 — 스키마 검증은 수기 점검으로 대체"
+    }
+  ],
+  "languages": {
+    "en": 4,
+    "cs": 1,
+    "ko": 4
+  },
+  "note": "수요일 회차. 수집 기간 2026-10-27~10-28. TED는 2026-10-28 게재분이 0건(API totalNoticeCount 확인)이라 유럽 공고는 10-27 게재분까지 반영했다. UK FTS OCDS API 는 전일 429로 미수집된 페이지를 포함해 10/26~10/28 릴리스 928건을 페이지 간 25초 간격으로 전수 재수집했다(전일 미수집분 보완 완료)."
+}

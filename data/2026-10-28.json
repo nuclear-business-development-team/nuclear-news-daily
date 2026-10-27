@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T10:05:00+09:00",
+  "period": {
+    "from": "2026-10-27",
+    "to": "2026-10-28"
+  },
+  "overview_ko": "해외는 '건설 결정 이전 단계에서 자리를 잡는' 움직임이 하루 치 소식의 공통점이었다. 싱가포르가 발전소 건설을 정하지도 않은 상태에서 원자력 인력양성 제도 3종을 띄우며 앳킨스레알리스·CNNC해외·엑스에너지와 첫 파트너십을 맺었고, 내년 IAEA INIR 1단계 수검을 준비한다. 미국에서는 안타레스가 BWXT와 2020년대 말까지의 TRISO 연료 제조 계약(초기 할당 우라늄 1톤)을 맺어 마이크로원자로의 병목이 인허가에서 연료 물량으로 옮겨가는 모습을 보였고, 버몬트주가 버몬트양키 부지 SMR 검토를 공개해 폐쇄 부지 재활용 논의가 주정부로 번졌다. 반대로 독일에서는 프로이센엘렉트라와 엔비디아가 폐쇄 원전 부지 8곳을 AI 데이터센터 후보로 함께 보기로 해, 같은 '폐쇄 부지'가 미국·영국과는 다른 용도로 값이 매겨지고 있다. 체코 ČEZ는 두코바니→브르노 열수송 사업의 기계·배관 패키지(OB02)를 실시설계·공급·설치·시운전 일괄로 발주했다(참가신청 12월 2일). 영업 관점: 신규 진입국에서는 입찰보다 인력·역량 협약이 먼저 열리므로 싱가포르 INIR 수검 전후가 접근 시점이고, 체코는 신규호기와 별개로 부지 주변 설계·설치 물량이 분할 발주로 계속 나온다는 점을 공급망 일정에 넣어야 한다.",
+  "overview_en": "The common thread overseas was positioning taken before any construction decision. Singapore, which has not decided to build, launched three nuclear workforce schemes and signed its first partnerships with AtkinsRealis, CNNC Overseas and X-energy while preparing for an IAEA INIR Phase 1 mission next year. In the United States, Antares locked in TRISO fuel fabrication with BWXT through the end of the decade, starting with one metric ton of uranium, a sign that the microreactor bottleneck is shifting from licensing to fuel supply, and Vermont opened public discussion of SMRs at the Vermont Yankee site, taking retired-site reuse from developers to state level. Germany moved the other way: PreussenElektra and NVIDIA will jointly assess eight shut nuclear sites as AI data centre locations, so the same asset class is being priced quite differently than in the US and UK. In Czechia, CEZ tendered the mechanical and piping package (OB02) of the Dukovany-to-Brno heat supply project as a single design, supply, erection and commissioning scope, with requests to participate due 2 December. Sales angle: in newcomer markets the capability-building agreements open before the tenders do, which makes the run-up to Singapore's INIR mission the access window, while Czechia keeps issuing discipline-split design-and-install work around the existing site independently of the new-build programme.",
+  "domestic_overview_ko": "국내는 규제와 외교 양쪽에서 수출 레퍼런스가 한 칸씩 올라간 날이었다. 원자력안전위원회가 10월 27일 고리 3·4호기 계속운전을 의결해 3호기는 2034년 9월, 4호기는 2035년 8월까지 운전할 수 있게 됐고, 2기를 한 번에 허가한 것은 처음이다. 재가동은 설비 개선과 원안위 현장 확인을 거쳐 내년 상반기로 예정돼 있다. 같은 날 인천 송도에서 제6차 IAEA 국제 원자력 장관회의가 한국 주최로 처음 열려 60개국 약 800명이 모였고, 정부는 '제조·시공 역량을 세계 원전의 생산거점으로'를 공식 메시지로 내놓으며 경수형 SMR 2035년 상용화를 제시했다. 산업계 쪽에서는 NES 2026이 경주에서 개막해 한-미 원전 프레임워크(미국 대형원전 8기) 후속 공급망 진입을 겨냥한 설명회와 해외 바이어 55개사 상담이 열렸고, 현대엔지니어링은 나노뉴클리어·ARC클린테크놀로지와 미국 실증사업 EPC 협력 MOU 2건을 맺었다. 영업 관점: 계속운전 실적은 유럽·중동의 개보수·장기운전 발주에 바로 쓸 수 있는 근거이고, 정부가 '생산거점'을 전면에 세운 만큼 제안 논리도 노형 수출보다 기자재·모듈 제작 수주 쪽으로 무게를 옮겨 맞추는 편이 유리하다.",
+  "domestic_overview_en": "Domestically, both the regulator and diplomacy added to Korea's export references on the same day. On 27 October the Nuclear Safety and Security Commission approved continued operation for Kori 3 and 4, allowing them to run to September 2034 and August 2035 respectively - the first time two units were authorised together - with restarts planned for the first half of next year after equipment work and on-site verification. The same day Korea hosted the sixth IAEA International Ministerial Conference on Nuclear Power in Songdo, Incheon for the first time, drawing about 800 delegates from 60 countries, where the government framed Korea as a global production base for nuclear manufacturing and construction and set 2035 for commercialising light-water SMRs. On the industry side, NES 2026 opened in Gyeongju with a briefing aimed at entering the US supply chain under the Korea-US framework covering eight large reactors, plus matchmaking with 55 overseas buyers, and Hyundai Engineering signed EPC cooperation MOUs with Nano Nuclear Energy and ARC Clean Technology on US demonstration projects. Sales angle: the life-extension record is directly usable in the refurbishment and long-term operation tenders coming out of Europe and the Middle East, and with the government leading on production-base language, proposals are better weighted toward components and module fabrication than toward reactor exports alone.",
+  "countries_pulse": [
+    {
+      "country": "SG",
+      "name_ko": "싱가포르",
+      "name_en": "Singapore",
+      "stance": "expanding",
+      "signal": "건설 결정 전이지만 인력양성 제도 3종을 띄우고 앳킨스레알리스·CNNC해외·엑스에너지와 첫 파트너십을 맺었다. 2027년 IAEA INIR 1단계 수검 준비 단계로 올라섰다.",
+      "signal_en": "Still short of a build decision, but it launched three workforce schemes and signed first partnerships with AtkinsRealis, CNNC Overseas and X-energy, and is now preparing for an IAEA INIR Phase 1 mission in 2027.",
+      "article_ids": [
+        "2026-10-28-01"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "기조 유지 — 두코바니 신규호기와 별개로, 운전 호기 부대 인프라(브르노 열수송 9503)가 공종별 패키지로 계속 발주되고 있다. 이번은 기계·배관(OB02).",
+      "signal_en": "Steady expansion: alongside the new Dukovany units, auxiliary infrastructure at the operating site - the Brno heat supply project 9503 - keeps coming out as discipline packages, this time the mechanical and piping scope (OB02).",
+      "article_ids": [
+        "2026-10-28-02"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "선진로 연료 제조 물량이 다년 계약으로 묶이기 시작했고(안타레스–BWXT), 폐쇄 원전 부지의 SMR 재활용 검토가 사업자에서 주정부 차원으로 번졌다.",
+      "signal_en": "Advanced-reactor fuel fabrication is starting to be locked up in multi-year agreements (Antares-BWXT), and the reuse of retired nuclear sites for SMRs has spread from developers to state governments.",
+      "article_ids": [
+        "2026-10-28-03",
+        "2026-10-28-05"
+      ]
+    },
+    {
+      "country": "DE",
+      "name_ko": "독일",
+      "name_en": "Germany",
+      "stance": "retreating",
+      "signal": "탈원전 기조 유지 — 폐쇄 부지 8곳의 재활용 논의가 재가동이 아니라 AI 데이터센터로 향했다. 원자로 복귀 신호는 아니다.",
+      "signal_en": "The phase-out holds: discussion of reusing eight shut sites is heading toward AI data centres rather than restart, and implies no return of reactors.",
+      "article_ids": [
+        "2026-10-28-04"
+      ]
+    },
+    {
+      "country": "INT",
+      "name_ko": "국제기구",
+      "name_en": "International",
+      "stance": "expanding",
+      "signal": "IAEA 제6차 원자력 장관회의가 인천에서 개막(60개국 약 800명). IAEA는 2050년 설비용량을 보수 640GW 이상·낙관 1,000GW 이상으로 제시했다.",
+      "signal_en": "The sixth IAEA ministerial conference on nuclear power opened in Incheon with about 800 delegates from 60 countries, and the IAEA put 2050 capacity at more than 640 GW in the conservative case and over 1,000 GW in the optimistic one.",
+      "article_ids": [
+        "2026-10-28-07"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-28-01",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "SG"
+      ],
+      "importance": 3,
+      "language": "en",
+      "source": "World Nuclear News",
+      "published": "2026-10-27",
+      "url": "https://www.world-nuclear-news.org/articles/singapore-looks-to-develop-nuclear-energy-workforce",
+      "title": "Singapore looks to develop nuclear energy expertise",
+      "title_en": "Singapore looks to develop nuclear energy expertise",
+      "title_ko": "싱가포르, 원자력 인력양성 제도 3종 출범 — 에너지시장청(EMA)이 앳킨스레알리스·CNNC해외·엑스에너지와 첫 파트너십 체결, 2027년 IAEA INIR 1단계 수검 준비",
+      "summary_ko": "싱가포르 에너지통상산업부(MTI)와 에너지시장청(EMA)이 원자력 인력 기반을 만들기 위한 제도 3종을 내놨다. 첫째 '싱가포르 원자력인력개발프로그램'은 2027년부터 공무원을 해외 원자력 기업에 보내 현장 경험을 쌓게 하는 것으로, 싱가포르국제에너지주간(SIEW) 2026에서 EMA가 앳킨스레알리스, 중국핵공업집단(CNNC) 해외법인, 엑스에너지와 첫 파트너십 협정을 맺었다. 둘째는 초청 방식으로 고른 자국 기업 인력의 국제 교육·산업 연수를 지원하는 제도이고, 셋째 '싱가포르 미래에너지 펠로십'은 해외 에너지 전문가가 장기 에너지 전략을 자문하는 것으로 첫 펠로를 연내 위촉한다. EMA는 IAEA 마일스톤 접근법 19개 분야 역량 구축을 지원할 자문단도 위촉했고, 내년 IAEA 통합원자력기반시설검토(INIR) 1단계 수검을 준비한다. 발전소 건설을 결정했다는 언급은 없고 '선진 원자력 기술의 적합성 평가'가 목적으로 제시됐다.",
+      "summary_en": "Singapore's Ministry of Energy, Trade and Industry and the Energy Market Authority (EMA) have launched three schemes to build a local nuclear talent base. Under the Singapore Nuclear Manpower Development Programme, public officials will be placed with nuclear companies abroad from 2027; at Singapore International Energy Week 2026 the EMA signed its first partnership agreements with AtkinsRealis, China National Nuclear Corporation Overseas and X-energy. A second, invitation-based scheme funds staff at selected Singapore companies to join international training and industry attachments, and the Singapore Future Energy Fellowship will bring in international energy leaders as advisers, with the first fellows appointed this year. The EMA also appointed a consultant panel covering the 19 areas of the IAEA Milestones Approach and is preparing for an IAEA Integrated Nuclear Infrastructure Review (INIR) Phase 1 mission next year. No construction decision is announced; the stated aim is to assess the suitability of advanced nuclear technologies.",
+      "sales_note": "건설 결정 전 단계인데도 발주국이 벤더와 먼저 인력 협정을 맺는 방식이어서, 기술 선정 전에 접점을 확보한 경쟁사가 한 번에 세 곳(앳킨스레알리스·CNNC·엑스에너지) 생겼다. 동남아 신규 진입국에서는 입찰 공고보다 인력·역량 구축 협약이 먼저 열리는 창구임을 보여주며, INIR 수검 준비기에 들어간 2027년 전후가 접근 시점이다.",
+      "sales_note_en": "Singapore is signing manpower agreements with vendors well before any build decision, so three competitors (AtkinsRealis, CNNC and X-energy) have secured a foothold ahead of any technology选. In newcomer markets in Southeast Asia, capability-building agreements open before tenders do, and the run-up to the 2027 INIR mission is the window to engage.",
+      "related": [
+        "https://www.iaea.org/services/review-missions/integrated-nuclear-infrastructure-review-inir"
+      ]
+    },
+    {
+      "id": "2026-10-28-02",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "CZ"
+      ],
+      "importance": 2,
+      "language": "cs",
+      "source": "TED (EU 공공조달)",
+      "published": "2026-10-27",
+      "url": "https://ted.europa.eu/en/notice/743826-2026/pdf",
+      "title": "Česko – Instalace a montáž potrubních systémů – 9503 – Vyvedení tepla z EDU pro město Brno – OB02 – Technologie strojovny vyvedení tepla a vnější spojovací potrubí",
+      "title_en": "Czechia – CEZ tenders package OB02 of the Dukovany-to-Brno heat supply project: machine-room technology and external connecting pipework",
+      "title_ko": "체코 ČEZ, 두코바니(EDU)→브르노 열수송 사업 9503의 OB02 '열수송 기계실 기술설비·외부 연결배관' 발주 — 실시설계부터 공급·설치·시운전 일괄, 참가신청 마감 12월 2일",
+      "summary_ko": "체코 ČEZ가 두코바니 원전에서 브르노까지 열을 보내는 열수송 사업(9503)의 패키지 OB02를 공고했다. 범위는 실시설계도서 작성과 열수송 기계실 기계·기술설비 및 외부 연결배관의 공급·설치·시운전으로, 저장탱크 사이 배관 연결, 주발전동 기계실 경계에서 두코바니 방호구역 밖 열공급관 접속점까지의 예단열 배관, 밸브실과 펌프군, 열교환기(순수 예열기·블로다운 냉각기), 열적 탈기 탱크, 순환·보충·급수 펌프와 주파수변환기, 비상 펌프, 화학약품 주입실 설비, 배관 지지 강구조물이 들어간다. 절차는 공고 후 협상절차(neg-w-call), 참가신청 마감은 2026년 12월 2일 10시다. 추정금액은 공고 구조화 데이터에 없어 확인되지 않는다.",
+      "summary_en": "CEZ has issued package OB02 of project 9503, which will pipe heat from the Dukovany nuclear plant to the city of Brno. The scope covers detailed design documentation plus supply, erection and commissioning of the mechanical technology in the heat-export machine room and the external connecting pipework: interconnections between storage tanks, pre-insulated pipe running from the main production block machine hall boundary to beyond the plant's guarded area to the heat main connection point, valve rooms and pump groups, heat exchangers (demineralised water preheater and blowdown cooler), a thermal deaeration tank, circulation, make-up and feed pumps with variable-frequency drives, emergency pumps, chemical dosing room equipment and the steel supports for the pipework. The procedure is negotiated with a prior call for competition and requests to participate are due by 10:00 on 2 December 2026. No estimated value appears in the notice's structured data.",
+      "sales_note": "같은 사업에서 토목 기초(OB01)와 전기·계측제어(OB03)에 이어 기계·배관 패키지가 따로 나왔다. 체코 발주처가 운전 호기 부대 인프라를 공종별로 쪼개 발주하는 방식이 반복 확인되므로, 두코바니 신규호기 본사업과 별개로 기존 부지 주변에서 설계·설치 일괄 물량이 꾸준히 나온다는 점을 공급망 영업 일정에 반영할 만하다.",
+      "sales_note_en": "After the civil foundations (OB01) and the electrical and I&C package (OB03), the mechanical and piping scope has now been tendered separately. The Czech owner keeps splitting auxiliary infrastructure at operating units into discipline-by-discipline packages, so design-and-install work around the existing Dukovany site continues to appear independently of the new-build programme, and supply-chain outreach should be timed accordingly.",
+      "related": [
+        "https://ted.europa.eu/en/notice/705458-2026/pdf"
+      ]
+    },
+    {
+      "id": "2026-10-28-03",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "US"
+      ],
+      "importance": 2,
+      "language": "en",
+      "source": "POWER Magazine",
+      "published": "2026-10-27",
+      "url": "https://www.powermag.com/antares-secures-bwxt-fuel-agreement-advances-doe-review-for-electricity-producing-mark-1/",
+      "title": "Antares Secures BWXT Fuel Agreement, Advances DOE Review for Electricity-Producing Mark-1",
+      "title_en": "Antares Secures BWXT Fuel Agreement, Advances DOE Review for Electricity-Producing Mark-1",
+      "title_ko": "[후속] 안타레스, BWXT와 마이크로원자로 TRISO 연료 제조 다년 계약 — 초기 할당 우라늄 1톤, 2020년대 말까지 (10월 25일 자 Mark-1 DOE 인가관문 통과 건의 새 사실)",
+      "summary_ko": "10월 25일 자로 전한 안타레스뉴클리어 Mark-1의 에너지부 원자력안전설계협약(NSDA) 승인 건에 연료 공급이라는 새 사실이 붙었다. 안타레스는 BWX테크놀로지스(BWXT 선진연료)와 TRISO 연료 제조 다년 계약을 맺었고, BWXT가 버지니아주 린치버그 공장에서 안타레스 Mark-0과 국방부 프로젝트 필리 연료를 만든 같은 생산라인으로 고순도저농축우라늄(HALEU, U-235 20% 미만) TRISO 입자를 공급한다. 기간은 2020년대 말까지, 초기 할당은 우라늄 1톤이며 수요 증가에 따라 늘릴 수 있는 조항을 뒀다. 수량과 납기는 개별 작업지시로 정하고 금액은 공개하지 않았다. 발전형인 Mark-1은 2027년 아이다호국립연구소에서 6개월 전출력 운전이 목표이고, 상업형 R1은 100kWe~1MWe급 이동형으로 6년 이상 무교체 운전을 내세운다.",
+      "summary_en": "The Mark-1 story reported on 25 October, when Antares Nuclear received a DOE Nuclear Safety Design Agreement, now has a fuel leg. Antares has signed a multi-year agreement with BWX Technologies for TRISO fuel fabrication at BWXT's Lynchburg, Virginia plant, on the same line that produced fuel for Antares' Mark-0 and for the Department of War's Project Pele. The fuel is TRISO using high-assay low-enriched uranium (under 20% U-235); the agreement runs through the end of the decade with an initial allocation of one metric ton of uranium and provisions to scale up. Quantities and delivery schedules will be fixed by later task orders and the financial terms were not disclosed. Mark-1, the electricity-producing unit, is targeted for a six-month full-power campaign at Idaho National Laboratory in 2027, while the commercial R1 is a transportable 100 kWe to 1 MWe unit designed to run six or more years between refuellings.",
+      "sales_note": "마이크로원자로의 병목이 노형 인허가에서 연료 제조 물량 확보로 옮겨가고 있다. 선진로 연료 공급선이 BWXT 등 소수에 묶이는 구도라, 선진로 공급망에 들어갈 접점도 노형사보다 연료·기자재 쪽이 먼저 열릴 수 있다.",
+      "sales_note_en": "The bottleneck for microreactors is shifting from design licensing to securing fabrication capacity. With advanced-reactor fuel concentrated in a handful of suppliers such as BWXT, the first openings into that supply chain are more likely to be on the fuel and components side than with the reactor designers themselves.",
+      "related": [
+        "https://www.ans.org/news/2026-10-23/"
+      ]
+    },
+    {
+      "id": "2026-10-28-04",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "DE"
+      ],
+      "importance": 2,
+      "language": "en",
+      "source": "World Nuclear News",
+      "published": "2026-10-27",
+      "url": "https://www.world-nuclear-news.org/articles/nvidia-to-consider-data-centres-at-former-german-nuclear-sites",
+      "title": "NVIDIA to consider data centres at former German nuclear sites",
+      "title_en": "NVIDIA to consider data centres at former German nuclear sites",
+      "title_ko": "엔비디아–프로이센엘렉트라, 독일 폐쇄 원전 부지 8곳의 AI 데이터센터 전용 가능성 공동 검토 — 재가동은 검토 대상 아님",
+      "summary_ko": "독일 E.ON 자회사 프로이센엘렉트라와 엔비디아가 프로이센엘렉트라가 해체 중인 폐쇄 원전 부지 8곳이 'AI 팩토리'(고성능 AI 데이터센터) 입지로 적합한지 함께 살펴보기로 했다. 프로이센엘렉트라는 부지·인프라·현장 조건 정보를, 엔비디아는 기술 파트너로서 AI 팩토리 요건과 입지 구상을 맡아 어느 부지를 어떤 조건으로 개발할지 추린다. 프로이센엘렉트라는 이번 검토가 \"현 단계에서 구체적인 투자나 입지 결정을 수반하지 않는다\"고 밝혔고 일정과 금액은 공개되지 않았다. 원자로 재가동은 논의 대상이 아니며, 헤센주 비블리스 부지는 2035년 레이저 핵융합 발전소 후보로 따로 지목돼 있으나 이번 검토와는 무관하다.",
+      "summary_en": "PreussenElektra, the E.ON subsidiary decommissioning eight shut German nuclear plants, and NVIDIA will jointly examine whether those sites suit 'AI factories' - high-performance AI data centres. PreussenElektra brings knowledge of the land, infrastructure and site conditions; NVIDIA, as technology partner, will assess AI factory requirements and possible site concepts, after which the two will decide which locations could be developed and on what terms. PreussenElektra says the review \"does not currently entail any concrete investment or location decisions\", and no schedule or figures were given. No reactor restart is implied. The former Biblis site in Hesse has separately been named for a laser fusion plant by 2035, which is not part of this review.",
+      "sales_note": "독일에서 원전 부지의 값어치가 '재가동'이 아니라 '계통 접속점과 냉각수를 갖춘 데이터센터 부지'로 매겨지고 있다는 신호다. 폐쇄·해체 부지를 SMR 입지로 제안하는 미국·영국 흐름과 방향이 갈리므로, 유럽 시장별로 부지 재활용 논리를 달리 짜야 한다.",
+      "sales_note_en": "In Germany the residual value of a nuclear site is being priced as a data-centre location with grid connection and cooling water, not as a candidate for restart. That diverges from the US and UK pattern of pitching retired sites for SMRs, so the site-reuse argument has to be built market by market in Europe.",
+      "related": []
+    },
+    {
+      "id": "2026-10-28-05",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "US"
+      ],
+      "importance": 1,
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "published": "2026-10-27",
+      "url": "https://www.ans.org/news/2026-10-27/article-8522/wisconsin-vermont-eye-smrs-at-former-nuclear-plant-sites/",
+      "title": "Wisconsin, Vermont eye SMRs at former nuclear plant sites",
+      "title_en": "Wisconsin, Vermont eye SMRs at former nuclear plant sites",
+      "title_ko": "[후속] 미국 폐쇄 원전 부지 SMR 검토가 주정부로 확산 — 버몬트주, 버몬트양키 부지 SMR 가능성 공개 논의 (위스콘신 라크로스 건은 기보도)",
+      "summary_ko": "10월 25일 자로 전한 데어리랜드파워–어플라이드아토믹스의 위스콘신 라크로스(제노아) 부지 SMR 검토 의향서에 더해, 버몬트주가 같은 검토를 공개했다. 커릭 존슨 버몬트주 공공서비스국장은 10월 20일 버넌 선출위원회에서, 1972년 상업운전을 시작해 2014년 경제성 이유로 폐쇄되고 2030년 해체 완료가 예정된 버몬트양키(617MWe 비등경수로) 부지에 SMR을 검토할 수 있다고 말했다. 다만 SMR·핵융합 업체 상당수가 신생기업이라는 점을 들어 버넌 지역사회 동의 없이는 주가 지원하지 않겠다고 했고, 지금 시작해도 7~8년이 걸린다고 했다. 라크로스 건에서는 어플라이드아토믹스가 2026년 여름 BWXT와 mPower 가압경수로의 상업용 육상 플랜트 독점 실시권 계약을 맺은 사실이 함께 확인됐다(호기당 출력은 기사 195MWe, 공동 발표문 100MWe로 엇갈려 확정하지 않는다).",
+      "summary_en": "Alongside the Dairyland Power-Applied Atomics letter of intent for the former La Crosse site in Genoa, Wisconsin, reported here on 25 October, Vermont has opened the same discussion. Kerrick Johnson, commissioner of the Vermont Department of Public Service, told the Vernon Selectboard on 20 October that SMRs could be considered at the Vermont Yankee site - a 617 MWe boiling water reactor that started commercial operation in 1972, was shut for economic reasons in 2014 and should finish decommissioning by 2030. He cautioned that many SMR and fusion developers are start-ups, said the state would not back a project without Vernon's support, and put the timeline at seven to eight years from a standing start. On the Wisconsin side, Applied Atomics was confirmed to have signed a licensing agreement with BWXT in summer 2026 for exclusive commercial land-based rights to the mPower pressurised water reactor; per-unit output is left unstated here because the article gives 195 MWe while the joint announcement says 100 MWe.",
+      "sales_note": "미국에서 폐쇄 원전 부지를 SMR 후보지로 다시 보는 흐름이 사업자 단위를 넘어 주정부 차원으로 번지고 있다. 다만 주체가 소규모 개발사·협동조합·주정부라 발주 시점이 멀고, 당분간은 부지 실사·인허가 지원 용역 쪽에 접점이 먼저 생긴다.",
+      "sales_note_en": "Reassessing retired nuclear sites as SMR locations has moved beyond individual developers to state governments. The sponsors are small developers, cooperatives and state agencies, though, so procurement is still years out and the near-term openings are in site characterisation and licensing support rather than construction.",
+      "related": [
+        "https://www.prnewswire.com/news-releases/dairyland-power-and-applied-atomics-announce-collaboration.html"
+      ]
+    },
+    {
+      "id": "2026-10-28-06",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR"
+      ],
+      "importance": 3,
+      "language": "ko",
+      "source": "정책브리핑 (원자력안전위원회)",
+      "published": "2026-10-27",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786688",
+      "title": "원안위, 고리3·4호기 계속운전 허가 — 3호기 2034-09-28·4호기 2035-08-06까지, 2기 동시 허가는 처음",
+      "title_ko": "원안위, 고리3·4호기 계속운전 허가 — 3호기 2034-09-28·4호기 2035-08-06까지, 2기 동시 허가는 처음",
+      "title_en": "NSSC approves continued operation of Kori 3 and 4, the first time two units have been authorised together",
+      "summary_ko": "원자력안전위원회가 10월 27일 제2026-17회 회의에서 고리 3·4호기 계속운전(운영변경허가)을 심의·의결했다. 허가로 3호기는 2034년 9월 28일, 4호기는 2035년 8월 6일까지 운전할 수 있는 근거를 확보했다. 두 호기는 각각 1,025MWe 가압경수로이고 설계수명 만료로 3호기는 2024년 9월, 4호기는 2025년 8월부터 정지 상태였으며, 두 호기를 동시에 허가한 것은 이번이 처음이다. 원안위는 구조물·계통·기기의 수명평가와 설비 교체·개선계획을 심의해 계속운전 기간의 안전 여유도를 확인했고, 방사선환경영향평가에서 중대사고를 포함한 주요 사고의 영향이 기준을 충족함을 확인했다고 밝혔다. 심의에서는 사고 시나리오 평가의 추가 검토가 필요하다는 의견이 나와 일부 위원이 반대했으나 가결됐다. 한국수력원자력은 설비 교체·개선을 마치고 원안위 현장 확인을 거쳐 내년 상반기 중 순차적으로 재가동할 계획이다. 한국원자력안전기술원(KINS) 심사는 2022년 9월부터 2026년 9월까지, 원자력안전전문위원회 검토는 2026년 3~9월에 이뤄졌고 안건은 10월 15일 처음 상정돼 세 번째 심의에서 의결됐다.",
+      "summary_en": "At its 17th meeting of 2026 on 27 October, Korea's Nuclear Safety and Security Commission (NSSC) approved continued operation - the operating licence amendment that extends plant life - for Kori units 3 and 4. Unit 3 may now run to 28 September 2034 and unit 4 to 6 August 2035. Both are 1,025 MWe pressurised water reactors that had been idle since their design lives expired, unit 3 in September 2024 and unit 4 in August 2025, and this is the first time two units have been authorised in a single decision. The NSSC said it had reviewed ageing assessments of structures, systems and components together with equipment replacement and improvement plans, and confirmed adequate safety margins for the extended period, with the radiological environmental impact assessment meeting the criteria including for severe accidents. Some commissioners voted against, arguing that accident scenario assessments needed further review, but the item carried. Korea Hydro & Nuclear Power will complete the equipment work, undergo NSSC site verification and restart the units in sequence during the first half of next year. The Korea Institute of Nuclear Safety reviewed the application from September 2022 to September 2026 and the expert committee from March to September 2026; the item was first tabled on 15 October and approved at the third deliberation.",
+      "sales_note": "고리 2호기에 이어 3·4호기까지 계속운전이 확정되면서 국내 계속운전 레퍼런스가 늘었고, 심사 착수에서 허가까지 4년이 걸린 공정과 2기 동시 처리 선례가 함께 남았다. 유럽·중동에서 늘고 있는 운전 호기 개보수·장기운전(LTO) 발주에 제안서로 쓸 수 있는 실적이며, 노형 수출과 별개로 운영·수명연장 역무를 묶어 파는 논리의 근거가 된다.",
+      "sales_note_en": "With Kori 3 and 4 following Kori 2, Korea's stock of life-extension references grows, and the record now includes both a four-year review-to-licence timeline and a precedent for handling two units in one decision. That is usable evidence in the refurbishment and long-term operation tenders now appearing in Europe and the Middle East, and it supports selling operations and life-extension services as a package separate from reactor exports.",
+      "related": [
+        "https://www.energydaily.co.kr/news/articleView.html?idxno=204432",
+        "https://www.world-nuclear-news.org/articles/koreas-kori-3-and-4-get-go-ahead-to-restart",
+        "https://www.etnews.com/20261027000417"
+      ]
+    },
+    {
+      "id": "2026-10-28-07",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR",
+        "INT"
+      ],
+      "importance": 3,
+      "language": "ko",
+      "source": "정책브리핑 (과학기술정보통신부)",
+      "published": "2026-10-27",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786599",
+      "title": "과기정통부, 국제 원자력기구(IAEA) 원자력 장관회의 한국 첫 개최",
+      "title_ko": "과기정통부, IAEA 원자력 장관회의 한국 첫 개최 — 인천 송도 10월 27~29일, 60개국 약 800명… 정부 \"제조·시공 역량을 세계 생산거점으로\"",
+      "title_en": "Korea hosts the IAEA ministerial on nuclear power for the first time, and pitches itself as a global manufacturing base",
+      "summary_ko": "제6차 IAEA 국제 원자력 장관회의가 10월 27일 인천 송도에서 개막해 29일까지 열린다. IAEA가 OECD 원자력기구(NEA)와 함께 조직하고 과학기술정보통신부가 주최하며, 한국에서 열리는 것은 처음이다. 약 4년 주기로 열리는 회의로 직전은 2022년 워싱턴이었고, 이번에는 60개국 약 800명과 국제기구 8곳, 기업 85곳가량이 참가한다. 의장을 맡은 배경훈 부총리 겸 과기정통부 장관은 기조연설에서 한국의 제조·시공 역량을 세계 원전 수요와 연결해 '글로벌 생산거점'으로 삼겠다고 밝히고, SMR을 안전하게 개발하며 투명성으로 신뢰를 쌓겠다고 했다. 근거로 9월 11일 시행된 SMR 특별법과 8월 발표한 7대 SEED 성장 프로젝트를 들었고, 경수형 SMR은 2035년 상용화가 목표다. 라파엘 그로시 IAEA 사무총장은 이란 관련 유엔 안보리 브리핑으로 방한을 취소하고 영상으로 연설해, 세계 원전 설비용량이 2025년 말 약 377GW에서 2050년 보수 시나리오 640GW 이상, 낙관 시나리오 1,000GW 이상으로 늘 수 있다고 했다. 회의 전날에는 과기정통부와 주한미국대사관이 산업계 대화를 열어 한수원·두산에너빌리티·테라파워 등이 참석했다.",
+      "summary_en": "The sixth IAEA International Ministerial Conference on Nuclear Power opened in Songdo, Incheon on 27 October and runs to 29 October. The IAEA organises it with the OECD Nuclear Energy Agency and Korea's Ministry of Science and ICT hosts it - the first time Korea has done so. The conference is held roughly every four years, the last in Washington in 2022, and this edition draws about 800 delegates from 60 countries, eight international organisations and some 85 companies. Deputy Prime Minister and Science Minister Bae Kyung-hoon, who presides, used his keynote to say Korea will connect its manufacturing and construction capability to global nuclear demand and become a global production base, develop SMRs safely and build public trust through transparency. He pointed to the SMR special act in force since 11 September and the seven SEED growth projects announced in August, with light-water SMRs targeted for commercialisation by 2035. IAEA Director General Rafael Grossi cancelled his trip for a UN Security Council briefing on Iran and spoke by video, saying global nuclear capacity could rise from about 377 GW at end-2025 to more than 640 GW by 2050 in the conservative case and more than 1,000 GW in the optimistic one. The day before, the science ministry and the US Embassy in Seoul held an industry dialogue attended by KHNP, Doosan Enerbility and TerraPower.",
+      "sales_note": "발주국과 규제기관의 장관급이 한자리에 모이는 자리를 한국이 처음 주최했다는 것 자체가 접점이다. 정부가 '생산거점'을 공식 메시지로 내세운 만큼 노형 수출뿐 아니라 기자재·모듈 제작 수주를 전면에 두는 제안 논리를 같은 문구로 맞춰 쓰는 편이 유리하고, 회의 기간 중 참가국 대표단과의 개별 면담이 가장 싼 영업 기회다.",
+      "sales_note_en": "Korea hosting a gathering of ministers from prospective owner countries and regulators is itself a selling opportunity. With the government framing Korea as a production base rather than only a reactor exporter, proposals are better aligned to that same language - leading with components and module fabrication - and bilateral meetings with visiting delegations during the three days are the cheapest access available.",
+      "related": [
+        "https://www.ajupress.com/view/20261027121252772",
+        "https://www.iaea.org/events/ministerial-nuclear-power-conference-2026"
+      ]
+    },
+    {
+      "id": "2026-10-28-08",
+      "region": "domestic",
+      "category": "smr",
+      "countries": [
+        "KR",
+        "US"
+      ],
+      "importance": 2,
+      "language": "ko",
+      "source": "더트래커",
+      "published": "2026-10-27",
+      "url": "https://thetracker.co.kr/View.aspx?No=4280293",
+      "title": "현대엔지니어링, SMR 사업 확대…원전 설계 역량 해외로",
+      "title_ko": "현대엔지니어링, SMR 사업 확대…원전 설계 역량 해외로 — 나노뉴클리어 'KRONOS MMR'(일리노이대)·ARC클린테크놀로지 ARC-100(아이다호국립연구소)과 MOU 2건",
+      "title_en": "Hyundai Engineering signs MOUs with two US advanced reactor developers, moving from design into EPC",
+      "summary_ko": "현대엔지니어링이 미국 선진로 개발사 두 곳과 각각 업무협약(MOU)을 맺었다. 나노뉴클리어에너지(NNE)와는 일리노이대 어배너-섐페인(UIUC) 캠퍼스 열공급과 탄소중립을 목표로 하는 고온가스로 마이크로원자로 'KRONOS MMR' 실증사업에서 원자로 부대설비 EPC 지원, 모듈러 설계 검토, 공급망 구축, 사업개발을 맡는다. ARC클린테크놀로지와는 소듐냉각고속로 ARC-100(100MWe급)의 최초호기 협력으로, 아이다호국립연구소(INL)에 약 200MWe 상업 실증 플랜트를 짓고 약 600MWe까지 확장하는 안을 검토 중이며 사업 진척에 따라 EPC 협력과 신규 사업기회 발굴을 맡는다. 계약금액과 구체 일정은 공개되지 않았고, 두 사업 모두 실증 단계여서 실제 EPC 발주와 매출은 후속 계약에 달려 있다고 회사는 밝혔다.",
+      "summary_en": "Hyundai Engineering has signed memoranda of understanding with two US advanced reactor developers. With Nano Nuclear Energy it will support EPC for reactor auxiliary facilities, modular design review, supply chain build-out and business development on the KRONOS MMR pilot, a high-temperature gas-cooled microreactor intended to supply heat to the University of Illinois Urbana-Champaign campus and meet its carbon-neutrality goals. With ARC Clean Technology it will cooperate on a first-of-a-kind deployment of the ARC-100 sodium-cooled fast reactor, a 100 MWe-class design; a commercial demonstration plant of about 200 MWe is planned at Idaho National Laboratory with an expansion to roughly 600 MWe under review, and Hyundai's EPC role will firm up as the project advances. Contract values and schedules were not disclosed, and the company notes that both projects are at demonstration stage, so actual EPC orders depend on follow-on contracts.",
+      "sales_note": "국내 건설사의 미국 진입이 대형원전 시공에서 4세대·마이크로원자로 실증사업의 설계·EPC 협력으로 넓어지고 있다. 실증 단계 MOU는 금액이 작아 보여도 최초호기 수행사 자리를 선점하는 통로이므로, 같은 방식의 접점 확보 시점을 경쟁 구도상 놓치지 않는 것이 중요하다.",
+      "sales_note_en": "Korean contractors are widening their US entry from large-plant construction into design and EPC tie-ups on fourth-generation and microreactor demonstrations. A demonstration-stage MOU looks small in value but is the route to holding the first-of-a-kind delivery position, so the timing of comparable tie-ups matters competitively.",
+      "related": []
+    },
+    {
+      "id": "2026-10-28-09",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR",
+        "US"
+      ],
+      "importance": 2,
+      "language": "ko",
+      "source": "투데이에너지",
+      "published": "2026-10-27",
+      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304714",
+      "title": "K-원전, 글로벌 공급망 선도한다",
+      "title_ko": "K-원전, 글로벌 공급망 선도한다 — NES 2026 경주 개막(10/27~29), '미국 원전 건설 사업 설명회'로 한미 원전 프레임워크 후속 공급망 진입 모색, 해외 바이어 55개사·국내 70개사 B2B",
+      "title_en": "NES 2026 opens in Gyeongju, aiming Korean suppliers at the US build-out under the Korea-US nuclear framework",
+      "summary_ko": "산업통상부가 후원하고 한국원전수출산업협회(KNA)와 경주화백컨벤션센터(HICO)가 공동 주관하는 'NES 2026(국제 원자력수출 및 안전 콘펙스)'이 10월 27일 경주에서 사흘 일정으로 개막했다. 주제는 '글로벌 원자력 공급망을 이끌다'로, 10월 1일 발표된 한-미 원전 프레임워크에 따른 미국 내 대형원전 8기 건설의 후속 기회를 겨냥한다. 27일 오전 '미국 원전 건설 사업 설명회'에서 미국 신규 원전 동향과 기자재 구매·조달 구조, 국내 기업의 공급망 참여 요건을 다루고, 29일 오전에는 '미국 대형원전 공급망 참여 기회' 세션이 열린다. 27~28일에는 해외 바이어 55개사와 국내 중소·중견기업 70개사가 1:1 수출상담회를 갖고 참여 바이어로 테라파워(미국), EDF·프라마톰(프랑스), 앳킨스레알리스(캐나다), PVN(베트남) 등이 거론됐다. 전시에는 국내외 77개 기업·기관이 182개 부스를 운영하고 한국수력원자력은 i-SMR 홍보 부스를 뒀다. 미국·프랑스·캐나다·베트남·체코 등 120개사와 원전 산업 관계자 3,000여 명이 참석한다. 산업통상부는 같은 날 원전수출진흥과 명의로 '케이(K)-원전, 글로벌 공급망에 올라탄다' 보도자료를 냈다.",
+      "summary_en": "NES 2026, the international nuclear export and safety convention sponsored by the Ministry of Trade, Industry and Energy and run jointly by the Korea Nuclear Association for International Cooperation and the Gyeongju HICO centre, opened on 27 October for three days under the theme of leading the global nuclear supply chain. It targets follow-on work from the Korea-US nuclear framework announced on 1 October, which covers eight large reactors to be built in the United States. A briefing on US nuclear construction on the morning of 27 October covers project trends, equipment purchasing and procurement structures and the qualification requirements for Korean suppliers, with a session on supply chain opportunities for large US plants on the morning of 29 October. On 27 and 28 October, 55 overseas buyers hold one-to-one meetings with 70 Korean small and mid-sized firms; buyers named include TerraPower of the United States, EDF and Framatome of France, AtkinsRealis of Canada and PVN of Vietnam. The exhibition has 77 companies and institutions across 182 booths, with KHNP showing i-SMR. Around 120 companies from countries including the United States, France, Canada, Vietnam and Czechia and some 3,000 industry participants are attending. The ministry's nuclear export promotion division issued a release the same day headlined on K-nuclear joining the global supply chain.",
+      "sales_note": "발주처와 노형사가 직접 들어와 국내 공급망과 상담하는 자리라, 미국 AP1000 물량을 노리는 기자재 업체에는 벤더 등록 요건을 현장에서 확인할 기회다. 프라마톰·EDF·앳킨스레알리스처럼 경쟁 노형 진영도 한국 공급망을 찾아온다는 사실은 우리 기자재가 노형과 무관하게 팔릴 여지가 있다는 뜻이기도 하다.",
+      "sales_note_en": "With owners and reactor vendors coming to meet Korean suppliers directly, component makers chasing US AP1000 work can confirm vendor qualification requirements face to face. That rival reactor camps such as Framatome, EDF and AtkinsRealis are also shopping the Korean supply chain is itself a signal that Korean components can sell independently of which design wins.",
+      "related": [
+        "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786625",
+        "https://www.energy-news.co.kr/news/articleView.html?idxno=229108"
+      ]
+    }
+  ]
+}

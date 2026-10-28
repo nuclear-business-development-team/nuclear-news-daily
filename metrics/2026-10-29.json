@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-29",
+  "run_started": "2026-10-29T08:05:42+09:00",
+  "run_finished": "2026-10-29T08:25:57+09:00",
+  "run_minutes": 20.2,
+  "articles": 8,
+  "by_region": {
+    "overseas": 7,
+    "domestic": 1
+  },
+  "by_importance": {
+    "3": 1,
+    "2": 5,
+    "1": 2
+  },
+  "detection_lag_hours": {
+    "median": 23.1,
+    "max": 47.1,
+    "n": 8
+  },
+  "sources_ok": [
+    "World Nuclear News",
+    "NucNet",
+    "IAEA Top News",
+    "Nuclear Engineering International",
+    "POWER Magazine",
+    "UK DESNZ (gov.uk)",
+    "더구루",
+    "더트래커",
+    "정책브리핑(korea.kr)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도자료",
+    "산업통상부",
+    "TED Search API",
+    "UK Find a Tender OCDS API"
+  ],
+  "sources_failed": [
+    {
+      "name": "TED 공고 본문 (ted.europa.eu PDF·XML)",
+      "reason": "202 empty body"
+    },
+    {
+      "name": "UK Find a Tender 공고 페이지 (find-tender.service.gov.uk)",
+      "reason": "403"
+    }
+  ],
+  "languages": {
+    "en": 7,
+    "ko": 1
+  },
+  "notes": "TED·UK FTS 는 본문 페이지가 막혀 각각 공식 API 로 대체 수집했다(수집 자체는 성공). 더구루 RSS 는 pubDate 형식이 RFC822 가 아니어서 파서 보정 필요."
+}

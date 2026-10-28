@@ -1,0 +1,288 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T08:24:24+09:00",
+  "period": {
+    "from": "2026-10-28",
+    "to": "2026-10-29"
+  },
+  "overview_ko": "미 에너지부가 콘스텔레이션의 8개 원전 출력증강·현대화에 최대 50억 달러 조건부 대출을 확약해(약 1.1GWe), 신규 건설이 아닌 기존 호기 증강에 연방 금융이 대규모로 붙는 흐름이 확인됐다. 러시아는 루프푸르 2호기 초기 장전연료를 납품하는 한편 모스크바 러·아프리카 정상회의를 창구로 토고와 MOU를 맺고 에티오피아와는 정부간협정 초안을 조율하며 신규 진입국 선점을 이어갔다. 에티오피아는 1,200MWe 2기 계획과 후보지 3곳을 공개했으나 외부 기관의 타당성 확인 전에는 기술공급사를 정하지 않는다는 입장이어서 계약 전 접점이 남아 있다. 튀르키예에서는 USTDA가 정유사 튀프라쉬의 정유공정용 SMR 검토 연구에 자금을 대, 시놉 대형원전과 별개로 산업열 수요 쪽 입구가 열리고 있다. 영업 관점: 발주처의 선택지가 신규 건설에서 출력증강·산업용 SMR로 넓어지는 만큼, 증강·설비개선 역무와 산업열 패키지를 신규 건설과 별도의 제안 품목으로 갖춰야 한다.",
+  "overview_en": "The US Department of Energy has given Constellation a conditional loan commitment of up to USD5 billion for uprates and modernisation at eight reactors, close to 1.1 GWe - federal money at scale behind added capacity at existing units rather than new build. Russia delivered the initial fuel load for Rooppur 2 while using the Russia-Africa Summit in Moscow as a signing window, concluding an MoU with Togo and coordinating a draft intergovernmental agreement with Ethiopia, keeping its hold on first contact in newcomer markets. Ethiopia disclosed plans for two 1,200 MWe units and a shortlist of three sites, but says it will not pick a technology provider until external institutions confirm site viability, so a window remains open before anything is signed. In Türkiye, USTDA is funding a Tüpraş study on SMRs for refinery operations, opening an industrial-heat route separate from the Sinop large-reactor race. Sales angle: as owners' options widen from new build toward uprates and industrial SMRs, uprate and plant-improvement services and an industrial-heat package each need to stand as their own offering alongside new-build bids.",
+  "domestic_overview_ko": "산업통상부가 EU 산업가속화법(IAA) 대응 민관합동 TF 2차 회의를 열어 국내 대응체계 구축에서 현지 공동대응으로 단계를 옮겼다. 원전은 자동차·배터리·철강과 함께 참여 업종으로 들어갔고, 10월 20~21일 유럽의회 의원 8명 면담과 21일 한-EU FTA 상품무역위원회 문제 제기에 이어 11월 브뤼셀 고위급 아웃리치가 예정됐다. 한수원·한전 보도자료와 국내 전문지에서는 수집 기간 내 새로 확인된 원전 동향이 없었고, 전날 다룬 고리 3·4호기 계속운전 허가는 한수원 보도자료로도 같은 내용이 확인됐다(2027년 상반기 순차 재가동 목표). 영업 관점: IAA의 신뢰 파트너 동등 인정 범위가 EU 발주에서 우리 기자재·용역의 자격 요건을 좌우하므로, 원전 품목별로 실제 불리해지는 사례를 TF 채널에 구체화해 올리는 것이 당면 과제다.",
+  "domestic_overview_en": "Korea's trade ministry held the second meeting of its public-private task force on the EU Industrial Accelerator Act, moving from building a domestic coordination framework to joint action on the ground in Europe. Nuclear sits alongside automotive, batteries and steel among the participating sectors, and after meetings with eight MEPs on 20-21 October and the concerns raised at the Korea-EU FTA goods trade committee on 21 October, high-level outreach in Brussels is set for November. No new nuclear developments surfaced from KHNP or KEPCO releases or the Korean trade press during the collection window, and the Kori 3 and 4 continued-operation approval covered yesterday was confirmed in the same terms by KHNP's own release, which targets staged restarts in the first half of 2027. Sales angle: because the scope of 'trusted partner' equivalence under the IAA will set the eligibility terms our equipment and services face in EU tenders, the immediate task is feeding concrete item-by-item examples of disadvantage into the task force channel.",
+  "countries_pulse": [
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "연방 금융이 신규 건설 밖으로 확장 — DOE가 콘스텔레이션 8개 원전 출력증강에 최대 50억 달러 조건부 대출(약 1.1GWe), UPRISE 목표는 2027년 말까지 2.5GW",
+      "signal_en": "Federal financing widens beyond new build: DOE's conditional loan of up to USD5bn backs uprates at eight Constellation reactors (about 1.1 GWe), with UPRISE targeting 2.5 GW by end-2027",
+      "article_ids": [
+        "2026-10-29-01",
+        "2026-10-29-06"
+      ]
+    },
+    {
+      "country": "TR",
+      "name_ko": "튀르키예",
+      "name_en": "Türkiye",
+      "stance": "expanding",
+      "signal": "대형원전과 별개로 산업용 SMR 입구가 열림 — USTDA가 정유사 튀프라쉬의 정유공정용 SMR 검토 연구에 자금 지원, 2050년 SMR 5,000MWe 목표와 연계",
+      "signal_en": "An industrial SMR track opens alongside the large-reactor race: USTDA funds a Tüpraş study on SMRs for refinery power, heat and steam, tied to a 5,000 MWe SMR goal by 2050",
+      "article_ids": [
+        "2026-10-29-02"
+      ]
+    },
+    {
+      "country": "RU",
+      "name_ko": "러시아",
+      "name_en": "Russia",
+      "stance": "expanding",
+      "signal": "기조 유지 — 루프푸르 2호기 연료 납품으로 공급 실적을 쌓는 한편, 러·아프리카 정상회의를 창구로 토고 MOU 체결·에티오피아 정부간협정 초안 조율",
+      "signal_en": "Unchanged course: delivering Rooppur 2's fuel builds its supply record while the Russia-Africa Summit serves as a signing window - an MoU with Togo and a draft intergovernmental agreement with Ethiopia",
+      "article_ids": [
+        "2026-10-29-03",
+        "2026-10-29-04",
+        "2026-10-29-05"
+      ]
+    },
+    {
+      "country": "BD",
+      "name_ko": "방글라데시",
+      "name_en": "Bangladesh",
+      "stance": "expanding",
+      "signal": "1호기 10월 11일 임계에 이어 2호기 초기 장전연료 반입 — 2기 모두 가동 단계로 이동",
+      "signal_en": "After unit 1 reached criticality on 11 October, unit 2's initial fuel load has arrived, moving both units toward operation",
+      "article_ids": [
+        "2026-10-29-03"
+      ]
+    },
+    {
+      "country": "ET",
+      "name_ko": "에티오피아",
+      "name_en": "Ethiopia",
+      "stance": "expanding",
+      "signal": "총리가 원자력을 '다음 장'으로 공식화 — 1,200MWe 2기, 후보지 30곳 이상에서 3곳으로 압축, 다만 외부 검증 전 공급사 선정은 안 한다는 단서",
+      "signal_en": "The prime minister has publicly framed nuclear as the country's 'next chapter': two 1,200 MWe units and a shortlist of three sites from more than 30, with the caveat that no vendor is chosen before external verification",
+      "article_ids": [
+        "2026-10-29-04"
+      ]
+    },
+    {
+      "country": "TG",
+      "name_ko": "토고",
+      "name_en": "Togo",
+      "stance": "expanding",
+      "signal": "첫 원자력 협력 문서 — 로사톰과 사업 가능성 평가 MOU, 비발전 활용·인력·국민 인식까지 범위에 포함, 노형·용량·일정은 미제시",
+      "signal_en": "A first nuclear cooperation document: an MoU with Rosatom to assess project opportunities, covering non-power uses, workforce and public attitudes, with no reactor type, capacity or timeline set",
+      "article_ids": [
+        "2026-10-29-05"
+      ]
+    },
+    {
+      "country": "CH",
+      "name_ko": "스위스",
+      "name_en": "Switzerland",
+      "stance": "steady",
+      "signal": "기조 유지 — 신규 건설 움직임 없이 운영 효율화 쪽으로, 전 원전에 생성형AI 플랫폼이 상용 운영 단계 진입",
+      "signal_en": "Unchanged course: no move toward new build, with effort going into operational efficiency as a generative AI platform reaches production use across every plant",
+      "article_ids": [
+        "2026-10-29-07"
+      ]
+    },
+    {
+      "country": "INT",
+      "name_ko": "국제(EU 통상)",
+      "name_en": "International (EU trade)",
+      "stance": "steady",
+      "signal": "원자력 기조 자체는 유지되나 시장 접근 조건이 쟁점 — EU 산업가속화법의 신뢰 파트너 동등 인정 범위·현지생산 요건을 두고 한국이 유럽의회·집행위에 연쇄 문제 제기",
+      "signal_en": "Nuclear policy itself holds steady while market-access terms become the issue: Korea has raised the EU Industrial Accelerator Act's trusted-partner equivalence and local-content requirements with both the European Parliament and the Commission",
+      "article_ids": [
+        "2026-10-29-08"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-29-01",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "US"
+      ],
+      "importance": 3,
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/us-government-loan-to-support-constellation-uprates",
+      "published": "2026-10-28",
+      "title": "US government loan to support Constellation uprates",
+      "title_en": "US government loan to support Constellation uprates",
+      "title_ko": "미 에너지부, 콘스텔레이션 원전 출력증강에 최대 50억 달러 대출 확약 — 8개 원전 약 1.1GWe",
+      "summary_ko": "미 에너지부 에너지주도권금융실(Office of Energy Dominance Financing)이 콘스텔레이션에 최대 50억 달러 조건부 대출을 확약했다. 일리노이(브레이드우드·바이런·클린턴·드레스덴·라살·쿼드시티즈), 메릴랜드(캘버트클리프스), 펜실베이니아(리머릭) 등 8개 원전의 출력증강·현대화에 투입돼 약 1.1GWe를 늘린다. 2026년 3월 출범한 UPRISE(Utility Power Reactor Incremental Scaling Effort) 사업은 2027년 말까지 2.5GW, 그 뒤 3년 내 비슷한 규모를 추가하는 목표다.",
+      "summary_en": "The US Department of Energy's Office of Energy Dominance Financing has given Constellation a conditional commitment for a loan of up to USD5 billion. The money will fund uprates and modernisation at eight reactors - Braidwood, Byron, Clinton, Dresden, LaSalle and Quad Cities in Illinois, Calvert Cliffs in Maryland and Limerick in Pennsylvania - adding close to 1.1 GWe. The UPRISE initiative (Utility Power Reactor Incremental Scaling Effort), launched in March 2026, targets a further 2.5 GW by the end of 2027 and a similar amount in the three years after that.",
+      "sales_note": "신규 건설이 아니라 기존 호기 출력증강에 연방 금융이 대규모로 붙은 사례다. 발주처가 증설보다 증강·설비개선을 먼저 택할 여지가 커지므로, 출력증강·계속운전 연계 설비개선 역무를 신규 건설과 별도의 제안 품목으로 갖춰둘 필요가 있다.",
+      "sales_note_en": "This is federal money at scale behind added capacity at existing units rather than new build. Owners may increasingly reach for uprates and plant improvement before new units, so uprate and life-extension engineering work deserves its own offering alongside new-build bids.",
+      "related": [
+        "https://www.powermag.com/doe-offers-constellation-up-to-5b-loan-for-1-1-gw-of-nuclear-uprates-at-eight-plants/",
+        "https://www.theguru.co.kr/news/article.html?no=108895"
+      ]
+    },
+    {
+      "id": "2026-10-29-02",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "TR",
+        "US"
+      ],
+      "importance": 2,
+      "language": "en",
+      "source": "NucNet",
+      "url": "https://www.nucnet.org/news/us-agency-signs-agreement-with-oil-company-on-study-into-smrs-for-turkey-10-3-2026",
+      "published": "2026-10-28",
+      "title": "US Agency Signs Agreement With Oil Company On Study Into SMRs For Turkey",
+      "title_en": "US Agency Signs Agreement With Oil Company On Study Into SMRs For Turkey",
+      "title_ko": "美 무역개발처(USTDA), 튀르키예 정유사 튀프라쉬와 정유공정용 SMR 검토 연구 협정",
+      "summary_ko": "미 무역개발처(USTDA)가 튀르키예 정유사 튀프라쉬(Tüpraş)와 정유 공정용 전기·열·증기를 SMR로 공급하는 방안을 검토하는 연구에 자금을 대는 협정을 체결했다. 연구는 미국 노형 여러 기를 대상으로 기술·경제적 타당성, 환경성, 규제 요건, 산업적 활용 가능성을 평가하고, 튀프라쉬가 SMR 도입을 진행할지 판단하는 로드맵까지 만든다. 튀르키예 보도에 따르면 검토 기간은 약 1년이며 튀르키예의 2050년 SMR 5,000MWe 목표와 연계된다.",
+      "summary_en": "The US Trade and Development Agency has signed an agreement funding a study with Turkish refiner Tüpraş into using small modular reactors to supply electricity, heat and steam for refinery operations. The study will assess several US reactor designs on technical and economic feasibility, environmental performance, regulatory requirements and industrial applications, and will produce a roadmap for Tüpraş's decision on whether to proceed. Turkish coverage puts the review at about a year and ties it to Türkiye's goal of 5,000 MWe of SMR capacity by 2050.",
+      "sales_note": "튀르키예에서는 시놉 대형원전과 별개로 산업용 SMR 수요가 열리고 있고, 그 입구를 미국 공적기관이 자금 지원으로 선점하는 흐름이다. 캐나다(CANDU)·미국의 선행 움직임을 감안하면 시놉 타당성조사와 함께 정유·석유화학 산업열 수요를 묶은 접근을 검토할 만하다.",
+      "sales_note_en": "Alongside the Sinop large-reactor race, Türkiye is opening a separate industrial SMR market, and a US agency is funding its way to the front of that queue. Given Canada's and America's head start, pairing our Sinop feasibility work with an industrial-heat offer to refining and petrochemicals is worth examining.",
+      "related": [
+        "https://www.cnbce.com/haberler/tupras-dev-isbirligine-imzayi-atti-abd-ticaret-ve-kalkinma-ajansi-ile-smr-anlasmasi-h40203",
+        "https://www.aa.com.tr/tr/enerjiterminali/sirket-haberleri/tupras-ve-abd-ticaret-ve-kalkinma-ajansindan-dusuk-karbonlu-enerji-teknolojilerinde-isbirligi/60479"
+      ]
+    },
+    {
+      "id": "2026-10-29-03",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "BD",
+        "RU"
+      ],
+      "importance": 2,
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/nuclear-fuel-delivered-for-bangladeshs-second-unit",
+      "published": "2026-10-28",
+      "title": "Nuclear fuel delivered for Bangladesh's second unit",
+      "title_en": "Nuclear fuel delivered for Bangladesh's second unit",
+      "title_ko": "로사톰, 방글라데시 루프푸르 2호기 초기 장전연료 납품 — 1호기는 10월 11일 임계",
+      "summary_ko": "로사톰이 루프푸르 원전 2호기의 초기 장전연료를 납품했다고 밝혔다. 연료집합체는 화물기로 공수해 부지로 운송한 뒤 전용 저장시설에 보관 중이며, 로사톰 연료부문 TVEL 산하 노보시비르스크화학농축공장에서 제작했다. 1호기는 4월 16일 운영허가를 받아 5월에 163다발 장전을 마치고 10월 11일 임계에 도달했으며, 2호기는 2018년 7월 착공했다.",
+      "summary_en": "Rosatom says the initial fuel load for the second unit at Bangladesh's Rooppur plant has been delivered. The assemblies were flown in by cargo aircraft, trucked to the site and are now in a dedicated storage facility, having been made at the Novosibirsk Chemical Concentrates Plant, part of Rosatom's fuel arm TVEL. Unit 1 received its operating licence on 16 April, completed loading of 163 assemblies in May and reached criticality on 11 October; unit 2 began construction in July 2018.",
+      "sales_note": "로사톰이 1호기 가동과 2호기 연료 납품을 같은 해에 묶어 집행하며 신규 진입국에 완결된 공급 실적을 보여주고 있다. 수주전에서 연료·운영지원까지 포함한 전주기 패키지가 비교 기준이 되고 있다는 점을 제안서에 반영해야 한다.",
+      "sales_note_en": "By delivering unit 1's start-up and unit 2's fuel in the same year, Rosatom is showing newcomer markets a complete delivery record. Bids are increasingly measured against a whole-lifecycle package that includes fuel and operating support, and our proposals should answer that comparison.",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-04",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "ET",
+        "RU"
+      ],
+      "importance": 2,
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/nuclear-is-ethiopias-next-chapter-pm-says",
+      "published": "2026-10-28",
+      "title": "Nuclear is Ethiopia's next chapter, PM says",
+      "title_en": "Nuclear is Ethiopia's next chapter, PM says",
+      "title_ko": "에티오피아 총리 \"원자력이 다음 장\" — 1,200MWe 2기 계획, 후보지 3곳으로 압축",
+      "summary_ko": "아비 아머드 알리 총리가 에티오피아원자력위원회를 방문해 원자력을 국가 발전의 '다음 장'으로 규정하고, 초기 투자비가 크더라도 수력·태양광 같은 계절성 전원보다 출력이 일정한 점이 분명한 강점이라고 말했다. 계획은 1,200MWe 2기이며 건설에 최소 10년이 걸리고, 30곳 이상을 평가해 후보지 3곳으로 좁혔으나 외부 기관이 타당성을 확인한 뒤에야 기술공급사와 협정을 맺는다는 입장이다. 러시아 대사는 로사톰과 위원회가 정부간협정 초안을 조율 중이라고 밝혔고, 노형·공급사는 아직 선정되지 않았다.",
+      "summary_en": "Visiting the Ethiopian Nuclear Energy Commission, Prime Minister Abiy Ahmed Ali called nuclear the country's \"next chapter\", saying its steady output is a distinct advantage over seasonal hydro or solar despite the higher up-front cost. Two 1,200 MWe reactors are planned, construction would take at least ten years, and three candidate sites have been shortlisted from more than 30 - but their viability must be confirmed by external institutions before any agreement with a technology provider. Russia's ambassador said Rosatom and the Commission are coordinating a draft intergovernmental agreement; no reactor technology or vendor has been chosen.",
+      "sales_note": "후보지 3곳 압축과 외부 검증 단계는 공급사가 확정되기 전 접점이 열려 있는 구간이다. 러시아가 2019년 정부간협정과 2023·2026년 로드맵으로 선점해 있으나 아직 계약 전이므로, 부지 검증·인력양성 같은 선행 용역으로 레퍼런스를 쌓는 접근이 현실적이다.",
+      "sales_note_en": "The shortlisting of three sites and the external-verification step leave a window open before any vendor is locked in. Russia has a head start through the 2019 intergovernmental agreement and the 2023 and 2026 roadmaps, but nothing is signed, so building a record through up-front work such as site verification and workforce development is the realistic route.",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-05",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "TG",
+        "RU"
+      ],
+      "importance": 2,
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/togo-signs-nuclear-energy-mou-with-rosatom",
+      "published": "2026-10-28",
+      "title": "Togo signs nuclear energy MoU with Rosatom",
+      "title_en": "Togo signs nuclear energy MoU with Rosatom",
+      "title_ko": "토고 에너지부–로사톰 원자력 MOU 체결 — 모스크바 러·아프리카 정상회의 계기",
+      "summary_ko": "토고 에너지부가 모스크바에서 열린 러시아-아프리카 정상회의 계기에 로사톰과 원자력 사업 추진 가능성을 평가하는 MOU를 체결했다. 로사톰에 따르면 비발전 분야 원자력 기술 활용, 인력 역량 개발, 원자력에 대한 국민 인식 개선도 범위에 포함된다. 리하초프 로사톰 사장은 부유식 발전설비를 '유망 분야'로 언급했으나 이번 협정에 포함됐다고는 밝히지 않았고, 노형·용량·일정은 제시되지 않았다.",
+      "summary_en": "Togo's Ministry of Energy has signed a memorandum of understanding with Rosatom to assess opportunities for nuclear power projects, concluded on the margins of the Russia-Africa Summit in Moscow. Rosatom says the scope also covers non-power applications of nuclear technology, workforce skills and building public support for nuclear in Togo. Rosatom head Alexey Likhachev called floating power units \"one promising area\" but did not say they form part of the agreement, and no reactor type, capacity or timeline was given.",
+      "sales_note": "로사톰이 정상회의를 묶음 체결 창구로 쓰면서 아프리카 신규 진입국의 첫 접점을 선점하는 양상이 이어진다. 발주 단계 이전의 제도·인력 협력이 사실상의 진입 장벽으로 작동하고 있어, IAEA 등 다자 경로를 활용한 접점 확보를 병행해 볼 필요가 있다.",
+      "sales_note_en": "Rosatom keeps using summits as a bulk signing window, taking the first contact point in African newcomer markets. Institutional and workforce cooperation well before any tender is becoming the real barrier to entry, so pursuing access through multilateral routes such as the IAEA deserves parallel effort.",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-06",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "US"
+      ],
+      "importance": 1,
+      "language": "en",
+      "source": "NucNet",
+      "url": "https://www.nucnet.org/news/deep-isolation-announces-start-of-site-preparation-at-texas-demonstration-project-10-3-2026",
+      "published": "2026-10-28",
+      "title": "Deep Isolation Announces Start Of Site Preparation At Texas Demonstration Project",
+      "title_en": "Deep Isolation Announces Start Of Site Preparation At Texas Demonstration Project",
+      "title_ko": "딥아이솔레이션, 텍사스 심부시추공 실증센터 부지정비 착수 — DOE ARPA-E 사업 첫 이행실적",
+      "summary_ko": "미국 방폐물 처분기술 업체 딥아이솔레이션뉴클리어가 텍사스 심부시추공(deep borehole) 실증센터에서 부지정비 작업에 들어갔다. 회사는 이 작업이 2026년 4월 연방 협정에 따른 초기 이행실적이라고 설명했다. 이 협정으로 회사는 미 에너지부 ARPA-E 'Scaleup Ready' 사업에 선정됐고, 해당 사업은 딥아이솔레이션 건을 포함한 2개 과제에 최대 4,000만 달러를 지원한다.",
+      "summary_en": "US nuclear waste disposal technology company Deep Isolation Nuclear has started site preparation at its deep borehole demonstration centre in Texas. The company describes the work as an early milestone under a federal agreement signed in April 2026. That agreement placed Deep Isolation in the Department of Energy's ARPA-E Scaleup Ready programme, which committed up to USD40 million across two projects, including this one.",
+      "sales_note": "같은 업체가 10월 24일 보도된 슬로베니아 ARAO의 크르슈코 통합처분 비용평가도 수행했다. 심부시추공 처분이 실증 단계로 넘어가면 유럽 쪽 처분 전단계 용역 발주로 이어질 수 있어 경로를 계속 볼 만하다.",
+      "sales_note_en": "The same company carried out Slovenia's ARAO cost assessment for integrating disposal at Krsko, reported on 24 October. As deep borehole disposal moves into demonstration, it may feed pre-disposal study work tendered in Europe - a channel worth tracking.",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-07",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "CH"
+      ],
+      "importance": 1,
+      "language": "en",
+      "source": "NucNet",
+      "url": "https://www.nucnet.org/news/european-genai-platform-now-runs-in-production-across-all-swiss-nuclear-power-plants-10-2-2026",
+      "published": "2026-10-27",
+      "title": "European GenAI Platform Now Runs In Production Across All Swiss Nuclear Power Plants",
+      "title_en": "European GenAI Platform Now Runs In Production Across All Swiss Nuclear Power Plants",
+      "title_ko": "스위스 전 원전에 유럽산 생성형AI 플랫폼 상용 운영 — 악스포와 공동 개발, 문서 55만 건 색인",
+      "summary_ko": "유럽 원자력 분야 생성형AI 업체 그레이오크뉴클리어가 자사 플랫폼이 스위스 모든 원전에서 실제 업무에 쓰이고 있다고 밝혔다. 운영사 악스포(Axpo)와 긴밀히 협력해 개발한 이 시스템은 사내에서 'Lise'로 불린다. 가동 1년 만에 하루 1,800건 이상의 질의를 처리하고 50년이 넘는 운영이력 문서 55만 건 이상을 색인했으며, 직원 활성 사용률은 80%다.",
+      "summary_en": "GRAYOAK Nuclear, a European supplier of generative AI for the nuclear sector, says its platform is now in active use at every Swiss nuclear power plant, developed in close partnership with operator Axpo. The system, known internally as \"Lise\", processes more than 1,800 messages a day twelve months after go-live and has indexed over 550,000 documents covering more than 50 years of operating history, with an 80% active-user rate among staff.",
+      "sales_note": "",
+      "sales_note_en": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-08",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR",
+        "INT"
+      ],
+      "importance": 2,
+      "language": "ko",
+      "source": "산업통상부",
+      "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172340/view",
+      "published": "2026-10-28",
+      "title": "EU 산업가속화법 민관 TF, 대응체계 구축에서 현지 공동대응으로",
+      "title_ko": "EU 산업가속화법 민관 TF, 대응체계 구축에서 현지 공동대응으로",
+      "title_en": "Korea's EU Industrial Accelerator Act task force shifts from building a framework to joint action on the ground",
+      "summary_ko": "산업통상부가 10월 28일 대한상공회의소에서 박정성 통상교섭본부장 주재로 EU 산업가속화법(IAA) 대응 민관합동 TF 2차 회의를 열었다. 자동차·배터리·철강·원전 업계와 협단체·관계부처가 참여해, 10월 20~21일 스트라스부르에서 유럽의회 의원 8명과 면담하고 10월 21일 제14차 한-EU FTA 상품무역위원회에서 집행위에 제기한 신뢰 파트너 동등 인정·현지생산 요건 문제의 후속 대응을 논의했다. 11월에는 통상교섭본부장이 브뤼셀을 방문해 유럽의회 핵심 인사를 상대로 고위급 아웃리치를 한다. 보도자료에서 원전은 참여 업종으로만 명시됐고 원전 고유의 논의·결정 사항은 공개되지 않았다.",
+      "summary_en": "Korea's trade ministry held the second meeting of its public-private task force on the EU Industrial Accelerator Act (IAA) on 28 October at the Korea Chamber of Commerce in Seoul, chaired by Trade Negotiations Director-General Park Jung-sung. Industry bodies and ministries covering automotive, batteries, steel and nuclear power reviewed follow-up to two approaches already made: meetings with eight MEPs in Strasbourg on 20-21 October, and the concerns Korea put to the European Commission at the 14th Korea-EU FTA goods trade committee on 21 October, over recognition as a trusted partner and over local-content requirements. Park will travel to Brussels in November for high-level outreach to key European Parliament figures. The release names nuclear only as one of the participating sectors and discloses no nuclear-specific discussion or decision.",
+      "sales_note": "IAA의 '신뢰 파트너 동등 인정' 범위가 어디까지 좁혀지는지가 체코·폴란드 등 EU 발주에서 우리 기자재·용역의 자격 요건을 좌우한다. EU 입법이 확정되기 전까지가 업계 의견을 반영시킬 수 있는 구간이므로, 원전 품목별로 실제 불리해지는 사례를 TF 채널에 구체적으로 올려두는 것이 당면 과제다.",
+      "sales_note_en": "How far the IAA narrows 'trusted partner' equivalence will decide the eligibility terms our equipment and services face in EU tenders, Czechia and Poland among them. The window to get industry's position into the text closes when the legislation is finalised, so the immediate task is feeding concrete, item-by-item examples of disadvantage into the task force channel.",
+      "related": [
+        "https://www.korea.kr/briefing/pressReleaseList.do?pageIndex=1&srchWord=%EC%9B%90%EC%A0%84"
+      ]
+    }
+  ]
+}

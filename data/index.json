@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-10-30",
+      "article_count": 4,
+      "headline_ko": "한수원이 체코 두코바니 APR1000 2기의 시공계약 협상을 10월 29일 대우건설·두산에너빌리티 컨소시엄과 종료하고 국가계약법 경쟁입찰로 새 시공사를 뽑기로 했다 — 기본설계 기준물량에 근거한 총액계약(한수원)과 실시설계 확정물량 정산(컨소시엄)의 이견이 실무협상·이견조정위원회·경영진 협상 3단계 모두에서 좁혀지지 않았고, 1월 입찰설명회·4월 입찰·2027년 7월 선정을 목표로 하되 선정 전까지는 한수원이 필수업무를 직접 수행한다. 원자로설비·터빈발전기(두산에너빌리티)와 설계용역(한전기술) 계약은 유지되며, 체코 산업통상부와 EDU II는 공정 영향이 없다는 입장을 냈다. 같은 날 슬로바키아에서는 JESS가 웨스팅하우스와 보후니체 AP1000 예비 프로젝트 엔지니어링 계약(6개월, 미 국무부 FIRST가 1단계 500만 달러 지원)을 체결해, 설계용역 단계가 공개입찰이 아니라 정부간협정과 공급국 그랜트로 선점되는 경로를 다시 보여줬다",
+      "headline_en": "KHNP has broken off the construction contract for its flagship export project: on 29 October it ended negotiations with the Daewoo E&C-Doosan Enerbility consortium over the two APR1000 units at Dukovany and will retender under Korea's State Contract Act. Neither side moved on the core question - KHNP's lump sum priced off basic-design quantities against settlement on quantities fixed at detailed design - through working-level talks, a dispute mediation committee and management-level negotiations. A bidders' briefing is targeted for January, bidding for April and selection for July 2027, with KHNP doing essential work itself until then; the Doosan reactor-equipment and KEPCO E&C design contracts stand, and both the Czech industry ministry and EDU II say the schedule holds. The same day in Slovakia, JESS signed Westinghouse for a six-month preliminary project engineering study for an AP1000 at Bohunice, its first phase carrying USD5 million from the US State Department's FIRST programme - design work taken through an intergovernmental agreement and a supplier-country grant rather than any public tender"
+    },
+    {
       "date": "2026-10-29",
       "article_count": 8,
       "headline_ko": "미 에너지부가 콘스텔레이션의 원전 8기 출력증강·현대화에 최대 50억 달러 조건부 대출을 확약해 약 1.1GWe를 늘린다 — 일리노이 6기(브레이드우드·바이런·클린턴·드레스덴·라살·쿼드시티즈)와 메릴랜드 캘버트클리프스, 펜실베이니아 리머릭이 대상이고, 2026년 3월 출범한 UPRISE 사업은 2027년 말까지 2.5GW를 더하는 목표다. 신규 건설이 아니라 기존 호기 증강에 미 연방 금융이 대규모로 붙은 사례로, 발주처가 증설보다 증강·설비개선을 먼저 택할 여지가 커졌다. 러시아는 루프푸르 2호기 초기 장전연료를 납품하면서 모스크바 러·아프리카 정상회의를 창구로 토고와 MOU를 맺고 에티오피아와는 정부간협정 초안을 조율했고, 에티오피아는 1,200MWe 2기와 후보지 3곳을 공개하면서도 외부 검증 전에는 공급사를 정하지 않겠다고 밝혀 계약 전 접점을 남겼다",

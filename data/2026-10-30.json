@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T09:12:00+09:00",
+  "period": {
+    "from": "2026-10-29",
+    "to": "2026-10-30"
+  },
+  "overview_ko": "슬로바키아가 야슬로브스케 보후니체 신규호기의 AP1000 적합성을 평가하는 예비 프로젝트 엔지니어링 용역을 웨스팅하우스와 체결하며 설계문서 단계에 들어갔다 — 6개월 과업이고 미 국무부 FIRST 프로그램이 1단계에 500만 달러를 대며, 피초 총리는 용량을 1,100MW로 낮추고 2040년 운전·2027년 건설계약을 제시했다. 발주 경로가 공개입찰이 아니라 정부간협정과 공급국 그랜트였다는 점이 이번 건의 핵심이다. 미국에서는 커티스라이트가 노형 사업이 확정되기 전에 텍사스 원자력 계측기 공장 확장에 3,000만 달러를 투자해, 발주보다 공급능력이 먼저 늘어나는 흐름을 보였다. 독일은 신규 건설 없이 고준위 방폐장 부지 선정만 진행해 작센 등 5개 주를 추가로 제외했다. 영업 관점: 팀의 최우선 목표인 FEED·기본설계 용역이 포털 공고 없이 공급국 정부자금으로 선점되는 구조가 슬로바키아에서 재확인됐으므로, 노형 미확정 시장은 조달 포털이 아니라 정부간 채널에서 일정을 읽어야 한다.",
+  "overview_en": "Slovakia moved its new Bohunice unit into design documentation, signing a preliminary project engineering contract with Westinghouse to assess whether the AP1000 fits the Jaslovske Bohunice site - a six-month study whose first phase carries USD5 million from the US State Department's FIRST programme, with Prime Minister Fico revising capacity down to 1,100 MW and pointing to operation by 2040 and a construction contract in 2027. What matters is the route: an intergovernmental agreement and a supplier-country grant, not a public tender. In the US, Curtiss-Wright committed USD30 million to expand nuclear instrumentation manufacturing in Texas before any reactor programme is tied to it, capacity again arriving ahead of orders. Germany, with no new build in prospect, advanced only the back end, ruling out five more federal states in its high-level repository search. Sales angle: Slovakia confirms again that the FEED and basic-design work our team targets can be taken through supplier-government money with no notice ever posted, so in markets where the technology is unchosen the schedule has to be read in intergovernmental channels rather than procurement portals.",
+  "domestic_overview_ko": "한수원이 체코 두코바니 APR1000 2기의 시공계약 협상을 대우건설·두산에너빌리티 컨소시엄과 종료하고 국가계약법 경쟁입찰로 새 시공사를 뽑기로 했다 — 기본설계 기준물량 총액계약(한수원)과 실시설계 확정물량 정산(컨소시엄)의 이견이 실무·조정위·경영진 3단계 모두에서 좁혀지지 않았고, 1월 입찰설명회·4월 입찰·2027년 7월 선정을 목표로 하되 선정 전 필수업무는 한수원이 직접 수행한다. 원자로설비·터빈발전기(두산에너빌리티)와 설계용역(한전기술) 계약은 유지되고, 핵연료(한전원자력연료)·시운전정비(한전KPS)는 2027년 체결을 목표로 협상 중이다. 체코 산업통상부와 EDU II는 공정 영향이 없다는 입장을 냈고, 한수원도 당초 계획대로 추진한다고 밝혔다. 영업 관점: 수출 1호 사업에서 주계약자–시공사 간 물량·비용 리스크 배분이 공개적으로 깨진 만큼 향후 해외 입찰에서 공급망 안정성 검증이 강화될 것이므로, 계약방식과 물량정산 조건을 제안 단계에서 정리해 두는 것이 급하다. 동시에 2027년 7월까지 두코바니 시공 패키지가 다시 열렸다는 뜻이기도 하다.",
+  "domestic_overview_en": "KHNP ended construction contract negotiations with the Daewoo E&C-Doosan Enerbility consortium for the two APR1000 units at Dukovany and will select a new builder by competitive tender under Korea's State Contract Act. The gap - KHNP's lump sum priced off basic-design quantities against the consortium's settlement on quantities fixed at detailed design - survived working-level talks, a dispute mediation committee and management-level negotiations. A bidders' briefing is targeted for January, bidding for April and selection for July 2027, with KHNP performing essential work itself until then. The reactor-equipment and turbine-generator contracts with Doosan Enerbility and the design services contract with KEPCO E&C stand, while fuel supply with KEPCO Nuclear Fuel and commissioning and maintenance with KEPCO KPS are still in negotiation for 2027. The Czech industry ministry and EDU II both said the schedule is not at risk, and KHNP said it will proceed as originally planned. Sales angle: with the split of quantity and cost risk between prime contractor and builder having broken down in public on Korea's first export project, buyers will press harder on supply-chain reliability, so contract structure and quantity-settlement terms need settling at proposal stage - and the Dukovany construction package is, for now, open again until July 2027.",
+  "countries_pulse": [
+    {
+      "country": "SK",
+      "name_ko": "슬로바키아",
+      "name_en": "Slovakia",
+      "stance": "expanding",
+      "signal": "JESS–웨스팅하우스 예비 프로젝트 엔지니어링 계약 체결(10/28)로 보후니체 신규호기가 설계문서 단계에 진입 — 용량 1,100MW로 하향, 2040년 운전·2027년 건설계약 제시, 사업은 8~10개월 지연. ČEZ 지분 매각으로 국가 단독 소유 확정",
+      "signal_en": "The JESS-Westinghouse preliminary project engineering contract of 28 October moves the new Bohunice unit into design documentation, with capacity revised down to 1,100 MW, operation targeted for 2040 and a construction contract possible in 2027 after an eight-to-ten-month slip; CEZ's stake sale leaves the project in sole Slovak state ownership",
+      "article_ids": [
+        "2026-10-30-01"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "두코바니 시공사가 교체 국면에 들어갔으나 산업통상부·EDU II 모두 공정 영향 없다는 입장 — 발주처가 아닌 주계약자(한수원)의 하도급 리스크로 정리하며 '총괄 공급 보증은 한국 측 책임'을 명시",
+      "signal_en": "Dukovany enters a change of builder, but both the industry ministry and EDU II say the schedule holds, framing it as the prime contractor's subcontracting risk rather than the client's and stating that overall delivery remains Korea's guarantee",
+      "article_ids": [
+        "2026-10-30-04"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "기조 유지 — 신규 발주 확정 전에 1차 벤더가 계측·I&C 생산설비를 선투자(커티스라이트 텍사스 3,000만 달러). 국무부 FIRST 그랜트로 슬로바키아 설계용역 1단계에 500만 달러를 대며 공급국 금융이 설계 단계에서 먼저 움직였다",
+      "signal_en": "Steady course, with tier-one vendors pre-investing in instrumentation and I&C capacity ahead of firm orders (Curtiss-Wright's USD30 million in Texas) and a State Department FIRST grant putting USD5 million into the first phase of Slovakia's design study - supplier-country finance moving at the design stage",
+      "article_ids": [
+        "2026-10-30-02",
+        "2026-10-30-01"
+      ]
+    },
+    {
+      "country": "DE",
+      "name_ko": "독일",
+      "name_en": "Germany",
+      "stance": "retreating",
+      "signal": "기조 유지 — 신규 건설은 논외이고 후행 과제인 고준위 방폐장 부지 선정만 진행. 5개 주 제외로 구역을 좁혔고 2027년 말 지표조사 대상 제안 예정",
+      "signal_en": "Steady in retreat: new build is off the table and only the back-end task advances, with the high-level repository search narrowed by five more federal states and surface-exploration areas to be proposed by the end of 2027",
+      "article_ids": [
+        "2026-10-30-03"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-30-01",
+      "region": "overseas",
+      "category": "large",
+      "importance": 3,
+      "title": "Westinghouse to conduct key study for AP1000 in Slovakia",
+      "title_ko": "웨스팅하우스, 슬로바키아 보후니체 AP1000 예비 프로젝트 엔지니어링(FEED) 수주 — 6개월, 미 국무부 FIRST 지원",
+      "title_en": "Westinghouse to conduct key study for AP1000 in Slovakia",
+      "language": "en",
+      "source": "World Nuclear News",
+      "published": "2026-10-29",
+      "url": "https://www.world-nuclear-news.org/articles/westinghouse-to-conduct-key-study-to-prepare-for-ap1000-in-slovakia",
+      "countries": [
+        "SK",
+        "US"
+      ],
+      "summary_ko": "슬로바키아 신규원전 사업회사 JESS가 10월 28일 브라티슬라바에서 웨스팅하우스와 '예비 프로젝트 엔지니어링 용역계약'을 체결했다. 6개월 과업으로 야슬로브스케 보후니체 부지에 AP1000이 적합한지 평가하고 예비 공정표·예산을 포함한 기술·사업 문서를 만들어 JESS의 다음 단계 결정 근거로 쓴다. 미 국무부 FIRST 프로그램이 1단계에 500만 달러(약 450만 유로)를 지원하며, 피초 총리는 설비용량을 1,100MW(종전 1,200MW에서 하향), 운전 목표를 2040년, 건설계약 체결 시점을 2027년으로 제시하고 사업이 8~10개월 지연됐다고 밝혔다. 10월 초 체코 ČEZ가 JESS 지분 49%를 국영 JAVYS에 매각하기로 해 신규호기는 슬로바키아 국가 단독 소유로 건설된다.",
+      "summary_en": "Slovakia's new-build project company JESS signed a preliminary project engineering services contract with Westinghouse in Bratislava on 28 October. The six-month study will assess whether the AP1000 suits the Jaslovske Bohunice site and produce fuller technical and project documentation, including a preliminary schedule and budget, to inform JESS's decision on next steps. The US State Department's FIRST programme is funding the first phase with USD5 million (about EUR4.5 million). Prime Minister Robert Fico put the unit at 1,100 MW - down from the 1,200 MW cited earlier - with operation by 2040 and a construction contract possible in 2027, and acknowledged an eight-to-ten-month delay. After CEZ agreed in early October to sell its 49% JESS stake to state-owned JAVYS, the plant will be built under exclusive Slovak state ownership.",
+      "sales_note": "팀의 최우선 목표 패키지인 FEED·기본설계 용역이 경쟁사에 넘어간 사례다. 발주 경로가 공개입찰이 아니라 정부간협정(2026년 1월 피초–라이트 서명)에서 미 국무부 FIRST 그랜트로 1단계 비용을 대는 구조여서, 설계용역 단계는 공고 전에 공급국 정부자금으로 사실상 선점된다. EDF·한수원도 과거 보후니체 후보로 거론됐던 만큼 '노형 미확정' 단계의 접점은 포털 공고보다 정부 채널에서 먼저 닫힐 수 있다.",
+      "sales_note_en": "The FEED-type design package our team targets has gone to a competitor, and the route was not a public tender: a January 2026 intergovernmental agreement followed by a US State Department FIRST grant covering the first phase. Where a supplier government funds the design study, that stage is effectively taken before any notice appears. EDF and KHNP were both named as earlier Bohunice candidates, so the opening in a pre-technology-selection market may close through government channels rather than procurement portals.",
+      "related": [
+        "https://www.teraz.sk/ekonomika/jess-a-westinghouse-podpisali-zmluvu-o/1003542-clanok.html"
+      ]
+    },
+    {
+      "id": "2026-10-30-02",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 2,
+      "title": "Curtiss-Wright Invests $30M to Expand Nuclear Instrumentation Manufacturing in Texas",
+      "title_ko": "커티스라이트, 텍사스 라운드록 원자력 계측기 공장 확장에 3,000만 달러 투자",
+      "title_en": "Curtiss-Wright Invests $30M to Expand Nuclear Instrumentation Manufacturing in Texas",
+      "language": "en",
+      "source": "POWER Magazine",
+      "published": "2026-10-29",
+      "url": "https://www.powermag.com/curtiss-wright-invests-30m-to-expand-nuclear-instrumentation-manufacturing-in-texas/",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "커티스라이트가 텍사스 라운드록 공장 확장에 3,000만 달러를 투자해 상업용 원자로에 쓰이는 압력·온도 센서 생산능력을 늘린다고 10월 29일 발표했다. 방사선감시계통을 비롯한 다른 계측제어(I&C) 기술을 들일 공간도 함께 확보한다. 회사는 이번 투자에 연결된 특정 노형 사업이나 고객 발주를 밝히지 않았고, 생산능력 증가분·공정표·신규 인원 수도 공개하지 않았다.",
+      "summary_en": "Curtiss-Wright said on 29 October it will invest USD30 million to expand its Round Rock, Texas plant, raising output of the pressure and temperature sensors used in commercial reactors and making room for other instrumentation and control technologies, including radiation monitoring systems. The company tied no specific reactor programme or customer order to the investment and disclosed neither the capacity added, nor a construction schedule, nor a headcount.",
+      "sales_note": "신규 건설 발주보다 계측기·I&C 부품 공급능력이 먼저 늘어나는 흐름이다. 미국 내 노형 사업이 확정되기 전에 1차 벤더가 설비를 선투자하면, 우리가 미국 사업에 들어갈 때 I&C 공급은 이미 기존 공급망에 묶여 있을 가능성이 커진다. 국내 기자재 업체의 미국 인증·납품 경로를 같은 시점에 점검할 필요가 있다.",
+      "sales_note_en": "Instrumentation and I&C capacity is being added ahead of firm new-build orders. When tier-one vendors pre-invest before US reactor programmes are fixed, the I&C supply for those projects is likely to be locked into existing chains by the time we enter - a reason to check now how Korean component makers get qualified and placed in the US.",
+      "related": []
+    },
+    {
+      "id": "2026-10-30-03",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 1,
+      "title": "Germany narrows search for radioactive waste repository location",
+      "title_ko": "독일, 고준위 방폐장 부지 선정 대상 축소 — 5개 주 제외, 2027년 말 지표조사 대상 제안 예정",
+      "title_en": "Germany narrows search for radioactive waste repository location",
+      "language": "en",
+      "source": "World Nuclear News",
+      "published": "2026-10-29",
+      "url": "https://www.world-nuclear-news.org/articles/germany-narrows-search-for-radioactive-waste-repository-location",
+      "countries": [
+        "DE"
+      ],
+      "summary_ko": "독일 연방방폐물처분공사(BGE)가 10월 27일 갱신한 작업현황 지도를 공개하며 고준위 방폐장 부지 선정 검토 구역을 다시 좁혔다. 작센을 포함해 5개 주가 제외됐고 체코 국경에 가까운 바이에른 일부는 계속 검토 대상이다. 현 단계는 지질 조건만 평가하며 인구밀도 같은 요소는 이후 단계에서 본다. BGE는 2027년 말까지 지표조사 대상 지역을 제안할 예정이고 최종 부지는 연방하원이 정한다.",
+      "summary_en": "Germany's federal waste disposal company BGE published a revised work-status map on 27 October, further narrowing the area under consideration for a high-level waste repository. Five federal states, Saxony among them, are now ruled out, while parts of Bavaria close to the Czech border remain in play. Only geology is being weighed at this stage; factors such as population density come later. BGE plans to propose areas for surface exploration by the end of 2027, with the final siting decision resting with the Bundestag.",
+      "sales_note": "",
+      "sales_note_en": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-30-04",
+      "region": "domestic",
+      "category": "large",
+      "importance": 3,
+      "title": "KHNP ends negotiations with construction consortium for Czech units",
+      "title_ko": "한수원, 체코 두코바니 시공계약 협상 종료 — 대우건설·두산에너빌리티 컨소시엄 대신 국가계약법 경쟁입찰로 신규 시공사, 2027년 7월 선정 목표",
+      "title_en": "KHNP ends negotiations with construction consortium for Czech units",
+      "language": "en",
+      "source": "World Nuclear News",
+      "published": "2026-10-29",
+      "url": "https://www.world-nuclear-news.org/articles/khnp-ends-negotiations-with-construction-consortium-czech-units",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "summary_ko": "한수원이 10월 29일 체코 두코바니 APR1000 2기 건설의 시공계약 협상을 대우건설·두산에너빌리티 컨소시엄과 종료하고, 기존 공동협력협약을 끝내는 절차에 들어갔다. 쟁점은 계약방식·업무범위·기준물량으로, 한수원은 기본설계 기준물량에 근거한 총액계약을, 컨소시엄은 실시설계 확정물량 기준 정산(공사물량 증가 반영)을 요구해 실무협상·이견조정위원회·경영진 협상이 모두 결렬됐다. 한수원은 국가계약법에 따른 경쟁입찰로 새 시공사를 뽑되 선정 전까지 필수업무를 직접 수행하며, 1월 입찰설명회·4월 입찰 개시·2027년 7월 선정을 목표로 한다(세부 절차·일정은 미확정). 부지정비는 2028년 1월, 본공사는 2029년 11월 착수 예정이다. 2025년 6월 계약금액은 26조원(194억 달러), 체코 측 공표 기준 2기 건설비는 4,070억 코루나다. 대우건설은 설계변경 비용위험을 시공사에 전가했다는 입장이고, 두산에너빌리티는 재입찰에 참여하겠다며 2025년 12월 16일 체결한 원자로설비·터빈발전기 공급계약은 영향이 없다고 밝혔다. 한전기술 설계용역(2025년 12월 체결)도 유지되며 한전원자력연료 핵연료 공급과 한전KPS 시운전·정비 계약은 2027년 체결을 목표로 협상 중이다. 체코 산업통상부 하블리체크 장관과 EDU II 자보츠키 사장은 공정에 영향이 없다는 입장을 냈다.",
+      "summary_en": "On 29 October KHNP ended contract negotiations with the Daewoo E&C-Doosan Enerbility consortium over construction of the two APR1000 units at Dukovany, and began terminating their joint cooperation agreement. The sticking points were contract structure, scope and baseline quantities: KHNP wanted a lump sum priced off basic-design quantities, while the consortium wanted payment settled against quantities fixed at detailed design, reflecting increased construction volumes. Working-level talks, a dispute mediation committee and management-level negotiations all failed. KHNP will now run a competitive tender under Korea's State Contract Act, performing essential work itself in the meantime, and is targeting a bidders' briefing in January, bidding in April and selection by July 2027, though the detailed process is not settled. Site preparation is due in January 2028 and full construction in November 2029. The June 2025 contract was worth KRW26 trillion (USD19.4 billion); Czech figures put the two-unit build at CZK407 billion. Daewoo says KHNP shifted design-change cost risk onto the contractor; Doosan Enerbility said it will bid in the retender and that its reactor-equipment and turbine-generator supply contracts of 16 December 2025 are unaffected. KEPCO E&C's design services contract also stands, while fuel supply with KEPCO Nuclear Fuel and commissioning and maintenance with KEPCO KPS remain in negotiation for 2027 signature. Czech Industry Minister Karel Havlicek and EDU II chief executive Petr Zavodsky both said the schedule is not at risk.",
+      "sales_note": "수출 1호 사업에서 '주계약자-시공사' 내부 리스크 배분이 깨진 사례로, 앞으로 모든 해외 제안에서 발주처가 요구할 검증 항목이 된다. 핵심은 기본설계 기준물량 총액계약이라는 한수원 모델을 국내 시공사가 수용하지 않았다는 점이고, 재입찰에서도 같은 조건이면 응찰 폭이 좁아질 수 있다. 반면 2027년 7월까지 시공 패키지가 열려 있으므로 국내 EPC·시공사에게는 두코바니 진입 기회가 다시 생겼다. 체코·슬로바키아·폴란드 발주처가 '팀코리아의 공급망 안정성'을 입찰평가에서 다시 물을 가능성이 크므로, 계약방식·물량정산 조건을 제안 단계에서 미리 정리해 두는 것이 실익이다.",
+      "sales_note_en": "On Korea's flagship export project, the risk split between prime contractor and builder has broken down in public - something every future client will now probe. The substance is that Korean contractors would not accept KHNP's model of a lump sum priced off basic-design quantities, and a retender on the same terms may draw a thin field. The flip side is that the construction package is open again until July 2027, giving Korean EPC firms a fresh route into Dukovany. Expect Czech, Slovak and Polish buyers to re-examine Team Korea's supply-chain reliability in bid evaluation, which makes it worth settling contract structure and quantity-settlement terms at proposal stage.",
+      "related": [
+        "https://www.segye.com/newsView/20261029505317",
+        "https://oenergetice.cz/ostatni/khnp-ukoncila-klicova-jednani-o-dukovanech-hleda-noveho-dodavatele-stavebnich-praci",
+        "https://news.mtn.co.kr/article/2026102909393462147"
+      ]
+    }
+  ]
+}

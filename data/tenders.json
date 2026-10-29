@@ -1,34 +1,8 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
   "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
   "tenders": [
-    {
-      "country": "RO",
-      "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
-      "title": "체르나보다 1·2호기 안전관련 구조물 경년거동 평가·분석·시험 용역 (45개월)",
-      "title_en": "Technical evaluation, analysis and testing of the time-dependent behaviour of safety-related structures at Cernavoda units 1 and 2 (45 months)",
-      "scope": "1·2호기 안전관련 구조물의 경년거동 평가·분석·시험. 원자로건물, 사용후핵연료 저장조 포함 핵보조설비건물(CSAN), 통합건물, 농축탑, EFCVS 건물, 비상수원(EWS) 건물, EPS-SCR 건물, HPECC 건물, 중간준위 폐기물 저장시설 등. CPV 71621000. 공고 기재 금액 2,856,500 EUR",
-      "scope_en": "Evaluation, analysis and testing of time-dependent behaviour of safety-related structures at units 1 and 2, covering the reactor building, the nuclear auxiliary services building with spent fuel bays, the integrated building, the enrichment tower, the EFCVS building, the emergency water source building, the EPS-SCR building, the HPECC building and the intermediate waste store. CPV 71621000. Notice states EUR 2,856,500",
-      "portal": "TED",
-      "notice_no": "685349-2026",
-      "published": "2026-10-05",
-      "deadline": "2026-10-29",
-      "url": "https://ted.europa.eu/en/notice/685349-2026/pdf"
-    },
-    {
-      "country": "SI",
-      "buyer": "Nuklearna elektrarna Krško d.o.o. (NEK)",
-      "title": "크르슈코 원전 — 소내 변압기 T1·T2 절연상버스(IPB) 분기 개량",
-      "title_en": "Krško NPP — upgrade of the isolated phase bus duct (IPB) branch to house transformers T1 and T2",
-      "scope": "소내 변압기 T1·T2로 가는 절연상버스(izolirani fazni vod) 분기 설비 개량. CPV 31321000(송배전선로), 공고 후 협상 절차.",
-      "scope_en": "Upgrade of the isolated phase bus duct branch feeding house transformers T1 and T2. CPV 31321000 (electricity power lines), negotiated procedure with a prior call for competition.",
-      "portal": "TED",
-      "notice_no": "709650-2026",
-      "published": "2026-10-14",
-      "deadline": "2026-10-29",
-      "url": "https://ted.europa.eu/en/notice/709650-2026/pdf"
-    },
     {
       "country": "BE",
       "buyer": "Organisme national des déchets radioactifs et de matières fissiles enrichies (ONDRAF/NIRAS)",
@@ -600,6 +574,44 @@
       "published": "2026-10-29",
       "deadline": "2026-11-18",
       "url": "https://ted.europa.eu/en/notice/749781-2026/pdf"
+    },
+    {
+      "country": "SI",
+      "buyer": "Nuklearna elektrarna Krško d.o.o. (NEK)",
+      "title": "슬로베니아 크르슈코 원전(NEK) — 안전 감압밸브(razbremenilni ventili) 교체품 구매",
+      "title_en": "Krško NPP (Slovenia) — procurement of replacement safety relief valves",
+      "scope": "크르슈코 원전 안전 감압밸브 교체품 공급. CPV 42131147(안전밸브), 공고 후 협상 절차(neg-w-call), 참가신청 마감 2026-11-17. 추정금액은 공고 구조화 데이터에 없음.",
+      "scope_en": "Supply of replacement safety relief valves for Krško NPP. CPV 42131147 (safety valves), negotiated procedure with a prior call for competition; requests to participate due 17 November 2026. No estimated value is present in the notice's structured data.",
+      "portal": "TED",
+      "notice_no": "750257-2026",
+      "published": "2026-10-29",
+      "deadline": "2026-11-17",
+      "url": "https://ted.europa.eu/en/notice/750257-2026/pdf"
+    },
+    {
+      "country": "RO",
+      "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
+      "title": "루마니아 누클레아렐렉트리카 — 체르나보다 전신 오염감시기(2단계식) 6대 공급·설치·시운전 (CR #44869)",
+      "title_en": "Nuclearelectrica (Romania) — supply, installation and commissioning of six two-step whole-body contamination monitors at Cernavoda (CR #44869)",
+      "scope": "체르나보다 원전용 2단계식 전신 오염감시기 6대 공급 및 부수 용역 — 현장 설치·시운전·시험(발주처 기술지원 포함), RFID 카드 등록 기술지원, 방사선감시계통(RMS) 연계, 발주처 인원 교육. CPV 38341000(방사선 측정장치), 공개입찰, 마감 2026-12-03. 공고 기재 추정금액 670,500(구조화 데이터에 통화 표기 없음).",
+      "scope_en": "Supply of six two-step whole-body contamination monitors for the Cernavoda plant with accessory services: on-site installation, commissioning and testing with operator technical support, technical assistance for RFID card enrolment, integration into the radiation monitoring system, and staff training. CPV 38341000 (radiation measuring apparatus), open procedure, deadline 3 December 2026. The notice states an estimated 670,500 with no currency in the structured data.",
+      "portal": "TED",
+      "notice_no": "749559-2026",
+      "published": "2026-10-29",
+      "deadline": "2026-12-03",
+      "url": "https://ted.europa.eu/en/notice/749559-2026/pdf"
+    },
+    {
+      "country": "GB",
+      "buyer": "Nuclear Waste Services Limited",
+      "title": "영국 Nuclear Waste Services — 금속 방폐물 처리용역 프레임워크 2028 사전공고(파이프라인, £97,000,000)",
+      "title_en": "Nuclear Waste Services (UK) — Metallic Waste Treatment Services Framework 2028, pipeline notice (GBP 97,000,000)",
+      "scope": "방사성 금속폐기물 처리용역 프레임워크. 최적가용기법(BAT)과 폐기물관리 위계에 맞춘 다양한 처리기법을 제공해 금속폐기물의 전생애 관리를 수행. 조달참조 C29906, UK1 파이프라인 공고(planning), 공개절차·프레임워크, CPV 90521000(방사성폐기물 처리용역). 계약기간 2028-09-01~2036-08-31(최장 2038-08-31, 연장 가능), 이행지 UKD11(컴브리아). 본공고 예정일 2027-09-21. 금액 £97,000,000(부가세 포함 £116,400,000).",
+      "scope_en": "Framework for radioactive metallic waste treatment services, offering a range of treatment techniques in line with Best Available Techniques and the waste management hierarchy for lifecycle management of metallic waste. Procurement reference C29906, UK1 pipeline (planning) notice, open procedure under a framework agreement, CPV 90521000 (radioactive waste treatment services). Contract period 1 September 2028 to 31 August 2036, extendable to 31 August 2038; delivery in UKD11 (Cumbria). The substantive notice is expected on 21 September 2027. Value GBP 97,000,000 (GBP 116,400,000 including VAT).",
+      "portal": "UK FTS",
+      "notice_no": "ocds-h6vhtk-07935d / 102534-2026",
+      "published": "2026-10-29",
+      "url": "https://www.find-tender.service.gov.uk/Notice/102534-2026"
     }
   ]
 }

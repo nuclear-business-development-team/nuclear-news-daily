@@ -1,0 +1,382 @@
+{
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31T08:04:14+09:00",
+ "period": {
+  "from": "2026-10-30",
+  "to": "2026-10-31"
+ },
+ "overview_ko": "미 NRC가 10월 30일 인허가 쟁송심리에 복잡도별 기한(표준 18개월·중점 12개월·신속 6개월)을 두는 최종규칙을 확정해, 그동안 수년씩 걸리던 쟁송 지연에 상한이 생겼다 — 안전·보안 기준과 일반국민의 쟁점 채택요건은 그대로 두고 절차만 단축한 것으로, 11월 첫 주 관보 게재 30일 후 발효된다. 카자흐스탄에서는 토카예프 대통령이 10월 28일 국민연설에서 로사톰이 짓는 발하슈 원전의 2027년 착공과 2호 원전 모윤쿰의 조속한 착공을 제시했고 모윤쿰 우선 파트너로 중국 CNPC가 지목돼, 첫 두 사업이 러시아·중국으로 분점되는 구도가 공식화됐다. 연료 쪽에서는 센트러스가 피케턴 농축공장 증설용 첫 원심분리기를 출하(첫 신규 능력 2029년)하고 프라마톰이 팽뵈프에 연 10만 본 규모 크롬코팅 피복관 설비를 준공해, HALEU와 사고저항연료가 모두 계획에서 설비 단계로 넘어갔다. 루마니아 체르나보다 1·2호기는 다뉴브강 저수위로 7월 말·8월 중순부터 정지가 이어지고 재가동 기준을 아직 못 채웠으며, 필리핀은 건설 결정 전인데도 OECD NEA와 11월 4~6일 규제체계 워크숍을 열어 신규 진입국의 접점이 입찰보다 규제·역량 협력에서 먼저 열린다는 점을 다시 보여줬다. 영업 관점: 미국은 인허가 일정 리스크의 상한이 생긴 만큼 장납기 발주·인력계획을 앞당길 근거가 생겼고, 카자흐스탄은 노형 공급 접점이 닫히는 대신 발하슈 착공 이후의 BOP·시공·기자재 하도급으로 접근을 좁혀야 한다.",
+ "overview_en": "The US NRC finalised a rule on 30 October putting time limits on contested licensing hearings by complexity - 18 months standard, 12 focused, six expedited - capping a source of delay that has at times run for years; it shortens procedure only, leaving safety and security standards and the public's contention-admissibility standard untouched, and takes effect 30 days after Federal Register publication expected in the first week of November. In Kazakhstan, President Tokayev used his 28 October address to set 2027 for breaking ground on the Rosatom-built Balkhash plant and to call for an early start on a second plant, Moyynkum, with China's CNPC named preferred partner - formalising a split of the country's first two programmes between Russia and China. On fuel, Centrus shipped the first centrifuge for its Piketon enrichment expansion, with first new capacity due in 2029, and Framatome inaugurated a chromium-coated cladding line at Paimboeuf for more than 100,000 tubes a year, moving both HALEU and accident-tolerant fuel from plan to installed capacity. Romania's two Cernavoda units remain off line on low Danube water since late July and mid-August with the reconnection criteria still unmet, while the Philippines - no build decision taken - will hold a regulatory framework workshop with the OECD NEA on 4-6 November, another reminder that newcomer markets open through regulatory and capability cooperation before any tender. Sales angle: with a ceiling now on US licensing-schedule risk there is a case for pulling long-lead orders and staffing forward, while in Kazakhstan the reactor-supply window is closing and our approach should narrow to balance-of-plant, construction and equipment subcontracts once Balkhash breaks ground.",
+ "domestic_overview_ko": "두코바니 시공계약 결렬의 양쪽 주장이 공개됐다. 대우건설·두산에너빌리티 컨소시엄은 한수원이 10월 7일 구두로 조건을 바꾸고 10월 29일을 시한으로 정해 3주 안에 수용을 요구했다고 반박했고, 쟁점은 총액확정계약 적용 가능성(신규 노형 APR1000의 실적 부재), 2024년 입찰 때의 물량 정산 방식 명시 여부, 설계오류·하도급 과실·부지제공 지연 비용의 귀속으로 확인됐다 — 체코 산업통상장관과 EDU II는 공정 영향이 없고 해지 범위가 시공계약에 한정된다고 밝혔으나, 현지 언론은 한수원에 아직 대체 시공사가 없다고 전했다. 두산에너빌리티는 뉴스케일 원자로모듈의 상부 원자로압력용기(URPV) 본제작 계약을 창원에서 체결해 소재 공급에서 주기기 제작으로 범위를 넓혔고, 뉴스케일 최초호기가 루마니아 도이체슈티인 만큼 이 실적은 유럽 제안서에 바로 쓸 수 있다. 정책에서는 고준위방폐물관리위원회가 10월 30일 제9차 회의에서 관리시설 부적합지역 12개 배제기준을 의결해 연말 배제작업·내년 1분기 기본조사 부지 공모로 일정을 확정했고, 원전 공론화위원회는 제4차 회의에서 외부전문가 공론화평가단 구성과 전문위원회 운영세칙을 의결해 12월 11~13일 시민참여단 숙의토론을 준비한다. 영업 관점: 두코바니의 계약방식·위험배분 쟁점은 테멜린·폴란드·네덜란드·사우디 후속 사업에서 그대로 재현될 조건이므로 입찰 단계에서 노형 실적 부재에 따른 물량위험 처리를 제안 전제로 명시해야 하고, 고준위 일정 확정은 해외 입찰이 요구하는 '자국 백엔드 해법' 근거로 바로 갱신해 쓸 수 있다.",
+ "domestic_overview_en": "Both sides of the Dukovany construction dispute are now on the record. The Daewoo E&C-Doosan Enerbility consortium says KHNP revised the terms verbally on 7 October and set 29 October as the deadline, demanding acceptance within three weeks; the issues are confirmed as whether a lump-sum contract can apply to the APR1000, which has no track record, whether the 2024 bid specified settlement on measured quantities, and who bears the cost of undetected design errors, subcontractor fault and owner delay in handing over the site. The Czech industry minister and EDU II said the schedule is unaffected and the termination covers only the construction contract, but local reporting says KHNP has no replacement contractor yet. Doosan Enerbility signed a contract at Changwon to manufacture the upper reactor pressure vessel for NuScale's reactor module, widening its scope from materials supply to the vessel itself; with NuScale's first unit at Doicesti in Romania, that record is directly usable in European proposals. On policy, the High-Level Radioactive Waste Management Committee adopted 12 criteria for excluding unsuitable areas at its ninth meeting on 30 October, fixing a schedule of exclusion work by year-end and a call for basic-survey sites in the first quarter of next year, while the nuclear public-deliberation committee agreed at its fourth meeting to form an outside expert evaluation panel and adopted operating rules for its expert subcommittee ahead of the citizens' deliberation on 11-13 December. Sales angle: the contract-form and risk-allocation issues at Dukovany will recur on Temelin, Poland, the Netherlands and Saudi Arabia, so the treatment of quantity risk for a design without a track record should be stated as an assumption at bid stage, and the now-dated high-level waste schedule can be written straight into the \"domestic back-end solution\" evidence that overseas tenders ask for.",
+ "countries_pulse": [
+  {
+   "country": "KZ",
+   "name_ko": "카자흐스탄",
+   "name_en": "Kazakhstan",
+   "stance": "expanding",
+   "signal": "토카예프 대통령이 10월 28일 국민연설에서 발하슈 원전(로사톰·VVER-1200 2기) 2027년 착공과 2호 원전 모윤쿰(1,200MW 2기)의 조속한 착공을 제시 — 모윤쿰 우선 파트너로 중국 CNPC가 지목돼 1·2호 사업이 러시아·중국으로 분점",
+   "signal_en": "In his 28 October address Tokayev set 2027 for breaking ground on the Rosatom-built Balkhash plant (two VVER-1200s) and called for an early start on a second plant, Moyynkum (two 1,200 MW units), with China's CNPC named preferred partner - splitting the first two programmes between Russia and China",
+   "article_ids": [
+    "2026-10-31-01"
+   ]
+  },
+  {
+   "country": "US",
+   "name_ko": "미국",
+   "name_en": "United States",
+   "stance": "expanding",
+   "signal": "NRC가 쟁송심리 기한(18·12·6개월) 최종규칙을 10월 30일 확정해 인허가 지연 상한을 설정하고, 같은 날 선진로 감독절차(AROP) 초기 구상 공개회의를 열었다. HALEU 측에서는 센트러스가 피케턴 증설용 첫 원심분리기를 출하(2029년 가동), ARPA-E는 재활용 연료 8개 과제를 선정",
+   "signal_en": "The NRC finalised the contested-hearing time limits of 18, 12 and six months on 30 October, capping licensing delay, and held a public meeting the same day on an early Advanced Reactor Oversight Process; on fuel, Centrus shipped the first centrifuge for the Piketon expansion for 2029 operation and ARPA-E selected eight recycled-fuel projects",
+   "article_ids": [
+    "2026-10-31-02",
+    "2026-10-31-04",
+    "2026-10-31-07",
+    "2026-10-31-08"
+   ]
+  },
+  {
+   "country": "CZ",
+   "name_ko": "체코",
+   "name_en": "Czechia",
+   "stance": "expanding",
+   "signal": "두코바니 시공계약 결렬에 대해 산업통상장관 하블리체크는 한국 측 장관 통화를 근거로 공정 영향 없음·다른 시공사와 협상 준비 완료를, EDU II는 한수원의 계약상 의무 유지와 해지 범위가 시공계약에 한정됨을 확인 — 반면 현지 언론은 대체 시공사 부재를 지적",
+   "signal_en": "On the collapse of the Dukovany construction contract, Industry Minister Havlicek cited a call with his Korean counterpart in saying the schedule is unaffected and KHNP is ready to talk to other contractors, and EDU II confirmed KHNP keeps its contractual obligations and that the termination is limited to the construction contract - while local reporting points to the absence of a replacement",
+   "article_ids": [
+    "2026-10-31-10"
+   ]
+  },
+  {
+   "country": "RO",
+   "name_ko": "루마니아",
+   "name_en": "Romania",
+   "stance": "steady",
+   "signal": "체르나보다 1·2호기가 다뉴브강 저수위로 각각 7월 28일·8월 12일부터 정지 상태를 유지, 재가동 기준 미충족 — 한편 뉴스케일 최초호기 부지는 도이체슈티로 유지되고 두산에너빌리티가 상부 원자로압력용기 본제작을 맡음",
+   "signal_en": "Both Cernavoda units remain off line on low Danube water, since 28 July and 12 August respectively, with the reconnection criteria not yet met; meanwhile NuScale's first-of-a-kind site stays at Doicesti, whose upper reactor pressure vessel Doosan Enerbility will now build",
+   "article_ids": [
+    "2026-10-31-03",
+    "2026-10-31-11"
+   ]
+  },
+  {
+   "country": "PH",
+   "name_ko": "필리핀",
+   "name_en": "Philippines",
+   "stance": "expanding",
+   "signal": "에너지부가 OECD NEA와 11월 4~6일 마닐라에서 원자력 규제체계 워크숍을 열어 신설 규제기관 PhilAtom의 역할·인허가·부지평가·SMR을 논의 — 건설 결정 전이고 접점은 규제·역량 협력에서 먼저 열림. 10월 21~22일 포럼에 한수원·일본원자력발전·캔두에너지·로사톰 참여",
+   "signal_en": "The energy department will hold a nuclear regulatory framework workshop with the OECD NEA in Manila on 4-6 November, covering the role of the new regulator PhilAtom, licensing, site evaluation and SMRs - no build decision yet, so the opening is regulatory and capability cooperation; KHNP, JAPC, Candu Energy and Rosatom attended the 21-22 October forums",
+   "article_ids": [
+    "2026-10-31-06"
+   ]
+  },
+  {
+   "country": "FR",
+   "name_ko": "프랑스",
+   "name_en": "France",
+   "stance": "expanding",
+   "signal": "프라마톰이 팽뵈프에 3,000만 유로 규모 핵연료 피복관 크롬코팅 설비를 준공(연 10만 본 이상, 2026년 말 산업인증·2027년 초 생산) — 사고저항연료가 시험에서 양산 단계로",
+   "signal_en": "Framatome inaugurated a EUR30 million chromium-coating line for fuel cladding at Paimboeuf, designed for more than 100,000 tubes a year with industrial qualification by end-2026 and production from early 2027 - accident-tolerant fuel moving from trials to production",
+   "article_ids": [
+    "2026-10-31-05"
+   ]
+  },
+  {
+   "country": "RU",
+   "name_ko": "러시아",
+   "name_en": "Russia",
+   "stance": "expanding",
+   "signal": "기조 유지 — 로사톰이 아카데믹 로모노소프 부유식 원전의 페베크 지역 열공급 전환에 따른 대기오염물질 배출 약 80% 감소를 공개하며 부유식·열공급 실적을 홍보. 카자흐스탄 발하슈 원전 공급사 지위도 재확인",
+   "signal_en": "Steady - Rosatom publicised an almost 80% fall in local pollutant emissions at Pevek after heating load shifted to the Akademik Lomonosov floating plant, promoting its floating and heat-supply record, and its position as supplier for Kazakhstan's Balkhash plant was reaffirmed",
+   "article_ids": [
+    "2026-10-31-09",
+    "2026-10-31-01"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-31-01",
+   "region": "overseas",
+   "category": "policy",
+   "importance": 3,
+   "title": "Токаев предложил начать строительство АЭС «Балхаш» в 2027 году",
+   "title_ko": "카자흐스탄 토카예프 대통령, 발하슈 원전 2027년 착공 지시 — 2호 원전 '모윤쿰'은 중국 CNPC를 우선 파트너로 지목",
+   "title_en": "Tokayev calls for Balkhash nuclear construction to start in 2027, names China's CNPC preferred partner for a second plant",
+   "language": "ru",
+   "source": "Interfax",
+   "published": "2026-10-28",
+   "url": "https://www.interfax.ru/world/1125409",
+   "countries": [
+    "KZ",
+    "CN",
+    "RU"
+   ],
+   "summary_ko": "카심조마르트 토카예프 대통령이 10월 28일 국민연설에서 로사톰이 짓는 발하슈 원전(VVER-1200 2기)을 \"내년에 착공하는 것이 가능하고 어쩌면 필요하다\"고 밝혔다. 공사기간은 약 11년, 완공은 2035~2036년으로 제시됐고 2기 노형 로드맵은 2025년에 서명됐으며 발하슈호 울켄 마을 인근 부지조사는 2025년 8월 8일 시작됐다. 동시에 토카예프는 두 번째 원전 '모윤쿰'(1,200MW 2기)의 조속한 착공을 위한 포괄협력협정 체결을 제안했고, 이 2호 원전의 우선 파트너로 중국 CNPC가 지목됐다. 추가 2기 부지는 아직 검토 중이다.",
+   "summary_en": "In his 28 October address to the nation, President Kassym-Jomart Tokayev said it was \"possible and perhaps necessary\" to begin building the Rosatom-supplied Balkhash plant (two VVER-1200 units) next year. Construction is put at about 11 years with completion in 2035-36; the roadmap for the two units was signed in 2025 and site survey work near Ulken village on Lake Balkhash started on 8 August 2025. Tokayev separately proposed a comprehensive cooperation agreement to start a second plant, Moyynkum (two 1,200 MW units), as soon as possible, with China's CNPC named as the preferred partner for it. Sites for two further plants remain under study.",
+   "sales_note": "카자흐스탄 신규원전 2기 사업이 러시아(1호)·중국(2호)으로 사실상 분점되는 구도가 대통령 연설로 공식화됐다. 노형 공급 접점은 닫히는 쪽이므로, 우리 접근은 발하슈 착공 이후 열릴 BOP·시공·기자재 하도급과 발주처 엔지니어링 지원 쪽으로 좁혀 보는 것이 현실적이다.",
+   "sales_note_en": "A presidential address has effectively formalised the split of Kazakhstan's first two plants between Russia (Balkhash) and China (Moyynkum). The reactor-supply window is closing, so the realistic opening for us is downstream: balance-of-plant, construction and equipment subcontracts once Balkhash breaks ground, plus owner's engineering support."
+  },
+  {
+   "id": "2026-10-31-02",
+   "region": "overseas",
+   "category": "policy",
+   "importance": 3,
+   "title": "NRC finalizes rule setting time limits for contested hearings",
+   "title_ko": "미 NRC, 인허가 쟁송심리에 기한을 두는 최종규칙 확정 — 복잡도에 따라 18·12·6개월, 연방관보 게재 30일 후 발효",
+   "title_en": "NRC finalizes rule setting time limits for contested hearings",
+   "language": "en",
+   "source": "ANS Nuclear Newswire",
+   "published": "2026-10-30",
+   "url": "https://www.ans.org/news/article-8546/nrc-finalizes-rule-setting-time-limits-for-contested-hearings/",
+   "countries": [
+    "US"
+   ],
+   "summary_ko": "미 원자력규제위원회(NRC)가 10월 30일 인허가 신청에 대한 쟁송심리(contested hearing)에 기한을 두는 최종규칙을 확정했다. 신청의 복잡도에 따라 표준 18개월·중점 12개월·신속 6개월 세 범주로 나누고, 쟁점이 채택된 뒤 수 주 안에 심리를 시작해 NRC 실무진의 기술심사와 같은 시점 또는 그 전에 끝내도록 했다. 그동안 쟁송심리가 수년씩 걸린 사례가 있었던 것을 겨냥한 것으로, 2024년 ADVANCE법과 행정명령 14300('NRC 개혁')이 요구한 절차 간소화의 이행이다. 안전·보안 기준과 일반국민의 쟁점 채택요건은 바꾸지 않았고, 제안규칙에서 금지했던 비변호사의 대리는 의견수렴을 거쳐 허용으로 바뀌었다. 연방관보 게재 30일 후 발효되며 게재는 11월 첫 주로 예상된다.",
+   "summary_en": "On 30 October the US Nuclear Regulatory Commission finalised a rule putting time limits on contested hearings for licence applications. Hearings are sorted into three categories by the complexity of the application - standard at 18 months, focused at 12 and expedited at six - and are to begin within weeks of a contention being admitted and finish at or before the completion of NRC staff's technical review. Contested hearings have at times run for years. The rule implements the streamlining required by the ADVANCE Act of 2024 and Executive Order 14300 on reforming the NRC. It leaves safety and security standards and the contention-admissibility standard for members of the public unchanged, and, after public comment, the final version allows non-lawyers to represent entities, which the proposed rule would have barred. It takes effect 30 days after Federal Register publication, expected in the first week of November.",
+   "sales_note": "미국 신규 건설의 인허가 리스크에서 '쟁송 지연'이라는 가장 큰 불확실 변수가 상한을 갖게 됐다. 국내 건설사·기자재사가 들어가 있는 미국 SMR·대형원전 사업의 FID 시점 예측 가능성이 올라가므로, 장납기 발주와 인력 투입 계획을 더 공격적으로 잡을 근거가 된다. 발주처 제안서에서 '미국 인허가 일정 리스크' 항목의 전제를 갱신해야 한다.",
+   "sales_note_en": "The single largest unknown in US licensing risk - open-ended litigation delay - now has a ceiling. That makes FID timing more predictable for the US SMR and large-reactor projects Korean contractors and equipment makers have entered, and justifies committing to long-lead orders and staffing earlier. The licensing-schedule risk assumptions in our US proposals should be updated.",
+   "related": [
+    "https://www.ans.org/news/"
+   ]
+  },
+  {
+   "id": "2026-10-31-03",
+   "region": "overseas",
+   "category": "large",
+   "importance": 2,
+   "title": "Cernavoda units remain shut down due to Danube water levels",
+   "title_ko": "루마니아 체르나보다 1·2호기, 다뉴브강 저수위로 계속 정지 — 취수 수위 185cm 미달, 재가동 시점 미정",
+   "title_en": "Cernavoda units remain shut down due to Danube water levels",
+   "language": "en",
+   "source": "World Nuclear News",
+   "published": "2026-10-30",
+   "url": "https://www.world-nuclear-news.org/articles/cernavoda-units-remain-offline-due-to-danube-water-levels",
+   "countries": [
+    "RO"
+   ],
+   "summary_ko": "누클레아렐렉트리카가 운영하는 체르나보다 1·2호기(각 650MWe CANDU, 루마니아 전력의 약 5분의 1)가 다뉴브강 저수위로 계속 정지 상태다. 1호기는 7월 28일 계통에서 분리됐고 2호기는 다뉴브 수위가 정상운전 기준 185cm를 밑도는 182cm까지 떨어진 8월 12일 오전에 정지했다. 취수조 수위가 10cm 올랐지만 최소 1기를 재병입할 기준에는 아직 못 미치며, 수위가 며칠간 유지되고 상승 추세를 보여야 한다. 미하이 지오아라 사장은 기준 수위에 도달하면 계통 우선 재병입을 요청할 것이라고 밝혔고, 회사는 다중 냉각계통으로 원자력 안전기능은 항상 확보된다고 설명했다.",
+   "summary_en": "Both units at Cernavoda - 650 MWe CANDUs supplying about a fifth of Romania's electricity - remain off line on low Danube water. Unit 1 was disconnected from the national grid on 28 July; unit 2 shut down on the morning of 12 August after the river fell to 182 cm, below the 185 cm needed for normal operation. The intake basin has risen 10 cm, but forecasts do not yet meet the criteria for reconnecting at least one unit: the level has to hold for several days and show an upward trend. CEO Mihai Gioara said the company will request priority reconnection once the level is reached, and Nuclearelectrica said the plant's multiple cooling systems keep nuclear safety functions assured at all times.",
+   "sales_note": "체르나보다의 취수 제약이 석 달 넘게 이어지고 있다는 것은 3·4호기 완공 사업의 냉각수 설계와 부지 리스크 평가가 발주 조건에 반영될 가능성을 높인다. 완공 발주를 기다리는 입장에서는 취수·냉각계통 보강이 범위에 들어올 여지를 미리 기술검토에 넣어두는 것이 유리하다.",
+   "sales_note_en": "An intake constraint now running past three months raises the chance that cooling-water design and site risk get written into the terms for completing units 3 and 4. For anyone waiting on that procurement, it is worth pre-studying intake and cooling-system reinforcement as a scope item that may be added."
+  },
+  {
+   "id": "2026-10-31-04",
+   "region": "overseas",
+   "category": "fuel",
+   "importance": 2,
+   "title": "Centrus ships first centrifuge for Piketon plant expansion",
+   "title_ko": "센트러스, 피케턴 농축공장 증설용 첫 신형 원심분리기 출하 — 2029년 첫 신규 농축능력 가동 목표",
+   "title_en": "Centrus ships first centrifuge for Piketon plant expansion",
+   "language": "en",
+   "source": "World Nuclear News",
+   "published": "2026-10-30",
+   "url": "https://www.world-nuclear-news.org/articles/centrus-ships-first-centrifuge-for-piketon-plant-expansion",
+   "countries": [
+    "US"
+   ],
+   "summary_ko": "센트러스에너지가 오하이오 피케턴 농축공장 증설에 들어갈 첫 신형 원심분리기를 테네시 오크리지 공장에서 제작해 출하했다. 이후 완성 원심분리기도 테네시에서 오하이오로 보내 최종 조립하며 생산량을 늘려간다. 증설분은 HALEU 생산용 캐스케이드와 그 공급원료가 될 LEU, 추가 상업용 LEU, 국가안보 수요를 함께 맡고 기존 피케턴 캐스케이드는 2023년 말부터 HALEU를 생산해 왔다. 첫 신규 농축능력은 2029년 가동 예정이다. 미 에너지부는 6월 피케턴 증설·상업규모 HALEU 생산을 포함한 9억 달러 과업지시서에 센트러스를 선정했고, HALEU 생산·납품 옵션 최대 1억 7,000만 달러를 더하면 총 10억 7,000만 달러 규모다. 오크리지에는 1월에 5억 6,000만 달러 투자가 발표됐고 테네시주 원자력기금 7,000만 달러도 투입됐다.",
+   "summary_en": "Centrus Energy has shipped the first new centrifuge for the expansion of its Piketon enrichment plant in Ohio, manufactured at its Oak Ridge plant in Tennessee; later machines will also move from Tennessee to Ohio for final assembly as output ramps up. The expansion will add cascades for HALEU, produce the LEU feed for them, make additional LEU for the commercial market and serve national security needs; the existing Piketon cascade has produced HALEU since late 2023. First new capacity is expected on line in 2029. In June the Department of Energy selected Centrus for a USD900 million task order covering the expansion and commercial-scale HALEU production, with options of up to USD170 million for HALEU production and delivery taking the potential total to USD1.07 billion. A USD560 million Oak Ridge investment was announced in January, and Centrus has also drawn USD70 million from Tennessee's Nuclear Energy Fund.",
+   "sales_note": "HALEU 공급이 '계획'에서 '설비 출하'로 넘어갔다는 신호로, 미국 선진로 사업들의 연료 조달 리스크가 2029년을 기점으로 완화된다. 국내 건설사가 지분·시공으로 참여하는 미국 SMR 사업의 사업성 검토에서 연료 확보 가정을 갱신할 근거가 된다.",
+   "sales_note_en": "HALEU supply has moved from plan to hardware shipment, easing fuel-procurement risk for US advanced reactor projects from 2029. That is a basis for updating the fuel-availability assumptions in business cases for the US SMR projects Korean contractors are entering through equity and construction."
+  },
+  {
+   "id": "2026-10-31-05",
+   "region": "overseas",
+   "category": "fuel",
+   "importance": 2,
+   "title": "Framatome inaugurates chromium-coating facility",
+   "title_ko": "프라마톰, 프랑스 팽뵈프에 핵연료 피복관 크롬코팅 설비 준공 — 3,000만 유로, 연 10만 본 이상",
+   "title_en": "Framatome inaugurates chromium-coating facility",
+   "language": "en",
+   "source": "World Nuclear News",
+   "published": "2026-10-30",
+   "url": "https://www.world-nuclear-news.org/articles/framatome-inaugurates-chromium-coating-facility",
+   "countries": [
+    "FR"
+   ],
+   "summary_ko": "프라마톰이 프랑스 서부 팽뵈프 공장에 핵연료집합체용 지르코늄합금 피복관에 물리증착(PVD) 방식으로 크롬을 입히는 설비를 준공했다. 투자는 3,000만 유로(3,350만 달러)이고 연 10만 본 이상의 크롬코팅 피복관을 처리하도록 설계됐다. 산업 인증은 2026년 말까지, 생산 개시는 2027년 초가 목표다. 이 회사의 사고저항연료(PROtect ATF) 기술은 스위스 괴스겐과 미국 보글·캘버트클리프스에서 조사시험을 거쳤고, 2023년부터 EDF와의 프로그램으로 프랑스 가압경수로에 선도집합체 4개가 장전돼 있다.",
+   "summary_en": "Framatome has inaugurated a facility at its Paimboeuf plant in western France that applies a chromium coating by physical vapour deposition to the zirconium alloy cladding tubes used in fuel assemblies. The investment is EUR30 million (USD33.5 million) and the line is designed for more than 100,000 coated tubes a year. Industrial qualification is planned by the end of 2026 and production is targeted to start in early 2027. The company's PROtect accident-tolerant fuel technology has been irradiated at Goesgen in Switzerland and Vogtle and Calvert Cliffs in the USA, and four lead assemblies have been loaded in the French PWR fleet under a programme with EDF since 2023.",
+   "sales_note": "사고저항연료 피복관이 시험 단계를 지나 양산설비를 갖추기 시작했다. 계속운전·출력증강 제안에서 연료 성능 개선이 경쟁 요소로 들어올 수 있으므로, 국내 핵연료 공급망의 ATF 대응 수준을 비교 점검해 둘 필요가 있다.",
+   "sales_note_en": "Accident-tolerant cladding is moving past trials into production capacity. Fuel performance may start appearing as a competitive element in life-extension and uprate proposals, so it is worth benchmarking where the Korean fuel supply chain stands on ATF."
+  },
+  {
+   "id": "2026-10-31-06",
+   "region": "overseas",
+   "category": "policy",
+   "importance": 2,
+   "title": "DOE to hold nuclear regulation workshop",
+   "title_ko": "필리핀 에너지부, OECD NEA와 원자력 규제체계 워크숍 11월 4~6일 마닐라 개최 — 신설 규제기관 PhilAtom 역할 논의",
+   "title_en": "Philippine DOE to hold nuclear regulatory framework workshop with the OECD NEA",
+   "language": "en",
+   "source": "The Manila Times",
+   "published": "2026-10-30",
+   "url": "https://manilatimes.net/2026/10/30/business/top-business/doe-to-hold-nuclear-regulation-workshop/2457617",
+   "countries": [
+    "PH"
+   ],
+   "summary_ko": "필리핀 에너지부가 OECD 원자력기구(NEA)와 함께 11월 4~6일 마닐라에서 '필리핀 원자력 규제체계 워크숍'을 연다. 정부 관계자와 각국 규제기관·기술전문가가 참여해 규제의 법·제도 기반, 규제 독립성과 거버넌스, 인허가·검사·준수, 비상대응, 부지평가를 다루고 SMR 등 신기술과 NEA 회원국 경험에 기반한 시나리오 연습도 포함한다. 새로 설립된 규제기관 PhilAtom의 역할이 논의 대상이다. 샤론 가린 에너지장관은 규제기관의 독립성·기술역량·역량 확보가 필요하다며 \"신뢰할 수 있는 규제체계가 책임 있는 원자력 개발에 필수\"라고 밝혔다. 앞서 10월 21~22일 열린 세계원자력공급망포럼·필리핀 국제원자력포럼에는 한수원, 일본원자력발전, 캔두에너지, 로사톰이 참여했다. 필리핀은 아직 NEA 회원국이 아니다.",
+   "summary_en": "The Philippine Department of Energy will hold a three-day Philippine Nuclear Regulatory Framework Workshop with the OECD Nuclear Energy Agency in Manila on 4-6 November. Government representatives, international regulators and technical experts will cover the legal and institutional foundations of nuclear regulation, regulatory independence and governance, licensing, inspection and compliance, emergency preparedness and site evaluation, along with emerging technologies including SMRs and scenario-based exercises drawn from NEA member experience. The role of PhilAtom, the country's newly established regulator, is on the agenda. Energy Secretary Sharon Garin said regulators need independence, technical expertise and capacity, and that a \"credible regulatory framework is essential to responsible nuclear energy development.\" The World Nuclear Supply Chain Forum and Philippine International Nuclear Energy Forum on 21-22 October drew KHNP, the Japan Atomic Power Company, Candu Energy and Rosatom. The Philippines is not yet an NEA member.",
+   "sales_note": "필리핀은 아직 건설 결정 전이고 접점이 입찰이 아니라 규제·역량 협력에서 먼저 열리는 전형적인 신규 진입국이다. 10월 포럼에 한수원이 이미 들어가 있으므로, 규제기관 역량지원·인력양성 같은 비수주성 활동으로 발주처·규제기관 접촉면을 선점하는 것이 노형 경쟁 전 단계의 과제다.",
+   "sales_note_en": "The Philippines is the classic newcomer market: no build decision yet, and the first opening is regulatory and capability cooperation rather than a tender. KHNP was already present at the October forums, so the pre-competition task is to secure contact with the owner and the regulator through non-commercial work such as regulator capacity support and workforce development."
+  },
+  {
+   "id": "2026-10-31-07",
+   "region": "overseas",
+   "category": "policy",
+   "importance": 1,
+   "title": "NRC eyes advanced reactor oversight program for new reactors",
+   "title_ko": "미 NRC, 신규 원자로용 '선진로 감독절차(AROP)' 초기 구상 공개회의 — 아직 결정된 사항은 없음",
+   "title_en": "NRC eyes advanced reactor oversight program for new reactors",
+   "language": "en",
+   "source": "ANS Nuclear Newswire",
+   "published": "2026-10-30",
+   "url": "https://www.ans.org/news/",
+   "countries": [
+    "US"
+   ],
+   "summary_ko": "미 NRC가 10월 30일 신규 원자로를 대상으로 한 '선진로 감독절차(Advanced Reactor Oversight Process)' 초기 구상을 놓고 공개회의를 열었다. 기존 운전 원전에 적용되는 원자로감독절차(ROP)와 별도로 선진로 특성에 맞춘 감독 틀을 짜려는 것으로, 보도에 따르면 아직 결정된 사항은 없다.",
+   "summary_en": "The NRC held a public meeting on 30 October on early plans for an Advanced Reactor Oversight Process covering new reactors - an oversight framework tailored to advanced designs alongside the existing Reactor Oversight Process for the operating fleet. No decisions have been made, according to the report.",
+   "sales_note": "선진로 운전 단계의 감독 틀이 아직 비어 있다는 뜻이다. 미국 SMR 사업의 운영·정비 용역을 보는 경우 감독절차 확정 전까지 O&M 비용 전제가 유동적임을 제안서에 반영해야 한다.",
+   "sales_note_en": "The oversight framework for operating advanced reactors is still a blank. Where we are looking at operations and maintenance work on US SMR projects, proposals should reflect that O&M cost assumptions stay fluid until the process is settled."
+  },
+  {
+   "id": "2026-10-31-08",
+   "region": "overseas",
+   "category": "fuel",
+   "importance": 1,
+   "title": "DOE's ARPA-E selects eight transuranic fuel development projects",
+   "title_ko": "미 DOE ARPA-E, 재활용 물질 기반 선진로 연료 개발 8개 과제 선정 — HORNIG 사업",
+   "title_en": "DOE's ARPA-E selects eight transuranic fuel development projects",
+   "language": "en",
+   "source": "ANS Nuclear Newswire",
+   "published": "2026-10-29",
+   "url": "https://www.ans.org/news/",
+   "countries": [
+    "US"
+   ],
+   "summary_ko": "미 에너지부 고등연구계획국(ARPA-E)이 HORNIG 사업에서 재활용 물질로 선진로 연료를 만드는 과제 8건을 선정했다. 사용후핵연료에서 회수한 초우라늄원소(TRU)를 국내 연료 공급망으로 돌리는 것이 목표다. 선정 과제별 금액은 공개된 내용에서 확인되지 않았다.",
+   "summary_en": "The Department of Energy's ARPA-E has selected eight projects under its HORNIG programme to develop advanced reactor fuel from recycled materials, aiming to turn transuranics recovered from used fuel into a domestic fuel supply chain. Award amounts per project were not available in the published material.",
+   "sales_note": "",
+   "sales_note_en": ""
+  },
+  {
+   "id": "2026-10-31-09",
+   "region": "overseas",
+   "category": "large",
+   "importance": 1,
+   "title": "Floating nuclear power plant 'has boosted air quality'",
+   "title_ko": "러시아 아카데믹 로모노소프 부유식 원전, 페베크 지역 대기오염물질 배출 약 80% 감소",
+   "title_en": "Floating nuclear power plant 'has boosted air quality'",
+   "language": "en",
+   "source": "World Nuclear News",
+   "published": "2026-10-30",
+   "url": "https://www.world-nuclear-news.org/articles/floating-nuclear-power-plant-has-boosted-air-quality",
+   "countries": [
+    "RU"
+   ],
+   "summary_ko": "로사톰과 로스에네르고아톰은 러시아 북극권 추코트카 페베크에 배치된 아카데믹 로모노소프 부유식 원전이 2022년 지역 열공급을 시작한 뒤 대기오염물질 배출이 거의 80% 줄었다고 밝혔다. 도시 열부하 상당 부분이 원전으로 넘어가면서 총 배출량이 11.64톤에서 2.281톤으로 떨어졌다는 것이다. 이 원전은 KLT-40S 원자로 2기(각 35MWe)로 인구 10만 명 규모 도시에 전력을 공급할 수 있고 2020년 5월 상업운전을 시작했다.",
+   "summary_en": "Rosatom and Rosenergoatom report that the Akademik Lomonosov floating plant at Pevek in Chukotka, on Russia's Arctic coast, has cut local pollutant emissions by almost 80% since it began supplying heat to the area in 2022, with gross emissions falling from 11.64 to 2.281 tonnes as much of the city's heating load shifted to the plant. The plant has two KLT-40S reactors of 35 MWe each, can supply a city of up to 100,000 people and entered commercial operation in May 2020.",
+   "sales_note": "원전 열공급의 환경편익을 수치로 제시한 사례로, 지역난방·열병합을 내세우는 SMR 제안(핀란드·동유럽 도시열망)에서 참고 가능한 논거다.",
+   "sales_note_en": "A rare quantified case for the environmental benefit of nuclear heat supply - usable as supporting argument in SMR proposals pitched on district heating and cogeneration, as in Finland and Eastern European city heat networks."
+  },
+  {
+   "id": "2026-10-31-10",
+   "region": "domestic",
+   "category": "large",
+   "importance": 3,
+   "title": "체코 원전 시공협상 결렬…대우건설 컨소시엄 \"3주 내 계약 변경 수용 압박\"",
+   "title_ko": "[후속] 두코바니 시공협상 결렬 — 컨소시엄 \"한수원이 10월 7일 구두로 조건 변경, 10월 29일 시한\" 반박 / 체코 현지는 \"대체 시공사 아직 없다\"",
+   "title_en": "[follow-up] Dukovany construction talks collapse: consortium says KHNP changed terms verbally on 7 October with a 29 October deadline, while Czech reporting says no replacement contractor is in hand",
+   "language": "ko",
+   "source": "더트래커",
+   "published": "2026-10-29",
+   "url": "https://thetracker.co.kr/View.aspx?No=4289201",
+   "countries": [
+    "KR",
+    "CZ"
+   ],
+   "summary_ko": "전날 보도된 한수원의 두코바니 시공계약 협상 종료에 대해 대우건설·두산에너빌리티 컨소시엄 측 주장과 체코 현지 반응이 새로 나왔다. 컨소시엄은 한수원이 10월 7일 변경된 계약 조건을 구두로 전달하고 10월 29일을 협상 종료 시한으로 정해, 중대한 조건을 충분한 협의 없이 3주 안에 수용하라고 요구했다고 주장한다. 쟁점은 총액확정계약 적용(컨소시엄은 신규 노형 APR1000에 실적이 없어 APR1400과 같은 방식을 적용하기 어렵고 설계 변동 물량위험을 시공사가 질 수 없다는 입장), 2024년 최종 입찰 때 물량 정산 방식을 명시했는지 여부, 설계 오류 미발견·하도급사 과실·발주자 부지제공 지연 비용의 귀속, 직접비·간접비 산출근거 제출의 충분성이다. 협상은 약 15개월간 이어졌고 컨소시엄은 2018년부터 현지 네트워크를 구축해 온 시공주간사 교체가 사업 차질과 대외 신뢰 훼손을 부를 수 있다고 밝혔다. 체코에서는 산업통상장관 카렐 하블리체크가 한국 측 장관과의 통화를 근거로 공정은 위협받지 않으며 한수원이 다른 시공사와 협상할 준비가 돼 있고 대형 업체들이 관심을 보였다고 밝혔고, EDU II 사장 페트르 자보츠키는 결정은 한수원 몫이며 한수원은 서명한 계약상 모든 의무를 유지한다고 했다. 반면 하스포다르스케 노비니는 원자력업계 소식통을 인용해 한수원이 이 문제를 한동안 다뤄 왔고 아직 대체 시공사가 없다고 전했다. EDU II는 해지 대상이 시공계약에 한정되며 두산에너빌리티·두산스코다파워의 기자재 공급과 다른 체코 하도급사 계약에는 영향이 없다고 확인했다. 한전기술 설계용역, 두산에너빌리티 원자로설비·터빈발전기 계약은 유지되고 핵연료(한전원자력연료)·시운전·정비(한전KPS) 계약은 내년 서명이 예상된다. 2기 건설비는 2025년 가격 기준 4,070억 코루나, 1호기 착공 2029년·완공 2036년 계획이다.",
+   "summary_en": "A day after KHNP's decision to end construction contract talks for Dukovany, the consortium's side and the Czech reaction have emerged. Daewoo E&C and Doosan Enerbility say KHNP handed over revised contract terms verbally on 7 October and set 29 October as the deadline, demanding acceptance of material changes within three weeks without adequate consultation. The disputes are the lump-sum form of contract - the consortium argues the new APR1000 has no track record, so the APR1400 approach cannot apply and a contractor cannot carry quantity risk from design changes - whether the 2024 final bid specified settlement on measured quantities, who bears the cost of undetected design errors, subcontractor fault and owner delays in handing over the site, and whether the direct and indirect cost breakdowns submitted were sufficient. Talks ran about 15 months, and the consortium warned that replacing a lead contractor that has built local networks since 2018 could disrupt the project and damage external confidence. In Czechia, Industry and Trade Minister Karel Havlicek cited a call with his Korean counterpart in saying the schedule is not endangered, that KHNP is ready to negotiate with other contractors and that large firms have shown interest; EDU II chief executive Petr Zavodsky said the decision is KHNP's and that KHNP keeps all obligations under the signed contract. Hospodarske noviny, citing a nuclear industry source, reported that KHNP has been dealing with the issue for some time and still has no replacement contractor. EDU II confirmed the termination covers only the construction contract and does not affect equipment supply from Doosan Enerbility or Doosan Skoda Power, or signed contracts with other Czech subcontractors. The KEPCO E&C design contract and Doosan's reactor-equipment and turbine-generator contracts stand, with nuclear fuel (KEPCO Nuclear Fuel) and commissioning and maintenance (KEPCO KPS) contracts expected to be signed next year. Building the two units is costed at CZK407 billion at 2025 prices, with first-unit construction starting in 2029 and completion in 2036.",
+   "sales_note": "쟁점이 '계약방식(총액확정 대 물량정산)과 설계·시공 간 위험배분'으로 공개 확인됐다. 이는 두코바니 한 건의 문제가 아니라 APR1000·APR1400을 들고 나가는 모든 후속 사업(테멜린, 폴란드, 네덜란드, 사우디)에서 우리 쪽 시공·기자재 계약에 그대로 재현될 조건이므로, 입찰 단계에서 노형 실적 부재에 따른 물량위험 처리를 제안서 전제로 못 박아 두는 것이 필요하다. 동시에 체코 측이 '공정 영향 없음'을 유지하는 반면 현지 언론은 대체 시공사 부재를 지적하는 간극이 있어, 내년 1월 입찰설명회 전까지 발주처 신뢰 관리가 사업 리스크의 핵심이다.",
+   "sales_note_en": "The dispute is now publicly confirmed as being about contract form - lump sum versus settlement on measured quantities - and the allocation of risk between design and construction. That is not a Dukovany-specific problem: the same terms will recur in our construction and equipment contracts on every follow-on project carrying the APR1000 or APR1400, from Temelin to Poland, the Netherlands and Saudi Arabia, so the treatment of quantity risk where a design has no track record should be fixed as a stated assumption at bid stage. Meanwhile there is a gap between the Czech side's insistence that the schedule holds and local reporting that no replacement contractor exists, which makes managing owner confidence the central project risk before January's bidders' briefing.",
+   "related": [
+    "https://archiv.hn.cz/c1-67952270-korejci-se-nedohodli-s-dvema-klicovymi-dodavateli-novych-bloku-v-dukovanech-nemaji-za-ne-nahradu-zni-z-trhu",
+    "https://e15.cz/byznys/prumysl-a-energetika/korejci-se-rozhadali-o-dukovany-miliardovy-spor-ohrozuje-start-obri-jaderne-stavby-1436945",
+    "https://www.nucnet.org/news/south-korea-s-khnp-breaks-off-construction-contract-talks-on-dukovany-reactor-project-1"
+   ]
+  },
+  {
+   "id": "2026-10-31-11",
+   "region": "domestic",
+   "category": "smr",
+   "importance": 3,
+   "title": "Doosan to manufacture upper reactor vessel for NuScale SMR",
+   "title_ko": "두산에너빌리티, 뉴스케일 SMR 상부 원자로압력용기(URPV) 본제작 계약 — 창원 원자로 생산시설서 제작, 소재 공급에서 주기기 제작으로 확대",
+   "title_en": "Doosan to manufacture upper reactor vessel for NuScale SMR",
+   "language": "en",
+   "source": "World Nuclear News",
+   "published": "2026-10-30",
+   "url": "https://www.world-nuclear-news.org/articles/doosan-to-manufacture-upper-reactor-vessel-for-nuscale-smr",
+   "countries": [
+    "KR",
+    "US",
+    "RO"
+   ],
+   "summary_ko": "두산에너빌리티가 미국 뉴스케일파워의 원자로모듈(NPM) 상부 원자로냉각재계통 — 원자로압력용기 상부(URPV) — 제작 계약을 맺었다. 서명식은 창원 본사에서 열렸고 칼 피셔 뉴스케일 최고운영책임자와 김종두 두산에너빌리티 원자력사업부문 사장이 참석했으며, 제작은 창원 원자로 생산시설에서 한다. 두 회사 협력은 2019년 시작돼 2023년 소재 제작 계약, 2023년 3월 카본프리파워프로젝트(CFPP)용 첫 URPV 장납기 발주로 이어졌고 이번에 본제작으로 넓어졌다. NPM은 모듈당 77MWe로 12모듈 VOYGR-12가 924MWe, CFPP는 6모듈 462MWe였으나 CFPP는 2023년 11월 유타지자체전력시스템(UAMPS)과 종료 합의됐고 뉴스케일은 해당 발주 모듈을 다음 고객에게 넘길 계획이다. 뉴스케일의 최초호기 사업은 루마니아 도이체슈티 폐석탄발전 부지로 정해져 있다. 김종두 사장은 이번 계약이 SMR이 기술검증에서 실제 제작 단계로 넘어가는 계기라고 밝혔고, 두산은 원자로모듈 제작능력이 크게 필요해질 것으로 보고 후속 수주에 대비해 공급망과 제작 준비태세를 강화하겠다고 했다. 계약금액과 납기는 공개되지 않았다.",
+   "summary_en": "Doosan Enerbility has signed a contract to manufacture the upper reactor coolant system - the upper section of the reactor pressure vessel - for NuScale Power's reactor module. The signing was held at Doosan's headquarters in Changwon with NuScale chief operating officer Carl Fisher and Jongdoo Kim, chief executive of Doosan Enerbility's Nuclear Business Group, and the work will be done at Doosan's reactor production facility in Changwon. The partnership began in 2019, led to a materials manufacturing contract in 2023 and NuScale's first long-lead upper reactor pressure vessel order in March 2023 for the Carbon Free Power Project, and now extends to full manufacture. Each NuScale Power Module is 77 MWe, giving 924 MWe for a 12-module VOYGR-12 and 462 MWe for the six-module CFPP, which NuScale and Utah Associated Municipal Power Systems agreed to terminate in November 2023; NuScale intends to transfer those modules to its next customer. NuScale's first-of-a-kind project is now set for a former coal plant site at Doicesti, Romania. Kim said the contract marks the point at which SMR technology moves from technical validation into manufacturing, and Doosan said significant module manufacturing capacity will be needed and that it will strengthen its supply chain and manufacturing readiness for follow-on orders. Contract value and delivery dates were not disclosed.",
+   "sales_note": "국내 주기기 업체가 미국 SMR 사업에서 소재 공급을 넘어 원자로 본체 제작을 맡은 사례로, 'SMR 파운드리' 레퍼런스가 설계 검증이 아니라 실물 제작 실적으로 쌓이기 시작했다. 뉴스케일 최초호기가 루마니아 도이체슈티라는 점에서 이 실적은 유럽 발주처 제안서에서도 바로 쓸 수 있고, 두산이 공급망·제작 준비태세 강화를 공언한 만큼 국내 2·3차 협력업체의 유럽·미국 SMR 기자재 진입 창구가 함께 열릴 여지가 있다.",
+   "sales_note_en": "A Korean heavy-component maker has moved past materials supply to building the reactor vessel itself on a US SMR project, so the \"SMR foundry\" reference now rests on delivered manufacturing rather than design validation. Because NuScale's first unit is at Doicesti in Romania, that record is immediately usable in proposals to European owners, and Doosan's stated push on supply chain and manufacturing readiness may open a channel for Korean tier-two and tier-three suppliers into European and US SMR equipment.",
+   "related": [
+    "https://www.todayenergy.kr/news/articleView.html?idxno=304841",
+    "https://www.energydaily.co.kr/news/articleView.html?idxno=204539",
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=229366"
+   ]
+  },
+  {
+   "id": "2026-10-31-12",
+   "region": "domestic",
+   "category": "policy",
+   "importance": 2,
+   "title": "이런 곳들엔 원전 폐기물 안돼요…12개 배제 기준 확정",
+   "title_ko": "고준위방폐물관리위원회, 제9차 회의서 관리시설 부적합지역 12개 배제기준 의결 — 연말까지 배제작업, 내년 1분기 기본조사 대상부지 공모",
+   "title_en": "High-level waste committee adopts 12 criteria excluding unsuitable areas, with a site call-for-applications in the first quarter of next year",
+   "language": "ko",
+   "source": "한국경제",
+   "published": "2026-10-30",
+   "url": "https://www.hankyung.com/article/202610306581i",
+   "countries": [
+    "KR"
+   ],
+   "summary_ko": "고준위방사성폐기물관리위원회가 10월 30일 제9차 회의에서 '고준위 방사성폐기물 관리시설 부적합지역 배제기준'을 의결했다. 기준은 12개로, 절대적 배제기준은 활동성 단층, 지진·화산 위험 지역, 석회암 분포 지역 등 원안위 기술기준·법령상 장기 안전성 확보가 어려운 지역이고, 조건부 배제기준은 해안선과 닿지 않은 내륙지역, 항공기·군사활동 영향지역, 개발행위허가 제한지역으로 관련 법령·규제가 개선되거나 지자체·관계부처 행정조치로 문제가 해소되면 공모에 신청할 수 있다. 올해 말까지 한국원자력환경공단이 문헌조사와 현장 확인으로 배제작업을 마치고 기본조사 후보부지 지도 데이터를 공개한 뒤, 내년 1분기에 후보부지 관할 시·군·구를 대상으로 공모를 시작한다. 이후 지표·심부 지질조사, 심층조사 대상부지 선정, 심층조사와 주민투표를 거쳐 최종 부지를 확정한다. 기본·심층조사 대상 지역에는 관계부처 협의를 거쳐 지원금을 지급하며, 내년 공모 때 유치지역·주변지역 특별지원금 등 잠정 규모를 제시하고 최종 지원방안은 심층조사 대상부지 선정 이후 국무총리 주재 유치지역지원위원회에서 확정한다.",
+   "summary_en": "On 30 October the High-Level Radioactive Waste Management Committee adopted the criteria for excluding areas unsuitable for a high-level waste management facility - 12 in all. The absolute exclusions cover ground where long-term safety cannot be assured under Nuclear Safety and Security Commission technical standards and the law, such as active faults, earthquake and volcanic risk zones and limestone formations. The conditional exclusions - inland areas with no coastline, areas affected by aviation or military activity, and areas where development permits are restricted - can still apply in the call if the relevant law or regulation is improved or the obstacle is cleared by administrative action from a local authority or ministry. The Korea Radioactive Waste Agency will finish the exclusion work through desk study and site verification by the end of this year and publish map data for candidate basic-survey sites, after which a call for applications opens to the cities, counties and districts holding those sites in the first quarter of next year. Surface and deep geological surveys, selection of sites for in-depth investigation, the investigation itself and a local referendum follow before a final site is fixed. Areas taking part in the basic and in-depth surveys will receive support payments agreed between ministries; provisional amounts, including special payments for the host and neighbouring areas, will be presented with next year's call, and the final support package will be settled by the prime-ministerial Host Area Support Committee after the in-depth survey sites are chosen.",
+   "sales_note": "사용후핵연료 관리 경로가 기준 의결 → 연말 배제작업 → 내년 1분기 공모라는 확정 일정으로 넘어갔다. 해외 입찰에서 반복적으로 요구되는 '자국 백엔드 해법 보유' 항목에 쓸 근거가 구체화됐으므로, 유럽·중동 제안서의 폐기물 관리 서술을 이 일정으로 갱신하는 것이 좋다.",
+   "sales_note_en": "Korea's used-fuel pathway now has a dated sequence: criteria adopted, exclusion work by year-end, call for applications in the first quarter. That firms up the evidence for the \"domestic back-end solution\" item that overseas tenders repeatedly ask about, so the waste-management sections of our European and Middle East proposals should be updated to this schedule.",
+   "related": [
+    "https://www.korea.kr/briefing/pressReleaseList.do?pageIndex=1&srchWord=%EC%9B%90%EC%9E%90%EB%A0%A5"
+   ]
+  },
+  {
+   "id": "2026-10-31-13",
+   "region": "domestic",
+   "category": "policy",
+   "importance": 2,
+   "title": "원전 공론화위원회, 공론화평가단 운영한다",
+   "title_ko": "[후속] 전력수급기본계획 원전 공론화위원회, 제4차 회의서 외부전문가 '공론화평가단' 구성·전문위원회 운영세칙 의결",
+   "title_en": "[follow-up] Korea's nuclear public-deliberation committee sets up an outside expert evaluation panel",
+   "language": "ko",
+   "source": "투데이에너지",
+   "published": "2026-10-29",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304843",
+   "countries": [
+    "KR"
+   ],
+   "summary_ko": "전력수급기본계획을 위한 원전 공론화위원회가 제4차 회의에서 외부 전문가로 구성되는 '공론화평가단'을 꾸리기로 의결했다. 공론화 과정의 공정성·중립성을 확보하고 절차 개선방안을 도출하는 것이 목적으로, 평가단은 시민참여단 선정과 숙의토론회 운영 등을 관찰·점검한 뒤 보고서를 낸다. 같은 회의에서 전문위원회 운영세칙(안)도 의결됐다. 앞서 의결된 전문위원회는 환경 3명·원자력 3명·중립 3명 등 9명이고, 환경단체가 전문가 추천에 응하지 않아 위원회가 직권으로 환경 분야 전문가를 정했다. 시민참여단 숙의토론은 12월 11~13일 2박 3일로 예정돼 있다. 위원회는 10월 2일 출범했고 은재호 한국외대 겸임교수가 위원장이며, 정책을 최종 결정하는 기구가 아니라 기후에너지환경부에 권고하는 자문기구다. 평가단의 구체적 인원·명단은 공개되지 않았다.",
+   "summary_en": "At its fourth meeting the committee running public deliberation on the role of nuclear power in Korea's basic electricity supply plan agreed to form an evaluation panel of outside experts. The panel is meant to secure the fairness and neutrality of the process and to draw out procedural improvements; it will observe and check the selection of the citizens' panel and the running of the deliberative sessions, then issue a report. The same meeting adopted operating rules for the expert subcommittee, which was earlier set at nine members - three from the environmental field, three from nuclear and three neutral - with the committee naming the environmental experts itself after environmental groups declined to nominate any. The citizens' panel deliberation is scheduled for 11-13 December. The committee was launched on 2 October under chair Eun Jae-ho, an adjunct professor at Hankuk University of Foreign Studies, and is advisory, recommending to the Ministry of Climate, Energy and Environment rather than deciding policy. The panel's size and membership were not disclosed.",
+   "sales_note": "12월 숙의토론 결과가 차기 전력수급기본계획의 신규 원전 규모 전제가 되므로, 국내 신규 건설 물량과 그에 연동된 공급망 가동률이 연말에 윤곽을 잡는다. 해외 제안서에서 '지속적 내수 건설 물량에 기반한 공급망 안정성'을 근거로 쓰는 만큼 결과를 추적할 필요가 있다.",
+   "sales_note_en": "December's deliberation feeds the assumption on new-build volume in the next basic electricity supply plan, so the domestic construction pipeline - and the supply-chain utilisation tied to it - takes shape at year-end. Since we cite supply-chain stability built on a continuous domestic pipeline in overseas proposals, the outcome is worth tracking.",
+   "related": [
+    "https://www.korea.kr/briefing/pressReleaseList.do?pageIndex=1&srchWord=%EC%9B%90%EC%A0%84"
+   ]
+  }
+ ]
+}

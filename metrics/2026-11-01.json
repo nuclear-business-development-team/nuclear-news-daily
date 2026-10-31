@@ -1,0 +1,68 @@
+{
+ "date": "2026-11-01",
+ "run_started": "2026-11-01T08:04:14+09:00",
+ "run_finished": "2026-11-01T08:25:00+09:00",
+ "run_minutes": 20.8,
+ "articles": 5,
+ "by_region": {
+  "overseas": 1,
+  "domestic": 4
+ },
+ "by_importance": {
+  "3": 2,
+  "2": 3,
+  "1": 0
+ },
+ "detection_lag_hours": {
+  "median": 25.1,
+  "max": 129.7,
+  "n": 5
+ },
+ "sources_ok": [
+  "World Nuclear News",
+  "NucNet",
+  "IAEA Top News",
+  "POWER Magazine",
+  "UK DESNZ (gov.uk)",
+  "Nuclear Engineering International",
+  "ANS Nuclear Newswire",
+  "더구루",
+  "더트래커",
+  "정책브리핑(korea.kr)",
+  "한국수력원자력 보도자료",
+  "한국전력 보도·설명자료",
+  "외교부(정책브리핑 첨부 PDF)",
+  "oEnergetice.cz",
+  "kurzy.cz",
+  "글로벌이코노믹",
+  "이투데이",
+  "startitup.sk",
+  "TED (ted.europa.eu)",
+  "UK Find a Tender"
+ ],
+ "sources_failed": [
+  {
+   "name": "Nuclear Engineering International RSS (www.neimagazine.com/feed)",
+   "reason": "301 redirect — /feed/ (끝 슬래시)로 정정 후 정상. sources.yaml 주소 수정 필요"
+  },
+  {
+   "name": "더트래커 RSS (www.thetracker.co.kr/RSS/RSS.aspx)",
+   "reason": "301 redirect — 리다이렉트 추적(-L)으로 복구"
+  },
+  {
+   "name": "ekonomim.com",
+   "reason": "403 — 크롤러 차단, 튀르키예 시놉 기사 본문 확인 불가(dunya.com·t24.com.tr로 교차 확인)"
+  },
+  {
+   "name": "iaea.org",
+   "reason": "sources.yaml unreachable 지정 — 본문 열지 않고 RSS 제목·링크 + 제3 출처(hromadske.ua)로 확인"
+  }
+ ],
+ "languages": {
+  "en": 1,
+  "ko": 3,
+  "cs": 1
+ },
+ "notes": "주말(토·일) 회차로 해외 전문지·규제기관·조달 포털 신규 게시 거의 없음. 기간 내 신규 해외 1건. 직전 회차 누락분 2건(IAEA 10/30, 두코바니 냉각탑 공고 10/26)을 게재일 명시하여 보완 수집했고, 이 2건 때문에 detection_lag 최댓값이 커졌다. 공고 포털 신규 0건.",
+ "detection_lag_note": "게재 시각이 확인된 4건은 실제 시각(KST 환산), 미표기 1건(외교부 배포)은 SKILL §9에 따라 09:00 가정. 최댓값 129.7h는 보완 수집한 10/26 두코바니 냉각탑 공고 건. 기간 내 신규 3건만의 중간값은 23.1h."
+}

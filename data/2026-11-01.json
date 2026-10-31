@@ -1,0 +1,205 @@
+{
+ "date": "2026-11-01",
+ "generated_at": "2026-11-01T09:05:00+09:00",
+ "period": {
+  "from": "2026-10-31",
+  "to": "2026-11-01"
+ },
+ "overview_ko": "주말(토·일)이라 해외 원자력 전문지·규제기관 발표가 사실상 멈춰, 수집 기간(10/31~11/1) 내 해외 신규 기사는 1건뿐이다. 대신 직전 회차에서 빠졌던 건 2건을 날짜를 밝혀 보완했다(IAEA 10/30, 두코바니 냉각탑 공고 10/26). 유일한 해외 신규 사안은 IAEA가 자포리자 원전 직원 1명(중앙정비공작소 용접공)이 10월 29일 드론 공격으로 사망했다고 확인한 것으로, 그로시 사무총장은 '원자력 안전·보안 7대 필수원칙' 위반이라며 군사적 자제를 재촉구했고 공격 주체는 특정하지 않았다. 같은 회차에서 IAEA는 우크라이나 원전에 연결된 변전소 19곳 점검을 마쳤고, 손상된 750kV 드니프로우스카 선로 복구를 위한 9차 국지 휴전을 러시아·우크라이나 양측과 계속 협의 중이라고 밝혔다. 영업 관점: 이번 주말은 신규 발주·벤더 선정 신호가 없는 공백 구간이므로, 월요일 재개되는 TED·UK FTS 공고와 11월 중 예정된 두코바니 냉각탑 입찰설명회가 다음 확인 지점이다.",
+ "overview_en": "With the weekend shutting down the trade press and regulators, only one new overseas item falls inside the 31 October - 1 November window; two items missed in the previous run are added here with their actual dates (IAEA 30 Oct, the Dukovany cooling-tower tender 26 Oct). The one new overseas development is the IAEA's confirmation that a Zaporizhzhia plant employee - a welder from the central repair workshop - was killed in a drone attack on 29 October. Director General Grossi called it a breach of the Seven Indispensable Pillars for nuclear safety and security and renewed his call for military restraint, without attributing the strike. In the same update the agency reported completing a mission to 19 substations serving Ukraine's nuclear plants and said talks continue with both Russia and Ukraine on a ninth localised ceasefire to repair the damaged 750 kV Dniprovska line. Sales angle: the weekend produced no procurement or vendor-selection signal at all, so the next checkpoints are the TED and UK FTS notices resuming on Monday and the Dukovany cooling-tower bidder briefing set for November.",
+ "domestic_overview_ko": "체코 두코바니 시공계약 결렬의 후속 수치가 11월 1일 보도로 구체화됐다. 하블리첵 체코 부총리는 공사비가 3,000억 코루나(약 18조 3,600억 원) 더 들 수 있고 금융비용을 더하면 2기 총액이 6,000~7,000억 코루나(약 36조 7,200억~42조 8,400억 원)에 이를 수 있다고 밝혔는데, 이는 계약금액 4,070억 코루나(약 24조 8,955억 원)와 직전 내각 추정 4,000억 코루나를 크게 웃도는 수준이다. 대우건설은 협상 시한을 12월 31일까지 연장해 달라고 요청했으나 받아들여지지 않았고, 두산에너빌리티는 재입찰 참여 의사를 밝혔으며 기존 컨소시엄 구성사도 재입찰이 허용된다. 한수원은 2027년 7월 새 시공사 선정을 목표로 하고, 핵연료(한전원자력연료)·시운전정비(한전KPS) 계약은 2027년 체결 예정이며 준공 목표는 5호기 2036년·6호기 2037년이다. 한편 보완 수집으로 확인된 건으로, 한수원은 10월 26일 두코바니 신규 2기의 하이브리드 냉각탑 설계·기자재공급·시공 일괄 발주를 제한경쟁으로 띄웠고 MVM EGI–메트로스타브, JC 아몽–호흐티프 두 컨소시엄이 참여해 11월 입찰설명회, 2027년 상반기 계약을 목표로 한다. 이 밖에 10월 30일 한미일 외교장관회의에서 SMR이 핵심광물 공급망 다변화·AI와 함께 3국 실질협력 분야로 재확인됐고(외교부 10월 31일 배포), 센트러스의 피케턴 농축 증설 첫 신형 원심분리기 출하와 관련해 포스코인터내셔널·한수원이 2025년 8월 센트러스와 맺은 공동투자 검토 MOU가 다시 조명됐다. 영업 관점: 두코바니는 시공 본계약이 열린 데 이어 냉각탑이라는 BOP 패키지까지 별도 발주로 진행되고 있어, 우리 범위와 겹치는 패키지가 어떤 단위로 쪼개져 나오는지를 11월 입찰설명회 전에 확인해 둘 필요가 있다.",
+ "domestic_overview_en": "The numbers behind the collapsed Dukovany construction contract firmed up in 1 November reporting. Czech Deputy Prime Minister Karel Havlicek said costs could rise by a further CZK300 billion (about KRW18.36 trillion) and that, with financing, the two units could reach CZK600-700 billion (about KRW36.72-42.84 trillion) - well above the CZK407 billion contract value (about KRW24.90 trillion) and the previous cabinet's CZK400 billion estimate. Daewoo E&C asked for the negotiating deadline to be extended to 31 December and was refused; Doosan Enerbility says it will bid again, and members of the former consortium will be allowed to re-bid. KHNP is aiming to select a new contractor by July 2027, with the fuel contract (KHNP Nuclear Fuel) and the testing and maintenance contract (KEPCO KPS) due to be signed in 2027 and completion targeted for 2036 at Unit 5 and 2037 at Unit 6. Separately, picked up in this run's catch-up sweep: on 26 October KHNP opened a restricted tender covering design, technology supply and construction of hybrid cooling towers for the two new Dukovany units, with two consortia - MVM EGI-Metrostav and JC Hamon-Hochtief - eligible, a bidder briefing in November and contract signature intended in the first half of 2027. Elsewhere, the Korea-US-Japan foreign ministers' meeting on 30 October reaffirmed SMRs, alongside critical-mineral supply chain diversification and AI, as an area of practical trilateral cooperation (released by the Ministry of Foreign Affairs on 31 October), and Centrus's shipment of the first new centrifuge for its Piketon expansion drew fresh attention to the August 2025 MOU under which POSCO International and KHNP agreed to study co-investing in that capacity. Sales angle: at Dukovany the main construction contract has reopened and a balance-of-plant package - the cooling towers - is now moving as a separate award, so it is worth establishing before the November briefing how the packages that overlap our scope are being sliced.",
+ "countries_pulse": [
+  {
+   "country": "CZ",
+   "name_ko": "체코",
+   "name_en": "Czechia",
+   "stance": "expanding",
+   "signal": "주계약·주기기 계약은 유지된 채 시공 본계약이 재입찰로 열리고 BOP(하이브리드 냉각탑) 패키지는 두 컨소시엄 제한경쟁으로 별도 진행 — 부총리가 총사업비 상승 가능성을 공개 언급.",
+   "signal_en": "The main contract and main-equipment contracts hold while the construction package goes back out to tender and a balance-of-plant package - hybrid cooling towers - proceeds separately as a restricted competition between two consortia, with the deputy prime minister publicly flagging cost escalation.",
+   "article_ids": [
+    "2026-11-01-02",
+    "2026-11-01-03"
+   ]
+  },
+  {
+   "country": "UA",
+   "name_ko": "우크라이나",
+   "name_en": "Ukraine",
+   "stance": "steady",
+   "signal": "자포리자 원전 직원이 드론 공격으로 사망하고 750kV 드니프로우스카 선로 복구용 9차 국지 휴전 협의가 계속되는 중 — 운영 기조는 유지되나 안전 여건은 악화.",
+   "signal_en": "A Zaporizhzhia plant employee was killed in a drone attack and talks continue on a ninth localised ceasefire to repair the 750 kV Dniprovska line - the operating posture holds, but safety conditions are deteriorating.",
+   "article_ids": [
+    "2026-11-01-01"
+   ]
+  },
+  {
+   "country": "RU",
+   "name_ko": "러시아",
+   "name_en": "Russia",
+   "stance": "steady",
+   "signal": "기조 유지 — 자포리자 원전 점령·운영 체제가 그대로이고, IAEA는 이번 공격의 주체를 특정하지 않았다.",
+   "signal_en": "Unchanged - the occupation and operating arrangement at Zaporizhzhia stands, and the IAEA did not attribute the attack.",
+   "article_ids": [
+    "2026-11-01-01"
+   ]
+  },
+  {
+   "country": "INT",
+   "name_ko": "국제기구",
+   "name_en": "International",
+   "stance": "steady",
+   "signal": "IAEA가 직원 사망을 '안전·보안 7대 필수원칙' 위반으로 규정하고, 우크라이나 원전 연계 변전소 19곳 점검을 완료했다.",
+   "signal_en": "The IAEA framed the death as a breach of the Seven Indispensable Pillars for nuclear safety and security and completed a mission to 19 substations serving Ukraine's nuclear plants.",
+   "article_ids": [
+    "2026-11-01-01"
+   ]
+  },
+  {
+   "country": "US",
+   "name_ko": "미국",
+   "name_en": "United States",
+   "stance": "expanding",
+   "signal": "센트러스가 피케턴 농축 증설용 첫 신형 원심분리기를 출하해 연말 목표를 조기 달성했고, 한국 기업이 투자 검토 MOU로 이 증설에 연결돼 있다.",
+   "signal_en": "Centrus shipped the first new centrifuge for its Piketon enrichment expansion, hitting its year-end targets early, with Korean companies tied to that expansion through an investment-study MOU.",
+   "article_ids": [
+    "2026-11-01-05"
+   ]
+  },
+  {
+   "country": "JP",
+   "name_ko": "일본",
+   "name_en": "Japan",
+   "stance": "steady",
+   "signal": "기조 유지 — 한미일 외교장관회의에서 SMR을 핵심광물·AI와 함께 3국 실질협력 분야로 재확인했다.",
+   "signal_en": "Unchanged - the trilateral foreign ministers' meeting reaffirmed SMRs, with critical minerals and AI, as an area of practical cooperation among the three countries.",
+   "article_ids": [
+    "2026-11-01-04"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-01-01",
+   "region": "overseas",
+   "category": "policy",
+   "importance": 2,
+   "title": "Update 373 - IAEA Director General Statement on Situation in Ukraine",
+   "title_ko": "[보완] IAEA, 자포리자 원전 직원 드론 공격 사망 확인 — 그로시 \"안전·보안 7대 필수원칙 위반\", 공격 주체는 특정 안 함",
+   "title_en": "Update 373 - IAEA Director General Statement on Situation in Ukraine",
+   "language": "en",
+   "source": "IAEA",
+   "published": "2026-10-30",
+   "url": "https://www.iaea.org/newscenter/pressreleases/update-373-iaea-director-general-statement-on-situation-in-ukraine",
+   "countries": [
+    "UA",
+    "RU",
+    "INT"
+   ],
+   "summary_ko": "IAEA는 자포리자 원전 직원 1명이 10월 29일 드론 공격으로 사망했다고 통보받았다고 밝혔다. 피해자는 중앙정비공작소 용접공으로 전해졌고, 그로시 사무총장은 원전 인력에 대한 어떠한 공격도 용납할 수 없으며 이는 '원자력 안전·보안 7대 필수원칙' 위반이라고 밝히면서 핵사고를 막기 위한 최대한의 군사적 자제를 재촉구했다. IAEA는 공격 주체를 특정하지 않았다(러시아 측 발전소 경영진은 우크라이나 드론 공격이라고 주장). 같은 회차에서 IAEA는 우크라이나 원전에 전력을 연결하는 변전소 19곳 점검을 마쳤고, 손상된 750kV 드니프로우스카 선로 복구를 위한 9차 국지 휴전을 러시아·우크라이나 양측과 계속 협의 중이라고 밝혔다.",
+   "summary_en": "The IAEA said it had been informed that a Zaporizhzhia plant employee was killed in a drone attack on 29 October. The victim was reported to be a welder from the plant's centralised repair workshop. Director General Grossi said any attack on nuclear personnel is unacceptable and amounts to a breach of the Seven Indispensable Pillars for nuclear safety and security, renewing his call for maximum military restraint to avert an accident. The agency did not attribute the strike; Russian plant management described it as a Ukrainian drone attack. In the same update the IAEA reported completing a mission to 19 substations that connect power to Ukraine's nuclear plants and said it continues to discuss a ninth localised ceasefire with both Russia and Ukraine to allow repairs to the damaged 750 kV Dniprovska line.",
+   "sales_note": "직접적인 발주 영향은 없으나, 송전선 복구를 위한 국지 휴전 협의가 9차까지 이어진다는 점은 전후 우크라이나 원전 복구·계통 보강 발주가 여전히 '협의 단계'에 머물러 있다는 신호다. 변전소 19곳 점검 완료는 향후 계통 측 복구 범위를 가늠할 자료가 축적되고 있다는 뜻이므로 중장기 관찰 대상으로 둘 만하다.",
+   "sales_note_en": "No direct procurement consequence, but a ninth localised ceasefire still being negotiated just to repair a transmission line signals that post-war Ukrainian restoration and grid-reinforcement work remains at the discussion stage. The completed mission to 19 substations means the evidence base for defining eventual grid-side restoration scope is being built, which makes this worth keeping under medium-term observation.",
+   "related": [
+    "https://hromadske.ua/en/war/273473-zaporizhzhia-nuclear-plant-worker-killed-in-drone-attack-iaea-says"
+   ]
+  },
+  {
+   "id": "2026-11-01-02",
+   "region": "domestic",
+   "category": "large",
+   "importance": 3,
+   "title": "공사비 위험 못 좁힌 한수원, 두코바니 시공사 다시 찾는다",
+   "title_ko": "[후속] 두코바니 시공 재입찰 — 체코 부총리 \"공사비 3,000억 코루나 더, 금융 포함 2기 6,000~7,000억 코루나\" / 대우건설 시한 연장 요청 불수용, 두산은 재입찰 참여",
+   "title_en": "KHNP to re-tender Dukovany construction after cost-risk talks fail; Czech deputy PM flags CZK300bn escalation",
+   "language": "ko",
+   "source": "글로벌이코노믹",
+   "published": "2026-11-01",
+   "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611010647267984fbbec65dfb_1",
+   "countries": [
+    "KR",
+    "CZ"
+   ],
+   "summary_ko": "한수원이 10월 29일 대우건설·두산에너빌리티 컨소시엄과의 두코바니 5·6호기 시공계약 협상을 종료하고 공동협력협약 해지 절차에 들어간 데 이어, 체코 측에서 사업비 수치가 공개됐다. 카렐 하블리첵 부총리는 공사비가 3,000억 코루나(약 18조 3,600억 원) 더 들 수 있고 금융비용을 포함하면 2기 총액이 6,000~7,000억 코루나(약 36조 7,200억~42조 8,400억 원)에 이를 수 있다고 밝혔다(NewsBase 인용). 2기 계약금액은 4,070억 코루나(약 24조 8,955억 원)이고 직전 내각 추정치는 4,000억 코루나였다. 쟁점은 공사비 산정 기준과 설계변경에 따른 추가 원가 부담 주체이며, 대우건설은 10월 7일 변경된 조건이 설계에 참여하지 않은 시공사에 그 위험을 지우는 것이어서 국제 기준에 맞지 않는다고 주장하고 3주의 검토 기간을 받았다고 밝혔다. 대우건설은 협상 시한을 12월 31일까지 연장해 달라고 요청했으나 받아들여지지 않았다. 한수원은 2027년 7월 새 시공사 선정을 목표로 하며, 기존 컨소시엄 구성사의 재입찰도 허용된다. 두산에너빌리티는 재입찰 참여 의사를 밝혔고 2025년 12월 체결한 원자로 주기기 계약과 증기터빈 계약은 변동이 없다. 핵연료(한전원자력연료)·시운전정비(한전KPS) 계약은 2027년 체결 예정이고 준공 목표는 5호기 2036년·6호기 2037년이다.",
+   "summary_en": "After KHNP ended construction contract talks with the Daewoo E&C-Doosan Enerbility consortium for Dukovany 5 and 6 on 29 October and began terminating the joint cooperation agreement, cost figures surfaced on the Czech side. Deputy Prime Minister Karel Havlicek said costs could rise by a further CZK300 billion (about KRW18.36 trillion) and that with financing the two units could reach CZK600-700 billion (about KRW36.72-42.84 trillion), as reported by NewsBase. The two-unit contract value is CZK407 billion (about KRW24.90 trillion), against the previous cabinet's CZK400 billion estimate. The dispute turns on how construction costs are calculated and who carries extra costs arising from design changes; Daewoo E&C argues the terms revised on 7 October placed that risk on a contractor that did not do the design, contrary to international practice, and says it was given three weeks to decide. Its request to extend the deadline to 31 December was refused. KHNP aims to select a new contractor by July 2027 and will allow former consortium members to bid again. Doosan Enerbility says it will take part; its December 2025 reactor main-equipment contract and the steam turbine contract are unchanged. The fuel contract (KHNP Nuclear Fuel) and testing and maintenance contract (KEPCO KPS) are due in 2027, with completion targeted for 2036 at Unit 5 and 2037 at Unit 6.",
+   "sales_note": "발주처 측 부총리가 공사비 상승 폭을 공개 수치로 말한 것은 재입찰의 가격 눈높이가 이미 올라가 있다는 뜻이다. 설계변경 추가원가를 누가 지는지가 결렬 사유로 공개 확인된 만큼, 앞으로 해외 입찰에서 우리 제안의 물량정산 조건·설계변경 클레임 조항을 먼저 정리해 두는 쪽이 유리하다. 2027년 7월까지 시공 패키지가 열려 있고 기존 구성사도 재입찰이 가능하다는 점은 공기·레퍼런스를 갖춘 국내 시공사에 다시 들어갈 창이 남아 있다는 의미다.",
+   "sales_note_en": "A client-side deputy prime minister putting numbers on the escalation means the price expectation going into the re-tender has already moved. With responsibility for design-change costs now publicly confirmed as the reason talks collapsed, it pays to settle our own quantity-settlement terms and design-change claim provisions up front in future overseas bids. That the construction package stays open until July 2027 and former consortium members may re-bid means the window is still there for Korean contractors with the schedule record and references to re-enter.",
+   "related": [
+    "https://www.newspim.com/news/view/20261030001129",
+    "https://www.world-nuclear-news.org/articles/khnp-ends-negotiations-with-construction-consortium-for-dukovany"
+   ]
+  },
+  {
+   "id": "2026-11-01-03",
+   "region": "domestic",
+   "category": "large",
+   "importance": 3,
+   "title": "KHNP vyhlásila tendr na hybridní chladicí věže pro nové bloky v Dukovanech",
+   "title_ko": "[보완] 한수원, 두코바니 신규 2기 하이브리드 냉각탑 설계·공급·시공 일괄 제한경쟁 발주 — MVM EGI–메트로스타브 / JC 아몽–호흐티프 2개 컨소시엄, 11월 입찰설명회·2027년 상반기 계약 목표",
+   "title_en": "KHNP launches restricted tender for hybrid cooling towers at new Dukovany units",
+   "language": "cs",
+   "source": "oEnergetice.cz (ČTK)",
+   "published": "2026-10-26",
+   "url": "https://oenergetice.cz/en/nuclear-power/khnp-launches-tender-for-hybrid-cooling-towers-for-new-units-at-dukovany-in-czechia",
+   "countries": [
+    "KR",
+    "CZ"
+   ],
+   "summary_ko": "한수원이 두코바니 신규 2기용 하이브리드 냉각탑의 설계·기자재공급·시공을 일괄로 묶어 제한경쟁 방식으로 발주했다. 참여 자격이 주어진 곳은 MVM EGI–메트로스타브 컨소시엄과 JC 아몽(Hamon)–호흐티프 컨소시엄 두 곳이며 양쪽 모두 체코 기업을 포함한다. 한수원은 앞서 체코 기업이 사업의 약 60%에 참여하게 하겠다고 밝힌 바 있다. 한수원은 11월에 참여 후보사를 대상으로 설명회를 열어 기술설계안·계약범위·입찰요건을 제시하고, 기술·가격 평가를 거쳐 2027년 상반기에 낙찰사와 계약을 체결할 계획이다. 건식·습식 냉각을 조합한 방식으로 EDU II의 페트르 자보드스키 사장은 통상적인 냉각탑 대비 취수량이 약 절반으로 줄어든다고 설명했다. 냉각탑 패키지의 금액은 공개되지 않았고, 2기 건설비는 지난해 가격 기준 4,070억 코루나로 제시됐다.",
+   "summary_en": "KHNP has opened a restricted tender bundling design, technology supply and construction of the hybrid cooling towers for the two new Dukovany units. Two consortia are eligible: MVM EGI-Metrostav and JC Hamon-Hochtief, both of which include Czech companies. KHNP has previously pledged that Czech firms would take part in about 60 percent of the project. An information meeting for the candidates is planned for November, presenting the technical design, contract scope and tender requirements, with a contract to be signed with the winner in the first half of 2027 after technical and price evaluation. The towers combine dry and wet cooling; EDU II chief executive Petr Zavodsky said the arrangement cuts cooling water withdrawals to roughly half those of conventional towers. No value is given for the package; construction of the two units is quoted at CZK407 billion at last year's prices.",
+   "sales_note": "시공 본계약과 별개로 BOP 성격의 냉각탑이 설계·공급·시공 일괄 패키지로 따로 떨어져 나왔다는 점이 중요하다. 우리 주력 범위와 겹치는 패키지가 어떤 단위로 분할되는지 보여주는 사례이고, 참여 자격이 이미 2개 컨소시엄으로 닫혀 있어 '공고가 나온 뒤에는 늦다'는 점도 함께 확인된다. 11월 설명회에서 제시될 계약범위·입찰요건은 같은 발주처의 후속 BOP 패키지 조건을 예측하는 근거가 된다.",
+   "sales_note_en": "What matters is that a balance-of-plant item - the cooling towers - has been carved out from the main construction contract as its own design-supply-build package. It shows how packages overlapping our core scope are being divided, and because eligibility is already closed to two consortia it also confirms that by the time a notice appears it is too late. The contract scope and tender requirements presented at the November briefing give a basis for anticipating the terms of this client's later balance-of-plant packages.",
+   "related": [
+    "https://zpravy.kurzy.cz/879461-khnp-vyhlasila-tendr-na-chladici-veze-vystavba-novych-bloku-v-dukovanech-pokrocila/",
+    "https://zpravy.aktualne.cz/ekonomika/khnp-vyhlasila-tendr-na-hybridni-chladici-veze-pro-nove-bloky-v-dukovanech/r~aaa298bb5769c94753a58790e5e911b6/"
+   ]
+  },
+  {
+   "id": "2026-11-01-04",
+   "region": "domestic",
+   "category": "smr",
+   "importance": 2,
+   "title": "한미일 외교장관회의(10.30.) 결과",
+   "title_ko": "한미일 외교장관회의, SMR을 핵심광물·AI와 함께 3국 실질협력 분야로 재확인 — 북극 협력각서(MOC)도 서명",
+   "title_en": "Korea-US-Japan foreign ministers reaffirm SMRs as a pillar of trilateral economic-security cooperation",
+   "language": "ko",
+   "source": "외교부 (정책브리핑)",
+   "published": "2026-10-31",
+   "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787391",
+   "countries": [
+    "KR",
+    "US",
+    "JP"
+   ],
+   "summary_ko": "조현 외교부 장관은 미국 애틀랜타 2026 G20 외교장관회의 참석 계기로 10월 30일 마르코 루비오 미 국무장관, 모테기 도시미쓰 일본 외무대신과 한미일 외교장관회의를 열고 한반도 문제와 지역·글로벌 협력, 에너지 및 경제안보 협력을 논의했다. 세 장관은 글로벌 에너지 위기 등 공급망 전반의 취약성에 대한 문제의식을 공유하고 핵심광물 공급망 다변화, 소형모듈원자로(SMR), 인공지능(AI) 및 핵심신흥기술 분야의 실질 협력을 계속 강화해 나가기로 했다. 또한 이번 회의 계기로 한미일 북극 협력각서(MOC)에 서명해 북극·태평양 지역 해양 안전·비상대응 협력과 역내 3국 경제협력을 심화하고, 북극이사회와 신설 워킹그룹을 통해 구체화하기로 했다. 지난 4개월간 네 번째 한미일 외교장관회의(7.7·7.22·9.21 이후)다. 외교부는 10월 31일 보도자료로 배포했다.",
+   "summary_en": "On the margins of the 2026 G20 foreign ministers' meeting in Atlanta, Foreign Minister Cho Hyun met US Secretary of State Marco Rubio and Japanese Foreign Minister Motegi Toshimitsu on 30 October to discuss the Korean Peninsula, regional and global cooperation, and energy and economic security. The three ministers shared concerns about supply-chain vulnerability amid the global energy crisis and agreed to keep strengthening practical cooperation on diversifying critical-mineral supply chains, small modular reactors, artificial intelligence and critical emerging technologies. They also signed a trilateral Arctic memorandum of cooperation, to deepen maritime safety and emergency-response cooperation in the Arctic and Pacific along with regional economic cooperation, to be taken forward through the Arctic Council and a newly established working group. It was the fourth such trilateral meeting in four months, following 7 and 22 July and 21 September. The Ministry of Foreign Affairs released the statement on 31 October.",
+   "sales_note": "구속력 있는 약속은 아니지만, SMR이 외교장관급 공동 문언에서 핵심광물·AI와 같은 급의 경제안보 항목으로 네 번째 회의 연속 유지되고 있다는 점은 한·미·일 3국 틀의 SMR 사업에 정부 간 뒷받침을 요청할 근거가 된다. APEC·G20 정상회의를 앞둔 회의여서 연내 정상급 문서에 SMR 문언이 다시 담길 가능성을 염두에 둘 만하다.",
+   "sales_note_en": "Not a binding commitment, but SMRs holding their place in ministerial-level joint language as an economic-security item on a par with critical minerals and AI, across a fourth consecutive meeting, gives a basis for seeking intergovernmental backing for SMR business pursued in a Korea-US-Japan frame. As the meeting came ahead of the APEC and G20 summits, it is worth anticipating that SMR language reappears in a leader-level document before year-end.",
+   "related": []
+  },
+  {
+   "id": "2026-11-01-05",
+   "region": "domestic",
+   "category": "fuel",
+   "importance": 2,
+   "title": "'포스코인터 원전 동맹' 美 센트러스, 오하이오 첫 번째 신형 원심분리기 출하",
+   "title_ko": "[후속] 센트러스 피케턴 농축 증설 첫 신형 원심분리기 출하 — 포스코인터내셔널·한수원이 2025년 8월 공동투자 검토 MOU 체결한 사업",
+   "title_en": "Centrus ships first new centrifuge for Piketon expansion - the project POSCO International and KHNP signed an investment-study MOU on",
+   "language": "ko",
+   "source": "더구루",
+   "published": "2026-10-31",
+   "url": "https://www.theguru.co.kr/news/article.html?no=109070",
+   "countries": [
+    "KR",
+    "US"
+   ],
+   "summary_ko": "센트러스가 10월 29일 테네시 오크리지 제조공장에서 오하이오 피케턴 농축 증설용 첫 신형 원심분리기를 생산해 오하이오 최종 조립을 위해 출하했다. 센트러스는 미국 내 부품 공급망 구축과 첫 신형 원심분리기 생산이라는 연말 목표 두 가지를 조기 달성했다고 밝혔고, 오하이오에서 조립한 원심분리기를 캐스케이드로 연결해 2029년부터 신규 농축능력을 가동할 계획이다. 미국 제조사로부터 수만 개 부품을 발주했고 2026년 10월 초 원심분리기 케이싱 등 핵심 부품 공급사인 웨스터먼홀딩스를 인수했다. 한국 측 연결점은 2025년 8월 센트러스·포스코인터내셔널·한수원 3자가 피케턴 농축 증설 공동투자 검토를 위해 체결한 MOU로, 신규 농축능력 투자와 LEU·HALEU 추가 공급계약을 함께 논의하기로 한 것이다. 투자금액·지분·구속력 있는 공급계약은 공개되지 않았으며 MOU는 투자 검토 단계로만 설명됐다.",
+   "summary_en": "Centrus produced the first new centrifuge for its Piketon enrichment expansion at its Oak Ridge plant in Tennessee on 29 October and shipped it to Ohio for final assembly. The company said it had met two year-end goals early - building a US component supply chain and producing its first new centrifuge - and plans to link Ohio-assembled machines into cascades and operate new enrichment capacity from 2029. It has ordered tens of thousands of parts from US manufacturers and in early October 2026 acquired Westerman Holdings, a supplier of centrifuge casings and other key components. The Korean link is an August 2025 memorandum of understanding among Centrus, POSCO International and KHNP to study joint investment in the Piketon expansion, under which the parties agreed to discuss investment in new enrichment capacity together with additional LEU and HALEU supply contracts. No investment amount, equity stake or binding supply contract has been disclosed, and the MOU is described only as a review of potential investment.",
+   "sales_note": "국내 기업의 전방 연료주기 진입이 '검토 MOU' 단계에 머물러 있다는 점이 그대로 확인된다. 다만 센트러스가 부품 공급망과 첫 원심분리기라는 선행 조건을 조기에 충족했으므로, 투자 참여 여부를 결정할 시점이 2029년 가동 일정에서 역산해 앞당겨질 수 있다. 농축 지분을 확보하면 해외 원전 입찰에서 연료 장기공급을 패키지로 묶는 제안이 가능해지는 만큼, 수주 제안서의 연료 조항과 연결해 볼 사안이다.",
+   "sales_note_en": "This confirms that Korean entry into the front end of the fuel cycle is still at the study-MOU stage. But with Centrus having met its precursor milestones - a domestic component supply chain and a first new centrifuge - early, the point at which a decision on participating is required may come sooner when counted back from the 2029 operating date. Securing an enrichment stake would allow long-term fuel supply to be bundled into overseas bids, so this connects directly to the fuel provisions in our proposals.",
+   "related": [
+    "https://www.world-nuclear-news.org/articles/centrus-ships-first-centrifuge-for-piketon-plant-expansion"
+   ]
+  }
+ ]
+}

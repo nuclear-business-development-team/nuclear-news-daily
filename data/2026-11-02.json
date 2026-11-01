@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T08:30:00+09:00",
+  "period": {
+    "from": "2026-10-31",
+    "to": "2026-11-02"
+  },
+  "overview_ko": "해외 신규 보도는 사실상 0건이다. 주요 전문지(WNN·NucNet·IAEA·POWER·NEI)와 ANS 뉴스와이어 모두 10월 30일(금) 이후 신규 기사가 없고, 유럽 공공조달 TED는 10월 31일·11월 1일·11월 2일 사흘간 공고 게재가 0건, 영국 Find a Tender도 같은 기간 11건 중 원자력 관련 0건이었다. 주말 공백이며 수집 실패가 아니라 원문 자체가 없는 상태로, 월요일 오전 8시(한국시간) 기준 해외 뉴스 사이클이 아직 시작되지 않았다. 체코·일본·중국·튀르키예·카자흐스탄·사우디·폴란드·프랑스·영국 현지어 검색에서도 기간 내 신규 사건은 확인되지 않았고, 검색 색인이 최신으로 올려준 기사들(전기신문 태국·테라파워 건)은 본문 확인 결과 2026년 3월 자로 제외했다. 영업 관점: 오늘 해외 측 변화는 없으므로, 금주 재개되는 유럽 공고 흐름과 두코바니 재입찰 조건 공개를 기다리는 국면이다.",
+  "overview_en": "Overseas reporting was effectively nil. The main trade outlets (WNN, NucNet, IAEA, POWER, NEI) and the ANS Newswire have published nothing since Friday 30 October, the EU's TED procurement journal issued zero notices on 31 October, 1 November and 2 November, and UK Find a Tender carried 11 notices in the same window, none nuclear. This is a weekend gap rather than a collection failure: the source material does not exist, and at 08:00 Monday Korea time the overseas news cycle has not yet restarted. Local-language sweeps across Czechia, Japan, China, Turkey, Kazakhstan, Saudi Arabia, Poland, France and the UK surfaced no in-period events, and two items the search index presented as current (Electric Times pieces on Thailand and TerraPower) proved on inspection to date from March 2026 and were dropped. Sales angle: with no overseas movement today, the watch items are this week's resumption of European tender flow and the publication of the Dukovany re-tender terms.",
+  "domestic_overview_ko": "두코바니 시공사 재선정의 쟁점이 금액에서 계약조건으로 옮겨갔다. 서울경제는 총액 산정의 기준 물량, 역무 범위, 설계변경 보상과 지체 책임, 발주처 계약의 물가조정 장치가 새 시공사를 구할 때의 핵심 과제라고 정리했고, 현대건설은 3분기 실적 콘퍼런스콜에서 재입찰 참여 의사를 공식화하면서 수익성을 희생한 수주는 하지 않겠다는 조건을 달았다. 한수원은 별도로 싱가포르 에너지시장청(EMA)과 SIEW 2026 특별세션을 공동 개최해 i-SMR 개발 진척을 공유했다. 영업 관점: 두코바니는 가격이 아니라 리스크 배분 설계로 승부가 갈리는 국면이며, 이 조건 설계가 향후 모든 해외 수주의 표준이 된다는 점에서 재입찰 공고문이 실질적 분기점이다.",
+  "domestic_overview_en": "The Dukovany contractor question has shifted from price to contract terms. Seoul Economic Daily reports that the reference quantities used to fix the lump sum, the scope of work, compensation for design changes, responsibility for delays, and an escalation mechanism in the owner's contract are the real obstacles to attracting a replacement builder; Hyundai E&C used its Q3 earnings call to confirm it will bid, with the caveat that it will not take work at the expense of profitability. Separately, KHNP co-hosted a special session of Singapore International Energy Week with the Energy Market Authority and briefed the Singaporean side on i-SMR progress. Sales angle: Dukovany now turns on risk-allocation design rather than headline price, and because those terms will set the template for Korea's later export bids, the re-tender notice itself is the decision point to watch.",
+  "countries_pulse": [
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "기조 유지 — 재입찰의 변수가 금액에서 계약조건(총액 기준물량·설계변경 보상·지체 책임·물가조정)으로 구체화됐고, 국내 대형 건설사 1곳이 참여 의사를 공개 표명했다.",
+      "signal_en": "Policy unchanged — the re-tender's open variables have crystallised from price into contract terms (reference quantities for the lump sum, design-change compensation, delay liability, escalation), and one major Korean contractor has publicly said it will bid.",
+      "article_ids": [
+        "2026-11-02-01"
+      ]
+    },
+    {
+      "country": "SG",
+      "name_ko": "싱가포르",
+      "name_en": "Singapore",
+      "stance": "expanding",
+      "signal": "건설 결정 전 단계는 유지되나, 국제에너지주간 공식 세션에 한국·미국·스웨덴을 각각 불러 공급국별 기술 설명을 받는 단계로 올라섰다.",
+      "signal_en": "Still short of a build decision, but it has moved to taking supplier-by-supplier technology briefings, hosting Korea, the United States and Sweden in dedicated sessions of its International Energy Week.",
+      "article_ids": [
+        "2026-11-02-02"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-02-01",
+      "title": "체코원전 시공사 재선정…계약조건 조정이 과제로",
+      "title_ko": "[후속] 두코바니 시공사 재선정, 쟁점은 금액 아닌 계약조건 — 현대건설 \"재입찰 참여할 것\", 총액 기준물량·설계변경 보상·물가조정이 과제",
+      "title_en": "Dukovany re-tender turns on contract terms, not price; Hyundai E&C confirms it will bid",
+      "language": "ko",
+      "source": "서울경제",
+      "url": "https://m.sedaily.com/article/20108765",
+      "published": "2026-11-01",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "importance": 3,
+      "summary_ko": "새로운 사실은 재입찰의 쟁점이 공사비 총액에서 리스크 배분 조건으로 옮겨갔다는 점이다. 서울경제는 ①총액을 고정할 기준 물량(한수원은 기본설계 승인 시점 물량으로 총액을 고정하려 하고, 대우건설은 실시설계 중 늘어난 물량은 별도 정산해야 한다는 입장) ②역무 범위 ③설계변경 보상과 공기 지연 책임 ④발주처 계약의 물가조정 장치를 새 시공사 확보의 과제로 꼽았다. 현대건설은 10월 30일 3분기 실적 콘퍼런스콜에서 이형석 재경본부장이 \"이 입찰에 참여는 할 것\"이라고 밝히며 다만 수익성을 희생한 수주는 하지 않겠다고 했고, 두산에너빌리티는 기존 기자재 공급계약을 유지한 채 재입찰에도 참여한다는 입장이다.",
+      "summary_en": "What is new is that the re-tender's central issue has moved from the construction price to how risk is divided. Seoul Economic Daily lists four obstacles to signing a replacement builder: the reference quantities used to fix the lump sum (KHNP wants the total set on quantities at basic-design approval, while Daewoo E&C argues quantity growth during detailed design must be settled separately), the scope of work, compensation for design changes and liability for schedule delay, and an escalation mechanism in the owner's contract. On the 30 October Q3 earnings call, Hyundai E&C finance chief Lee Hyung-seok said the company \"will participate in this tender,\" while adding it would not pursue awards at the expense of profitability. Doosan Enerbility says it keeps its existing equipment supply contracts and will also re-bid.",
+      "sales_note": "가격 재협상이 아니라 계약조건 재설계가 관건이라는 점이 분명해졌다. 여기서 정리되는 기준물량·설계변경·물가조정 조항은 두코바니 한 건이 아니라 향후 모든 해외 대형원전 수주의 표준 조건이 되므로, 재입찰 공고문의 리스크 조항을 선제적으로 확보해 우리 역무 범위(특히 BOP·설계용역) 입찰 판단의 근거로 삼아야 한다. 국내 대형 건설사가 참여 의사를 밝힌 만큼 시공 공백 리스크는 낮아졌으나, 2027년 7월 계약 목표를 맞추려면 공고 전 단계인 내년 1월 설명회가 실질적 정보 접점이다.",
+      "sales_note_en": "It is now clear that the decisive variable is the redesign of contract terms, not a price renegotiation. The reference-quantity, design-change and escalation clauses settled here will become the standard terms for Korea's future large-reactor exports, not just for Dukovany, so the risk clauses in the re-tender notice should be obtained early and used as the basis for bid/no-bid decisions in our own scopes, particularly balance-of-plant and design services. With a major Korean contractor signalling participation, the risk of a construction gap has fallen; but to hold the July 2027 contract target, the January briefing that precedes the notice is the practical point of access.",
+      "related": [
+        "https://dealsite.co.kr/articles/171766"
+      ]
+    },
+    {
+      "id": "2026-11-02-02",
+      "title": "한수원, 싱가포르 정부와 SMR 포럼 개최…동남아 원전 수출 시동",
+      "title_ko": "한수원, 싱가포르 정부와 SMR 포럼 개최…동남아 원전 수출 시동",
+      "title_en": "KHNP co-hosts SMR forum with Singapore's energy regulator at SIEW 2026",
+      "language": "ko",
+      "source": "한국신용신문",
+      "url": "https://www.creditnews.kr/news/articleView.html?idxno=32213",
+      "published": "2026-10-31",
+      "region": "domestic",
+      "category": "smr",
+      "countries": [
+        "KR",
+        "SG"
+      ],
+      "importance": 2,
+      "summary_ko": "한수원은 10월 30일(현지시간) 싱가포르 샌즈 엑스포 앤 컨벤션 센터에서 에너지시장청(EMA)과 '스포트라이트 코리아 포럼'을 공동 개최했다. 싱가포르국제에너지주간(SIEW 2026) 특별세션으로 열렸고, 임승열 한수원 부사장과 유진 토 EMA 에너지기술 부국장이 SMR의 역할과 원전 도입 요건을 논의했으며 실무진은 독자 개발 중인 i-SMR 진척 상황을 공유했다. 김준민 주싱가포르 대사대리가 한국 원자력 기술 발전과 수출 방향을 주제로 특별연설을 했다. 싱가포르는 발전량의 95%를 가스에 의존하고 국토가 좁아 대형원전 입지가 제한되며, 내년 IAEA 통합원자력기반시설검토(INIR) 1단계 수검이 예정돼 있다.",
+      "summary_en": "KHNP and Singapore's Energy Market Authority (EMA) co-hosted the \"Spotlight Korea Forum\" at the Sands Expo and Convention Centre on 30 October local time, as a special session of Singapore International Energy Week (SIEW 2026). KHNP Senior Executive Vice President Lim Seung-yeol and EMA deputy director for energy technology Eugene Toh discussed the role SMRs could play and the prerequisites for adopting nuclear power, while KHNP staff briefed the Singaporean side on progress with its indigenous i-SMR. Kim Jun-min, chargé d'affaires at the Korean embassy, gave a special address on the development and export direction of Korean nuclear technology. Singapore draws 95% of its electricity from gas, its land area constrains large reactors, and it is scheduled for IAEA Integrated Nuclear Infrastructure Review (INIR) Phase 1 next year.",
+      "sales_note": "싱가포르가 같은 주간에 한국·미국·스웨덴을 각각 공식 세션으로 불러 공급국별 설명을 받은 구도여서, 우리 위치는 선정이 아니라 비교 평가 대상이다. 내년 INIR 1단계 수검이 제도 정비의 분기점이므로, 규제체계·인력양성·공급망처럼 포럼에서 다뤄진 비기술 항목이 실제 평가축이 될 가능성이 크다. 대형원전 입지가 제한된 시장이라 i-SMR의 ASEAN 레퍼런스 확보 경로로 접근하는 것이 현실적이다.",
+      "sales_note_en": "Singapore gave Korea, the United States and Sweden separate official sessions in the same week, so our position is that of a candidate under comparison rather than a selected supplier. With INIR Phase 1 next year marking the institutional turning point, the non-technical items raised at the forum, regulatory framework, workforce development and supply chain, are the likely axes of assessment. Because the market's land constraints rule out large units, the realistic approach is to treat it as a route to an ASEAN reference for i-SMR.",
+      "related": []
+    }
+  ]
+}

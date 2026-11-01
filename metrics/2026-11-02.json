@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-02",
+ "run_started": "2026-11-02T08:04:50+09:00",
+ "run_finished": "2026-11-02T08:30:00+09:00",
+ "run_minutes": 25.2,
+ "articles": 2,
+ "by_region": {
+  "overseas": 0,
+  "domestic": 2
+ },
+ "by_importance": {
+  "3": 1,
+  "2": 1,
+  "1": 0
+ },
+ "detection_lag_hours": {
+  "median": 26.6,
+  "max": 38.8,
+  "n": 2
+ },
+ "sources_ok": [
+  "World Nuclear News",
+  "NucNet",
+  "IAEA Top News",
+  "POWER Magazine",
+  "UK DESNZ (gov.uk)",
+  "ANS Nuclear Newswire",
+  "더구루",
+  "더트래커",
+  "정책브리핑(korea.kr)",
+  "한국수력원자력 보도자료",
+  "한국전력 보도·설명자료",
+  "전기신문",
+  "서울경제",
+  "딜사이트",
+  "한국신용신문",
+  "에너지데일리",
+  "글로벌이코노믹",
+  "irozhlas.cz",
+  "nuclearnewsnetwork.com",
+  "TED (api.ted.europa.eu)",
+  "UK Find a Tender (OCDS API)",
+  "체코 NEN (nen.nipez.cz)"
+ ],
+ "sources_failed": [
+  {
+   "name": "Nuclear Engineering International RSS (www.neimagazine.com/feed)",
+   "reason": "stale feed — HTTP 200(리다이렉트 추적 시)이나 최신 항목이 2026-06-16 자로 4개월 이상 정체. 직전 회차는 301만 기록했고 내용 정체는 금회 처음 확인. sources.yaml 대체 경로 검토 필요"
+  },
+  {
+   "name": "Rolls-Royce SMR 보도자료 (www.rolls-royce-smr.com/press)",
+   "reason": "403 — 크롤러 차단. 검색으로 대체 확인(£1.4억 파운드 공급사 프로그램은 2026-09 개시분으로 기간 밖)"
+  }
+ ],
+ "languages": {
+  "en": 0,
+  "ko": 2
+ },
+ "notes": "월요일 오전 회차이나 실질적으로는 주말 공백 회차다. 해외 신규 기사 0건 — WNN·NucNet·IAEA·POWER·NEI 피드와 ANS 뉴스와이어 전부 10-30(금) 이후 신규 게시가 없고, 현지어 검색(CZ·JP·CN·TR·KZ/UZ·SA/AE·PL·FR·GB·NL·SE/FI·RO/BG/HU·VN/PH/ID/IN)에서도 기간 내 신규 사건이 없었다. 수집 실패가 아니라 원문 미존재이며, 공고 측에서 TED 게재 0건(API 전수)·UK FTS 원자력 0건으로 교차 확인했다. 국내 2건은 모두 기존 사건의 새 사실 보완분이다(두코바니 재입찰의 쟁점이 금액→계약조건으로 전환 + 현대건설 참여 의사 공개, 한수원–싱가포르 EMA 포럼). ★ 금회 검증 성과: 검색 색인이 '최신'으로 올려준 전기신문 2건(한수원-태국 SMR 세미나, 테라파워 NRC 건설승인·SK·한수원)을 본문 확인으로 2026-03-05·03-06 자로 판별해 제외했다 — SKILL §4의 '게재일은 검색 요약을 믿지 말고 본문에서 확인' 규칙이 실제로 2건의 오수집을 막은 회차다. 같은 이유로 튀르키예 EDF 협력·영국 ANP 11월 진입·RR SMR 공급사 프로그램도 게재일 미확정 또는 기간 밖으로 미등재했다.",
+ "detection_lag_note": "2건 모두 매체 표기 시각(KST)을 실측 사용했다 — 서울경제 2026-11-01 17:33(14.5h), 한국신용신문 2026-10-31 17:16(38.8h). SKILL §9의 09:00 가정은 적용하지 않았다. 최댓값 38.8h는 10-31 17:16 게재분으로, 직전 회차(11-01 09:05 생성)보다 늦게 올라와 금회에 들어온 건이다."
+}

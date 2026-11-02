@@ -1,33 +1,33 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
   {
-   "country": "BE",
-   "buyer": "Organisme national des déchets radioactifs et de matières fissiles enrichies (ONDRAF/NIRAS)",
-   "title": "B·C급 방사성폐기물 처분 관련 타당성조사·운영안전 기술용역 (4개 로트) — 재공고, 마감 11월 2일",
-   "title_en": "Technical services for Category B and C radioactive waste disposal feasibility studies and operational safety (four lots) - re-issued, deadline 2 November",
-   "scope": "지상설비 / 지층처분·천층처분 토목설계 / 지하 운영 / 원자력 공통(횡단) 업무 4개 로트. 공고 후 협상절차(neg-w-call). 10월 6일 공고(687016-2026)의 재공고로 마감이 10월 15일에서 11월 2일 10시로 연장됐다.",
-   "scope_en": "Four lots: surface facilities; civil engineering design for geological disposal and shallow land burial; underground operation; cross-cutting nuclear activities. Negotiated procedure with prior call for competition. Re-issue of the 6 October notice (687016-2026), with the deadline extended from 15 October to 2 November at 10:00.",
+   "country": "CZ",
+   "buyer": "ČEZ, a. s.",
+   "title": "두코바니(EDU)→브르노 열수송 사업 9503 OB03 — 전기·계측제어(SKŘ) 설계·공사·자재 일괄",
+   "title_en": "Dukovany-to-Brno heat transmission project 9503, lot OB03 - electrical and I&C design, works and materials",
+   "scope": "전기 및 계측제어(SKŘ) 분야의 프로젝트 도서 작성과 후속 공사·자재 공급. 전기 수용설비 전원 확보, 사업 및 열수송계통 제어용 SKŘ 구축, 발주처 기존 설비·계통과의 접속, 필요한 해체·설치 작업과 시험·검사, 시운전 및 준공도서 작성을 포함한다. 공고 후 협상절차(neg-w-call).",
+   "scope_en": "Preparation of project documentation and subsequent works and supplies in the electrical and instrumentation & control (SKR) field. Covers power supply to electrical consumers, SKR for control of the project and the heat main, connection to the buyer's existing equipment and systems, necessary dismantling and installation works, tests and inspections, commissioning and as-built documentation. Negotiated procedure with prior call for competition.",
    "portal": "TED",
-   "notice_no": "702999-2026",
-   "published": "2026-10-12",
-   "deadline": "2026-11-02",
-   "url": "https://ted.europa.eu/en/notice/702999-2026/pdf"
+   "notice_no": "756403-2026",
+   "published": "2026-11-02",
+   "deadline": "2026-12-07",
+   "url": "https://ted.europa.eu/en/notice/756403-2026/pdf"
   },
   {
-   "country": "SI",
-   "buyer": "Nuklearna elektrarna Krško d.o.o.",
-   "title": "크르슈코 원전 소내 변압기 T1·T2 절연상버스(IPB) 분기 개량 [재공고·협상방식]",
-   "title_en": "Upgrade of the isolated phase bus (IPB) branch to station transformers T1 and T2 at Krsko NPP [re-advertised, negotiated procedure]",
-   "scope": "소내 변압기 T1·T2로 가는 절연상버스(IPB) 분기 개량. 공고 후 협상 절차.",
-   "scope_en": "Upgrade of the isolated phase bus branch feeding station transformers T1 and T2. Negotiated procedure with a prior call.",
+   "country": "PL",
+   "buyer": "Narodowe Centrum Badań Jądrowych (NCBJ)",
+   "title": "연구원자로 MARIA 배기·급기 환기계통 개량 — 재공고",
+   "title_en": "Modernisation of the extract and supply ventilation systems of the MARIA research reactor - re-issued",
+   "scope": "1단계는 현장조사와 기존 배기·급기 환기계통 실사, 신규 기기 설치 실행설계(기존 설비와의 통합 반영, 원자력시설운영부 승인 대상), 납품·설치·통합 및 SAT 일정 수립이다. 이후 단계에서 기기 공급·설치·시험이 이어진다. 10월 공고(731646-2026)의 재공고로 마감이 11월 16일 12시다.",
+   "scope_en": "Stage I covers a site visit and inventory of the existing extract and supply ventilation systems, a detailed technical design for installing the new equipment that accounts for integration with existing installations and is subject to approval by the nuclear facility operations department, and a schedule for delivery, installation, integration and site acceptance testing. Later stages cover supply, installation and testing. Re-issue of the October notice (731646-2026), with a deadline of 16 November at 12:00.",
    "portal": "TED",
-   "notice_no": "727619-2026",
-   "published": "2026-10-21",
-   "deadline": "2026-11-02",
-   "url": "https://ted.europa.eu/en/notice/727619-2026/pdf"
+   "notice_no": "757424-2026",
+   "published": "2026-11-02",
+   "deadline": "2026-11-16",
+   "url": "https://ted.europa.eu/en/notice/757424-2026/pdf"
   },
   {
    "country": "SE",
@@ -379,19 +379,6 @@
    "published": "2026-10-21",
    "deadline": "2026-11-10",
    "url": "https://ted.europa.eu/en/notice/728533-2026/pdf"
-  },
-  {
-   "country": "PL",
-   "buyer": "Narodowe Centrum Badań Jądrowych (NCBJ)",
-   "title": "연구원자로 MARIA 배기·급기 환기계통 개량",
-   "title_en": "Modernisation of the extract and supply ventilation systems of the MARIA research reactor",
-   "scope": "3단계 구성 — ①현장조사·기존 계통 조사와 실시설계도서 작성, 납품·설치·SAT 공정표 ②폴란드 원자력기구(PAA) 인허가 획득 지원 ③2027년 정기정비 기간 중 8주 이내 기자재 납품(FAT 선행)·기존 설비 해체·신규 설치와 제어·전원·계측제어 통합·SAT·준공도서·운전원 교육(최소 20명). 마감일은 공고 데이터에 기재되지 않았다.",
-   "scope_en": "Three stages: a site survey and inventory plus detailed technical design and a delivery, installation and site-acceptance-test schedule; support in obtaining approval from the National Atomic Energy Agency (PAA); and execution within eight weeks during a 2027 outage, covering factory-tested equipment delivery, removal of existing units, installation and integration of controls, power and I&C, site acceptance testing, as-built documentation and operator training for at least 20 staff. No deadline is stated in the notice data.",
-   "portal": "TED",
-   "notice_no": "731646-2026",
-   "published": "2026-10-22",
-   "deadline": "2026-11-02",
-   "url": "https://ted.europa.eu/en/notice/731646-2026/pdf"
   },
   {
    "country": "HU",

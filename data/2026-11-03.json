@@ -1,0 +1,283 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T09:40:00+09:00",
+  "period": {
+    "from": "2026-11-02",
+    "to": "2026-11-03"
+  },
+  "overview_ko": "주말 공백이 끝나면서 해외 발주·인허가 소식이 한꺼번에 돌아왔다. 폴란드 PEJ가 루비아토보-코팔리노 AP1000 3기의 선행공사 건축허가를 신청했는데, 같은 발표에서 3기 전체 가동 목표가 2038년으로 종전보다 3년 밀린 것이 함께 확인됐고 시공 총괄은 벡텔, 안전등급 모듈은 웨스팅하우스가 폴란드 4개사에 조건부 발주한 구조다. 미국에서는 NRC가 10월 30일 엑스에너지 Xe-100 4기(800MWt·320MWe)의 롱모트 건설허가 최종안전평가보고서를 발행해 환경·안전 심사가 모두 끝났고 건설허가 발표가 임박했는데, 사업주는 전력회사가 아니라 다우케미컬 자회사 롱모트에너지다. DOE는 같은 흐름에서 안타레스·라스트에너지·래디언트 3사의 인가 관문을 10월 7·23·29일 연달아 승인해 마이크로원자로가 NRC 상업 인허가가 아닌 DOE 자체 인가 경로로 실증까지 가는 길을 굳혔고, ARPA-E HORNIG 재활용 연료 8개 과제의 배분액(총 최대 5,000만 달러, 웨스팅하우스·오클로·INL 각 700만 달러 안팎)도 공개됐다. 중국은 하이양 5호기 CAP1000에 10월 31일 첫 콘크리트를 타설해 국무원 승인 약 18개월 만에 착공했고, 러시아는 모스크바 러·아프리카 정상회의에서 우간다와 원자력 로드맵을 맺어 나카손골라 부지조사 계약 협상까지 경로를 열었다. 영업 관점: 이번 주 신규 접점은 모두 발주처 공개입찰이 아니라 EPC·개발사 채널에 있다 — 폴란드는 벡텔, 미국 SMR은 개발사 공급망, 우간다는 정부간 문서이므로 입찰 공고를 기다리는 방식으로는 걸리지 않는다.",
+  "overview_en": "The weekend lull broke and overseas procurement and licensing news arrived at once. Poland's PEJ applied for an early works building permit for three AP1000s at Lubiatowo-Kopalino, and the same announcement confirmed the target for all three units at full capacity has slipped three years to 2038; Bechtel is general contractor for site works and Westinghouse has placed conditional orders for safety-related modules with four Polish firms. In the United States the NRC issued the final safety evaluation report on 30 October for four X-energy Xe-100 units (800 MWt, 320 MWe) at Long Mott, completing both of its reviews with a construction permit announcement imminent - and the owner is not a utility but Long Mott Energy, a Dow Chemical subsidiary. DOE approved authorization milestones for Antares, Last Energy and Radiant on 7, 23 and 29 October, consolidating a route in which microreactors reach demonstration through DOE's own authorization rather than NRC commercial licensing, and the award split for ARPA-E's eight HORNIG recycled-fuel projects was disclosed, up to USD50 million in total with about USD7 million each to Westinghouse, Oklo and Idaho National Laboratory. China poured first concrete for the CAP1000 at Haiyang 5 on 31 October, roughly 18 months after State Council approval, and Russia signed a nuclear roadmap with Uganda at the Russia-Africa Summit in Moscow, opening a path as far as negotiating site survey contracts for Nakasongola. Sales angle: every new opening this week sits with an EPC or a developer rather than in a client's open tender - Bechtel in Poland, developers' supply chains in US SMRs, a government-to-government document in Uganda - so none of it will be caught by waiting for bid notices.",
+  "domestic_overview_ko": "두코바니 시공계약 협상 종료의 후속이 국내 소식을 지배했다. 산업통상부가 11월 2일 장·차관이 직접 주재하는 비상관리체제를 가동해, 김정관 장관의 '팀코리아 체코 원전사업 추진현황 점검회의'와 박동일 차관의 '한수원 추진계획 점검회의'를 매주 번갈아 열기로 했고, 같은 날 첫 회의에서 신규 시공사 선정 절차와 2027년 4월 건설허가 신청·2029년 1월 부지정지·2029년 11월 착공 일정 사수 방안을 점검했다. 협상 쟁점이었던 총액 확정 대 물량 정산의 격차는 1조 원 이상으로 남았고 한수원은 컨소시엄과의 공동협력협약을 11월 중 종료할 계획이다. 체코 현지 분석은 사업 중단 가능성을 낮게 보면서도 비용·공기 관리를 쟁점으로 꼽고 체코 기업의 시공 참여가 넓어질 수 있다고 봤다. 별도로 현대건설이 미국 SMR 개발사 퍼스트아메리칸뉴클리어(FANCO)와 5년 기본서비스계약을 맺고 납-비스무트 고속로 EAGL-1(1기 약 240MWe)의 시공성 검토·설계 컨설팅을 맡았는데, 7월 예비합의를 정식 계약으로 전환한 것이다. 영업 관점: 재입찰은 국내 시공사 간 경쟁이 아니라 현지사를 포함한 컨소시엄 구성 경쟁으로 갈 가능성이 커졌으므로, 설계변경 보상·물가조정 조항을 입찰 전에 문서로 확정하는 것과 현지 파트너 선점을 같은 과제로 묶어야 한다.",
+  "domestic_overview_en": "The aftermath of the Dukovany construction breakdown dominated domestic news. On 2 November the industry ministry activated an emergency management regime run directly by its minister and vice minister, alternating weekly between Minister Kim Jung-kwan's Team Korea Czech project review and Vice Minister Park Dong-il's KHNP implementation review; the first meeting that day went through the process for selecting a new contractor and how to hold the April 2027 construction permit application, January 2029 site preparation and November 2029 construction start. The gap that broke the talks - KHNP's fixed lump sum against settlement on measured quantities - remains above KRW 1 trillion, and KHNP plans to terminate the joint cooperation agreement with the consortium during November. Czech analysts see little chance the project stops but name cost and schedule control as the live risk, and expect Czech firms' share of construction to widen. Separately, Hyundai E&C signed a five-year master services agreement with US developer First American Nuclear covering constructability reviews and design consulting for the lead-bismuth EAGL-1 fast reactor, about 240 MWe per unit, converting a July preliminary agreement into a formal contract. Sales angle: the re-tender now looks less like a contest among Korean contractors than a contest over consortium composition including local firms, so fixing design-change and escalation terms in writing before bidding and locking in a local partner should be treated as one task, not two.",
+  "countries_pulse": [
+    {
+      "country": "PL",
+      "name_ko": "폴란드",
+      "name_en": "Poland",
+      "stance": "expanding",
+      "signal": "루비아토보-코팔리노 선행공사 건축허가 신청으로 인허가가 한 단계 전진했으나, 3기 전체 가동 목표가 2038년으로 3년 늦어진 것이 함께 확인됐다.",
+      "signal_en": "Licensing moved a step forward with the early works permit application at Lubiatowo-Kopalino, while the target for all three units at full capacity slipped three years to 2038.",
+      "article_ids": [
+        "2026-11-03-01"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "NRC가 Xe-100 롱모트 건설허가 최종안전평가를 끝내 발표가 임박했고, DOE는 마이크로원자로 3사 인가와 재활용 연료 8개 과제 배분을 연달아 확정했다.",
+      "signal_en": "The NRC completed its final safety evaluation for the Xe-100 plant at Long Mott with a permit announcement imminent, while DOE cleared three microreactor authorizations and set the award split for eight recycled-fuel projects.",
+      "article_ids": [
+        "2026-11-03-02",
+        "2026-11-03-05",
+        "2026-11-03-06"
+      ]
+    },
+    {
+      "country": "CN",
+      "name_ko": "중국",
+      "name_en": "China",
+      "stance": "expanding",
+      "signal": "하이양 5호기 첫 콘크리트로 6기 부지의 3단계가 시작됐고, 국무원 승인에서 착공까지 약 18개월 간격이 유지됐다.",
+      "signal_en": "First concrete at Haiyang 5 opened phase III of the six-unit site, holding the roughly 18-month gap from State Council approval to construction start.",
+      "article_ids": [
+        "2026-11-03-03"
+      ]
+    },
+    {
+      "country": "UG",
+      "name_ko": "우간다",
+      "name_en": "Uganda",
+      "stance": "expanding",
+      "signal": "러시아와 로드맵을 맺어 나카손골라 부지조사 계약 협상까지 경로를 열었고, 한국이 맡은 부옌데와 공급국이 갈리는 구도가 뚜렷해졌다.",
+      "signal_en": "A roadmap with Russia opened a path as far as negotiating survey contracts for Nakasongola, sharpening a split with Buyende, where Korea holds the site evaluation.",
+      "article_ids": [
+        "2026-11-03-04"
+      ]
+    },
+    {
+      "country": "RU",
+      "name_ko": "러시아",
+      "name_en": "Russia",
+      "stance": "expanding",
+      "signal": "기조 유지 — 러·아프리카 정상회의를 창구로 아프리카 신규 진입국과의 정부간 문서를 계속 쌓고 있다.",
+      "signal_en": "Unchanged - Russia keeps stacking government-level documents with African newcomer states, using the Russia-Africa Summit as the venue.",
+      "article_ids": [
+        "2026-11-03-04"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "steady",
+      "signal": "기조 유지 — 현지 분석은 사업 중단 가능성을 낮게 보면서 쟁점을 비용·공기 관리와 체코 기업의 시공 참여 확대로 옮겨 놓았다.",
+      "signal_en": "Unchanged - local analysis puts little weight on the project stopping and has moved the question to cost and schedule control and wider Czech participation in construction.",
+      "article_ids": [
+        "2026-11-03-09"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-03-01",
+      "title": "PEJ applies for early works permit for nuclear power plant",
+      "title_ko": "폴란드 PEJ, 루비아토보-코팔리노 AP1000 3기 '선행공사(WRB)' 건축허가 신청 — 전력 전체 가동은 2038년으로 3년 밀림",
+      "title_en": "PEJ applies for early works building permit at Lubiatowo-Kopalino, with full capacity now set for 2038",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/pej-applies-for-early-works-permit-for-nuclear-power-plant",
+      "published": "2026-11-02",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "PL"
+      ],
+      "importance": 3,
+      "summary_ko": "폴란드 PEJ가 포모제주 주지사에게 루비아토보-코팔리노 부지 선행공사(WRB) 건축허가를 신청했다. 범위는 순환수계통 육상부(취·배수 배관, 해변·해저 아래 무굴착 공법), 우수·융설수 저류지, 소내 도로, TBM 발진구다. 본 건설허가 신청은 2027년, 착공은 2028년, 1호기 상업운전은 2036년, 3기 전체 가동은 종전 계획보다 3년 늦은 2038년이다. 시공 총괄은 벡텔이 맡아 부지공사 수행·감리와 육·해상 지질조사를 담당하고, 웨스팅하우스는 안전등급 모듈에 대해 폴란드 4개사와 조건부 발주를 냈다.",
+      "summary_en": "Poland's PEJ has asked the head of the Pomeranian Voivodeship for a building permit covering early works at the Lubiatowo-Kopalino site. The scope is the onshore part of the circulating water system - intake and discharge pipelines run beneath the beach and seabed by trenchless method - plus a rainwater and meltwater retention basin, internal roads and launch pits for the tunnel boring machine. The construction permit application is planned for 2027, construction start for 2028 and first unit commercial operation for 2036, with all three units at full capacity in 2038, three years later than previously planned. Bechtel is general contractor for site work execution and supervision and for onshore and offshore geological surveys, while Westinghouse has placed conditional purchase orders for safety-related modules with four Polish companies.",
+      "sales_note": "벡텔이 부지공사 수행·감리를 쥔 구조가 확인됐으므로 폴란드 AP1000의 BOP·기자재 접점은 발주처(PEJ)가 아니라 EPC(벡텔) 채널에서 열린다. 웨스팅하우스가 안전등급 모듈을 현지 4개사에 조건부 발주한 것은 현지화 요구가 자격심사 단계부터 작동한다는 뜻이라, 현지 파트너 없이 단독 참여하는 전략은 재검토가 필요하다.",
+      "sales_note_en": "With Bechtel holding both execution and supervision of site works, the way into Poland's AP1000 balance-of-plant and equipment packages runs through the EPC rather than the client. Westinghouse placing conditional orders for safety-related modules with four Polish firms shows localisation requirements bite as early as qualification, so bidding without a local partner deserves a second look.",
+      "related": [
+        "https://wysokienapiecie.pl/krotkie-spiecie/pej-z-o-y-y-wniosek-o-pozwolenie-na-budow-dla-wst-pnych-rob-t-przy-elektrowni-j-drowej/"
+      ]
+    },
+    {
+      "id": "2026-11-03-02",
+      "title": "Texas SMR plant moves to final permitting stage",
+      "title_ko": "美 NRC, 엑스에너지 Xe-100 '롱모트' 건설허가 최종안전평가보고서(FSER) 발행 — 환경·안전 심사 모두 완료, 건설허가 발표 임박",
+      "title_en": "NRC issues final safety evaluation for X-energy's Long Mott plant, clearing the last review before a construction permit",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/texas-smr-plant-moves-to-final-permitting-stage",
+      "published": "2026-11-02",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "US"
+      ],
+      "importance": 3,
+      "summary_ko": "미 NRC가 10월 30일 텍사스 롱모트 발전소 건설허가 신청에 대한 최종안전평가보고서(FSER)를 발행했다. 5월에 환경평가서와 '중대한 영향 없음' 결정을 이미 냈으므로 두 축의 심사가 모두 끝났고, NRC는 건설허가 발표가 곧 있을 것이라고 밝혔다. 대상은 엑스에너지의 고온가스로 Xe-100 4기로 합계 800MWt(320MWe)이며, 신청자는 다우케미컬 전액출자 자회사 롱모트에너지다. 발전한 전기와 공정증기는 다우 시드리프트 공장에 공급하고 남는 전력은 계통에 보낸다. 신청은 2025년 3월에 접수됐다.",
+      "summary_en": "On 30 October the US NRC issued the final safety evaluation report for the Long Mott construction permit application, completing the second of its two reviews after the May environmental assessment and finding of no significant impact. The NRC says a construction permit announcement is expected soon. The project is four of X-energy's Xe-100 high-temperature gas-cooled reactors totalling 800 MWt (320 MWe), applied for in March 2025 by Long Mott Energy, a wholly owned subsidiary of Dow Chemical. Electricity and process steam would serve Dow's Seadrift Operations, with surplus power going to the grid.",
+      "sales_note": "산업용 수요처(다우)가 직접 사업주가 되는 모델이 미국 첫 Xe-100 건설허가로 실증되는 단계다. 발주처가 전력회사가 아니라 화학·데이터센터 같은 수요처일 때 조달은 공개입찰보다 EPC·모듈 공급사 지정으로 흐르므로, 국내 기자재·시공사는 엑스에너지 공급망 등록을 전력회사 입찰 대기와 분리해 선행해야 한다.",
+      "sales_note_en": "A model in which the industrial offtaker is itself the owner is about to be proven by the first US Xe-100 construction permit. When the client is a chemical plant or data centre rather than a utility, procurement tends to run through the EPC and named module suppliers instead of open tenders, so Korean suppliers and contractors should pursue registration with X-energy's supply chain rather than wait for utility bid rounds."
+    },
+    {
+      "id": "2026-11-03-03",
+      "title": "First concrete poured for unit 5 at Haiyang plant",
+      "title_ko": "중국 하이양 5호기 첫 콘크리트 타설 — CAP1000, 10월 31일 본관 공사 착수로 6기 부지의 3단계 시작",
+      "title_en": "First concrete poured at Haiyang 5, starting phase III of China's six-unit Shandong site",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/first-concrete-poured-unit-5-haiyang-plant",
+      "published": "2026-11-02",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "CN"
+      ],
+      "importance": 2,
+      "summary_ko": "중국 산둥성 하이양 원전 5호기 원자로건물에 10월 31일 안전관련 첫 콘크리트가 타설됐다. 시공사 중국핵공업24건설(CNNC 24)은 이를 '5호기 본관공사 정식 착수'로 표현했고, 원자로건물 첫 타설은 약 6,626㎥ 규모로 약 62시간이 걸릴 예정이었다. 노형은 웨스팅하우스 AP1000의 중국판 CAP1000이며 토목공사는 국가전력투자공사(SPIC)가 CNNC 24에 발주했다. 부지에는 대형 가압경수로 6기가 계획돼 1단계 AP1000 2기는 2018년 10월·2019년 1월 상업운전, 2단계 CAP1000 2기는 2022년 7월·2025년 4월 착공해 2027년 전부 가동 예정이고, 5·6호기는 2025년 4월 27일 국무원 승인과 국가핵안전국 건설허가를 받았다.",
+      "summary_en": "Safety-related first concrete was poured for the reactor building of Haiyang 5 in Shandong province on 31 October, which contractor China Nuclear Industry 24 Construction called the official start of main construction. The pour was about 6,626 cubic metres and was expected to take nearly 62 hours. The unit is a CAP1000, China's version of the Westinghouse AP1000, with civil works contracted by State Power Investment Corporation. Six large PWRs are planned at the site: two phase I AP1000s entered commercial operation in October 2018 and January 2019, two phase II CAP1000s started construction in July 2022 and April 2025 for full operation in 2027, and units 5 and 6 received State Council approval on 27 April 2025 along with construction permits from the National Nuclear Safety Administration.",
+      "sales_note": "국무원 승인 약 18개월 만에 첫 타설로 이어지는 중국의 승인-착공 간격이 다시 확인됐다. 체코·폴란드 발주처가 공기 신뢰도를 비교할 때 참조하는 수치이므로, 우리 입찰 제안서의 공기 산정 근거는 중국 사례와 직접 대비되는 형태로 준비해야 한다.",
+      "sales_note_en": "The gap between State Council approval and first concrete in China is confirmed again at roughly 18 months. European clients use such figures when they judge schedule credibility, so our bid schedules need to be defensible against the Chinese benchmark rather than stated in isolation."
+    },
+    {
+      "id": "2026-11-03-04",
+      "title": "Uganda and Russia look to move ahead with nuclear project",
+      "title_ko": "러시아·우간다, 원자력 협력 로드맵 서명 — 나카손골라 부지조사 계약 협상 단계 식별, 한수원은 부옌데 부지 평가를 맡아 둔 상태",
+      "title_en": "Russia and Uganda sign nuclear roadmap covering the Nakasongola site, while KHNP holds the Buyende site evaluation",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/russia-and-uganda-look-to-move-head-with-nuclear-project",
+      "published": "2026-11-02",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "UG",
+        "RU",
+        "KR"
+      ],
+      "importance": 2,
+      "summary_ko": "로사톰 국제사업 총괄 니콜라이 스파스키와 우간다 에너지광물개발부 사무차관 이레네 바테베가 모스크바 러·아프리카 정상회의를 계기로 원자력 평화적 이용 협력 로드맵에 서명했다. 로드맵은 우간다 원자력 기반시설을 검토할 실무그룹을 두고, 나카손골라 원전 부지선정을 위한 엔지니어링 조사 계약 협상까지의 단계를 식별하도록 했다. 우간다는 2040 비전에 따라 부옌데 지역에 가압경수로 6기 합계 8,400MWe를 계획했고 1순위 부지는 부옌데주 키데라면 카사토 마을이다. 2023년 8월 무세베니 대통령은 러시아와 한국을 합계 15GWe 2개 사업의 건설국으로 선정했다고 밝혔고, 한수원은 지난해 부옌데 후보지 평가 용역을 수임했다.",
+      "summary_en": "Rosatom's deputy director general for international activities, Nikolai Spassky, and Irene Batebe, permanent secretary of Uganda's energy ministry, signed a roadmap on the peaceful uses of nuclear energy on the sidelines of the Russia-Africa Summit in Moscow. It sets up a working group on Uganda's nuclear infrastructure and identifies the steps up to negotiating a contract for engineering surveys to select a site for the Nakasongola plant. Under Uganda Vision 2040 six PWRs totalling 8,400 MWe are planned in the Buyende region, with the first site at Kasaato Village, Kidera Subcounty. In August 2023 President Museveni said Russia and South Korea had been selected to build two plants totalling 15 GWe, and KHNP was contracted last year to evaluate the proposed Buyende site.",
+      "sales_note": "러시아가 나카손골라를, 한국이 부옌데를 각각 쥔 분점 구도가 문서로 굳어지는 중이다. 우리 쪽은 부지평가 용역에 머물러 있고 러시아는 정부간 로드맵으로 조사계약 협상까지 경로를 깔았으므로, 부옌데를 계약 단계로 넘기려면 용역 종료 시점에 맞춘 정부 채널 후속 문서가 필요하다.",
+      "sales_note_en": "A split is being written down: Russia at Nakasongola, Korea at Buyende. Our side is still at the level of a site evaluation study while Russia has laid a government-to-government path as far as negotiating a survey contract, so converting Buyende into contract work needs a follow-on government-channel document timed to the study's completion."
+    },
+    {
+      "id": "2026-11-03-05",
+      "title": "Antares, Last Energy, and Radiant hit DOE authorization milestones",
+      "title_ko": "美 DOE, 안타레스·라스트에너지·래디언트 3사 인가 관문 연속 승인 — 라스트에너지·래디언트는 원자로 시범사업(Reactor Pilot Program) DSA 승인",
+      "title_en": "DOE clears authorization milestones for Antares, Last Energy and Radiant",
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-11-02/article-8549/antares-last-energy-and-radiant-hit-doe-authorization-milestones/",
+      "published": "2026-11-02",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "미 에너지부가 마이크로원자로 3사의 인가 단계를 잇따라 승인했다. 안타레스는 10월 23일 두 번째 노형 'Mark-1'의 원자력안전설계협약(NSDA)을 승인받아 2027년 아이다호국립연구소(INL)에서 6개월 전출력 운전을 목표로 하고, 후속 노형 R1(100kWe~1MWe, TRISO 연료·나트륨 열관·질소 브레이턴)은 미 육군 야누스 사업으로 포트브래그에 2028년 1호기를 둔다. 라스트에너지는 10월 7일 시범로의 문서화안전분석(DSA)을 승인받았고 텍사스A&M RELLIS 캠퍼스에서 5MW급으로 저출력 임계를 먼저 실증한다(최종 노형은 20MWe 경수로). 래디언트는 10월 29일 카레이도스 실증기(KDU)의 DSA를 승인받아 INL의 DOME 설비에서 60 유효전출력일 시험을 하며, 배치 예정지는 버클리 우주군기지·포트베닝·크레인 해군무기기지다.",
+      "summary_en": "The US Department of Energy has approved authorization milestones for three microreactor developers in quick succession. Antares had the nuclear safety design agreement for Mark-1, its second reactor, approved on 23 October, aiming at six months of full-electrical-power operation at Idaho National Laboratory in 2027; its follow-on R1, a 100 kWe-1 MWe TRISO-fuelled design with sodium heat pipes and a nitrogen Brayton cycle, is planned for Fort Bragg under the Army's Janus Program with a first unit targeted for 2028. Last Energy had the documented safety analysis for its pilot reactor approved on 7 October under the Reactor Pilot Program, to demonstrate low-power criticality at 5 MW scale on Texas A&M's RELLIS campus ahead of a 20 MWe LEU pressurised water design. Radiant had the DSA for its Kaleidos demonstration unit approved on 29 October, with full-power testing for 60 effective full-power days at INL's DOME, and deployments planned at Buckley Space Force Base, Fort Benning and Naval Weapons Station Crane.",
+      "sales_note": "마이크로원자로가 NRC 인허가가 아니라 DOE 자체 인가(OTA→NSDA→PDSA→DSA→준비도검토) 경로로 실증까지 가는 흐름이 세 건 연속으로 확인됐다. 이 경로는 상업 인허가보다 빠른 대신 발주가 연방·군 수요처에 묶이므로, 접점은 공개입찰이 아니라 개발사 공급망·부지 시공 역무에서 찾아야 한다.",
+      "sales_note_en": "Three approvals in a row confirm that microreactors are reaching demonstration through DOE's own authorization path - OTA, NSDA, PDSA, DSA, readiness review - rather than NRC licensing. That path is faster than commercial licensing but ties the work to federal and military offtakers, so the opening is in developers' supply chains and site construction scopes, not open tenders."
+    },
+    {
+      "id": "2026-11-03-06",
+      "title": "Next-generation fuel projects get US federal funding",
+      "title_ko": "[보완] 美 ARPA-E 'HORNIG' 사업 8개 과제 배분액 공개 — 총 최대 5,000만 달러, 웨스팅하우스·오클로·INL 등",
+      "title_en": "[Update] ARPA-E discloses the award split for its eight HORNIG recycled-fuel projects, up to USD50 million in total",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/next-generation-fuel-projects-get-us-federal-funding",
+      "published": "2026-11-02",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "US"
+      ],
+      "importance": 1,
+      "summary_ko": "10월 29일 전한 ARPA-E 선정 건의 금액과 수혜기관이 새로 공개됐다. 사업명은 'HORNIG'(4세대 원자로용 고성능 최적화 재활용 핵종)으로 사용후핵연료의 초우라늄 원소를 선진로용 핵분열 물질로 재활용하는 연구개발을 지원하며, 총액은 최대 5,000만 달러다. 배분액은 웨스팅하우스 700만 달러(PowerBlock 연료기술), 스탠더드뉴클리어 700만 달러, 오리건주립대 700만 달러, 아이다호국립연구소 700만 달러, 오클로 680만 달러, 텍사스A&M 540만 달러, 샌디아국립연구소 340만 달러, 엑소디스에너지 130만 달러로 합계 4,490만 달러다. 공고는 4월에 열렸고 선행 사업은 2022년 시작된 CURIE다.",
+      "summary_en": "The amounts and recipients behind the ARPA-E selection reported on 29 October have now been disclosed. The programme is HORNIG - High-performance Optimised Recycled Nuclear Isotopes for Gen IV reactors - supporting R&D to recycle transuranic elements from used fuel into fissile material for advanced reactors, with up to USD50 million in total. Awards are USD7 million each to Westinghouse (PowerBlock fuel technology), Standard Nuclear, Oregon State University and Idaho National Laboratory, USD6.8 million to Oklo, USD5.4 million to Texas A&M, USD3.4 million to Sandia National Laboratories and USD1.3 million to Exodys Energy, totalling USD44.9 million. The call opened in April, following the CURIE programme launched in 2022.",
+      "sales_note": "",
+      "sales_note_en": "",
+      "related": [
+        "https://www.axios.com/local/pittsburgh/2026/11/02/westinghouse-nuclear-energy-revival"
+      ]
+    },
+    {
+      "id": "2026-11-03-07",
+      "title": "산업부, 체코 원전사업 비상관리체제 가동",
+      "title_ko": "산업부, 체코 원전사업 비상관리체제 가동 — 장관·차관 주재 점검회의 격주 교차 운영, 2027년 4월 건설허가 신청·2029년 11월 착공 일정 사수",
+      "title_en": "Korea's industry ministry puts the Czech project under an emergency management regime run by the minister and vice minister",
+      "language": "ko",
+      "source": "정책브리핑(산업통상부)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787505",
+      "published": "2026-11-02",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "importance": 3,
+      "summary_ko": "산업통상부가 10월 29일 두코바니 시공계약 협상 종료에 대응해 장·차관이 직접 주재하는 비상관리체제를 11월 2일 가동했다. 김정관 장관이 주재하는 '팀코리아 체코 원전사업 추진현황 점검회의'와 박동일 차관이 주재하는 '한수원 추진계획 점검회의'를 매주 번갈아 열어 팀코리아 전체가 현안을 공유하고 정부·참여기업이 함께 해결책을 만드는 구조다. 11월 2일 차관 주재 첫 회의에서는 협상 종료 후 한수원의 핵심 과제와 신규 시공사 선정 절차·소요 일정, 주요 마일스톤 달성 계획을 점검했다. 정부가 사수 대상으로 제시한 일정은 2027년 4월 건설허가 신청, 2029년 1월 부지정지 착수, 2029년 11월 착공이다. 협상 쟁점은 한수원의 총액 확정과 시공사의 물량 정산 방식 차이로 1조 원 이상 격차가 남았고, 한수원은 컨소시엄과의 공동협력협약을 11월 중 종료할 계획이다.",
+      "summary_en": "On 2 November Korea's Ministry of Trade, Industry and Resources activated an emergency management regime chaired directly by its minister and vice minister, responding to the 29 October end of construction contract talks at Dukovany. Two bodies alternate weekly: a Team Korea Czech nuclear project progress review chaired by Minister Kim Jung-kwan, and a KHNP implementation review chaired by Vice Minister Park Dong-il, so that the whole Team Korea grouping shares live issues and government and participating companies work out remedies together. The first meeting, held on 2 November under the vice minister, went through KHNP's priority tasks after the breakdown, the process and timetable for selecting a new contractor, and plans for meeting major milestones. The dates the government says it will protect are a construction permit application in April 2027, the start of site preparation in January 2029 and construction start in November 2029. The dispute left a gap of more than KRW 1 trillion between KHNP's fixed lump sum and the contractor's settlement on measured quantities, and KHNP plans to terminate the joint cooperation agreement with the consortium during November.",
+      "sales_note": "발주처 리스크가 체코가 아니라 우리 내부 계약구조에서 생겼다는 점이 정부 문서로 공식화됐다. 재입찰에 들어가는 국내 시공사는 총액 확정 대 물량 정산이 1조 원 격차를 낸 선례를 기준선으로 쓸 수 있으므로, 설계변경 보상·물가조정 조항을 입찰 단계에서 문서로 확정하지 않으면 같은 결렬이 반복된다. 장·차관 주재 점검회의가 상설화된 만큼 공급망 기업의 현안은 한수원 단독 채널보다 팀코리아 회의 의제로 올리는 쪽이 빠르다.",
+      "sales_note_en": "A government document now states plainly that the risk on this project came from our own contracting structure rather than from the Czech side. Korean contractors entering the re-tender can use as a baseline the precedent that lump sum versus measured-quantity settlement opened a gap of more than KRW 1 trillion, so unless compensation for design changes and price escalation is fixed in writing at the bidding stage the same breakdown repeats. With ministerial and vice-ministerial reviews now standing bodies, supply chain issues move faster onto the Team Korea agenda than through KHNP alone.",
+      "related": [
+        "https://www.etoday.co.kr/news/view/2642632",
+        "https://www.fnnews.com/news/202611021430380514",
+        "https://www.seoulfn.com/news/articleView.html?idxno=641585"
+      ]
+    },
+    {
+      "id": "2026-11-03-08",
+      "title": "현대건설, 美 SMR 개발사 FANCO와 기본서비스계약(MSA) 체결",
+      "title_ko": "현대건설, 美 SMR 개발사 퍼스트아메리칸뉴클리어(FANCO)와 5년 기본서비스계약 — 납-비스무트 고속로 'EAGL-1' 시공성 검토·설계 컨설팅 담당",
+      "title_en": "Hyundai E&C signs a five-year master services agreement with US SMR developer FANCO for the lead-bismuth EAGL-1",
+      "language": "ko",
+      "source": "헤럴드경제",
+      "url": "https://biz.heraldcorp.com/article/10922292",
+      "published": "2026-11-02",
+      "region": "domestic",
+      "category": "smr",
+      "countries": [
+        "KR",
+        "US"
+      ],
+      "importance": 3,
+      "summary_ko": "현대건설이 미국 SMR 개발사 퍼스트아메리칸뉴클리어(FANCO)와 기본서비스계약(MSA)을 체결했다고 11월 2일 밝혔다. 계약기간은 5년이고 상호 합의로 연장할 수 있으며, 세부 범위·기간·금액은 개별 작업지시서로 정하는 기본계약 구조다. 7월에 맺은 EAGL-1 관련 예비합의를 정식 계약으로 전환한 것으로, 현대건설은 시공성 검토(constructability review)와 설계·엔지니어링 컨설팅, 시공 관점의 기술 피드백을 맡는다. EAGL-1은 납-비스무트 합금을 냉각재로 쓰는 액체금속 고속로로 1기당 약 240MWe이며 수요에 따라 다기 배치가 가능하고, FANCO는 미 NRC에 규제기관 사전협의 계획을 제출했다. 계약금액과 배치 부지·일정은 공개되지 않았다.",
+      "summary_en": "Hyundai E&C said on 2 November that it has signed a master services agreement with US small modular reactor developer First American Nuclear (FANCO). The agreement runs five years, extendable by mutual consent, and is a framework under which scope, duration and value are set by individual task orders. It converts a preliminary agreement signed in July on the EAGL-1 project into a formal contract, with Hyundai E&C providing constructability reviews, design and engineering consulting, and construction-side technical feedback. EAGL-1 is a liquid metal fast reactor cooled by a lead-bismuth alloy, rated about 240 MWe per unit and able to be clustered to demand, and FANCO has submitted a regulatory engagement plan to the US NRC. Contract value, deployment site and schedule were not disclosed.",
+      "sales_note": "국내 건설사의 미국 SMR 접점이 홀텍·테라파워·카이로스·뉴스케일·엑스에너지에 이어 납-비스무트 고속로까지 넓어졌고, 진입 방식이 시공 수주가 아니라 설계 이전 단계의 시공성 검토 용역이라는 점이 반복 확인된다. 기본계약만 맺고 작업지시서로 범위를 쪼개는 구조는 초기 투입을 줄이는 대신 물량 보장이 없으므로, 우리도 FEED·기본설계 용역을 노릴 때 MSA 체결 자체를 실적으로 쓰되 작업지시서 수임 실적을 따로 관리해야 한다.",
+      "sales_note_en": "Korean contractors' footholds in US SMRs now extend past Holtec, TerraPower, Kairos, NuScale and X-energy to a lead-bismuth fast reactor, and again the way in is a pre-design constructability study rather than a construction award. A framework signed without committed volume, with scope released through task orders, keeps early outlay low but guarantees nothing, so in pursuing FEED and basic design work we should count the framework itself as a credential while tracking actual task orders separately."
+    },
+    {
+      "id": "2026-11-03-09",
+      "title": "체코 \"두코바니 무산 없지만\"…한수원 시공 협상 결렬에 공사비 촉각",
+      "title_ko": "[후속] 체코 현지 분석 \"두코바니 중단 가능성은 낮지만 비용·공기 관리가 쟁점\" — 체코 기업의 시공 참여 확대 가능성도 거론",
+      "title_en": "[Follow-up] Czech analysts see little chance Dukovany stops, but call cost and schedule control the live risk",
+      "language": "ko",
+      "source": "글로벌이코노믹",
+      "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611030633084054fbbec65dfb_1",
+      "published": "2026-11-03",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "importance": 2,
+      "summary_ko": "체코 에너지 매체 프로에너지가 10월 30일(현지시간) 한수원과 대우건설·두산에너빌리티 컨소시엄의 시공계약 협상 종료를 전했고, 슬로바키아 HN온라인은 11월 1일 체코통신을 인용해 사업 철수 위험은 없다고 보도했다. 프라하 투자사 퍼플트레이딩의 페트르 리세크 애널리스트는 체코 측과의 사전 작업이 광범위하고 한국 정부 지원이 강해 중단 가능성은 낮다며, 합의된 비용 구조와 조건을 안정적으로 유지하는 것이 과제라고 했다. 에너지 분석업체 일렉트리의 페트르 자메치니크 수석이코노미스트는 한수원이 시공 파트너십을 빠르게 재구축하지 못하면 공기·총비용 관리에 압박이 올 수 있다고 보면서, 이번 일이 체코 기업의 시공 참여 기회를 넓힐 수 있다고 했다. 사업비는 체코 정부 발표 기준 지난해 가격으로 4,070억 코루나(약 25조 원·167억 유로)이고 1호기 착공 2029년·완공 2036년 목표다.",
+      "summary_en": "Czech energy outlet Pro Energy reported on 30 October local time that KHNP had ended construction contract talks with the Daewoo E&C and Doosan Enerbility consortium, and Slovak outlet HN Online reported on 1 November, citing the Czech News Agency, that the project is not at risk of being abandoned. Petr Lysek, analyst at Prague investment firm Purple Trading, said a halt is unlikely given the extent of preparatory work with the Czech side and strong Korean government backing, and that holding the agreed cost structure and terms stable is now the challenge. Petr Zamecnik, chief economist at energy analysis firm Electrify, said schedule and total cost control could come under pressure if KHNP does not rebuild its construction partnership quickly, and that the episode could widen the scope for Czech firms to take part in construction. The project is costed by the Czech government at CZK 407 billion in last year's prices, about KRW 25 trillion or EUR 16.7 billion, with first unit construction start targeted for 2029 and completion for 2036.",
+      "sales_note": "현지 여론이 '사업 중단'이 아니라 '시공 공백을 누가 메우나'로 옮겨간 것이 중요하다. 체코 기업 참여 확대가 거론되는 국면이면 재입찰은 국내 시공사 간 경쟁이 아니라 현지사 포함 컨소시엄 구성 경쟁이 되므로, 메트로스타브·호흐티프 등 이미 냉각탑 제한경쟁 자격을 받은 현지사와의 팀 구성을 입찰공고 전에 선점할 필요가 있다.",
+      "sales_note_en": "What matters is that local debate has shifted from whether the project stops to who fills the construction gap. With wider Czech participation being floated, the re-tender becomes a contest over consortium composition including local firms rather than a contest among Korean contractors, so teaming with local players already qualified for the cooling tower restricted tender - Metrostav, Hochtief - is worth locking in before the bid notice.",
+      "related": [
+        "https://www.g-enews.com/article/Global-Biz/2026/11/202611010647267984fbbec65dfb_1"
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
@@ -28,45 +28,6 @@
    "published": "2026-11-02",
    "deadline": "2026-11-16",
    "url": "https://ted.europa.eu/en/notice/757424-2026/pdf"
-  },
-  {
-   "country": "SE",
-   "buyer": "Strålsäkerhetsmyndigheten (SSM)",
-   "title": "스웨덴 원자력시설 콘크리트 구조 분야 조사·분석 지원 컨설팅 프레임워크",
-   "title_en": "Framework agreement for consultancy support on concrete structures in Swedish nuclear facilities",
-   "scope": "원자력시설 콘크리트 구조 분야의 조사·분석 지원. 노후화에 따른 콘크리트 부재 열화를 주로 다루며, 신규 원전 구조해법에 관한 조사도 포함될 수 있다.",
-   "scope_en": "Support for investigations and analyses of concrete structures in nuclear facilities, mainly the degradation of concrete components as plants age, and possibly studies of structural solutions for new nuclear.",
-   "portal": "TED",
-   "notice_no": "676216-2026",
-   "published": "2026-10-01",
-   "deadline": "2026-11-03",
-   "url": "https://ted.europa.eu/en/notice/-/detail/676216-2026"
-  },
-  {
-   "country": "RO",
-   "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
-   "title": "FCN 피테슈티 핵연료집합체 제작용 Zircaloy-4 선재 공급 (CR 45734)",
-   "title_en": "Supply of Zircaloy-4 wire for nuclear fuel bundle manufacture at the FCN Pitesti branch (CR 45734)",
-   "scope": "FCN 피테슈티 지점의 핵연료집합체 제작 공정 중 '패틴(patine)' 부품에 사용하는 Zircaloy-4 선재. 공고 기재 금액 1,255,240 USD",
-   "scope_en": "Zircaloy-4 wire used for the 'patine' component in nuclear fuel bundle manufacturing at the FCN Pitesti branch. Notice states USD 1,255,240",
-   "portal": "TED",
-   "notice_no": "683779-2026",
-   "published": "2026-10-05",
-   "deadline": "2026-11-03",
-   "url": "https://ted.europa.eu/en/notice/683779-2026/pdf"
-  },
-  {
-   "country": "NO",
-   "buyer": "Direktoratet for strålevern og atomsikkerhet (DSA)",
-   "title": "노르웨이 방사선·원자력안전청 규제업무 기술자문 용역 (36개월)",
-   "title_en": "Consultancy services for nuclear safety and security regulatory work (36 months) — Norwegian Radiation and Nuclear Safety Authority",
-   "scope": "규제업무 지원 기술자문 — 기술문서 검토·평가 및 검사 지원. 대상 시설은 셸레르·할덴 연구로와 힘달렌 저준위·중준위 폐기물 처분·저장시설. 추정금액 3,000만 노르웨이크로네(NOK).",
-   "scope_en": "Technical services supporting DSA's regulatory functions: reviewing and assessing technical documentation and supporting inspections. Covers the Kjeller and Halden research reactor facilities and the Himdalen low and intermediate level waste landfill and store. Estimated value NOK30 million.",
-   "portal": "TED",
-   "notice_no": "690960-2026",
-   "published": "2026-10-07",
-   "deadline": "2026-11-03",
-   "url": "https://ted.europa.eu/en/notice/690960-2026/pdf"
   },
   {
    "country": "RO",
@@ -599,6 +560,19 @@
    "notice_no": "ocds-h6vhtk-07935d / 102534-2026",
    "published": "2026-10-29",
    "url": "https://www.find-tender.service.gov.uk/Notice/102534-2026"
+  },
+  {
+   "country": "RO",
+   "buyer": "Societatea Naţională NUCLEARELECTRICA S.A.",
+   "title": "FCN 피테슈티 핵연료집합체 제조용 Zircaloy-4 선재 공급 (CR 45734)",
+   "title_en": "Supply of Zircaloy-4 wire for nuclear fuel bundle manufacturing at the FCN Pitesti branch (CR 45734)",
+   "scope": "Zircaloy-4(Zy-4) 선재 공급. FCN 피테슈티 지사의 핵연료집합체(FC) 제조공정에서 지지편(patine) 가공에 사용되며, 루마니아 법률 111/1996 부속서 2 제13항상 원자력 관련 물질로 분류된다. 공개입찰(open), CPV 14735000(지르코늄).",
+   "scope_en": "Supply of Zircaloy-4 (Zy-4) wire, used at the FCN Pitesti branch in the manufacture of nuclear fuel bundles for machining the bearing pads (\"patine\"). It is classified as a material of nuclear interest under Annex 2, point 13 of Romanian Law 111/1996. Open procedure, CPV 14735000 (zirconium).",
+   "portal": "TED",
+   "notice_no": "760804-2026",
+   "published": "2026-11-03",
+   "deadline": "2026-11-24",
+   "url": "https://ted.europa.eu/en/notice/760804-2026/pdf"
   }
  ]
 }

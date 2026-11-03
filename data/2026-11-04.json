@@ -1,0 +1,487 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T08:04:09+09:00",
+  "period": {
+    "from": "2026-11-03",
+    "to": "2026-11-04"
+  },
+  "overview_ko": "원전 금융이 하루 동안 양쪽에서 전면에 나왔다. 프랑스는 EPR2 6기 사업비의 60%(최대 600억 유로)를 규제저축 기반 예금기금 대출로 조달하는 2027년 예산안 구조를 드러내며 총리가 르브레A 한도 인상까지 발표했고, 튀르키예는 TUNAS와 한국수출입은행의 금융협력 양해각서로 시놉 사업의 금융구조 협의에 들어갔다. 연료 전단에서는 유렌코 USA가 서방 첫 상용 LEU+(농축도 5~10%)를 생산해 2032년까지 210만 SWU를 더하는 경로를 제시한 반면, 로사톰은 크라스노카멘스크에 연 11,000톤 우라늄 수력제련공장 부지를 확정하며 자국 내 전단 확장으로 맞섰다. 로사톰은 러시아-아프리카 정상회의를 발판으로 가나 첫 원전까지 협력 대상을 넓혀, 10월 말 우간다·토고·에티오피아에 이어 한 달 사이 네 번째 아프리카 신규 시장을 가져갔다. 개보수·신규 도입 쪽에서는 브루스 5호기가 6기 개보수 계획의 네 번째 호기로 주요기기교체에 들어갔고, 싱가포르 SNRSI는 핀란드 VTT와 5년 협력으로 평가 역량을 먼저 쌓는 경로를 택했다. 영업 관점: 프랑스가 국가 저축을 사실상 신규 원전 재원으로 끌어오는 구조를 예산안에 올린 만큼 유럽 경쟁에서 금리 비교의 하한이 내려갔고, 시놉에서 수출입은행이 실무그룹에 직접 들어간 틀을 노형 경쟁력과 묶어 제시하는 것이 이번 주의 핵심 과제다.",
+  "overview_en": "Nuclear financing moved to the front on two fronts in a single day. France revealed the 2027 budget structure that would fund 60% of its six-unit EPR2 programme - capped at 60 billion euros - through a regulated-savings-backed loan, with the prime minister also announcing a higher Livret A ceiling, while Turkey entered financing-structure talks for Sinop through a cooperation MOU between TUNAS and the Export-Import Bank of Korea. On the fuel front end, Urenco USA produced the Western world's first commercial LEU+ at 5-10% enrichment and set out a path adding 2.1 million SWU by 2032, while Rosatom answered by fixing the site for an 11,000 tU/yr hydrometallurgical plant at Krasnokamensk. Rosatom also used the Russia-Africa summit to extend cooperation to Ghana's first nuclear plant - a fourth new African market in a month after Uganda, Togo and Ethiopia in late October. In refurbishment and newcomer markets, Bruce 5 entered its Major Component Replacement outage as the fourth unit in a six-unit programme, and Singapore's SNRSI chose to build assessment capacity first through five-year cooperation with Finland's VTT. Sales angle: with France putting state-backed savings at the heart of its new-build finance, the floor for interest-rate comparison in European competitions has dropped, and the week's priority is to present the Sinop framework - where KEXIM now sits directly in a working group - as a package alongside reactor competitiveness.",
+  "domestic_overview_ko": "에르도안 튀르키예 대통령 국빈 방한에서 TUNAS와 한국수출입은행이 원전사업 금융협력 양해각서를 맺고, 기후에너지환경부·튀르키예 에너지부 간 에너지협력 MOU와 연례 에너지전환 포럼 신설이 함께 결정됐다. 대통령실은 지난해 MOU에 따른 시놉 부지평가와 공동실무그룹이 순조롭다고 밝혔다. 체코 두코바니는 대우건설이 11월 2일 산업통상부에 조정을 요청해 시공협상 결렬이 국내 분쟁 국면으로 넘어갔다. 회사는 설계 책임 없는 시공사에 유럽 초호기 비용·리스크를 전가하는 것은 불합리하다는 입장이고, 한수원은 공사비 상승분 미반영을 이유로 들었다. 유럽 수출 기반으로는 한수원이 TUV 라인란드와 유럽 원전 디지털 기기 인증기술 협력 양해각서를 맺어 안전등급 기기의 현지 인증 경로를 5년간 확보하기로 했고, 외교부는 7년 만에 한-불가리아 경제공동위를 재개해 코즐로두이 신규 원전 협력과 EU 역내산 요건 예외를 함께 올렸다. 영업 관점: 두코바니에서 드러난 설계-시공 간 리스크 배분 문제가 유럽 후속 사업의 공통 쟁점이 될 수 있으므로, 금융(수출입은행)·인증(TUV)·정부 채널(경제공동위)로 각각 열린 통로를 설계변경·물가 조항 정비와 묶어 제안 표준을 다시 짜야 한다.",
+  "domestic_overview_en": "During Turkish President Erdogan's state visit to Korea, TUNAS and the Export-Import Bank of Korea signed an MOU on financing cooperation for nuclear projects, alongside an energy cooperation MOU between the Korean and Turkish energy ministries and the creation of an annual energy transition forum. Korea's presidential office said Sinop site evaluation and the joint working group under last year's MOU are progressing smoothly. On Dukovany, Daewoo E&C asked the Ministry of Trade, Industry and Resources on 2 November to mediate, moving the collapse of construction talks into a domestic dispute. The builder argues it is unreasonable to shift first-of-a-kind European cost and risk onto a contractor not responsible for design, while KHNP cites a failure to reflect rising construction costs. Building the export base, KHNP signed an MOU with TUV Rheinland on certification technology for digital equipment in European nuclear plants, securing a local certification route for safety-grade equipment over five years, and the foreign ministry reconvened the Korea-Bulgaria joint economic committee after seven years, raising both Kozloduy cooperation and relief from EU local-content requirements. Sales angle: the design-versus-construction risk allocation exposed at Dukovany could become the common sticking point across later European projects, so the channels now open - financing through KEXIM, certification through TUV Rheinland, government access through the joint committee - need to be combined with tightened design-change and escalation terms into a revised proposal standard.",
+  "countries_pulse": [
+    {
+      "country": "TR",
+      "name_ko": "튀르키예",
+      "name_en": "Turkiye",
+      "stance": "expanding",
+      "signal": "에르도안 대통령 방한에서 TUNAS–수출입은행 금융 MOU와 에너지협력 MOU를 함께 체결해, 시놉 2원전 논의가 부지평가 단계에서 금융구조 협의로 넘어갔다. 다만 \"모든 선택지 검토\" 입장은 유지된다.",
+      "signal_en": "With the TUNAS-KEXIM financing MOU and an energy cooperation MOU signed during Erdogan's visit to Korea, the Sinop discussion has moved from site evaluation into financing structure - though Turkey still says it is reviewing all options.",
+      "article_ids": [
+        "2026-11-04-10"
+      ]
+    },
+    {
+      "country": "BG",
+      "name_ko": "불가리아",
+      "name_en": "Bulgaria",
+      "stance": "expanding",
+      "signal": "7년 만에 재개된 한-불가리아 경제공동위에서 코즐로두이 신규 원전을 경제협력의 이정표로 확인했고, 한국 측은 EU 역내산 요건 예외를 요청했다.",
+      "signal_en": "At the Korea-Bulgaria joint economic committee, reconvened after seven years, both sides affirmed the Kozloduy new build as a cornerstone of economic cooperation, and Korea asked for relief from EU local-content requirements.",
+      "article_ids": [
+        "2026-11-04-12"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "시공사 재선정 국면이 대우건설의 산업통상부 조정 요청으로 한국 내 분쟁으로 번진 가운데, 발주처는 EDU5 공사부지 110kV 전원연결 계약을 집행해 부지 준비는 계속 진행 중이다.",
+      "signal_en": "As the construction re-tender spilled into a domestic Korean dispute with Daewoo E&C's request for ministry mediation, the owner executed the EDU5 site 110 kV power connection contract, so site preparation continues.",
+      "article_ids": [
+        "2026-11-04-11",
+        "2026-11-04-09"
+      ]
+    },
+    {
+      "country": "FR",
+      "name_ko": "프랑스",
+      "name_en": "France",
+      "stance": "expanding",
+      "signal": "EPR2 6기 사업비의 60%(최대 600억 유로)를 규제저축 기반 예금기금 대출로 조달하는 2027년 예산안 구조가 공개되고 총리가 르브레A 한도 인상을 발표했으나, 145인 공동기고와 EU 국가보조 심사가 남았다.",
+      "signal_en": "The 2027 budget structure - a savings-fund loan covering 60% of the six-reactor EPR2 cost, capped at 60 billion euros - became public and the prime minister announced a higher Livret A ceiling, but a 145-signatory objection and the EU state-aid review remain.",
+      "article_ids": [
+        "2026-11-04-02"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "유렌코 USA가 서방 첫 상용 LEU+를 생산해 농축 전단 공급망이 한 단계 넓어졌고, 와이오밍이 10번째로 FAST-41 인허가 협정에 서명했다.",
+      "signal_en": "Urenco USA produced the Western world's first commercial LEU+, widening the front-end enrichment supply chain, and Wyoming became the tenth state to sign a FAST-41 permitting MOU.",
+      "article_ids": [
+        "2026-11-04-01",
+        "2026-11-04-08"
+      ]
+    },
+    {
+      "country": "RU",
+      "name_ko": "러시아",
+      "name_en": "Russia",
+      "stance": "expanding",
+      "signal": "크라스노카멘스크 연 11,000톤 우라늄 수력제련공장 부지를 확정해 전단 공급망을 확장하고, 러시아-아프리카 정상회의를 계기로 가나까지 신규 시장을 넓혔다.",
+      "signal_en": "Russia fixed the site for an 11,000 tU/yr hydrometallurgical plant at Krasnokamensk, expanding front-end capacity, and extended its new-market reach to Ghana off the back of the Russia-Africa summit.",
+      "article_ids": [
+        "2026-11-04-05",
+        "2026-11-04-07"
+      ]
+    },
+    {
+      "country": "GH",
+      "name_ko": "가나",
+      "name_en": "Ghana",
+      "stance": "expanding",
+      "signal": "러시아와 첫 원전 협력에 합의했다고 외교장관이 밝혔다(외교부 계획 2,000MW). 앞서 뉴스케일·CNNC와도 각각 합의가 있어 복수 벤더를 병행 저울질하는 구도다.",
+      "signal_en": "The foreign minister said Ghana has agreed to cooperate with Russia on its first nuclear plant, which the ministry puts at 2,000 MW. With earlier agreements involving NuScale and CNNC, Ghana is weighing several vendors in parallel.",
+      "article_ids": [
+        "2026-11-04-07"
+      ]
+    },
+    {
+      "country": "SG",
+      "name_ko": "싱가포르",
+      "name_en": "Singapore",
+      "stance": "cautious",
+      "signal": "SNRSI가 핀란드 VTT와 5년 양해각서를 맺어 노형 평가·안전해석 역량을 유럽 연구기관과 묶었다. 도입 결정 전 규제·평가 기반을 쌓는 단계로, 내년 IAEA INIR 수용을 준비한다.",
+      "signal_en": "SNRSI tied its reactor assessment and safety analysis capacity to a European research institute through a five-year MOU with Finland's VTT. It is still building regulatory and assessment groundwork ahead of any adoption decision, preparing to host an IAEA INIR mission next year.",
+      "article_ids": [
+        "2026-11-04-06"
+      ]
+    },
+    {
+      "country": "FI",
+      "name_ko": "핀란드",
+      "name_en": "Finland",
+      "stance": "expanding",
+      "signal": "VTT가 싱가포르 SNRSI와 5년 협력에 서명해, 연구·규제 역량을 아시아 신규 도입국에 수출하는 통로를 넓혔다.",
+      "signal_en": "VTT signed five-year cooperation with Singapore's SNRSI, widening a channel for exporting Finnish research and regulatory capability to newcomer countries in Asia.",
+      "article_ids": [
+        "2026-11-04-06"
+      ]
+    },
+    {
+      "country": "CA",
+      "name_ko": "캐나다",
+      "name_en": "Canada",
+      "stance": "expanding",
+      "signal": "브루스 5호기가 11월 1일 주요기기교체에 들어가 6기 개보수 계획의 네 번째 호기가 됐고, 1·2호기 2차 개보수도 검토 중이다.",
+      "signal_en": "Bruce 5 entered its Major Component Replacement outage on 1 November as the fourth unit in the six-unit refurbishment plan, and a second MCR for units 1 and 2 is under evaluation.",
+      "article_ids": [
+        "2026-11-04-03"
+      ]
+    },
+    {
+      "country": "DK",
+      "name_ko": "덴마크",
+      "name_en": "Denmark",
+      "stance": "expanding",
+      "signal": "솔트포스가 부유식 용융염로 seaMSR-100의 미 NRC 사전협의를 시작하고 2027년 1분기 규제협의계획 제출을 예고했다. 바지선 제작은 삼성중공업이 맡는다.",
+      "signal_en": "Saltfoss began US NRC pre-application engagement for its seaMSR-100 floating molten salt reactor and signalled a Regulatory Engagement Plan filing in the first quarter of 2027, with Samsung Heavy Industries building the barges.",
+      "article_ids": [
+        "2026-11-04-04"
+      ]
+    },
+    {
+      "country": "VN",
+      "name_ko": "베트남",
+      "name_en": "Vietnam",
+      "stance": "expanding",
+      "signal": "페트로베트남이 닌투언 2호 원전 건설·설비 제작을 두고 한국 건설사들과 접촉했다. 일본 철수 뒤 파트너를 고르는 단계이며 2035년 가동 목표다.",
+      "signal_en": "PetroVietnam approached Korean builders on construction and equipment manufacturing for Ninh Thuan 2. It is choosing a partner after Japan's withdrawal, targeting operation in 2035.",
+      "article_ids": [
+        "2026-11-04-14"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-04-01",
+      "title": "Urenco USA marks first commercial LEU+ production",
+      "title_ko": "유렌코 USA, 서방 첫 상용 LEU+(농축도 5~10%) 생산 — 뉴멕시코 전 원심분리기 캐스케이드가 10% 인가 보유",
+      "title_en": "Urenco USA produces Western world's first commercial LEU+",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/urenco-usa-marks-first-commercial-leu-production",
+      "published": "2026-11-03",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "US"
+      ],
+      "importance": 3,
+      "summary_ko": "유렌코 USA가 뉴멕시코 국가농축시설(NEF)에서 첫 상용 LEU+ 실린더를 생산했다고 11월 3일 밝혔다. LEU+는 U-235 농축도 5~10% 구간으로 일반 LEU(3~5%)와 HALEU(10~20%) 사이에 있으며, 미 NRC가 2025년 9월 이 시설에 10%까지 농축을 인가해 전 캐스케이드가 LEU+ 생산 자격을 갖췄다. 회사는 뉴멕시코에 신규 70만 SWU를 설치 중이고, 2029년 착공·2032년 첫 캐스케이드 가동으로 210만 SWU 공장을 추가해 10년 내 미국 농축능력 700만 SWU 이상을 목표로 한다.",
+      "summary_en": "Urenco USA said on 3 November it had produced its first commercial cylinder of LEU+ at the National Enrichment Facility in New Mexico, which it calls the first commercial production of the material in the Western world. LEU+ is enriched to 5-10% U-235, between standard LEU (3-5%) and HALEU (10-20%); the NRC authorised the site to enrich up to 10% in September 2025 and all of its centrifuge cascades are licensed for LEU+. The company is installing 700,000 SWU of new capacity in New Mexico and plans a further 2.1 million SWU plant - construction from 2029, first cascades producing in 2032 - toward more than 7 million SWU of US enrichment capacity within a decade.",
+      "sales_note": "LEU+는 기존 경수로의 운전주기를 늘려 계획예방정비 횟수를 줄이는 효과가 있고, HALEU 제조의 원료로도 쓰인다. 서방 농축 공급망이 러시아 의존을 벗는 속도를 보여주는 지표이므로, 유럽·중동 입찰에서 연료 공급 안정성을 따질 때 우리 측 연료 조달 시나리오의 근거 자료로 쓸 수 있다.",
+      "sales_note_en": "LEU+ lets existing light water reactors run longer cycles with fewer refuelling outages, and also serves as feedstock for HALEU. It is a useful marker of how fast Western enrichment is decoupling from Russian supply, and can support our fuel-sourcing case where European and Middle East tenders weigh fuel security.",
+      "related": []
+    },
+    {
+      "id": "2026-11-04-02",
+      "title": "Livret A : Lecornu annonce un relèvement du plafond, son utilisation pour financer le nucléaire inquiète",
+      "title_ko": "프랑스 총리, EPR2 재원 조달용 르브레A 한도 인상 발표 — 6기 사업비의 60%·최대 600억 유로를 예금기금 대출로, 반대 서명 145인",
+      "title_en": "French PM raises Livret A savings ceiling to help fund EPR2; 145 signatories object",
+      "language": "fr",
+      "source": "Orange / L'Express·6Médias",
+      "url": "https://actu.orange.fr/politique/livret-a-le-gouvernement-veut-mobiliser-60-milliards-d-euros-pour-le-nucleaire-la-gauche-et-des-associations-s-alarment-pour-le-logement-social-l-express-via-6medias-CNT000002twAvp.html",
+      "published": "2026-11-03",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "FR"
+      ],
+      "importance": 3,
+      "summary_ko": "세바스티앵 르코르뉘 총리가 11월 3일 하원에서 르브레A(규제저축) 한도를 현행 22,950유로에서 2만5,000~3만 유로 수준으로 올리겠다고 밝혔다. 2027년 예산안은 EPR2 6기 예상 사업비의 60%(최대 600억 유로)를 예금공탁금고(CDC) 예금기금이 EDF 자회사에 대출하는 구조로, 69조에서 국가보증을 붙이고 건설기간 금리 0%·운전기간 3%에 르브레A 금리와의 차액은 국가가 메운다. 노형은 팡리·그라블린·뷔제에 2기씩 배치한다. 11월 2일에는 선출직·단체·노조 등 145명이 사회주택 재원 축소를 이유로 이 조항의 철회를 요구하는 공동기고를 냈다.",
+      "summary_en": "Prime Minister Sebastien Lecornu told the National Assembly on 3 November that the ceiling on the Livret A regulated savings account will rise from 22,950 euros to somewhere between 25,000 and 30,000 euros, pending consultation with banks, the finance ministry and the Caisse des Depots. The draft 2027 budget has the Caisse des Depots savings fund lend 60% of the forecast cost of six EPR2 reactors, capped at 60 billion euros, to an EDF subsidiary, with a state guarantee under Article 69; the borrower pays 0% during construction and 3% in operation, and the state covers the gap to the Livret A-indexed loan rate. The units would be built in pairs at Penly, Gravelines and Bugey. On 2 November, 145 signatories - elected officials, associations and unions - published a call to drop the measure, arguing it was decided without consultation and could squeeze social housing finance.",
+      "sales_note": "프랑스가 자국 신규 원전을 사실상 국가 저축으로 조달하는 구조를 예산안에 올렸다는 점이 중요하다. 발주처가 금융조건을 비교할 때 EDF가 제시할 수 있는 금리 수준의 하한을 가늠하는 근거가 되며, 유럽 경쟁 입찰에서 우리 측은 수출금융 패키지(수출입은행·무역보험)의 조건을 이에 맞춰 설계해야 한다. 다만 EU 국가보조 심사와 국내 반발이 모두 미결이어서 확정 전까지는 변수로 둔다.",
+      "sales_note_en": "The significant point is that France has put state-backed savings at the centre of financing its own new build. It sets a benchmark for how cheap EDF's offered terms can be when buyers compare financing, so our export-credit package (KEXIM, K-SURE) needs to be structured against it in European competitions. Both the EU state-aid review and domestic opposition remain unresolved, so treat it as a variable until confirmed.",
+      "related": [
+        "https://www.usinenouvelle.com/energie/nucleaire/nouveau-nucleaire-comment-le-budget-2027-tente-de-minimiser-la-facture-pour-edf-et-orano.XTX4LQJNAVBHZH3WOH6XVNWS4E.html"
+      ]
+    },
+    {
+      "id": "2026-11-04-03",
+      "title": "Bruce unit 5 refurbishment begins",
+      "title_ko": "캐나다 브루스 5호기 주요기기교체(MCR) 착수 — 11월 1일 정지, 6기 개보수 계획의 네 번째 호기",
+      "title_en": "Bruce 5 enters Major Component Replacement outage",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/bruce-unit-5-refurbishment-begins",
+      "published": "2026-11-03",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "CA"
+      ],
+      "importance": 2,
+      "summary_ko": "브루스파워가 11월 1일 브루스 5호기를 정지시켜 주요기기교체(MCR) 공사에 들어갔다. 온타리오 부지 8기 중 6기를 개보수하는 계획의 네 번째 호기로, 증기발생기·압력관·칼란드리아관·피더관을 교체해 운전수명을 30~35년 늘린다. 앞서 6호기는 2020년 1월 착수·2023년 9월 복귀, 3호기는 2026년 중 공정 7개월 이상 단축해 복귀했고(원자로면 로봇 첫 적용), 4호기는 2025년 2월 착수해 3호기보다 빠른 공정이다. 7호기는 2028년, 8호기는 2030년 착수 예정이며 2012년 개보수한 1·2호기의 2차 MCR도 검토 중이다.",
+      "summary_en": "Bruce Power took unit 5 off-line on 1 November to begin its Major Component Replacement (MCR) outage, the fourth unit under its plan to renew six of the eight reactors at the Ontario site. The scope replaces steam generators, pressure tubes, calandria tubes and feeder tubes, adding 30-35 years of operating life. Unit 6 ran from January 2020 to its grid return in September 2023; unit 3 came back earlier in 2026 more than seven months ahead of schedule and was the first reactor face to use robotics; unit 4 started in February 2025 and is tracking ahead of unit 3. Unit 7 is due to start in 2028 and unit 8 in 2030, and Ontario is evaluating a second MCR for units 1 and 2, refurbished in 2012.",
+      "sales_note": "대형 개보수 공정을 호기마다 단축해 가는 실적은 계속운전·개보수 시장에서 경쟁 레퍼런스가 된다. 핀란드·루마니아 등 개보수 발주가 이어지는 시장에서 발주처가 기대하는 공기 기준이 높아지므로, 우리 측 제안서의 공정 단축 근거와 로봇·원격 적용 실적을 같은 수준으로 정리해 둘 필요가 있다.",
+      "sales_note_en": "A record of cutting outage duration unit by unit becomes a competitive reference in the life-extension and refurbishment market. It raises the schedule expectations buyers bring to refurbishment tenders in markets such as Finland and Romania, so our proposals need comparable evidence on schedule compression and on robotic or remote execution.",
+      "related": []
+    },
+    {
+      "id": "2026-11-04-04",
+      "title": "Saltfoss targets US licensing for floating power plant",
+      "title_ko": "덴마크 솔트포스(구 시보그), 부유식 용융염로 미 NRC 사전협의 착수 — 2027년 1분기 규제협의계획 제출, 바지선은 삼성중공업이 제작",
+      "title_en": "Saltfoss starts US pre-application for floating molten salt plant, with Samsung Heavy Industries to build the barges",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/saltfoss-targets-us-licensing-for-floating-power-plant",
+      "published": "2026-11-03",
+      "region": "overseas",
+      "category": "smr",
+      "countries": [
+        "DK",
+        "US",
+        "KR"
+      ],
+      "importance": 2,
+      "summary_ko": "덴마크 솔트포스(구 시보그)가 미 NRC에 사전협의 개시 의사를 통보했다. 노형은 seaMSR-100으로 저농축우라늄을 쓰는 루프형 용융염로이며 600~700℃·대기압 근처에서 운전하고, 운전원 조작이나 외부 전원 없이 중력으로 정지·배수되도록 설계했다. 100MWe 모듈 단위로 표준화해 바지선 1척에 최대 600MWe를 싣는다. 규제협의계획(REP)은 2027년 1분기 제출 예정이며, 회사는 10 CFR Part 53로 인가받는 첫 선진로이자 첫 선진 해상 SMR이 될 것으로 본다. 바지선 제작은 한국 삼성중공업이 맡고, 초기 상업 배치 일부가 한국에서 이뤄질 것으로 보고 한국 원안위와도 인가 경로를 맞출 계획이다. 확정 수주나 미국 내 부지는 공개되지 않았다.",
+      "summary_en": "Denmark's Saltfoss, formerly Seaborg, has notified the US NRC that it intends to begin pre-application engagement for its Molten Salt Power Barge. The seaMSR-100 is a loop-type molten salt reactor running on low-enriched uranium near atmospheric pressure at 600-700 degrees C, designed to shut down and drain by gravity without operator action or external power. It is standardised in 100 MWe modules, with barges carrying up to 600 MWe. The company plans to file its Regulatory Engagement Plan in the first quarter of 2027 and expects to be the first advanced reactor licensed under Part 53 and the first advanced maritime SMR anywhere. Samsung Heavy Industries in South Korea will manufacture the barges, and Saltfoss plans to align its application path with Korea's regulator since Korea is expected to host some early commercial deployments. No firm orders or US sites were named.",
+      "sales_note": "해상·부유식 SMR이 국내 조선 역량과 직접 연결되는 사례다. 조선소 모듈 제작이 원자력 기자재 공급망으로 확장되는 흐름이므로, 동남아·중동 도서·연안 수요를 겨냥할 때 육상 노형만이 아니라 해상 옵션을 포함한 제안 구성을 검토할 여지가 있다.",
+      "sales_note_en": "This is a case where floating SMRs connect directly to Korean shipbuilding capacity, extending yard module fabrication into the nuclear supply chain. For island and coastal demand in Southeast Asia and the Middle East, it is worth considering offers that include a marine option rather than land-based designs alone.",
+      "related": []
+    },
+    {
+      "id": "2026-11-04-05",
+      "title": "Rosatom planning new uranium processing plant",
+      "title_ko": "로사톰, 크라스노카멘스크에 연 11,000톤 규모 우라늄 수력제련공장 추진 — 부지 선정 완료, 설계 진행",
+      "title_en": "Rosatom selects site for 11,000 tU/yr uranium processing plant at Krasnokamensk",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/rosatom-planning-new-uranium-processing-plant",
+      "published": "2026-11-03",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "RU"
+      ],
+      "importance": 2,
+      "summary_ko": "로사톰이 크라스노카멘스크에 우라늄·우라늄몰리브덴 광석을 처리하는 수력제련공장 부지를 선정하고 설계에 들어갔다고 밝혔다. 처리능력은 연 우라늄산화물 11,000톤 규모이며, 아르군스코예·제를로보예 광산의 광석을 받고 러시아 내외 로사톰 광산의 정광도 처리할 계획이다. 부대 기반시설 공사와 사업 조사는 수행됐으나 착공 일정과 투자액은 공개되지 않았다.",
+      "summary_en": "Rosatom says it has selected a site at Krasnokamensk and begun design work on a hydrometallurgical plant for processing uranium and uranium-molybdenum ores, with a capacity of 11,000 tonnes of uranium oxide per year. It is to take ore from the Argunskoye and Zherlovoye deposits and also process concentrates from other Rosatom deposits in Russia and abroad. Supporting infrastructure work and project surveys have been done, but no construction schedule or investment figure was given.",
+      "sales_note": "러시아가 전단(front-end) 공급망을 자국 내에서 확장하는 움직임으로, 로사톰이 수주전에서 연료 일괄공급을 무기로 쓰는 기반이 두꺼워진다. 카자흐스탄·우즈베키스탄 등 로사톰이 선점한 시장에서 우리 측은 연료 조달을 서방 농축·변환망과 묶어 제시하는 대안을 준비해야 한다.",
+      "sales_note_en": "This thickens the base from which Rosatom offers bundled fuel supply in bids, as Russia expands front-end capacity at home. In markets where Rosatom is already entrenched, such as Kazakhstan and Uzbekistan, we need a counter-offer that ties fuel sourcing to Western enrichment and conversion networks.",
+      "related": []
+    },
+    {
+      "id": "2026-11-04-06",
+      "title": "Singapore enlists Finnish help in bolstering nuclear expertise",
+      "title_ko": "싱가포르 원자력연구안전연구소(SNRSI), 핀란드 VTT와 5년 양해각서 — 노형 평가·안전해석·사용후연료 관리 협력",
+      "title_en": "Singapore's SNRSI signs five-year MOU with Finland's VTT",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/singapore-enlists-finnish-help-in-bolstering-nuclear-expertise",
+      "published": "2026-11-03",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "SG",
+        "FI"
+      ],
+      "importance": 2,
+      "summary_ko": "핀란드 국가기술연구센터(VTT)와 싱가포르국립대 산하 싱가포르 원자력연구안전연구소(SNRSI)가 10월 30일 5년 기한 양해각서를 체결했다. 협력 범위는 원자로 노형 평가·안전해석, 방사성폐기물·사용후연료 관리, 역량 개발이며 싱가포르 에너지통상산업부 탄시렁 장관과 핀란드 경제부 사카리 푸이스토 장관이 서명식에 참석했다. 싱가포르는 2022년 3월 에너지시장청(EMA) 보고서에서 원자력이 자국 에너지 수요의 약 10%를 담당할 수 있다고 봤고, 2025년 9월 모트맥도널드에 SMR 등 선진 노형의 안전·기술 타당성 검토를 맡겼으며 내년 IAEA 통합원자력기반평가(INIR) 수용을 준비하고 있다.",
+      "summary_en": "VTT Technical Research Centre of Finland and the Singapore Nuclear Research and Safety Institute (SNRSI) at the National University of Singapore signed a five-year memorandum of understanding on 30 October, witnessed by Singapore's Minister for Energy, Trade and Industry Tan See Leng and Finland's Minister of Economic Affairs Sakari Puisto. Cooperation covers reactor technology assessment and safety analysis, radioactive waste and spent fuel management, and capability development. A March 2022 Energy Market Authority report concluded nuclear could supply about 10% of Singapore's energy needs; in September 2025 the EMA appointed Mott MacDonald to study the feasibility of advanced technologies such as SMRs, and Singapore is preparing to host an IAEA Integrated Nuclear Infrastructure Review mission next year.",
+      "sales_note": "싱가포르는 규제·평가 역량을 유럽 연구기관과 먼저 묶는 쪽으로 가고 있다. 10월 말 한수원이 싱가포르 정부와 SMR 포럼을 연 흐름과 겹치므로, 노형 홍보보다 규제기관 역량지원·인력양성 패키지를 앞세우는 접근이 당분간 유효하다. INIR 수용 시점(내년)이 발주 논의의 분기점이 될 가능성이 크다.",
+      "sales_note_en": "Singapore is tying its regulatory and assessment capacity to European research institutes first. Alongside KHNP's SMR forum with the Singapore government in late October, this suggests leading with regulator capacity-building and workforce packages rather than design promotion. Next year's INIR mission is likely to be the inflection point for any procurement discussion.",
+      "related": []
+    },
+    {
+      "id": "2026-11-04-07",
+      "title": "Russia to work with Ghana on first power plant as involvement in Africa grows",
+      "title_ko": "러시아, 가나 첫 원전 협력 합의 — 가나 외교부 2,000MW 계획, 로사톰은 우간다·에티오피아·이집트와도 대형로 협의",
+      "title_en": "Russia to cooperate on Ghana's first nuclear plant as Rosatom widens Africa push",
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-11-03/article-8552/russia-to-work-with-ghana-on-first-power-plant-as-involvement-in-africa-grows/",
+      "published": "2026-11-03",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "GH",
+        "RU"
+      ],
+      "importance": 2,
+      "summary_ko": "가나 사무엘 오쿠제토 아블라콰 외교장관이 러시아와 가나 첫 원전 사업에 협력하기로 했다고 밝혔다. 10월 28~29일 모스크바 제3차 러시아-아프리카 정상회의 계기로 나온 내용이며, 가나 외교부 계획상 규모는 2,000MW다. 노형·부지·합의문 형식은 공개되지 않았다. 로사톰 알렉세이 리하체프 사장은 가나와 함께 우간다·에티오피아·이집트와 대형 원전 건설을 협의 중이라고 했고, 부유식 원전에는 9개국이 관심을 보여 이집트·탄자니아·토고·나미비아와 협상이 진행 중이라고 밝혔다. 가나는 2025년 뉴스케일·레그넘테크놀로지그룹과 SMR 기본합의, 중국 CNNC와는 대형로 계획을 따로 발표한 바 있어 이번 협력과의 관계는 아직 불분명하다.",
+      "summary_en": "Ghana's Foreign Minister Samuel Okudzeto Ablakwa said Russia has agreed to work with Ghana on its first nuclear power plant, following the 3rd Russia-Africa Summit in Moscow on 28-29 October. The Ghanaian foreign ministry puts the plan at 2,000 MW; no reactor type, site or instrument was disclosed. Rosatom CEO Alexei Likhachev said the company is in talks on large plants with Ghana, Uganda, Ethiopia and Egypt, and that nine African countries have expressed interest in floating plants, with negotiations under way with Egypt, Tanzania, Togo and Namibia. Ghana announced a framework agreement with NuScale and Regnum Technology Group for SMRs in 2025 and a separate plan with China's CNNC for a larger reactor, so how those fit with the Russian cooperation is unclear.",
+      "sales_note": "지난주 우간다·토고·에티오피아에 이어 가나까지, 로사톰이 아프리카 신규 시장을 정상외교로 선점하는 패턴이 한 달 사이 반복됐다. 가나는 미국·중국 파트너와 먼저 합의한 전례가 있어 복수 벤더를 병행 저울질하는 시장으로 봐야 하며, 우리 측은 당장의 수주보다 부지평가·인력양성 등 초기 단계 용역 참여로 접점을 만드는 편이 현실적이다.",
+      "sales_note_en": "After Uganda, Togo and Ethiopia last week, Ghana makes four in a month - Rosatom is locking up new African markets through summit diplomacy. Ghana has prior agreements with US and Chinese partners, so treat it as a market weighing several vendors in parallel; our realistic entry is early-stage work such as site evaluation and workforce development rather than a near-term award.",
+      "related": []
+    },
+    {
+      "id": "2026-11-04-08",
+      "title": "Wyoming signs MOU for expedited permitting under FAST-41",
+      "title_ko": "미 와이오밍주, 연방 인허가개선운영위와 FAST-41 양해각서 — 10번째 주, 우라늄 광산 환경심사 2027년 5월 완료 목표",
+      "title_en": "Wyoming signs FAST-41 permitting MOU with federal Permitting Council",
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-11-03/article-8551/wyoming-signs-mou-for-expedited-permitting-under-fast41/",
+      "published": "2026-11-03",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "US"
+      ],
+      "importance": 1,
+      "summary_ko": "와이오밍 마크 고든 주지사와 연방 인허가개선운영위원회(Permitting Council) 에밀리 도메네크 사무총장이 10월 26일 FAST-41 양해각서에 서명했다. 연방·주 기관이 인허가 심사를 병행 처리해 기간을 줄이고 주 정부가 연방 재원·기술 지원을 받는 구조로, 와이오밍은 10번째 서명 주다(첫 사례는 2025년 8월 알래스카). 고든 주지사는 \"오늘부터 모든 신규 사업이 FAST-41 대상\"이라고 했다. 기존 등재 사업은 세미놀 양수발전(2023년 2월)과 베어로지 희토류(2026년 3월)이며, 우라늄에너지社의 스위트워터 사업은 2027년 5월 환경심사 완료를 목표로 한다. 테라파워 나트륨 사업은 이 양해각서 대상이 아니다.",
+      "summary_en": "Wyoming Governor Mark Gordon and Emily Domenech, executive director of the federal Permitting Improvement Steering Council, signed a FAST-41 memorandum of understanding on 26 October. It lets federal and state agencies run permit reviews in tandem to speed approvals and gives the state access to federal funding and technical support; Wyoming is the 10th state to sign, after Alaska in August 2025. Gordon said \"all new projects from this day forward will be subject to FAST-41\". Projects already covered are the Seminole Pumped Storage Project (listed February 2023) and the Bear Lodge Rare Earth Project (March 2026), while Uranium Energy Corporation's Sweetwater uranium project is targeted for completion of environmental review in May 2027. TerraPower's Natrium project is not covered by the MOU.",
+      "sales_note": "미국의 인허가 지연을 주 단위 협정으로 줄이는 방식이 10개 주로 늘었다. 대미 투자 원전 논의에서 부지·인허가 리스크를 따질 때 주별 FAST-41 가입 여부가 실무 변수가 되므로, 후보 부지 검토 목록에 이 항목을 넣어 두는 것이 좋다.",
+      "sales_note_en": "The state-by-state route to cutting US permitting delay now covers ten states. Whether a state has a FAST-41 MOU is a practical variable when weighing site and licensing risk in US investment-linked nuclear discussions, so it is worth adding to the screening checklist for candidate sites.",
+      "related": []
+    },
+    {
+      "id": "2026-11-04-09",
+      "title": "Dodatek c.1 Smlouva o pripojeni staveniste EDU5 z R 110 kV Slavetice a zajisteni prikonu RNVS",
+      "title_ko": "체코 두코바니 II, 신규호기(EDU5) 공사부지 110kV 전원연결 계약 변경 1호 체결 — 공급자 EG.D, 4,635만 코루나",
+      "title_en": "Dukovany II awards amendment for EDU5 construction-site 110 kV power connection",
+      "language": "cs",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/760842-2026/pdf",
+      "published": "2026-11-03",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "CZ"
+      ],
+      "importance": 1,
+      "summary_ko": "체코 두코바니 II(Elektrarna Dukovany II)가 신규호기 공사부지(EDU5)를 슬라베티체 110kV 변전소에 연결하고 신규호기 부지시설(RNVS) 전력을 확보하는 계약의 변경 1호를 10월 29일 체결했고, 11월 3일 TED에 낙찰공고가 게재됐다. 상대방은 배전사업자 EG.D s.r.o.이며 금액은 4,635만 코루나로 시행령 16/2016 Sb.에 따라 산정됐다. 계약 내용은 배전사업자가 신청자 설비를 배전망에 연결하고 예약 전력·출력을 보장하는 것이다.",
+      "summary_en": "Elektrarna Dukovany II awarded on 29 October an amendment to its contract connecting the EDU5 new-build construction site to the 110 kV Slavetice substation and securing power for the new-build site facilities (RNVS), with the award notice published on TED on 3 November. The counterparty is distribution operator EG.D s.r.o. and the value is CZK 46,350,000, set under decree 16/2016 Sb. The contract obliges the distribution operator to connect the applicant's installations to its network and guarantee reserved supply and capacity.",
+      "sales_note": "시공계약 재입찰 국면과 무관하게 발주처가 부지 준비·전원 공급 계약을 계속 집행하고 있음을 보여준다. 2029년 착공 일정을 유지하려는 발주처 의지의 간접 지표로, 재입찰 일정 협상에서 공기 압박의 방향을 읽는 참고가 된다.",
+      "sales_note_en": "It shows the owner continuing to execute site-enabling and power-supply contracts regardless of the construction re-tender. That is an indirect signal of intent to hold the 2029 construction start, useful for reading schedule pressure in the re-tender timetable.",
+      "related": []
+    },
+    {
+      "id": "2026-11-04-10",
+      "title": "Turkey and South Korea explore nuclear financing cooperation",
+      "title_ko": "에르도안 대통령 국빈 방한, 한-튀르키예 원전 금융 양해각서 체결 — TUNAS–수출입은행, 시놉 사업 금융구조 공동검토·에너지 MOU·연례 포럼 신설",
+      "title_en": "Korea and Turkey sign nuclear financing MOU during Erdogan's state visit",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/turkey-and-south-korea-agree-on-nuclear-financing-cooperation",
+      "published": "2026-11-03",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR",
+        "TR"
+      ],
+      "importance": 3,
+      "summary_ko": "레제프 타이이프 에르도안 튀르키예 대통령의 국빈 방한(11월 2~4일) 계기로 11월 3일 튀르키예 원자력공사(TUNAS)와 한국수출입은행(KEXIM)이 원전사업 금융협력 양해각서를 체결했다. TUNAS가 추진하는 원전사업의 금융해법을 함께 찾는 틀로, 금융모델링·분석·금융구조 협력과 실무그룹의 정례 정보교환을 담았다. 서명자는 TUNAS 네자티 야마치 사장과 수출입은행 황기연 행장이다(튀르키예 보도). 같은 날 알파르슬란 바이라크타르 에너지천연자원부 장관과 김성환 기후에너지환경부 장관이 원자력·원전건설·재생에너지·수소·에너지효율·스마트그리드를 포괄하는 에너지협력 MOU에 서명했고, 원전 투자·기술결합·금융모델·합작을 논의하는 연례 양국 에너지전환 포럼을 신설한다. 대통령실은 지난해 체결한 원자력협력 MOU에 따라 시놉 부지평가와 공동실무그룹이 순조롭게 진행되고 있다고 밝혔다. 한전은 2023년 1월 북부 비공개 부지에 APR-1400 4기 예비제안서를 제출한 바 있다.",
+      "summary_en": "During President Recep Tayyip Erdogan's state visit to Korea on 2-4 November, Turkiye Nuclear Energy Company (TUNAS) and the Export-Import Bank of Korea (KEXIM) signed a memorandum of understanding on 3 November on financing cooperation for nuclear power projects. It frames joint work on financing solutions for projects undertaken through TUNAS, covering financial modelling, analysis and financing structures, with a working group exchanging information regularly; Turkish reports name TUNAS general manager Necati Yamac and KEXIM chairman Hwang Ki-yeon as signatories. The same day, Turkey's Minister of Energy and Natural Resources Alparslan Bayraktar and Korea's Minister of Climate, Energy and Environment Kim Sung-whan signed an energy cooperation MOU spanning nuclear energy and plant construction, renewables, hydrogen, energy efficiency and smart grids, and the two countries will create an annual energy transition forum to discuss nuclear investment, technology integration, financing models and joint ventures. Korea's presidential office said cooperation on Sinop, including site evaluation and a joint working group, is progressing smoothly under the nuclear cooperation MOU signed last year. KEPCO submitted a preliminary proposal for four APR-1400 reactors at an undisclosed northern site in January 2023.",
+      "sales_note": "시놉 수주전에서 금융이 전면에 나왔다는 신호다. 발주처가 차관단 구성과 금융구조를 벤더 선택의 핵심 변수로 보고 있으므로, 수출입은행이 실무그룹에 직접 들어간 이번 틀은 노형 경쟁력만으로는 메우기 어려운 간극을 좁힐 수 있다. 다만 에르도안 대통령이 방한 전 \"다른 나라와도 협의 중\"이라며 모든 선택지를 검토한다고 밝힌 만큼 아직 수주 확정 단계는 아니며, 연례 포럼과 공동실무그룹이 실제 의사결정 경로가 되는지 다음 분기 안에 확인해야 한다.",
+      "sales_note_en": "Financing has moved to the front of the Sinop competition. The buyer treats lender structuring as a core variable in vendor choice, so a framework that puts KEXIM directly into a working group can close a gap that reactor competitiveness alone cannot. But Erdogan said before the visit that Turkey is also in talks with other countries and reviewing all options, so this is not an award; the test over the next quarter is whether the annual forum and joint working group become the real decision path.",
+      "related": [
+        "https://medyascope.tv/2026/11/03/erdoganin-guney-kore-ziyaretinden-sinop-icin-isbirligi-ve-ticarette-15-milyar-dolar-hedefi-cikti/",
+        "https://www.hankookilbo.com/news/article/A2026110318110000876"
+      ]
+    },
+    {
+      "id": "2026-11-04-11",
+      "title": "대우건설, 체코 두코바니 분쟁 산업통상부 조정 요청",
+      "title_ko": "[후속] 대우건설, 두코바니 시공협상 결렬에 산업통상부 조정 요청 — \"설계 책임 없는 시공사에 유럽 초호기 비용·리스크 전가는 불합리\"",
+      "title_en": "Daewoo E&C asks Korean ministry to mediate Dukovany construction dispute with KHNP",
+      "language": "ko",
+      "source": "Korea Times (연합뉴스)",
+      "url": "https://www.koreatimes.co.kr/business/20261102/daewoo-ec-seeks-govt-mediation-in-dispute-over-czech-nuclear-project",
+      "published": "2026-11-02",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "importance": 3,
+      "summary_ko": "대우건설이 11월 2일 한국수력원자력과의 체코 두코바니 시공계약 분쟁에 대해 산업통상부의 조정을 요청했다고 밝혔다. 회사는 \"계약협상을 재개해 사업을 조속히 정상화하기 위해 부처 조정을 요청했다\"고 했고, 설계 책임이 없는 시공사에 유럽에서 APR1000을 처음 짓는 추가 비용과 리스크를 부담시키는 것은 불합리하다는 입장이다. 경과는 대우건설이 10월 29일(목) 수정제안서를 제출하고 한수원이 이를 거부, 10월 30일(금) 협상 종료를 공식 통보한 뒤 11월 2일(월) 조정 요청으로 이어졌다. 한수원은 공사비 상승분이 충분히 반영되지 않았다는 이유로 협상을 끝냈다. 사업은 APR1000 1,000MW 2기, 약 25조 원 규모이며 한수원은 2027년 7월 신규 시공사 선정 입찰, 4개월 뒤 착공 일정을 제시했다.",
+      "summary_en": "Daewoo E&C said on 2 November it had asked Korea's Ministry of Trade, Industry and Resources to mediate its dispute with Korea Hydro & Nuclear Power over the Dukovany construction contract. Its statement said it requested mediation \"to resume contract negotiations and normalize the project as soon as possible\", and it argues it is unreasonable to make a construction contractor, which is not responsible for reactor design, bear the extra costs and risks of building the APR1000 in Europe for the first time. KHNP gave formal notice on Friday 30 October that it had ended negotiations, after rejecting a revised proposal Daewoo submitted on Thursday 29 October, citing a failure to adequately reflect rising construction costs. The project covers two 1,000 MW APR1000 units worth about KRW 25 trillion; KHNP has said it will tender for a new construction contractor in July 2027 with construction starting four months later.",
+      "sales_note": "설계-시공 간 리스크 배분이 쟁점으로 굳어졌다는 점이 중요하다. 유럽 초호기 프리미엄을 누가 안느냐는 문제는 두코바니에 국한되지 않으므로, 폴란드·불가리아·슬로베니아 등 후속 유럽 사업의 제안 단계에서 설계변경·물가·기준물량 조항을 사전에 정리해 두지 않으면 같은 교착이 반복될 수 있다. 정부 조정이 들어오면 2027년 7월 재입찰 일정 자체가 흔들릴 수 있어 발주처 신뢰 관리가 병행 과제다.",
+      "sales_note_en": "The telling point is that risk allocation between design and construction has hardened into the core dispute. Who carries the first-of-a-kind premium in Europe is not specific to Dukovany, so unless design-change, escalation and reference-quantity terms are settled up front, the same deadlock can recur in proposals for Poland, Bulgaria and Slovenia. If government mediation takes hold, the July 2027 re-tender timetable itself could shift, making owner confidence a parallel task.",
+      "related": [
+        "https://oenergetice.cz/en/other/khnp-ends-key-talks-on-czech-dukovany-project-seeks-new-construction-contractor"
+      ]
+    },
+    {
+      "id": "2026-11-04-12",
+      "title": "한-불가리아 경제공동위 7년 만에 재개…교역·투자 확대 및 방산·원전 협력 강화 방안 논의",
+      "title_ko": "한-불가리아 경제공동위 7년 만에 재개 — 코즐로두이 신규 원전을 \"경제협력의 중요한 이정표\"로 확인, EU 산업가속화법 역내산 요건 예외 요청",
+      "title_en": "Korea-Bulgaria economic committee reconvenes after seven years, with Kozloduy new build framed as a cornerstone",
+      "language": "ko",
+      "source": "정책브리핑(korea.kr) — 외교부",
+      "url": "https://www.korea.kr/briefing/pressReleaseList.do?pageIndex=1&srchWord=%EC%9B%90%EC%A0%84",
+      "published": "2026-11-02",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR",
+        "BG"
+      ],
+      "importance": 3,
+      "summary_ko": "박종한 외교부 경제외교조정관이 11월 2일 소피아에서 야키모프 불가리아 경제투자산업부 차관과 제3차 한-불가리아 경제공동위원회를 열었다. 2019년 2차 회의 이후 7년 만의 재개로, 교역·투자, 방산, 원전·에너지, 교통·인프라, 과학기술·디지털을 의제로 다뤘다. 양측은 코즐로두이 신규 원전 건설사업을 양국 경제협력의 중요한 이정표로 보고 긴밀히 협력하기로 했다. 한국 측은 불가리아 내 투자환경 개선과 행정절차 간소화를 요청하고, EU 산업가속화법 등에서 한국이 역내산 요건에서 제외되지 않도록 협조를 구했다. 회의 후 박 조정관은 풀레프 부총리 겸 경제투자산업부 장관과 폴렌다코프 외교부 차관을 각각 만나 방산·원전 실질협력과 지역정세를 논의했다.",
+      "summary_en": "Park Jong-han, Korea's coordinator for economic diplomacy, held the third Korea-Bulgaria Joint Economic Committee with Bulgarian deputy minister of economy, investment and industry Yakimov in Sofia on 2 November - the first since the second meeting in 2019. The agenda covered trade and investment, defence industry, nuclear power and energy, transport and infrastructure, and science, technology and digital. Both sides called the Kozloduy new-build project an important milestone in bilateral economic cooperation and agreed to work closely on it. Korea asked Bulgaria to improve its investment environment and simplify administrative procedures, and sought cooperation to ensure Korean firms are not excluded by local-content requirements under instruments such as the EU Industrial Accelerator Act. Afterwards Park met Deputy Prime Minister and Minister of Economy, Investment and Industry Pulev and Deputy Foreign Minister Polendakov on practical cooperation in defence and nuclear, and on regional affairs.",
+      "sales_note": "코즐로두이는 현대건설이 웨스팅하우스와 컨소시엄으로 7·8호기에 참여하는 사업이어서, 정부 채널이 7년 만에 복원된 것은 현지 인허가·행정 리스크를 다룰 창구가 생겼다는 의미가 있다. 특히 EU 산업가속화법의 역내산 요건은 유럽 전 사업에 공통으로 걸리는 문제이므로 이번 요청의 후속 처리를 추적할 가치가 있다. 다만 불가리아 대선 결선 등 정치 일정이 사업 속도에 영향을 줄 수 있어 정권 변수는 별도로 본다.",
+      "sales_note_en": "Kozloduy is the project where Hyundai E&C participates in units 7 and 8 in consortium with Westinghouse, so restoring a government channel after seven years creates a route for handling local licensing and administrative risk. The EU Industrial Accelerator Act's local-content requirement cuts across every European project, making the follow-up to this request worth tracking. Bulgaria's political calendar, including the presidential run-off, is a separate variable that could affect project pace.",
+      "related": [
+        "https://www.ajunews.com/view/20261103082532926",
+        "https://www.asiatoday.co.kr/kn/view.php?key=20261103010000927"
+      ]
+    },
+    {
+      "id": "2026-11-04-13",
+      "title": "한국수력원자력, TUV 라인란드와 유럽 원전 디지털 기기 인증기술 협력 양해각서 체결",
+      "title_ko": "한수원, TUV 라인란드와 유럽 원전 디지털 기기 인증기술 협력 양해각서 — 5년간 정보교류, 안전등급 디지털 기기 인증 역량 확보",
+      "title_en": "KHNP signs MOU with TUV Rheinland on certifying digital equipment for European nuclear plants",
+      "language": "ko",
+      "source": "한국수력원자력 보도자료",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttList.do?bbsNo=71&key=2289",
+      "published": "2026-11-03",
+      "region": "domestic",
+      "category": "fuel",
+      "countries": [
+        "KR",
+        "DE"
+      ],
+      "importance": 2,
+      "summary_ko": "한국수력원자력이 11월 3일 국제 시험·인증기관 TUV 라인란드와 '유럽 원자력발전소의 디지털 기기 인증기술 협력을 위한 양해각서'를 체결했다. 한수원은 유럽 원전용 디지털 기기의 인증 절차와 설비 요건·기술 요구사항을 선제적으로 파악해 필요한 정보를 확보하고, TUV 라인란드 코리아는 유럽 인증 취득에 필요한 인허가 전략과 실무 경험을 공유하며 인증 절차 전반을 기술 지원한다. 양 기관은 협력 분야를 구체화한 뒤 향후 5년간 정보교류와 기술협력을 이어갈 계획이다. 서명은 이돈국 한수원 중앙연구원장과 스벤 노박 TUV 라인란드 기능안전·사이버보안 글로벌 부사장이 했다.",
+      "summary_en": "Korea Hydro & Nuclear Power signed a memorandum of understanding with testing and certification body TUV Rheinland on 3 November on certification technology for digital equipment in European nuclear power plants. KHNP will work ahead of time to map certification procedures, equipment requirements and technical specifications for digital equipment destined for European plants, while TUV Rheinland Korea will share licensing strategy and practical experience and provide technical support across the certification process. The two will specify cooperation areas and then continue information exchange and technical cooperation over five years. Lee Don-kook, head of KHNP's Central Research Institute, and Sven Novak, TUV Rheinland's global vice president for functional safety and cybersecurity, signed.",
+      "sales_note": "유럽 수출에서 안전등급 계측제어·디지털 기기의 현지 인증은 납기와 원가를 직접 흔드는 구간이다. 두코바니에서 유럽 초호기 리스크가 쟁점이 된 상황과 겹쳐, 인증 경로를 설계 단계에서 미리 확보하는 것은 기자재 공급망 전체의 리스크를 줄이는 조치로 볼 수 있다. 국내 계측제어·기자재 협력업체의 유럽 인증 획득 일정과 묶어 관리할 사안이다.",
+      "sales_note_en": "In European exports, local certification of safety-grade I&C and digital equipment is the stretch that directly moves delivery dates and cost. Coming as first-of-a-kind European risk has become the sticking point at Dukovany, locking in certification routes at the design stage reduces risk across the whole equipment supply chain. It should be managed together with the European certification timetable of Korean I&C and component suppliers.",
+      "related": [
+        "https://www.businesskorea.co.kr/news/articleView.html?idxno=280370"
+      ]
+    },
+    {
+      "id": "2026-11-04-14",
+      "title": "일본이 포기한 베트남 원전…한국 기업 6곳 부른 이유",
+      "title_ko": "베트남 페트로베트남, 닌투언 2호 원전에 한국 건설사 접촉 — 삼성물산·현대건설 등, 2035년 가동 목표",
+      "title_en": "PetroVietnam courts Korean builders for Ninh Thuan 2 after Japan's withdrawal",
+      "language": "ko",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=109131",
+      "published": "2026-11-02",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR",
+        "VN"
+      ],
+      "importance": 2,
+      "summary_ko": "베트남 국영 석유기업 페트로베트남이 닌투언 2호 원전과 관련해 한국 건설사들과 만나 원전 건설·설비 제작 협력 방안을 논의했다. 보도에 언급된 기업은 삼성물산과 현대건설이며, 제목의 6개사 가운데 나머지는 특정되지 않았다. 베트남은 일본이 철수한 뒤 새 파트너를 찾고 있고 2035년 가동을 목표로 한다. 공식 입찰 요청이나 계약 단계는 아니며 용량·금액은 공개되지 않았다.",
+      "summary_en": "Vietnam's state oil company PetroVietnam met Korean construction firms to discuss cooperation on plant construction and equipment manufacturing for the Ninh Thuan 2 nuclear project. The report names Samsung C&T and Hyundai E&C; the other companies among the six referred to in the headline are not identified. Vietnam is seeking a new partner after Japan withdrew and targets operation in 2035. This is not a formal bid request or contract stage, and no capacity or value figures were disclosed.",
+      "sales_note": "닌투언 2호는 페트로베트남이 사업주로서 국제 파트너를 고르는 단계이고, 올해 4월 한전·수출입은행·무역보험공사와 개발·금융 검토 협력을 맺은 흐름 위에 시공·기자재 접촉이 더해진 것이다. 발주 구조가 확정되지 않은 만큼 지금은 설비 국산화율과 기술이전 요구 수위를 파악하는 것이 실익이 크다. 다만 이 보도는 참석 기업 6곳 중 2곳만 확인되므로 공식 확인 전까지는 접촉 사실 수준으로 다룬다.",
+      "sales_note_en": "Ninh Thuan 2 is at the stage where PetroVietnam, as project owner, is choosing international partners, and these construction and equipment contacts build on the April cooperation with KEPCO, KEXIM and K-SURE on development and financing studies. With the procurement structure unsettled, the most useful work now is gauging localisation targets and how far technology transfer demands go. Only two of the six firms referred to are confirmed, so treat it as contact rather than an established list until officially verified.",
+      "related": []
+    },
+    {
+      "id": "2026-11-04-15",
+      "title": "제3차 고준위 방사성폐기물 관리 기본계획 수립을 위한 국민 의견수렴 추진",
+      "title_ko": "기후에너지환경부, 제3차 고준위 방폐물 관리 기본계획 국민 의견수렴 착수",
+      "title_en": "Korea opens public consultation on the third basic plan for high-level radioactive waste management",
+      "language": "ko",
+      "source": "정책브리핑(korea.kr) — 기후에너지환경부",
+      "url": "https://www.korea.kr/briefing/pressReleaseList.do?pageIndex=1&srchWord=%EC%9B%90%EC%9E%90%EB%A0%A5",
+      "published": "2026-11-03",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR"
+      ],
+      "importance": 1,
+      "summary_ko": "기후에너지환경부가 11월 3일 제3차 고준위 방사성폐기물 관리 기본계획 수립을 위한 국민 의견수렴을 추진한다고 밝혔다. 10월 30일 고준위방폐물관리위원회가 관리시설 부적합지역 배제기준을 확정한 데 이어지는 절차다.",
+      "summary_en": "Korea's Ministry of Climate, Energy and Environment said on 3 November that it is opening public consultation toward the third basic plan for high-level radioactive waste management. It follows the high-level waste management committee's decision on 30 October setting the criteria for excluding areas unsuitable for a management facility.",
+      "sales_note": "고준위 처분 경로의 제도적 진전은 해외 입찰에서 반복해 요구되는 백엔드 관리 역량 항목의 근거가 된다. 당장의 영업 효과는 작지만 기본계획 확정 시점은 제안서 인용 자료로 갱신해 둘 필요가 있다.",
+      "sales_note_en": "Institutional progress on the disposal route supports the back-end management credentials repeatedly demanded in overseas tenders. The near-term sales effect is small, but the date the basic plan is finalised should be refreshed in proposal reference material.",
+      "related": []
+    }
+  ]
+}

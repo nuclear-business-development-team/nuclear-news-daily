@@ -1,0 +1,74 @@
+{
+ "date": "2026-11-04",
+ "run_started": "2026-11-04T08:04:09+09:00",
+ "run_finished": "2026-11-04T08:32:00+09:00",
+ "run_minutes": 27.9,
+ "articles": 15,
+ "by_region": {
+  "overseas": 9,
+  "domestic": 6
+ },
+ "by_importance": {
+  "3": 5,
+  "2": 7,
+  "1": 3
+ },
+ "detection_lag_hours": {
+  "median": 22.2,
+  "max": 47.1,
+  "n": 15
+ },
+ "sources_ok": [
+  "World Nuclear News",
+  "NucNet",
+  "POWER Magazine",
+  "UK DESNZ (gov.uk)",
+  "ANS Nuclear Newswire",
+  "더구루",
+  "정책브리핑(korea.kr)",
+  "한국수력원자력 보도자료",
+  "Korea Times(연합뉴스)",
+  "Orange / L'Express·6Médias",
+  "Medyascope",
+  "아주뉴스",
+  "아시아투데이",
+  "Businesskorea",
+  "TED (api.ted.europa.eu)",
+  "TED notice XML (ted.europa.eu/en/notice/<번호>/xml)",
+  "UK Find a Tender (OCDS API, 1페이지)"
+ ],
+ "sources_failed": [
+  {
+   "name": "Nuclear Engineering International RSS (www.neimagazine.com/feed)",
+   "reason": "stale feed — 301 추적 후 HTTP 200이나 최신 항목이 2026-06-16로 정체. 3회차 연속 동일(직전 2회차 관측 2026-06-17·06-16) → sources.yaml 대체 경로(목록 페이지 직접 확인) 검토 필요"
+  },
+  {
+   "name": "IAEA Top News RSS (www.iaea.org/feeds/topnews)",
+   "reason": "missing item pubDate — 15개 항목 전부 <pubDate> 없음(NODATE)으로 게재일 자동 판정 불가. 제목 확인 결과 기간 내 신규 원전 소식 없음(최신 항목은 10-27 장관회의 개막 등 기수집분)"
+  },
+  {
+   "name": "더트래커 RSS (www.thetracker.co.kr/RSS/RSS.aspx)",
+   "reason": "HTTP 301 후 본문 154바이트, <item> 0건 → 주소 변경 여부 확인 필요"
+  },
+  {
+   "name": "TED 공고 본문 PDF (ted.europa.eu/en/notice/<번호>/pdf)",
+   "reason": "unreadable — HTTP 200·139KB 수신되나 WebFetch가 압축 스트림만 반환해 본문 판독 불가(목차·링크만 노출). ★ 같은 공고의 /xml 엔드포인트는 금회 정상(HTTP 200, 20,677바이트)이어서 발주처·낙찰자·금액·체결일을 XML로 확정했다 — 직전 회차 기록(XML HTTP 202·0바이트)과 달라져 XML을 1차 수단으로 승격"
+  },
+  {
+   "name": "UK Find a Tender OCDS API — 2페이지 이후",
+   "reason": "partial — links.next 커서 URL(cursor=...nextCursor=756385) 요청이 JSON 아닌 응답을 반환해 파싱 실패. 1페이지 100건까지만 전수 확인했으므로 '원자력 관련 2건·신규 0건'은 그 범위의 값이다(직전 회차 5페이지 449건은 정상 동작)"
+  },
+  {
+   "name": "한국전력 보도·설명자료 게시판",
+   "reason": "기간 내 신규 게시 없음(접속 자체는 정상)"
+  }
+ ],
+ "languages": {
+  "en": 8,
+  "ko": 5,
+  "fr": 1,
+  "cs": 1
+ },
+ "notes": "수요일 회차로 기사 15건(해외 9·국내 6)이며 직전 3회차(2·5·9건) 대비 최대치다. 증가분은 ① 에르도안 대통령 국빈 방한(11/2~4) 관련 한-튀르키예 원전 금융 MOU ② WNN 11-03 게재 6건이 한꺼번에 들어온 것 두 가지다. ★ 금회 region 판정 주의건: WNN 'Turkey and South Korea explore nuclear financing cooperation'은 해외 피드에서 나왔으나 서명 주체가 한국수출입은행·기후에너지환경부여서 SKILL 서두 규칙대로 그 자리에서 region:domestic(KR,TR)으로 담았다. 반대로 'Saltfoss targets US licensing'은 삼성중공업이 바지선을 제작하지만 주어가 덴마크 솔트포스여서 overseas(DK,US,KR)로 두었다. 현지어 수집은 수요일이므로 매일 대상국(CZ·PL·SK·SI·NL·SE·GB·FR·TR·SA·AE·KZ·UZ·VN·PH·IN)만 훑었고 JP·CN은 월·목 주기로 생략했다 — 성과는 튀르키예어 검색에서 서명자 2명(TÜNAŞ 네자티 야마치·수출입은행 황기연)과 교역목표 150억 달러를 확보한 것이고, 프랑스어 검색에서 EPR2 재원 구조(예금기금 60%·최대 600억 유로·국가보증 69조)를 확정한 것이다. 제외한 홍보성 단신은 한수원 11-02 게시 4건(정부혁신 사례, 새만금 조력 MOU, 사회적가치경영 대상, 국가생산성대상)과 원안위 11-03 게시 2건(원안위원장 한빛 현장 안전점검, 한빛 원자력안전정보공유센터 운영)이다. 중복 제외는 ANS 'Antares/Last Energy/Radiant DOE 인가'와 'Centrus 원심분리기 출하' 2건(직전 회차 기수록·새 사실 없음), 핵융합·의료동위원소 3건(DOE INFUSE, 일-독 핵융합, UW-매디슨 사이클로트론)이다. ★ 기간 밖 제외 중 가치 있는 건: 테라파워–벡텔 커머러 나트륨 사업 결별(2026년 9월 보도, EPC 재입찰 예정)을 ANS 관련기사 티저에서 발견했으나 게재일 규칙에 따라 싣지 않았다.",
+ "detection_lag_note": "15건 중 11건은 피드·기사 표기 시각을 실측 사용했다 — WNN 6건(11-03 09:25~15:44 GMT), ANS 2건(11-03 09:19·13:54 ET), Orange 1건(11-03 09:55 CET), Korea Times 1건(11-02 15:18 KST), 더구루 1건(11-02 16:08 KST). 날짜까지만 확인된 4건(정책브리핑 2건·한수원 1건·TED 1건)에만 SKILL §9의 09:00(UTC+9) 가정을 적용했다. 최솟값 4.2h는 ANS 와이오밍 기사(게재 4시간 만에 포착), 최댓값 47.1h는 09:00 가정을 쓴 11-02 정책브리핑 한-불가리아 경제공동위 건이다. 중간값이 직전 회차 9.9h에서 22.2h로 늘어난 것은 기사 수가 늘어난 탓이 아니라 WNN 피드 게재 시각대(GMT 오전~오후)가 KST 기준 전일 저녁~심야에 몰려 있고 회차 시작이 08:04이기 때문으로, 수집 지연이 아니라 시차 구조에 따른 값이다."
+}

@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-11-05",
+      "article_count": 5,
+      "headline_ko": "두산에너빌리티가 미국 엑스에너지 Xe-100 증기발생기용 특수합금 튜브를 스웨덴 알레이마에 첫 발주해, 지난해 12월 소재 예약계약이 실제 구매로 넘어갔다 — 텍사스 다우 화학단지의 Xe-100 4기(총 320MW)용으로, 11월 3일 美 NRC의 롱모트 건설허가 최종안전평가보고서 발행과 맞물렸다. 해외에서는 카자흐스탄 토카예프 대통령이 계획 원전 100년분을 감당할 국가 전략 우라늄 비축(2050년까지 최소 15만 톤)을 지시하고, 중국 싼아오 2호기가 11월 2일 노심 연료장전을 마쳤다.",
+      "headline_en": "Doosan Enerbility places its first order for Xe-100 steam generator tubing with Sweden's Alleima, turning last December's materials reservation agreement into a real purchase for the four-unit, 320 MW Xe-100 plant at Dow's Texas site - days after the US NRC issued the construction-permit safety report for Long Mott. Abroad, Kazakhstan's president ordered a strategic uranium reserve of at least 150,000 tonnes by 2050, and China's San'ao 2 completed fuel loading on 2 November."
+    },
+    {
       "date": "2026-11-04",
       "article_count": 15,
       "headline_ko": "에르도안 대통령 국빈 방한에서 튀르키예 원자력공사(TUNAS)와 한국수출입은행이 원전 금융협력 양해각서를 체결해, 시놉 2원전 논의가 부지평가에서 금융구조 협의 단계로 넘어갔다.",

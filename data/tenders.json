@@ -1,8 +1,34 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
+  {
+   "country": "IT",
+   "buyer": "SOGIN S.p.A.",
+   "title": "카오르소 원전 원자로 내부구조물·압력용기 해체 설계용역 및 해체공사 (C0106L26) [마감 연장]",
+   "title_en": "Caorso NPP reactor internals and vessel dismantling - design services and dismantling works (C0106L26) [deadline extended]",
+   "scope": "카오르소 원전(피아첸차)의 원자로 내부구조물(internals)과 압력용기(vessel) 해체에 대한 설계용역과 해체공사를 하나로 묶은 공개입찰. 공사기간은 착수회의(KOM, 계약 체결 후 30일 내 개최) 기준 2,438일이고, 낙찰은 품질·가격 최적비율(이탈리아 공공조달법 D.Lgs. 36/2023 제108조 1·2항)로 정한다. 입찰보증은 총액의 2%. 당초 마감 2026-10-30 18:00에서 2026-12-14 12:00으로 연장됐다(정정공고 사유: 입찰서 제출기한 연장).",
+   "scope_en": "Open procedure bundling design services with the dismantling works for the reactor internals and pressure vessel at the Caorso nuclear power plant (Piacenza). The works run 2,438 calendar days from the kick-off meeting, which is to be held within 30 days of contract completion, and the award is on the best quality/price ratio under Article 108(1)-(2) of Italy's public procurement code (D.Lgs. 36/2023). A provisional guarantee of 2% of the total applies. The deadline was extended from 30 October 2026 18:00 to 14 December 2026 12:00 (corrigendum reason: extension of the bid submission deadline).",
+   "portal": "TED",
+   "notice_no": "767219-2026",
+   "published": "2026-11-04",
+   "deadline": "2026-12-14",
+   "url": "https://ted.europa.eu/en/notice/767219-2026/xml"
+  },
+  {
+   "country": "GB",
+   "buyer": "International Nuclear Services Limited (Nuclear Transport Solutions)",
+   "title": "기자재·조립품 제작 기본협약 사전시장조사(PME/RFI)",
+   "title_en": "Preliminary market engagement (PME/RFI) for a Manufacturing Framework for Components and Assemblies",
+   "scope": "기자재·조립품 제작 기본협약 발주에 앞선 사전시장조사(RFI). 회신 기한은 2026-11-12 23:59이고 Atamis 포털로 접수한다. 공고 기재 예정 계약기간은 2027-05-10~2031-05-09, 공고 기재값은 500만 파운드(부가세 포함 600만 파운드)이며 CPV는 14622000(강재)·45255400(제작역무)이다. 중소기업 참여 적합으로 표시돼 있다.",
+   "scope_en": "Preliminary market engagement (RFI) ahead of a manufacturing framework for components and assemblies. Responses are due by 23:59 on 12 November 2026 via the Atamis portal. The notice states a contract period of 10 May 2027 to 9 May 2031 and a value of GBP 5 million (GBP 6 million including VAT), under CPV codes 14622000 (steel) and 45255400 (fabrication work). The notice marks the lot as suitable for SMEs.",
+   "portal": "UK Find a Tender",
+   "notice_no": "104582-2026",
+   "published": "2026-11-04",
+   "deadline": "2026-11-12",
+   "url": "https://www.find-tender.service.gov.uk/Notice/104582-2026"
+  },
   {
    "country": "CZ",
    "buyer": "ČEZ, a. s.",
@@ -28,19 +54,6 @@
    "published": "2026-11-02",
    "deadline": "2026-11-16",
    "url": "https://ted.europa.eu/en/notice/757424-2026/pdf"
-  },
-  {
-   "country": "RO",
-   "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
-   "title": "체르나보다 2호기 가스크로마토그래프 계통 전면 개보수 (CR 45422) — 재공고",
-   "title_en": "Full refit of the unit 2 gas chromatograph system, Cernavoda (CR 45422) - re-advertised",
-   "scope": "2호기 가스크로마토그래프 계통 개보수용 하드웨어·소프트웨어 제작·공급과 기존 계통 철거·설치, 시험·시운전·인수. 추정금액 53만 2,100유로, 계약기간 12개월, 공개입찰, 입찰 마감 2026년 11월 4일 15시. 같은 조달의 앞선 공고(668972-2026)는 2026년 10월 14일에 마감됐다.",
-   "scope_en": "Manufacture and supply of hardware and software for the unit 2 gas chromatograph refit, removal and installation of the existing system, and testing, commissioning and acceptance. Estimated value EUR 532,100 over 12 months, open procedure, bids due by 15:00 on 4 November 2026. The earlier notice for the same procurement, 668972-2026, closed on 14 October 2026.",
-   "portal": "TED",
-   "notice_no": "712302-2026",
-   "published": "2026-10-15",
-   "deadline": "2026-11-04",
-   "url": "https://ted.europa.eu/en/notice/712302-2026/pdf"
   },
   {
    "country": "GB",

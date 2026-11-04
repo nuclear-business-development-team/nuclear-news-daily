@@ -134,7 +134,7 @@ description: 원전 해외영업팀용 일일 원자력 뉴스 브리핑을 만�
 
 - **워치리스트의 사업명·파트너·단계를 공개 저장소(`nuclear-news-daily`) 파일이나 웹페이지에 절대 쓰지 않는다.**
 - 공고 자체가 공개 정보여도, "우리가 이 건을 보고 있다"는 맥락은 비공개 쪽에만 적는다.
-- 커밋: `cd pipeline-watch && git add alerts tenders data metrics poc && git commit -m "watch: DATE (공고 N건 / 동향 M건)" && git push`
+- 커밋: `cd pipeline-watch && git add alerts tenders data metrics poc competitors && git commit -m "watch: DATE (공고 N건 / 동향 M건)" && git push`
 
 ### 3-8. PoC 메트릭 기록 (MBO 배점 3)
 
@@ -149,6 +149,15 @@ description: 원전 해외영업팀용 일일 원자력 뉴스 브리핑을 만�
 - `method_changes`: 이번 회차에 바꾼 수집·판정 방식(있을 때만)
 
 알림·제외 건은 `pipeline-watch/poc/evaluation-log.md`에 같은 형식으로 이어 붙인다(판정자·검수일은 사람이 나중에 채움). 오탐이 나오면 판정 규칙 보완을 `poc/README.md §3`에 남긴다. python3로 JSON 문법을 검증한다.
+
+### 3-8-1. 경쟁사 동향 트래커 (비공개)
+
+`pipeline-watch/competitors/moves.json`의 **앵커 기업**(현대건설·KHNP·두산·Westinghouse·Bechtel·EDF·Rolls-Royce SMR)에 해당하는 **수주·MOU·입찰·제휴·결렬**이 이번 회차 뉴스·공고에 잡히면 여기에 누적한다. #1 수집 엔진을 공유하므로 별도 검색은 최소화하고, §1·§3에서 이미 본 건 중 앵커 기업 건만 골라낸다.
+
+- `moves[]`에 `{date, company, type, counterparty, project, country, importance, note, edge{a,b,change}, source, url}` 한 줄 추가. `type`은 수주/계약·MOU/협약·입찰/공급사·제휴/컨소시엄·선정/우선협상·철수/결렬 중 하나.
+- **파트너십 변화가 핵심**: 새 제휴·결렬·중첩(같은 업체가 경쟁 진영 동시 참여)이 보이면 `partnerships[]`의 해당 엣지 `status`를 갱신(active/new/broken/overlap/forming/weakened)하거나 새 엣지를 추가한다.
+- `updated`를 오늘 날짜로. python3로 JSON 문법 검증.
+- **기밀**: 이 트래커는 경쟁 포지션·파트너십 분석이라 **비공개 전용**. 공개 저장소(`tenders.json`·뷰어)에는 넣지 않는다. 공개 쪽에는 같은 사건이 중립적 공고·기사로만 남는다.
 
 ### 3-9. 공개 공고 보드 갱신 (공개 저장소)
 

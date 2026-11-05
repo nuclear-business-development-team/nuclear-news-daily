@@ -1,0 +1,64 @@
+{
+ "date": "2026-11-06",
+ "run_started": "2026-11-06T08:04:25+09:00",
+ "run_finished": "2026-11-06T08:31:41+09:00",
+ "run_minutes": 27.3,
+ "articles": 7,
+ "by_region": {
+  "overseas": 5,
+  "domestic": 2
+ },
+ "by_importance": {
+  "3": 1,
+  "2": 6,
+  "1": 0
+ },
+ "detection_lag_hours": {
+  "median": 8.42,
+  "max": 15.02,
+  "n": 7
+ },
+ "sources_ok": [
+  "World Nuclear News (RSS)",
+  "NucNet (RSS)",
+  "IAEA Top News (RSS)",
+  "POWER Magazine (RSS)",
+  "UK DESNZ gov.uk (Atom)",
+  "ANS Nuclear Newswire",
+  "더구루 (RSS)",
+  "더트래커 (RSS, 301 리다이렉트 후)",
+  "정책브리핑 korea.kr (검색어 원전/SMR/원자력 3회)",
+  "한국수력원자력 보도자료",
+  "한국전력 보도·설명자료",
+  "전기신문 원자력면",
+  "한국원자력신문",
+  "TED 검색 API (api.ted.europa.eu/v3)",
+  "UK Find a Tender OCDS API"
+ ],
+ "sources_failed": [
+  {
+   "name": "Nuclear Engineering International RSS (neimagazine.com/feed)",
+   "reason": "HTTP 200 / 본문 0바이트 — 5회차 연속 이상, sources.yaml 대체 경로 전환 필요"
+  },
+  {
+   "name": "OECD NEA News 목록 (oecd-nea.org/jcms/c_12886/news)",
+   "reason": "403"
+  },
+  {
+   "name": "TED 공고 본문 (ted.europa.eu/en/notice/<번호>/pdf · /xml)",
+   "reason": "pdf 빈 응답 · xml HTTP 202 — 검색 API 필드로 대체(구조적, 수집에 지장 없음)"
+  },
+  {
+   "name": "핀란드 Hilma 공고 본문 (hankintailmoitukset.fi)",
+   "reason": "JavaScript 전용 SPA — 본문 판독 불가, 공개 API 엔드포인트도 404. Helen 원자력 프로그램 기술지원 용역 공고의 게재일·마감 미확인"
+  },
+  {
+   "name": "Rolls-Royce SMR 공급망 (rolls-royce-smr.com)",
+   "reason": "403 — 크롤러 차단, 6회차 연속. 검색으로 대체(기간 내 신규 없음)"
+  }
+ ],
+ "languages": {
+  "en": 5,
+  "ko": 2
+ }
+}

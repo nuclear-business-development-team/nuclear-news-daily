@@ -1,0 +1,262 @@
+{
+ "date": "2026-11-06",
+ "generated_at": "2026-11-06T08:52:00+09:00",
+ "period": {
+  "from": "2026-11-05",
+  "to": "2026-11-06"
+ },
+ "overview_ko": "폴란드 AP1000이 설계에서 제작 단계로 넘어갔다. 웨스팅하우스가 일본 IHI에 1호기 격납용기와 원자로·증기발생기를 감싸는 CA01 '슈퍼모듈'을 발주하고, 벽체·바닥 모듈 4개 패키지는 폴란드 업체 4곳에 조건부로 돌려 '핵심 대형 모듈=해외 역량업체, 부수 구조물=현지화' 분할을 드러냈다. 핀란드에서는 헬싱키 시 에너지기업 Helen이 노형·공급사를 비워둔 채 도심 SMR 법정 환경영향평가에 착수해 2028년 부지·노형 결정을 목표로 걸었고, 벨기에는 정부–엔지 원자력 자산 인수 협상 시한을 12월 12일로 또 밀며 가치평가 이견을 드러냈다. 연료 쪽에서는 유렌코가 하루에 용융염로 개발사 두 곳과 양해각서를 맺어 농축사업자가 선진로 전단 연료공정 설계까지 내려오는 흐름을 보였고, 미국에서는 세일럼 1·2호기 합계 200MW 출력증강과 20년 계속운전 신청 예고로 신규 건설보다 기존 호기 증강이 앞서는 양상이 이어졌다. 영업 관점: 유럽 대형원전의 발주가 구조물 단위 모듈 패키지로 쪼개지고 현지 업체가 먼저 자격체계에 들어가는 만큼, 격납용기·대형 모듈 제작과 모듈화 엔지니어링을 우리 진입점으로 삼고 현지 파트너 확보를 선행 과제로 다뤄야 한다.",
+ "overview_en": "Poland's AP1000 has crossed from design into fabrication. Westinghouse ordered the first unit's containment vessel and the CA01 'super module' housing the reactor and steam generators from Japan's IHI, while conditionally placing four wall and floor module packages with four Polish firms - exposing a split of 'critical large modules to qualified foreign suppliers, secondary structures localised'. In Finland, Helsinki's city utility Helen opened the statutory environmental assessment for an urban SMR with the reactor design and supplier slots still empty, targeting a site and technology decision in 2028. Belgium pushed its government-Engie nuclear asset talks back again, to 12 December, over unresolved valuation differences. On fuel, Urenco signed MOUs with two molten salt reactor developers in a single day, showing enrichment providers moving upstream into designing advanced reactors' front-end fuel processes; and in the US a combined 200 MW uprate at Salem 1 and 2 plus flagged 20-year licence renewals continued the pattern of uprates running ahead of new build. Sales angle: with European large-reactor work being broken into structure-level module packages and local firms entering qualification systems first, containment-vessel and large-module fabrication plus modularisation engineering are our entry points, and securing local partners is the prerequisite task.",
+ "domestic_overview_ko": "두 건 모두 이미 체결된 합의의 뒷면을 보여준다. 튀르키예 시놉은 11월 3일 정상회담과 수출입은행–튀르키예원자력공사 금융 양해각서 이후, 발주처가 중국 국영기업·캐나다 앳킨스레알리스·미국·프랑스 기업을 함께 남겨 두고 금융조건과 발전원가를 선정 기준으로 내세운 구도가 확인됐다. 총사업비 300억 달러·4기 규모에 2035년 7.2GW·2050년 20GW 목표가 붙었고, 대한국 무역적자 91억 2천만 달러를 배경으로 역내산 확대 요구가 변수로 지목됐다. 대미 원전은 미 중간선거 결과를 들어 서왕진 의원이 100억 달러 선송금 중단과 한미 원전 프레임워크 재협상 검토를 요구하며 국내 정치 쟁점으로 올라왔다. 영업 관점: 양해각서와 프레임워크는 수주가 아니라 조건 협상의 출발점이므로, 시놉은 금융 패키지와 LCOE 경쟁으로, 대미 사업은 인허가·송금 일정이 확정될 때까지 단계적 투입으로 다루고 유럽 개보수·중동·동남아 비중을 함께 유지하는 편이 안전하다.",
+ "domestic_overview_en": "Both items show the other side of agreements already signed. On Turkey's Sinop, follow-up reporting after the 3 November summit and the KEXIM-TUNAS financing memorandum confirms the client is keeping a Chinese state-owned firm, Canada's AtkinsRealis and US and French companies all in play, with financing terms and generation cost as the stated selection criteria. The project is four units at USD 30 billion against national targets of 7.2 GW by 2035 and 20 GW by 2050, and Turkey's USD 9.12 billion trade deficit with Korea is flagged as driving local-content demands. On the US programme, Rep. Seo Wang-jin cited the midterm result in calling for the USD 10 billion advance transfer to be suspended and the Korea-US nuclear framework to be considered for renegotiation, making it a domestic political issue. Sales angle: an MOU or framework is the start of terms negotiation rather than an award, so Sinop should be treated as a financing-package and LCOE contest, the US programme staged until licensing and transfer dates are fixed, and weight kept on European refurbishment, the Middle East and Southeast Asia.",
+ "countries_pulse": [
+  {
+   "country": "PL",
+   "name_ko": "폴란드",
+   "name_en": "Poland",
+   "stance": "expanding",
+   "signal": "루비아토보-코팔리노 AP1000 1호기 장납기 품목 발주 개시 — 격납용기·CA01 슈퍼모듈은 일본 IHI, 벽체·바닥 모듈은 폴란드 4개사 조건부 발주. 착공 2028년, 1호기 상업운전 2036년.",
+   "signal_en": "Long-lead ordering has begun for the first Lubiatowo-Kopalino AP1000 - containment vessel and CA01 super module to Japan's IHI, wall and floor modules conditionally to four Polish firms. Construction in 2028, first unit operating in 2036.",
+   "article_ids": [
+    "2026-11-06-01"
+   ]
+  },
+  {
+   "country": "JP",
+   "name_ko": "일본",
+   "name_en": "Japan",
+   "stance": "expanding",
+   "signal": "IHI가 폴란드 AP1000 격납용기와 CA01 슈퍼모듈 설계·조달을 수주해 유럽 대형원전 공급망에 진입 — 일본 기자재 업체의 서방 신규 건설 참여가 확대되는 신호.",
+   "signal_en": "IHI has won engineering and procurement of the containment vessel and CA01 super module for Poland's AP1000, entering the European large-reactor supply chain - a sign of widening Japanese supplier participation in Western new build.",
+   "article_ids": [
+    "2026-11-06-01"
+   ]
+  },
+  {
+   "country": "FI",
+   "name_ko": "핀란드",
+   "name_en": "Finland",
+   "stance": "expanding",
+   "signal": "헬싱키 Helen이 도심 SMR 법정 환경영향평가에 착수 — 열전용 600MWt / 열병합 500MWe 두 안, 부지 3곳, 노형·공급사 미정, 부지 결정 2028년.",
+   "signal_en": "Helsinki's Helen has started the statutory EIA for an urban SMR - heat-only 600 MWt or 500 MWe cogeneration options across three sites, with reactor design and supplier still open and a site decision due in 2028.",
+   "article_ids": [
+    "2026-11-06-02"
+   ]
+  },
+  {
+   "country": "BE",
+   "name_ko": "벨기에",
+   "name_en": "Belgium",
+   "stance": "cautious",
+   "signal": "정부–엔지 원자력 자산 인수 협상 시한이 10월 1일 → 11월 4일 → 12월 12일로 재연장, 가치평가 이견 지속. 추가 연장은 최대 1개월로 제한.",
+   "signal_en": "The government-Engie nuclear asset talks have slipped again, from 1 October to 4 November to 12 December, with valuation differences unresolved and any further extension capped at one month.",
+   "article_ids": [
+    "2026-11-06-03"
+   ]
+  },
+  {
+   "country": "DK",
+   "name_ko": "덴마크",
+   "name_en": "Denmark",
+   "stance": "expanding",
+   "signal": "코펜하겐 아토믹스가 유렌코와 UF6→UF4 탈변환 설비 설계 양해각서 — 자사 용융염로용을 넘어 타 개발사·연구기관 연료염 공급까지 겨냥.",
+   "signal_en": "Copenhagen Atomics has signed an MOU with Urenco to design a UF6-to-UF4 deconversion line, aiming beyond its own molten salt reactors to supply fuel salts to other developers and research institutes.",
+   "article_ids": [
+    "2026-11-06-04"
+   ]
+  },
+  {
+   "country": "US",
+   "name_ko": "미국",
+   "name_en": "United States",
+   "stance": "expanding",
+   "signal": "세일럼 1·2호기 합계 200MW 출력증강 추진, 세일럼·호프크리크 20년 계속운전 신청 예고 — 신규 건설보다 기존 호기 증강·수명연장이 선행. 한편 중간선거 후 의회 구도 변화가 대미 원전 8기 사업의 정치 리스크로 거론되기 시작.",
+   "signal_en": "A combined 200 MW uprate is planned at Salem 1 and 2, with 20-year licence renewals flagged for Salem and Hope Creek - uprates and life extension running ahead of new build. Meanwhile the post-midterm shift in Congress is starting to be cited as political risk for the eight-unit programme with Korea.",
+   "article_ids": [
+    "2026-11-06-05",
+    "2026-11-06-07"
+   ]
+  },
+  {
+   "country": "TR",
+   "name_ko": "튀르키예",
+   "name_en": "Turkiye",
+   "stance": "expanding",
+   "signal": "시놉 4기(총사업비 300억 달러)에 중국 국영기업·캐나다 앳킨스레알리스·미국·프랑스 기업이 경합, 선정 기준은 금융조건과 발전원가. 2035년 7.2GW·2050년 최소 20GW 목표, 대한국 무역적자를 배경으로 역내산 요구 가능성.",
+   "signal_en": "Four units at Sinop (USD 30 billion total) are contested by a Chinese state-owned firm, Canada's AtkinsRealis and US and French companies, with financing terms and generation cost as the stated criteria. Turkey targets 7.2 GW by 2035 and at least 20 GW by 2050, and its trade deficit with Korea may drive local-content demands.",
+   "article_ids": [
+    "2026-11-06-06"
+   ]
+  },
+  {
+   "country": "INT",
+   "name_ko": "국제",
+   "name_en": "International",
+   "stance": "expanding",
+   "signal": "유렌코가 같은 날 용융염로 개발사 2곳(코펜하겐 아토믹스·토리존)과 각각 양해각서 — 농축사업자가 선진로 전단 연료공정 설계까지 들어오는 수직 결합 흐름.",
+   "signal_en": "Urenco signed MOUs with two molten salt reactor developers on the same day (Copenhagen Atomics and Thorizon) - enrichment providers moving upstream into designing advanced reactors' front-end fuel processes.",
+   "article_ids": [
+    "2026-11-06-04"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-06-01",
+   "title": "IHI to supply components for first Polish AP1000",
+   "title_ko": "IHI, 폴란드 첫 AP1000용 격납용기·CA01 슈퍼모듈 수주 — 웨스팅하우스, 폴란드 5개사에도 조건부 발주",
+   "title_en": "IHI to supply containment vessel and CA01 super module for Poland's first AP1000",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/ihi-to-supply-components-for-first-polish-ap1000",
+   "published": "2026-11-05",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "PL",
+    "JP",
+    "US"
+   ],
+   "importance": 3,
+   "summary_ko": "웨스팅하우스가 일본 IHI에 폴란드 루비아토보-코팔리노 AP1000 1호기용 격납용기와 원자로압력용기·증기발생기를 감싸는 CA01 '슈퍼모듈'(47개 소형모듈로 구성된 콘크리트·철골 구조물)의 설계·조달을 발주했다. 같은 장납기 품목으로 폴란드 업체 4곳에도 조건부 구매주문이 나갔다 — 모스토스탈 키엘체(CA02 벽체), 에네르고몬타주-푸우노츠 그디니아(CA03), 모스토스탈 크라쿠프(CA05 벽체), FAMAK(CA20 바닥). 발주처 PEJ가 지난달 웨스팅하우스에 장납기 품목 발주를 승인한 데 따른 것으로, 착공은 2028년, 1호기 상업운전은 2036년, 3기 전체 가동은 2038년이다. 계약금액은 공개되지 않았다.",
+   "summary_en": "Westinghouse has ordered engineering and procurement of long-lead items from Japan's IHI for the first AP1000 at Lubiatowo-Kopalino, Poland: the containment vessel and the CA01 'super module', a concrete-and-steel structure of 47 sub-modules housing the reactor pressure vessel and steam generators. Conditional purchase orders for other modules went to four Polish firms - Mostostal Kielce (CA02 walls), Energomontaz-Polnoc Gdynia (CA03), Mostostal Krakow (CA05 walls) and FAMAK (CA20 floors). PEJ authorised Westinghouse to start ordering long-lead items last month. Construction is to begin in 2028, with first unit commercial operation in 2036 and all three units at full capacity by 2038. No contract value was disclosed.",
+   "sales_note": "폴란드 AP1000이 설계 단계에서 제작·조달 단계로 넘어갔고, 모듈 패키지가 구조물 단위(CA01·CA02·CA03·CA05·CA20)로 쪼개져 발주되는 방식이 확인됐다. 격납용기와 핵심 슈퍼모듈은 일본 IHI가, 나머지 벽체·바닥 모듈은 현지 업체가 맡는 구도여서 '핵심 대형 모듈=역량 보유 해외업체, 부수 구조물=현지화' 분할이 유럽 신규 사업의 표준형으로 굳을 가능성이 있다. 같은 분할이 체코·루마니아에도 적용된다면 우리가 노릴 자리는 격납용기·대형 모듈 제작 또는 모듈화 엔지니어링이며, 폴란드 5개사가 이미 웨스팅하우스 자격체계에 들어간 만큼 현지 파트너 확보 경쟁은 이미 시작된 상태로 봐야 한다.",
+   "sales_note_en": "Poland's AP1000 has moved from design into fabrication and procurement, and the module packages are being tendered structure by structure (CA01, CA02, CA03, CA05, CA20). The containment vessel and the key super module go to Japan's IHI while wall and floor modules go to local firms - a 'critical large modules to a qualified foreign supplier, secondary structures localised' split that may become the European norm. If the same split is applied in Czechia and Romania, our openings are containment-vessel and large-module fabrication or modularisation engineering; with five Polish firms already inside Westinghouse's qualification system, the race for local partners has already begun.",
+   "related": [
+    "https://biznesalert.pl/usa-westinghouse-polska-europa-energetyka-atom/"
+   ]
+  },
+  {
+   "id": "2026-11-06-02",
+   "title": "Helen to assess environmental impacts of SMR in Helsinki",
+   "title_ko": "헬싱키 에너지공사 Helen, SMR 환경영향평가(EIA) 프로그램 공표 — 열전용 600MWt / 열병합 500MWe안, 2028년 부지 결정",
+   "title_en": "Helsinki utility Helen opens environmental assessment for a city SMR",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/helen-to-assess-environmental-impacts-of-smr-in-helsinki",
+   "published": "2026-11-05",
+   "region": "overseas",
+   "category": "smr",
+   "countries": [
+    "FI"
+   ],
+   "importance": 2,
+   "summary_ko": "헬싱키 시 에너지기업 Helen의 원자력 자회사 Helen Ydinvoima가 소형모듈원자로(SMR) 환경영향평가 프로그램을 공표하며 핀란드 법정 EIA 절차를 시작했다. 검토 대안은 열전용 플랜트(열출력 600MWt, 원자로 630MW)와 열병합 플랜트(열 700MWt·전기 500MWe, 원자로 1,400MW) 두 가지이며 모두 최대치 기준으로 실제 규모는 더 작아질 수 있다. 후보 부지는 살미사리·부오사리·노르베리에트 3곳이고, 살미사리는 공간 부족으로 열병합은 검토 대상에서 제외됐다. EIA 보고서는 2028년 제출 예정이고 부지 결정도 2028년을 목표로 한다. 노형과 공급사는 아직 정해지지 않았으며 '실증된 설계' 기준으로 평가 중이고, EIA 용역은 스웨덴 AFRY가 맡았다.",
+   "summary_en": "Helen Ydinvoima, the nuclear arm of Helsinki's city energy company Helen, has published its environmental impact assessment (EIA) programme for a small modular reactor, starting Finland's statutory EIA procedure. Two options are under review: a heat-only plant (600 MW thermal output, 630 MW reactor) and a cogeneration plant (700 MW thermal and 500 MW electrical, 1,400 MW reactor), both stated as maximum capacities. Three candidate sites are named - Salmisaari, Vuosaari and Norrberget - with cogeneration excluded at Salmisaari for lack of space. The EIA report is due in 2028 and Helen aims to choose a site the same year. No reactor design or plant supplier has been selected; Helen says it is evaluating proven designs. Sweden's AFRY is the EIA consultant.",
+   "sales_note": "노형·공급사가 아직 비어 있는 상태에서 법정 인허가 절차가 시작됐다는 점이 중요하다. EIA 단계에서 열전용과 열병합 두 안이 병행 검토되므로 노형 선정은 열·전기 비율과 도심 입지 조건에 좌우될 가능성이 크고, 2028년 부지·노형 결정 전까지가 설계·엔지니어링 측 진입 구간이다. 도심 지역난방 SMR은 i-SMR이 내세울 수 있는 열병합·소규모 입지 적합성과 겹치는 시장이며, EIA 용역을 현지 엔지니어링사(AFRY)가 쥐고 있다는 점에서 초기 기술자문·안전해석 역무부터 현지 업체와의 협업 구도를 전제해야 한다.",
+   "sales_note_en": "What matters is that the statutory licensing process has started while the reactor design and supplier slots are still open. Because the EIA weighs heat-only and cogeneration options in parallel, design selection will hinge on the heat-to-power ratio and urban siting constraints - making the window up to the 2028 site and technology decision the entry point for design and engineering work. A district-heating SMR in a capital city overlaps with the cogeneration and small-footprint case Korea's i-SMR can make; and with a local engineering firm (AFRY) holding the EIA mandate, any approach should assume partnering with local players from the early technical-advisory and safety-analysis scope onward.",
+   "related": []
+  },
+  {
+   "id": "2026-11-06-03",
+   "title": "Belgian nuclear power plant negotiations extended",
+   "title_ko": "벨기에 정부–엔지(Engie) 원자력 자산 인수 협상, 12월 12일로 재연장 — 가치평가 이견 지속",
+   "title_en": "Belgium-Engie nuclear asset talks pushed back again to 12 December",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/belgian-nuclear-power-plant-negotiations-extended",
+   "published": "2026-11-05",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "BE",
+    "FR"
+   ],
+   "importance": 2,
+   "summary_ko": "벨기에 정부가 엔지(Engie)·일렉트라벨의 원자력 사업 전부 — 원자로 7기와 인력·자회사·해체 채무를 포함한 자산·부채 — 를 인수하는 협상의 주요조건서(heads of terms) 체결 시한이 다시 밀렸다. 당초 10월 1일이던 목표가 11월 4일로, 이번에 12월 12일로 재연장됐고, 양측은 '특히 거래 가치평가에서 상당한 이견'이 남았다고 밝혔다. 추가 연장은 최대 1개월로 제한했다. 벨기에는 2003년 탈원전법을 2025년 5월 의회에서 폐지했으며, 도엘 1·2호기와 도엘 3호기·티한지 1·2호기는 이미 정지됐고 도엘 4호기와 티한지 3호기만 2035년까지 계속운전 중이다.",
+   "summary_en": "Belgium's negotiations to take over Engie and Electrabel's entire nuclear business - all seven reactors plus the associated staff, subsidiaries, assets and liabilities including decommissioning obligations - have slipped again. The target for concluding heads of terms moved from 1 October to 4 November and now to 12 December, with both sides citing 'significant differences' remaining, 'particularly regarding the valuation of the transaction'. They capped any further extension at one month. Parliament repealed Belgium's 2003 phase-out law in May 2025; Doel 1 and 2, Doel 3, Tihange 1 and Tihange 2 are already shut, leaving only Doel 4 and Tihange 3 operating under extension to 2035.",
+   "sales_note": "원자로 7기와 해체 채무를 한 덩어리로 옮기는 거래가 가치평가에서 두 번 연속 막혔다는 것은 유럽에서 기존 원전 자산의 가격·리스크 분담 기준이 아직 합의되지 않았다는 신호다. 벨기에가 국가 소유 체제로 넘어가면 향후 계속운전·개보수·신규 발주의 주체가 민간에서 정부로 바뀌어 발주 방식과 금융구조가 달라지므로, 벨기에를 잠재시장으로 보는 경우 협상 타결 시점과 인수 주체 확정을 선행 지표로 삼아야 한다. 해체 채무 평가가 쟁점이라는 점은 해체·개보수 용역 발주의 규모와 시기를 좌우한다.",
+   "sales_note_en": "That a transfer of seven reactors plus decommissioning liabilities has stalled twice over valuation signals that Europe still lacks an agreed basis for pricing and allocating risk on existing nuclear assets. If Belgium moves to state ownership, the counterparty for future life-extension, refurbishment and new-build procurement shifts from a private utility to government, changing both tender formats and financing structures - so anyone treating Belgium as a prospective market should watch the closing date and the final acquiring entity as leading indicators. The fact that decommissioning-liability valuation is the sticking point will drive the size and timing of future decommissioning and refurbishment tenders.",
+   "related": []
+  },
+  {
+   "id": "2026-11-06-04",
+   "title": "Copenhagen Atomics to build deconversion facility",
+   "title_ko": "코펜하겐 아토믹스–유렌코, UF6→UF4 탈변환 설비 설계 양해각서 — 세계 첫 톤급 연료염 생산시설",
+   "title_en": "Copenhagen Atomics and Urenco sign MOU on a UF6-to-UF4 deconversion line",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/copenhagen-atomics-to-build-deconversion-facility",
+   "published": "2026-11-05",
+   "region": "overseas",
+   "category": "fuel",
+   "countries": [
+    "DK",
+    "INT"
+   ],
+   "importance": 2,
+   "summary_ko": "덴마크 용융염로 개발사 코펜하겐 아토믹스가 농축 서비스 기업 유렌코와 양해각서를 맺고, 코펜하겐 연료시설 안에 육불화우라늄(UF6)을 사불화우라늄(UF4)으로 바꾸는 탈변환 설비를 짓기로 했다. 설계는 유렌코가 지원하며, 코펜하겐 아토믹스는 농축 UF6를 조달해 UF4로 전환한 뒤 고순도 연료염을 만들어 자사 원자로에 쓰고 다른 용융염로 개발사와 연구기관에도 공급할 계획이다. 회사는 이 설비를 '세계 최초의 톤급 연료염 생산시설'의 일부로 설명했으며, 탈변환 라인 용량과 건설 일정은 공개하지 않았다. 첫 시험로는 스위스 폴 셰러 연구소에서 가동할 예정이고 상업 배치 목표는 2030년대 초반이다. 유렌코는 같은 날 또 다른 용융염로 개발사 토리존(Thorizon)과도 별도 양해각서를 체결했다.",
+   "summary_en": "Danish molten salt reactor developer Copenhagen Atomics has signed a memorandum of understanding with enrichment services provider Urenco to build a uranium deconversion facility - converting uranium hexafluoride (UF6) into uranium tetrafluoride (UF4) - at its fuel facility in Copenhagen, with Urenco helping design it. Copenhagen Atomics will source enriched UF6, convert it to UF4 and produce high-purity fuel salts for its own reactors and for other molten salt developers and research institutes. The company describes the line as part of what it calls the world's first tonne-scale fuel-salt production facility; neither the line's capacity nor a construction schedule was given. Its first test reactor is to run at Switzerland's Paul Scherrer Institute, with commercial deployment targeted for the early 2030s. Urenco signed a separate MOU with another molten salt developer, Thorizon, the same day.",
+   "sales_note": "농축사업자가 노형 개발사의 전단(前段) 연료공정 설비 설계까지 들어오는 구도가 늘고 있다 — 유렌코가 하루에 용융염로 개발사 2곳과 각각 손잡았다는 사실이 그 방향을 보여준다. 선진로는 연료 형태가 노형마다 달라 기존 핵연료 공급망으로 커버되지 않으므로, 농축·전환·연료제조 각 단계에서 개발사–공급사 수직 결합이 먼저 굳어지고 나중에 진입하기 어려워진다. 우리 쪽 선진로·SMR 사업에서도 노형 선택과 연료공급 확보를 같은 시점에 묶어 판단해야 한다는 뜻이다.",
+   "sales_note_en": "Enrichment companies are increasingly moving upstream into designing reactor developers' front-end fuel facilities - Urenco tying up with two molten salt developers on a single day shows the direction. Because advanced reactors each need a different fuel form that the existing fuel supply chain does not cover, developer-supplier vertical links are being locked in now at the enrichment, conversion and fuel-fabrication stages, and will be hard to enter later. The implication for our own advanced reactor and SMR plays is that reactor selection and securing fuel supply have to be decided together, not sequentially.",
+   "related": []
+  },
+  {
+   "id": "2026-11-06-05",
+   "title": "Salem power plant planning 200-MW uprate",
+   "title_ko": "미국 세일럼 원전 1·2호기, 합계 200MW 출력증강 추진 — 20년 계속운전 신청도 예고",
+   "title_en": "US Salem plant plans a combined 200 MW uprate, with 20-year licence renewals to follow",
+   "language": "en",
+   "source": "ANS Nuclear Newswire",
+   "url": "https://www.ans.org/news/2026-11-05/article-8561/salem-power-plant-planning-200mw-uprate/",
+   "published": "2026-11-05",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "US"
+   ],
+   "importance": 2,
+   "summary_ko": "뉴저지주 핸콕스브리지 세일럼 원전(가압경수로 1호기 1,146MWe·2호기 1,139MWe)에서 합계 200MW 규모의 출력증강이 추진된다. 지분은 PSEG 뉴클리어 57%, 콘스텔레이션 43%이며 운영은 PSEG가 맡고 있어 PSEG 몫은 약 112MW다. 보도는 출력증강의 인허가 신청 시점·시행 일정·투자비를 제시하지 않았다. 별건으로 PSEG는 세일럼과 호프크리크 원전의 20년 계속운전(운영허가 갱신) 신청 의향을 미 원자력규제위원회(NRC)에 통보했다.",
+   "summary_en": "A combined 200 MW uprate is planned at the Salem plant in Hancocks Bridge, New Jersey - two pressurised water reactors of 1,146 MWe (Unit 1) and 1,139 MWe (Unit 2). PSEG Nuclear holds 57% and Constellation 43%, with PSEG operating the site, putting PSEG's share at roughly 112 MW. The report gives no licensing filing date, implementation schedule or cost for the uprate. Separately, PSEG has notified the US NRC of its intent to file for 20-year licence renewals for both Salem and Hope Creek.",
+   "sales_note": "미국의 신규 전력수요 대응이 신규 건설보다 기존 호기의 출력증강과 수명연장에 먼저 쏠리는 흐름이 이어진다. 출력증강은 증기발생기·터빈·복수기·주요 펌프 교체를 수반해 개보수·주기기 교체 발주를 만들어내므로, 대형원전 신규 수주와 별개로 미국 내 개보수·설비개선 시장이 당분간 더 빠르게 열릴 수 있다. 우리 측 주기기·기자재 업체에는 신규 건설 레퍼런스보다 접근 장벽이 낮은 진입 경로다.",
+   "sales_note_en": "The pattern of the US meeting new load growth through uprates and life extension of existing units before new build continues. Uprates typically pull in steam generator, turbine, condenser and major pump replacements, generating refurbishment and major-component tenders - so the US retrofit and plant-improvement market may open faster than new-build awards for some time. For Korean major-component and equipment suppliers that is a lower-barrier entry route than chasing new-build references.",
+   "related": []
+  },
+  {
+   "id": "2026-11-06-06",
+   "title": "에르도안 튀르키예 대통령, 독일 빗장 뚫을 대안으로 현대로템 전차와 한국 원전을 선택",
+   "title_ko": "[후속] 튀르키예 시놉 원전 — 2035년 7.2GW·2050년 20GW 목표에 중국·캐나다·미국·프랑스 경합, 현지화 요구 변수",
+   "title_en": "[Follow-up] Turkey's Sinop project: China, Canada, the US and France all in play as Ankara targets 7.2 GW by 2035",
+   "language": "ko",
+   "source": "글로벌이코노믹",
+   "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261106065949113fbbec65dfb_1",
+   "published": "2026-11-06",
+   "region": "domestic",
+   "category": "large",
+   "countries": [
+    "KR",
+    "TR"
+   ],
+   "importance": 2,
+   "summary_ko": "11월 3일 한-튀르키예 정상회담과 수출입은행–튀르키예원자력공사 금융 양해각서 체결(기존 보도) 이후 새로 확인된 사실은 경쟁 구도와 현지화 리스크다. 시놉 원전은 총사업비 300억 달러·원자로 4기 규모이고, 튀르키예는 2035년 원자력 7.2GW, 2050년 최소 20GW를 목표로 한다. 경쟁자로는 중국 국영기업, 캐나다 앳킨스레알리스(CANDU), 미국·프랑스 기업과 SMR 개발사가 거론되며, 에르도안 대통령은 금융조건과 발전원가를 선정 기준으로 제시하고 복수 입찰자를 유지해 가격을 낮추려는 방침으로 전해졌다. 일본 컨소시엄은 2018년 말 비용 초과로 철수했다. 지식재산권 협의와 미국 수출승인도 남은 과제이며, 2025년 튀르키예의 대한국 수입은 102억 6천만 달러·수출은 11억 4천만 달러로 약 91억 2천만 달러 적자여서 원전 계약에서 역내산 비중 확대 요구가 나올 수 있다.",
+   "summary_en": "Following the 3 November Korea-Turkey summit and the KEXIM-TUNAS financing memorandum already reported, the new elements are the competitive field and localisation risk. Sinop is a four-reactor, USD 30 billion project, and Turkey targets 7.2 GW of nuclear capacity by 2035 and at least 20 GW by 2050. Competitors cited include a Chinese state-owned firm, Canada's AtkinsRealis (CANDU), and US and French companies including SMR developers. President Erdogan has named financing terms and generation cost as selection criteria and is reported to want multiple bidders kept in play to push costs down; Japan's consortium withdrew in late 2018 over cost overruns. Intellectual-property talks and US export approval remain open. Turkey's 2025 imports from Korea were USD 10.26 billion against USD 1.14 billion of exports, a deficit of about USD 9.12 billion, which may translate into demands for higher local content in any nuclear contract.",
+   "sales_note": "금융 양해각서가 수주를 뜻하지 않는다는 점이 이번 보도로 더 분명해졌다. 발주처가 복수 입찰자를 의도적으로 유지하고 금융조건·발전원가를 1차 기준으로 걸었다면 경쟁은 노형 성능보다 금융 패키지와 LCOE 싸움으로 흐르고, 수출입은행 단독보다 무역보험·다자개발금융을 묶은 구조가 필요해진다. 대규모 무역적자를 배경으로 한 역내산 요구는 바라카·두코바니에서 겪은 현지화 비용 리스크를 반복할 수 있으므로, 현지 시공·기자재 비중을 계약조건 설계 단계에서 선반영해야 한다. 지식재산권과 미국 수출승인은 APR1400 수출의 구조적 제약이므로 일정 산정에 그대로 반영할 필요가 있다.",
+   "sales_note_en": "This report makes clearer that a financing MOU is not an award. If the client is deliberately keeping several bidders in play and has put financing terms and generation cost as the primary criteria, the contest shifts from reactor performance to the financing package and LCOE - which calls for a structure combining trade insurance and multilateral finance rather than KEXIM alone. Local-content demands driven by a large bilateral trade deficit could repeat the localisation cost risk seen at Barakah and Dukovany, so local construction and equipment shares should be priced into the contract terms from the outset. Intellectual-property talks and US export approval are structural constraints on APR1400 exports and should be built into the schedule as they stand.",
+   "related": [
+    "https://view.asiae.co.kr/article/2026110413481656379"
+   ]
+  },
+  {
+   "id": "2026-11-06-07",
+   "title": "서왕진 의원, ‘대미 원전 투자 재검토’ 촉구 이어 ‘에너지 기본권 법제화’ 토론회 개최",
+   "title_ko": "서왕진 의원, 美 중간선거 결과 들어 '대미 원전 투자 재검토'·100억 달러 송금 중단 요구",
+   "title_en": "Korean lawmaker calls for halting the USD 10 billion transfer and renegotiating the Korea-US nuclear framework",
+   "language": "ko",
+   "source": "전기신문",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=374426",
+   "published": "2026-11-05",
+   "region": "domestic",
+   "category": "policy",
+   "countries": [
+    "KR",
+    "US"
+   ],
+   "importance": 2,
+   "summary_ko": "서왕진 의원(조국혁신당, 국회 기후에너지환경노동위원회)이 11월 5일 국회 기자회견에서 미국 중간선거 결과로 한미 원전 프레임워크의 위험이 커졌다고 주장했다. 민주당이 상·하원 다수를 차지해 약 1,200억 달러(약 162조 원) 규모 사업의 불확실성이 커졌고, 새 의회 출범 전에 100억 달러를 송금하는 것은 무리라는 것이다. 트럼프 행정부의 신속 인허가가 의회 조사·법적 분쟁에 걸리면 인허가 지연·공사비 증가·투자 회수 곤란으로 이어질 수 있다고 봤다. 요구는 두 가지로, 새 미 의회가 원자력 정책·인허가 방향을 명확히 할 때까지 100억 달러 선송금을 중단하고, 바뀐 미국 정치 상황을 반영해 한미 원전 프레임워크 전반의 재협상을 검토하라는 것이다.",
+   "summary_en": "Rep. Seo Wang-jin (Rebuilding Korea Party, National Assembly Climate, Energy, Environment and Labour Committee) told a 5 November press conference at the National Assembly that the US midterm election result has raised the risk around the Korea-US nuclear framework. With Democrats holding majorities in both chambers, he argued the roughly USD 120 billion (about KRW 162 trillion) programme has become less certain and that wiring USD 10 billion before the new Congress convenes is reckless. If the Trump administration's fast-track approvals draw congressional investigations or legal challenges, he said, the result would be licensing delays, higher construction costs and difficulty recovering the investment. His two demands: suspend the USD 10 billion advance payment until the incoming Congress clarifies its nuclear policy and licensing direction, and review renegotiating the overall framework to reflect the changed US political situation.",
+   "sales_note": "야당 의원의 요구여서 정부 방침 변경은 아니지만, 미 의회 구도 변화가 대미 원전 8기(APR1400 2기·AP1000 6기) 사업의 정치 리스크로 국내 정치 쟁점이 됐다는 점은 영업 일정 산정에 반영해야 한다. 미국 사업의 변수는 상업적 타당성보다 인허가 속도와 연방 지원의 지속성이고, 그 두 가지가 모두 의회 통제를 받는 구조다. 대미 사업을 전제로 한 공급망·인력 계획은 송금·인허가 일정이 확정될 때까지 단계적 투입으로 두고, 대안 시장(유럽 개보수·중동·동남아)의 비중을 함께 유지하는 편이 안전하다.",
+   "sales_note_en": "This is an opposition lawmaker's demand, not a change in government policy, but the fact that the shift in Congress has become a domestic political issue framing the eight-unit US programme (two APR1400 and six AP1000) as political risk should feed into sales scheduling. The swing factors for the US projects are licensing speed and the durability of federal support rather than commercial merit, and both sit under congressional control. Supply-chain and staffing plans premised on the US programme are better staged until the transfer and licensing timetable is fixed, while keeping weight on alternative markets - European refurbishment, the Middle East and Southeast Asia.",
+   "related": []
+  }
+ ]
+}

@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
+  {
+   "country": "NL",
+   "buyer": "Nucleaire Energie Organisatie Nederland B.V.",
+   "title": "ICT 기반 조달 — 6개 로트 (제한입찰)",
+   "title_en": "ICT provision - six lots (restricted procedure)",
+   "scope": "발주처의 IT 전반을 6개 로트로 나눈 제한입찰. 로트 구성은 플랫폼·AI용 기반 인프라(remote hands 포함), 사업장·데이터센터·사용자·IT 서비스 간 보안 네트워크 연결, 키 보호·암호 신뢰 기반, 전사 보안 모니터링·위협 탐지·대응, 주 서비스 통합사업자(업무환경 관리·인프라·기술 애플리케이션 운영·소프트웨어 자산관리·라이선스 구매), 기업용 모바일 음성·데이터 회선이다. 6개 로트 모두 입찰서 접수 마감은 2027-01-07 14:00이며 공고에 추정금액은 기재되지 않았다. CPV는 72000000(IT 서비스)·72514000·48000000·64212000 등이다.",
+   "scope_en": "Restricted procedure splitting the buyer's IT provision into six lots: base infrastructure for platforms and AI (including remote hands); secure network connectivity between sites, data centres, users and IT services; key protection and cryptographic trust provision; continuous security monitoring, threat detection and response; primary service integrator covering modern workplace management, infrastructure and technical application management, software asset management and licence purchasing; and corporate mobile voice and data connectivity. Tenders for all six lots are due by 14:00 on 7 January 2027, and the notice states no estimated value. CPV codes include 72000000 (IT services), 72514000, 48000000 and 64212000.",
+   "portal": "TED",
+   "notice_no": "769429-2026",
+   "published": "2026-11-05",
+   "deadline": "2027-01-07",
+   "url": "https://ted.europa.eu/en/notice/769429-2026/pdf"
+  },
   {
    "country": "IT",
    "buyer": "SOGIN S.p.A.",
@@ -54,19 +67,6 @@
    "published": "2026-11-02",
    "deadline": "2026-11-16",
    "url": "https://ted.europa.eu/en/notice/757424-2026/pdf"
-  },
-  {
-   "country": "GB",
-   "buyer": "UK Atomic Energy Authority",
-   "title": "UKAEA 컬햄 J5 초고압변압기 3대 개보수 (자산수명연장 프로그램)",
-   "title_en": "J5 Super Grid Transformer refurbishment, UKAEA Culham",
-   "scope": "컬햄 캠퍼스 초고압변압기 3대 개보수. 추정 200만 파운드(부가세 제외)",
-   "scope_en": "Refurbishment of three super grid transformers on the Culham campus under an asset life extension programme. Estimated GBP 2 million excluding VAT",
-   "portal": "UK FTS",
-   "notice_no": "094949-2026",
-   "published": "2026-10-07",
-   "deadline": "2026-11-05",
-   "url": "https://www.find-tender.service.gov.uk/Notice/094949-2026"
   },
   {
    "country": "GB",
@@ -355,19 +355,6 @@
    "url": "https://ted.europa.eu/en/notice/728533-2026/pdf"
   },
   {
-   "country": "HU",
-   "buyer": "MVM Paksi Atomerőmű Zrt.",
-   "title": "팍시 원전 최종안전보고서(VBJ) 갱신·2027년 주기적안전성평가(IBF) 지원 엔지니어링 기본협약",
-   "title_en": "Engineering framework for Final Safety Report updates and support for the 2027 Periodic Safety Review at Paks NPP",
-   "scope": "VVER-440 호기의 최종안전보고서(VBJ) 연단위 갱신과 2027년 도래 주기적안전성평가(IBF)·주기적안전보고서(IBJ) 작성에 필요한 기술엔지니어링·학술지원. 기본상한 7억 7,470만 포린트(부가세 별도), 계약기간 60개월. 마감일은 공고 데이터에 기재되지 않았다.",
-   "scope_en": "Technical engineering and scientific support for the annual consolidation of the VVER-440 Final Safety Report and for the Periodic Safety Review due in 2027, including the closing Periodic Safety Report. Ceiling HUF 774.7 million excluding VAT over a 60-month term. No deadline is stated in the notice data.",
-   "portal": "TED",
-   "notice_no": "731719-2026",
-   "published": "2026-10-22",
-   "deadline": "2026-11-05",
-   "url": "https://ted.europa.eu/en/notice/731719-2026/pdf"
-  },
-  {
    "country": "NL",
    "buyer": "Gemeente Den Helder",
    "title": "덴헬더르 지자체 관내 소형모듈원전(SMR) 도입 타당성 시장조사",
@@ -444,19 +431,6 @@
    "published": "2026-10-22",
    "deadline": "2026-11-25",
    "url": "https://ted.europa.eu/en/notice/730767-2026/pdf"
-  },
-  {
-   "country": "LT",
-   "buyer": "Valstybės įmonė Ignalinos atominė elektrinė",
-   "title": "단선식 현수 천장크레인·공기식 호이스트 구매 — 마감 11월 5일(2일 연장)",
-   "title_en": "Purchase of single-girder suspended overhead cranes and pneumatic hoists - deadline 5 November (extended by two days)",
-   "scope": "이그날리나 원전의 단선식 현수 천장크레인과 공기식 호이스트 구매다. CPV 42414000(크레인·이동식 양중프레임·크레인 장착 작업차)·71320000(설계용역)·80500000(교육훈련 서비스)로 분류돼, 기자재 공급과 함께 설계·교육이 포함된 구성으로 보인다. 추정금액은 공고에 기재되지 않았다. 10월 30일 후속 공고(753108-2026)로 마감이 11월 3일에서 11월 5일로 연장됐다.",
-   "scope_en": "Purchase of single-girder suspended overhead cranes and pneumatic hoists for the Ignalina plant. The CPV codes - 42414000 (cranes, mobile lifting frames and works trucks fitted with a crane), 71320000 (engineering design services) and 80500000 (training services) - suggest the package combines equipment supply with design and training. No estimated value is stated in the notice. A follow-up notice on 30 October (753108-2026) extended the deadline from 3 November to 5 November.",
-   "portal": "TED",
-   "notice_no": "735126-2026",
-   "published": "2026-10-23",
-   "deadline": "2026-11-05",
-   "url": "https://ted.europa.eu/en/notice/735126-2026/pdf"
   },
   {
    "country": "SK",

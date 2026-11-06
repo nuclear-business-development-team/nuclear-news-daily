@@ -1,6 +1,12 @@
 {
  "days": [
   {
+   "date": "2026-11-07",
+   "article_count": 11,
+   "headline_ko": "두코바니 시공협상 결렬의 쟁점이 금액이 아니라 계약구조로 확인됐다 — 한수원은 기본설계 물량 기준 총액계약을, 대우건설·두산 컨소시엄은 유럽 초호기 APR1000의 설계변경을 전제로 상세설계 후 실정산을 요구하며, 한수원은 2027년 7월 신규 시공사 선정·2029년 착공 일정을 유지했고 삼성물산·현대건설은 입찰에 신중하다고 보도됐다. 해외에서는 엑스에너지가 에너지노스웨스트 '캐스케이드' Xe-100 4기(320MWe)의 원자력섬을 플루어에, 통상섬과 전 설비 통합을 키위트·블랙앤비치·에이콘 합작사에 맡겨 지난 4월 다우 시드리프트와 같은 역무 분할을 두 번째로 반복했다.",
+   "headline_en": "The Dukovany construction breakdown turns on contract structure, not price - KHNP wants a lump sum priced on basic-design quantities while the Daewoo E&C and Doosan consortium wants re-measurement after detailed design, arguing design changes are inevitable on Europe's first APR1000; KHNP is holding to contractor selection by July 2027 and construction in 2029, with Samsung C&T and Hyundai E&C reported cautious about bidding. Abroad, X-energy repeated the Dow Seadrift split for a second time, giving the nuclear island of four Xe-100 units (320 MWe) at Energy Northwest's Cascade facility to Fluor and the conventional island and plant-wide integration to a Kiewit, Black & Veatch and Aecon joint venture."
+  },
+  {
    "date": "2026-11-06",
    "article_count": 7,
    "headline_ko": "웨스팅하우스가 폴란드 루비아토보-코팔리노 AP1000 1호기용 격납용기와 CA01 '슈퍼모듈'(47개 소형모듈) 설계·조달을 일본 IHI에 발주하고, 벽체·바닥 모듈 4개 패키지는 모스토스탈 키엘체·에네르고몬타주 그디니아·모스토스탈 크라쿠프·FAMAK 등 폴란드 4개사에 조건부로 돌려 폴란드 대형원전이 설계에서 제작 단계로 넘어갔다 — '핵심 대형 모듈=해외 역량업체, 부수 구조물=현지화' 분할이 드러났고 착공 2028년·1호기 상업운전 2036년·3기 전체 가동 2038년이다. 국내에서는 시놉 원전에 중국·캐나다·미국·프랑스 기업이 함께 남아 금융조건과 발전원가가 선정 기준으로 걸린 구도가 확인됐다.",

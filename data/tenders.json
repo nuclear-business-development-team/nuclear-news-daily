@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
@@ -67,19 +67,6 @@
    "published": "2026-11-02",
    "deadline": "2026-11-16",
    "url": "https://ted.europa.eu/en/notice/757424-2026/pdf"
-  },
-  {
-   "country": "GB",
-   "buyer": "Great British Energy – Nuclear",
-   "title": "재무자문사(Lead Financial Advisor) 사전공고",
-   "title_en": "Lead Financial Advisor — planned procurement notice",
-   "scope": "GBE-N 사업·프로그램 전반에 대한 옵션 검토, 시장 평가, 자금조달 전략 권고. 사전공고(planned procurement notice)이며 경쟁적 유연절차. 관심 표명 마감 2026-11-06, 낙찰 목표 2026-12-01. 공고 기재 금액 50만 파운드(세포함)",
-   "scope_en": "Options review, market assessment and financing-strategy advice across GBE-N's projects and programme. A planned procurement notice under a competitive flexible procedure; expressions of interest close 6 November 2026 with award targeted for 1 December 2026. Notice states GBP 500,000 including tax",
-   "portal": "UK Find a Tender",
-   "notice_no": "089032-2026",
-   "published": "2026-09-21",
-   "deadline": "2026-11-06",
-   "url": "https://www.find-tender.service.gov.uk/Notice/089032-2026"
   },
   {
    "country": "DE",

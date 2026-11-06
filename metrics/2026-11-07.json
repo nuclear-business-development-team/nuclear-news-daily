@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-07",
+ "run_started": "2026-11-07T08:04:21+09:00",
+ "run_finished": "2026-11-07T08:32:00+09:00",
+ "run_minutes": 27.6,
+ "articles": 11,
+ "by_region": {
+  "overseas": 7,
+  "domestic": 4
+ },
+ "by_importance": {
+  "3": 3,
+  "2": 6,
+  "1": 2
+ },
+ "detection_lag_hours": {
+  "median": 11.48,
+  "max": 47.07,
+  "min": 8.07,
+  "n": 11,
+  "values": [11.24, 10.29, 10.54, 11.07, 23.07, 47.07, 11.48, 8.07, 23.07, 22.77, 23.07],
+  "note": "피드 pubDate가 있는 기사는 실제 게재시각 기준, 날짜만 있는 기사는 그날 09:00(+09:00) 기준(SKILL §9). 최댓값 47.07h는 11-05 배포된 수그린–원뉴클리어 보도자료(2026-11-07-06)로, 원자력 전문지에 실리지 않아 무역·업계 검색으로 하루 늦게 포착한 건"
+ },
+ "sources_ok": [
+  "World Nuclear News (RSS, 52건)",
+  "NucNet (RSS, 15건 — 기간 내 신규 없음)",
+  "IAEA Top News (RSS, 15건 — 목록만 확인)",
+  "POWER Magazine (RSS, 10건 — 원자력 신규 없음)",
+  "UK DESNZ gov.uk (Atom — 원자력 신규 없음)",
+  "ANS Nuclear Newswire (목록 + 기사 본문)",
+  "더구루 (RSS, 50건)",
+  "정책브리핑 korea.kr (원전·SMR·원자력 3회 검색 — 11-05 이후 원전 관련 신규 없음)",
+  "한국수력원자력 보도자료 게시판 (목록 + 상세)",
+  "한국전력 보도·설명자료 게시판 (원자력 신규 없음)",
+  "TED 검색 API (api.ted.europa.eu/v3 — 13어휘 다국어 전수)",
+  "UK Find a Tender OCDS API (5페이지 479건 전수)"
+ ],
+ "sources_failed": [
+  {
+   "name": "Nuclear Engineering International (neimagazine.com/feed)",
+   "reason": "빈 응답(0바이트), 2회 시도 — 금회 신규 확인 불가"
+  },
+  {
+   "name": "더트래커 (thetracker.co.kr/RSS/RSS.aspx)",
+   "reason": "154바이트 응답, item 0건 — 피드 비정상"
+  },
+  {
+   "name": "IAEA 기사 본문 (iaea.org)",
+   "reason": "402 — sources.yaml unreachable 등재대로 차단. 「IAEA Mission Reviews the Russian Federation's Regulatory Framework」(11-06)을 대체 출처에서도 확인하지 못해 미수록(추측 금지)"
+  },
+  {
+   "name": "TED 공고 본문 (ted.europa.eu/<번호>/pdf · /xml)",
+   "reason": "HTTP 202 빈 응답 — 2회차 연속. 검색 API 필드로 대체해 확인에 지장 없음"
+  },
+  {
+   "name": "UK Find a Tender 공고 본문 페이지",
+   "reason": "403 — 구조적 크롤러 차단. OCDS API로 대체"
+  },
+  {
+   "name": "UK Find a Tender OCDS API 레이트리밋",
+   "reason": "429 — 페이지당 3초 간격에서 3·5페이지에서 발생. 12초 간격·6회 백오프로 재실행해 5페이지 전수 완주"
+  },
+  {
+   "name": "핀란드 Hilma (hankintailmoitukset.fi)",
+   "reason": "JavaScript 전용 SPA — ★ 'Helen 원자력 프로그램 기술지원 용역' 게재일·마감 미확정 상태 유지(수기 확인 요청 계속)"
+  },
+  {
+   "name": "Rolls-Royce SMR 공급망 (rolls-royce-smr.com)",
+   "reason": "403 크롤러 차단 — 7회차 연속. 검색으로 대체(기간 내 신규 없음)"
+  }
+ ],
+ "languages": {
+  "en": 8,
+  "ko": 3
+ },
+ "method_changes": [
+  "TED 검색 어휘를 6개→13개로 확장(nuclear·jadern*·nucléaire·jadrov*·reaktor*·nuklear*·nucleare·nucleair*·kärnkraft*·ydinvoima*·SMR·radioactive·atomerőmű). 11-06 게재분 union 29건에서 원자력 실제 관련 2건을 가려냈고, 그 중 ★ 체르나보다 3·4호기 Phase 2 LNTP 지반조사 계약 변경공고(TED 774378-2026)를 포착",
+  "TED 공고 본문이 2회차 연속 막히므로 유효 필드명을 사전 탐색(probe)하는 절차를 추가해 organisation-name-tenderer·contract-conclusion-date·modification-reason-description·total-value-cur를 확정 — 낙찰자·계약체결일·변경사유·통화까지 검색 API만으로 확인 가능해졌다",
+  "UK FTS OCDS API 호출 간격을 3초→12초, 재시도 6회(20초 증분 백오프)로 조정해 429로 중단되던 전수 스캔을 완주(479건)"
+ ]
+}

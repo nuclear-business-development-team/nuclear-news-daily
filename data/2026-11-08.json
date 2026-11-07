@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T08:52:00+09:00",
+  "period": {
+    "from": "2026-11-07",
+    "to": "2026-11-08"
+  },
+  "overview_ko": "수집 축소: 기준일이 토·일요일에 걸쳐 전문지(WNN·NucNet·ANS·NEI)와 각국 규제기관·정부 발표가 모두 11월 6일 이후 신규 게재를 멈췄고, EU TED는 11월 7·8일 공고 게재가 0건(11월 6일 3,799건 대비)으로 확인됐다. 이 기간에 새로 확인된 해외 사안은 IAEA의 러시아 규제체계 종합규제검토(IRRS) 결과 공표 한 건으로, 17개 회원국 전문가 21명이 로스테흐나드조르의 독립성·법체계 갱신을 긍정 평가하면서 인력계획과 부처 간 조정 보완을 권고했다. 금주에 확인된 두코바니 시공 재입찰, 폴란드 AP1000 기자재 발주, 미국 선진로 역무 분할 구도에는 새 사실이 추가되지 않았다. 영업 관점: 신규 입력이 없는 구간이므로 판단을 바꿀 재료는 없고, 11월 10일 마감인 벡텔 폴란드 BOP 기자재 자격심사 등 이미 열려 있는 건의 내부 결정을 마무리할 시점이다.",
+  "overview_en": "Reduced collection: the reference date spans a Saturday and Sunday, and the trade press (WNN, NucNet, ANS, NEI) along with national regulators and governments posted nothing new after 6 November, while EU TED published zero notices on 7-8 November (against 3,799 on 6 November). The only overseas item newly confirmed in this window is the IAEA's published outcome of its Integrated Regulatory Review Service (IRRS) mission to Russia, where experts from 17 member states judged Rostechnadzor's independence and legal-framework upkeep sound while recommending better workforce planning and inter-agency coordination. No new facts were added to this week's running stories: the Dukovany construction re-tender, Polish AP1000 component awards, and the split of nuclear-island versus balance-of-plant roles in the US advanced-reactor market. Sales angle: with no new input there is nothing to revise, so this is the window to close out internal decisions on items already open, such as the Bechtel Poland balance-of-plant prequalification closing 10 November.",
+  "domestic_overview_ko": "국내도 주말로 산업통상부·기후에너지환경부·원자력안전위원회 보도자료(정책브리핑)와 한전 보도자료가 11월 6일 이후 멈췄고, 한수원 보도자료 게시판의 11월 6일분 4건은 합천양수 주민견학·청정수소 테크포럼·콘크리트학회 기술상 등 행사·수상 단신이거나 전날 브리핑에서 이미 다룬 체코 청정수소 건이었다. 새로 확인된 것은 한전이 브랜드파이낸스 'Energy 100 2026'에서 전력·유틸리티 부문 10위(전년 16위)로 올라 브랜드가치 36억 1,900만 달러(전년 29억 2,300만 달러), 브랜드강도 AA+를 기록한 건이다. 영업 관점: 두코바니 시공 재입찰과 대미 원전 투자 심사가 동시에 걸린 시기에 발주처·금융기관 상대 신용도 보강 자료로 쓸 수 있는 정도이며, 수주 구도를 바꾸는 사안은 없다.",
+  "domestic_overview_en": "Domestic sources were also quiet over the weekend: ministry and NSSC releases on the government policy-briefing portal and KEPCO's newsroom stopped after 6 November, and the four KHNP releases dated 6 November were event or award notices (a site tour for the Hapcheon pumped-storage community, a clean-hydrogen tech forum, a concrete-society technical award) or the Czech clean-hydrogen item already carried in yesterday's briefing. The one new item is KEPCO's rise to 10th place (from 16th) among power and utility brands in Brand Finance's Energy 100 2026, with brand value of USD 3.619 billion (up from USD 2.923 billion) and a brand-strength rating of AA+. Sales angle: with the Dukovany construction re-tender and US investment review both live, this is usable as supporting credibility material for owners and lenders, but it changes nothing in the competitive picture.",
+  "countries_pulse": [
+    {
+      "country": "RU",
+      "name_ko": "러시아",
+      "name_en": "Russia",
+      "stance": "expanding",
+      "signal": "기조 유지 — 국제 규제 피어리뷰를 자발적으로 수용해 로스테흐나드조르 체계의 대외 신인도를 보강하는 쪽으로 움직였다. 수출 사업의 규제 레퍼런스로 활용될 소지가 있다.",
+      "signal_en": "Unchanged — Moscow voluntarily accepted an international regulatory peer review, shoring up Rostechnadzor's external credibility in a way it can cite as a regulatory reference in export markets.",
+      "article_ids": [
+        "2026-11-08-01"
+      ]
+    },
+    {
+      "country": "INT",
+      "name_ko": "국제기구",
+      "name_en": "International",
+      "stance": "expanding",
+      "signal": "기조 유지 — IAEA가 신규 노형 확대 국면에서 규제기관의 인력계획을 핵심 권고사항으로 제시했다.",
+      "signal_en": "Unchanged — with new reactor technologies expanding, the IAEA is putting regulator workforce planning at the centre of its recommendations.",
+      "article_ids": [
+        "2026-11-08-01"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-08-01",
+      "title": "IAEA Mission Reviews the Russian Federation's Regulatory Framework for Nuclear and Radiation Safety",
+      "title_ko": "IAEA 종합규제검토(IRRS)단, 러시아 규제체계 검토 결과 공표 — \"독립적·역량 있음\", 인력계획·부처간 조정은 보완 권고",
+      "title_en": "IAEA Mission Reviews the Russian Federation's Regulatory Framework for Nuclear and Radiation Safety",
+      "language": "en",
+      "source": "IAEA",
+      "url": "https://www.iaea.org/newscenter/pressreleases/iaea-mission-reviews-the-russian-federations-regulatory-framework-for-nuclear-and-radiation-safety",
+      "published": "2026-11-06",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "RU",
+        "INT"
+      ],
+      "importance": 1,
+      "summary_ko": "러시아 정부 요청으로 10월 25일부터 11월 6일까지 진행된 IAEA 종합규제검토(IRRS) 임무가 끝났다. 17개 회원국 고위 규제전문가 21명과 IAEA 직원 3명, 참관 2명이 참여했고, 검토단은 로스테흐나드조르가 원자력·방사선 안전에 대해 독립적이고 역량 있는 규제체계를 유지하고 있으며 개발 중인 선진 노형을 모두 포괄하도록 법령체계를 체계적으로 갱신해 온 점을 우수사례로 평가했다. 권고사항으로는 확대되는 원자력 부문에 맞춘 인력운영계획의 수립·주기적 갱신과 부처 간 조정 강화를 제시했다.",
+      "summary_en": "An IAEA Integrated Regulatory Review Service (IRRS) mission requested by the Russian government ran from 25 October to 6 November. Twenty-one senior regulatory experts from 17 member states, three IAEA staff and two observers took part. The team found that Rostechnadzor maintains an independent and capable framework for nuclear and radiation safety, and cited as good practice its systematic updating of the legal framework to cover all advanced reactor technologies under development. Its recommendations were to develop and periodically update a human-resource plan matched to the expanding nuclear sector, and to strengthen inter-agency coordination.",
+      "sales_note": "로사톰이 수출 상담에서 '규제체계의 국제 검증'을 자산으로 쓸 여지가 생겼다. 우리도 신규 진입국 상담에서 원안위의 IRRS 수검 이력과 후속조치 이행 실적을 같은 수준의 비교자료로 정리해 두는 편이 낫다.",
+      "sales_note_en": "This gives Rosatom a credential — international validation of its regulatory system — to use in export discussions. Korea should keep an equivalent comparison pack on the NSSC's own IRRS mission history and follow-up implementation record for talks with newcomer countries.",
+      "related": [
+        "https://www.iaea.org/newscenter/pressreleases/iaea-mission-concludes-peer-review-russian-federations-nuclear-regulatory-framework"
+      ]
+    },
+    {
+      "id": "2026-11-08-02",
+      "title": "'5조 가치' 한전, 글로벌 유틸리티 브랜드 6계단 '점프'…가스공사 17위",
+      "title_ko": "'5조 가치' 한전, 글로벌 유틸리티 브랜드 6계단 '점프'…가스공사 17위",
+      "title_en": "KEPCO Climbs Six Places to 10th in Brand Finance's Energy 100 Utility Ranking",
+      "language": "ko",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=109405",
+      "published": "2026-11-07",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR"
+      ],
+      "importance": 1,
+      "summary_ko": "영국 브랜드평가기관 브랜드파이낸스의 'Energy 100 2026'에서 한국전력이 전력·유틸리티 부문 10위에 올라 전년 16위에서 6계단 상승했다. 브랜드가치는 36억 1,900만 달러로 전년 29억 2,300만 달러에서 약 24% 늘었고 브랜드강도 등급은 AA에서 AA+로 올랐다. 한국가스공사는 17위다. 1위는 중국 국가전망(1,024억 달러)이고 EDF(165억 달러)·에넬(121억 달러)·엔지(118억 달러)가 뒤를 이었으며, 상위 50개사 합계 브랜드가치는 약 2,626억 달러로 7% 증가했다. 보도는 증가 요인을 AI·데이터센터 전력수요로 설명했다.",
+      "summary_en": "KEPCO placed 10th among power and utility brands in Brand Finance's Energy 100 2026, up six places from 16th a year earlier. Its brand value rose about 24% to USD 3.619 billion from USD 2.923 billion, and its brand-strength rating went from AA to AA+. Korea Gas Corporation ranked 17th. State Grid Corporation of China led at USD 102.4 billion, followed by EDF (USD 16.5 billion), Enel (USD 12.1 billion) and ENGIE (USD 11.8 billion); the top 50 brands were worth about USD 262.6 billion in total, up 7%. The report attributes the growth mainly to AI and data-centre power demand.",
+      "sales_note": "발주처·대주단 상대 자료에 쓸 수 있는 제3자 신용 지표가 하나 갱신됐다. 다만 비교 대상인 EDF가 여전히 4.6배 수준이고 경쟁 벤더의 모회사들이 상위권에 몰려 있어, 금융주선 능력이 평가되는 사업에서는 브랜드지표보다 수출금융 패키지 쪽 보강이 실효적이다.",
+      "sales_note_en": "One third-party credibility metric for owner and lender packs has been refreshed. But EDF is still about 4.6 times larger and the parents of competing vendors cluster at the top, so in projects judged on ability to arrange financing, strengthening the export-credit package matters more than brand metrics."
+    }
+  ]
+}

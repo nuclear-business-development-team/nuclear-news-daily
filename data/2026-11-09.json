@@ -1,0 +1,183 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T08:52:00+09:00",
+  "period": {
+    "from": "2026-11-07",
+    "to": "2026-11-09"
+  },
+  "overview_ko": "수집 축소: 기준일이 일요일이고 토·일에 걸쳐 전문지(WNN·NucNet·ANS·NEI)와 각국 규제기관·정부 발표가 모두 11월 6일 이후 신규 게재를 멈췄다. EU TED는 11월 7·8·9일 공고 게재가 0건(대조군 11월 6일 3,799건), 영국 Find a Tender도 같은 기간 릴리스 7건 전부 원자력 무관으로 확인됐다. 이 기간에 새로 확인된 해외 사안은 두 건이다. 자포리자 원전이 11월 8일 00시 44분 마지막 외부 송전선(330kV 페로스플라우나-1) 차단으로 비상 디젤발전기에 의존했다가 같은 날 17시 41분 같은 선로로 복구됐고, IAEA는 원인 미확인과 디젤 연료 약 2주분을 함께 밝혔다. 필리핀은 1986년 완공 후 가동하지 않은 바탄 원전의 개보수·가동이 다시 검토 대상으로 거론됐다. 영업 관점: 신규 발주 입력이 없는 구간이라 판단을 바꿀 재료는 없고, 11월 10일 마감인 벡텔 폴란드 복수탈염설비 공급사 자격심사와 11월 12일 마감 4건(영국 GBE-N SMR 금융·자금조달 자문 포함)이 이번 주 초의 실제 기한이다.",
+  "overview_en": "Reduced collection: the reference date is a Sunday, and across the weekend the trade press (WNN, NucNet, ANS, NEI) and national regulators and governments all stopped publishing after 6 November. EU TED published zero notices on 7, 8 and 9 November (against a control count of 3,799 on 6 November), and all seven UK Find a Tender releases in the same window were unrelated to nuclear. Two overseas developments were newly confirmed in the period. Zaporizhzhia fell back on emergency diesel generators at 00:44 on 8 November when its last off-site line, the 330 kV Ferosplavna-1, disconnected, and was reconnected over the same line at 17:41 the same day; the IAEA said the cause was unknown and that diesel fuel covers about two weeks. And in the Philippines, refurbishing and starting up the Bataan plant, completed in 1986 but never operated, is again under discussion. Sales angle: with no new tender input, nothing here changes our reading; the real deadlines early this week are Bechtel Poland's condensate polishing package supplier qualification on 10 November and four closings on 12 November, including GBE-N's SMR financing advisory in the UK.",
+  "domestic_overview_ko": "대미 원전 8기 프레임워크의 100억 달러 선급금이 미 중간선거 결과와 맞물려 국내 쟁점으로 커졌다 — 선급금은 원자로용기 54개월·증기발생기 57개월·원자로냉각재펌프 65개월처럼 조달기간이 긴 주기기를 미리 발주하기 위한 것이고, 산업통상부는 미국의 후보지 통보 후 송전망 연계와 장기 전력구매계약 주체를 보고 대응하겠다는 입장이다. 두 번째로 2025년 10월 조직 개편으로 원전 업무가 기후에너지환경부·산업통상부·과기정통부로 쪼개져, 10월 29일 두코바니 시공협상 종료 과정에서 부처 간 사전 협의가 없었다는 지적이 나왔다. 수출입은행–튀르키예원자력공사 시놉 금융협약은 여신 확약이 아니라 타당성 분석 단계로 확인됐다. 영업 관점: 대미 8기와 시놉은 모두 '합의했으나 조건은 미정'인 단계이므로 확정 물량으로 잡지 말고, 부처 분리로 생긴 단일 창구 공백을 제안 단계의 대외 설명에서 메울 준비가 필요하다.",
+  "domestic_overview_en": "The USD 10 billion advance under the eight-reactor US framework has become a domestic issue, bound up with the US midterm result: the advance exists to place long-lead equipment orders early - 54 months for a reactor vessel, 57 for a steam generator, 65 for the reactor coolant pump - and Korea's trade ministry says it will set its response once Washington names the candidate sites, weighing grid connection and who the long-term power purchaser would be. Second, since the October 2025 reorganisation split nuclear work across the climate, trade and science ministries, it is argued that no inter-ministry consultation preceded the ending of the Dukovany construction talks on 29 October. And the Eximbank-TUNAS accord on Sinop is confirmed as a feasibility review rather than a credit commitment. Sales angle: both the US eight units and Sinop sit at the stage of 'agreed in principle, terms open', so neither should be carried as committed volume, and the single-point-of-contact gap created by the ministry split needs to be covered in how we explain ourselves to owners at proposal stage.",
+  "countries_pulse": [
+    {
+      "country": "UA",
+      "name_ko": "우크라이나",
+      "name_en": "Ukraine",
+      "stance": "steady",
+      "signal": "자포리자 원전이 11월 8일 마지막 외부 송전선 차단으로 비상 디젤에 의존했다가 같은 날 복구 — IAEA 집계 분쟁 기간 27번째 전원상실, 디젤 연료는 약 2주분.",
+      "signal_en": "Zaporizhzhia fell back on emergency diesels on 8 November when its last off-site line disconnected, and was reconnected the same day - the 27th loss of off-site power in the conflict by the IAEA's count, with about two weeks of diesel fuel on site.",
+      "article_ids": [
+        "2026-11-09-01"
+      ]
+    },
+    {
+      "country": "PH",
+      "name_ko": "필리핀",
+      "name_en": "Philippines",
+      "stance": "cautious",
+      "signal": "1986년 완공 후 가동하지 않은 바탄 원전의 개보수·가동이 다시 검토 대상으로 거론됐다 — 공식 절차 전환 여부는 미확인.",
+      "signal_en": "Refurbishing and starting up the Bataan plant, completed in 1986 but never operated, is back under consideration; whether this becomes a formal process is unconfirmed.",
+      "article_ids": [
+        "2026-11-09-02"
+      ]
+    },
+    {
+      "country": "TR",
+      "name_ko": "튀르키예",
+      "name_en": "Turkiye",
+      "stance": "expanding",
+      "signal": "시놉 금융협약이 여신 확약이 아닌 타당성 분석 단계로 확인되고, 아큐유 완전가동이 1년 밀려 2026년 12월로 잡혀 파트너 다변화 기조가 이어진다.",
+      "signal_en": "The Sinop financing accord is confirmed as a feasibility review rather than a credit commitment, and Akkuyu's full operation has slipped a year to December 2026, sustaining the drive to diversify partners.",
+      "article_ids": [
+        "2026-11-09-05"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "대형원전 8기 프레임워크 자체는 유지되나, 민주당의 상·하원 장악과 오하이오·사우스캐롤라이나 승리로 AI 데이터센터 규제가 전력수요 전망의 변수로 올라왔다.",
+      "signal_en": "The eight-reactor framework stands, but with the Democrats taking both chambers and winning Ohio and South Carolina, tighter AI data-centre rules have become a variable in the demand outlook.",
+      "article_ids": [
+        "2026-11-09-03"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "steady",
+      "signal": "기조 유지 — 두코바니 시공 재입찰 준비가 이어지는 가운데, 한국 측 협상 종료 과정에서 부처 간 사전 협의가 없었다는 지적이 국내에서 나왔다. 발주처 측 새 사실은 없다.",
+      "signal_en": "Course unchanged - preparation for the Dukovany construction re-tender continues, while in Korea it is argued that ministries were not consulted before the talks were ended. No new facts from the owner's side.",
+      "article_ids": [
+        "2026-11-09-04"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-09-01",
+      "title": "Zaporizhzhia Nuclear Plant Relying on Generators Again After Losing External Power Supply",
+      "title_ko": "자포리자 원전, 마지막 외부 송전선 차단으로 비상 디젤 가동 — 같은 날 17시 41분 복구",
+      "title_en": "Zaporizhzhia Nuclear Plant Relying on Generators Again After Losing External Power Supply",
+      "language": "en",
+      "source": "Asharq Al-Awsat (English)",
+      "url": "https://english.aawsat.com/world/5338860-zaporizhzhia-nuclear-plant-relying-generators-again-after-losing-external-power",
+      "published": "2026-11-08",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "UA",
+        "INT"
+      ],
+      "importance": 2,
+      "summary_ko": "11월 8일 자포리자 원전의 유일하게 남아 있던 외부 송전선 330kV 페로스플라우나(Ferosplavna)-1이 현지시각 00시 44분 차단돼 비상 디젤발전기가 자동 기동했다. IAEA는 차단 원인과 위치가 아직 확인되지 않았고 군사활동으로 수동 재연결 시도도 실패했다고 밝혔으며, 제한된 수의 디젤발전기를 약 2주간 돌릴 연료만 확보돼 있다고 했다 — IAEA 집계로 분쟁 기간 27번째 전원상실이다. 우크라이나 에너고아톰은 같은 날 17시 41분 같은 선로로 외부 전원이 복구됐다고 발표했고, 러시아 측 운영진은 부지와 감시구역 방사선 수치가 정상이라고 밝혔다.",
+      "summary_en": "At 00:44 local time on 8 November the 330 kV Ferosplavna-1 line - the last remaining off-site connection at Zaporizhzhia - disconnected, and the emergency diesel generators started automatically. The IAEA said the cause and location are still unknown, that a manual reconnection attempt failed because of military activity, and that fuel on site is sufficient to run a limited number of diesel generators for about two weeks; by the IAEA's count this is the 27th loss of off-site power during the conflict. Ukraine's Energoatom said off-site power was restored over the same line at 17:41 the same day, and the Russian-installed management reported normal radiation levels on site and in the surveillance zone.",
+      "sales_note": "전시 상황에서 외부전원 상실이 반복되면서, 신규 수출 사업의 금융·보험 심사에서 송전 이중화와 비상전원 설계 요건이 올라가는 흐름이 굳어진다. 유럽 발주처 입찰의 기술제안에서 소외전원 다중화·디젤 연료 재고 기준을 별도 항목으로 설명할 준비가 필요하다.",
+      "sales_note_en": "Repeated losses of off-site power in a war zone keep pushing lenders' and insurers' attention toward grid redundancy and emergency power design on new export projects. Bids to European owners should be ready to address off-site power diversity and diesel fuel inventory criteria as a separate item.",
+      "related": [
+        "https://unn.ua/en/news/external-power-supply-from-ukraines-power-grid-has-been-restored-at-the-zaporizhzhia-nuclear-power-plant",
+        "https://www.usnews.com/news/world/articles/2026-11-08/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-management-says"
+      ]
+    },
+    {
+      "id": "2026-11-09-02",
+      "title": "The mothballed nuclear power plant",
+      "title_ko": "40년 방치된 필리핀 바탄 원전 — 개보수·가동 검토 대상으로 현장 점검",
+      "title_en": "The mothballed nuclear power plant",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/the-mothballed-nuclear-power-plant",
+      "published": "2026-11-07",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "PH"
+      ],
+      "importance": 1,
+      "summary_ko": "필리핀이 1986년 완공 후 한 번도 가동하지 않은 바탄(Bataan) 원전의 개보수·가동을 검토하고 있다. World Nuclear News가 완공 40년이 지난 현재 상태를 현장 방문해 전했다. 기사 본문이 열리지 않아 피드 제목과 리드로 확인한 범위까지만 기재한다 — 개보수 비용·일정·주체 수치는 확인되지 않았다.",
+      "summary_en": "The Philippines is weighing refurbishment and commissioning of the Bataan Nuclear Power Plant, completed in 1986 but never started up. World Nuclear News visited the site to report on its condition 40 years on. The article body would not load, so only what the feed headline and lead confirm is recorded here; no refurbishment cost, schedule or sponsor figures were confirmed.",
+      "sales_note": "필리핀은 신규 건설보다 개보수·완공형으로 먼저 열릴 가능성이 있는 시장이다. 바탄 재가동 검토가 공식 절차로 전환되면 부지 재평가·개보수 타당성 용역이 선행 발주로 나오므로, 그 단계의 용역 수주 가능성을 공고 감시 대상에 걸어 둘 필요가 있다.",
+      "sales_note_en": "The Philippines may open first as a refurbishment-and-completion market rather than new build. If the Bataan review turns into a formal process, site re-evaluation and refurbishment feasibility studies would be let first, so that stage of services work belongs on the tender watch list."
+    },
+    {
+      "id": "2026-11-09-03",
+      "title": "美 중간선거 후폭풍에 원전 투자 불확실성 커져…100억달러 선지급 논란",
+      "title_ko": "美 중간선거 후폭풍에 원전 투자 불확실성 커져…100억달러 선지급 논란",
+      "title_en": "US midterm result raises doubts over Korea's USD 10 billion prepayment for the eight-reactor US programme",
+      "language": "ko",
+      "source": "파이낸셜뉴스",
+      "url": "https://www.fnnews.com/news/202611070833380468",
+      "published": "2026-11-07",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR",
+        "US"
+      ],
+      "importance": 3,
+      "summary_ko": "[보완] 10월 1일 발표된 한미 원전 프레임워크(미국 본토 대형원전 8기, 1,200억 달러 — 2,000억 달러 대미투자 재원의 60%)에서 100억 달러 선급금의 집행 여부가 쟁점으로 커졌다. 선급금은 조달기간이 긴 주기기를 미리 발주하기 위한 것으로, 원자로용기 54개월·증기발생기 57개월·원자로냉각재펌프와 전동기 65개월이 근거로 제시됐다. 건설 순서는 웨스팅하우스 AP1000(1.1GW급) 2기 착공 → 착공 6개월 내 APR1400(1.4GW급) 2기와 미국형 2기 계약 추진 → AP1000 2기이며, 러트닉 미 상무장관이 9월 30일 거론한 후보지는 오하이오·테네시·사우스캐롤라이나·켄터키다. 민주당이 상·하원 다수를 확보하고 후보지 중 오하이오·사우스캐롤라이나에서도 승리하면서 AI 데이터센터 규제 강화가 전력수요 전망의 변수로 지목됐다. 산업통상부는 데이터센터 규제가 반드시 원전 사업성에 불리하지는 않다며, 미국이 후보지를 통보하면 송전망 연계와 장기 전력구매계약 주체를 따져 대응하겠다는 입장이다.",
+      "summary_en": "[Update] Whether to pay the USD 10 billion advance under the Korea-US nuclear framework announced on 1 October - eight large reactors on US soil, USD 120 billion, or 60% of the USD 200 billion US investment facility - has become the live question. The advance is intended to place long-lead equipment orders early, with quoted lead times of 54 months for the reactor vessel, 57 months for the steam generator and 65 months for the reactor coolant pump and motor. The sequence is two Westinghouse AP1000s (1.1 GW class) first, then within six months of that construction start contracts for two APR1400s (1.4 GW class) and two US-design units, then two more AP1000s; candidate states named by Commerce Secretary Howard Lutnick on 30 September are Ohio, Tennessee, South Carolina and Kentucky. With the Democrats taking both chambers and also winning Ohio and South Carolina, tighter rules on AI data centres are now cited as a risk to the demand case. Korea's trade ministry argues data-centre regulation does not necessarily hurt reactor economics and says it will set its response once Washington names the sites, weighing grid connection and who the long-term power purchaser would be.",
+      "sales_note": "선급금 집행이 늦어지면 장주기 기자재 발주가 밀리고, 두산에너빌리티 등 국내 주기기 업체의 수주 인식 시점도 같이 밀린다. 다음 분기점은 미국의 후보지 통보이므로, 송전망 연계와 장기 전력구매계약 주체가 확정되기 전까지 대미 8기는 확정 물량이 아닌 조건부 파이프라인으로 두고 유럽 개보수·중동·동남아 비중을 유지하는 편이 안전하다.",
+      "sales_note_en": "If the advance slips, long-lead equipment orders slip with it, and so does the point at which Korean component makers such as Doosan Enerbility can book the work. The next real checkpoint is Washington naming the sites, so until grid connection and the long-term offtaker are settled, the eight US units should be carried as a conditional pipeline rather than committed volume, with European refurbishment, the Middle East and Southeast Asia kept in the mix.",
+      "related": [
+        "https://www.newscj.com/news/articleView.html?idxno=3446704",
+        "https://m.news.nate.com/view/20261108n10689"
+      ]
+    },
+    {
+      "id": "2026-11-09-04",
+      "title": "한수원 관리 부처 쪼개지자 원전 정책 '칸막이' 심화 우려…컨트롤타워 부재도",
+      "title_ko": "한수원 관리 부처 쪼개지자 원전 정책 '칸막이' 심화 우려…컨트롤타워 부재도",
+      "title_en": "Split ministry oversight of KHNP leaves Korean nuclear policy without a control tower",
+      "language": "ko",
+      "source": "헤럴드경제",
+      "url": "https://www.heraldk.com/article/2026110805424413644",
+      "published": "2026-11-08",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "importance": 2,
+      "summary_ko": "2025년 10월 정부조직 개편으로 원전 업무가 기후에너지환경부(국내 건설·운영, 한수원 사장 제청)·산업통상부(수출)·과학기술정보통신부로 나뉘어 컨트롤타워가 없다는 지적이 나왔다. 10월 29일 한수원과 산업통상부가 대우건설·두산에너빌리티 컨소시엄과의 체코 두코바니 시공계약 협상을 종료하는 과정에서 기후에너지환경부와 사전 협의가 없었다는 것이 근거로 제시됐다. 두산에너빌리티의 주기기·터빈 공급계약은 유지돼 팀코리아에 남을 전망이고 대우건설은 제외될 가능성이 거론됐으며, 기사는 한수원이 UAE 사업 관련 추가비용 약 1조 6천억 원을 한전에 청구 중인 사안도 함께 거론했다. 기후에너지환경부는 12월까지 원전 공론화를 진행해 결과를 제12차 전력수급기본계획에 반영한다.",
+      "summary_en": "Since the October 2025 government reorganisation, nuclear work has been split between the Ministry of Climate, Energy and Environment (domestic construction and operation, and nomination of the KHNP president), the Ministry of Trade, Industry and Energy (exports) and the Ministry of Science and ICT, leaving no single control tower. The article's evidence is that when KHNP and the trade ministry ended construction-contract talks with the Daewoo E&C-Doosan Enerbility consortium for Dukovany in Czechia on 29 October, the climate ministry was not consulted beforehand. Doosan Enerbility's main-equipment and turbine supply contract stands, so it is expected to stay in Team Korea while Daewoo E&C may be dropped; the article also notes KHNP is claiming about KRW 1.6 trillion of additional cost from KEPCO over the UAE project. The climate ministry is running a public deliberation on nuclear power through December, with the result feeding the 12th Basic Plan for Electricity Supply and Demand.",
+      "sales_note": "수출(산업통상부)과 국내 건설·운영(기후에너지환경부)이 갈려 있으면 발주처가 '한국 측 단일 창구'를 요구할 때 약점이 된다. 두코바니 시공 재입찰 준비와 국내 공론화 일정이 12월에 겹치므로, 대외 설명자료는 부처별 입장차가 드러나지 않도록 사전에 맞춰 둘 필요가 있다.",
+      "sales_note_en": "With exports under one ministry and domestic construction and operation under another, Korea is exposed whenever an owner asks for a single point of contact. Preparation for the Dukovany construction re-tender overlaps with the domestic public deliberation in December, so external briefing material should be aligned in advance so that inter-ministry differences do not show."
+    },
+    {
+      "id": "2026-11-09-05",
+      "title": "에르도안 8년 만의 방한, 한국수출입은행 시놉 원전 금융 타당성 분석 착수",
+      "title_ko": "[보완] 수출입은행-TUNAS 시놉 금융협약은 '여신 확약 아닌 타당성 분석' 단계 — 아큐유 완전가동은 1년 밀려 2026년 12월",
+      "title_en": "[Update] The Eximbank-TUNAS Sinop financing accord is a feasibility review, not a credit commitment",
+      "language": "ko",
+      "source": "글로벌이코노믹",
+      "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611070926382379fbbec65dfb_1",
+      "published": "2026-11-07",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR",
+        "TR"
+      ],
+      "importance": 2,
+      "summary_ko": "[보완] 11월 3일 한-튀르키예 정상회담에서 체결된 한국수출입은행–튀르키예원자력공사(TUNAS) 금융 협력 협약이 구체적 대출 의무를 확정한 것이 아니라 자금 지원 타당성을 검토하는 단계라는 점이 새로 확인됐다(아제르바이잔 매체 하킨아즈 11월 6일 보도 인용). 로사톰이 건설 중인 튀르키예 첫 원전 아큐유(4,800MW)는 당초 2025년이던 완전가동 시점이 1년 밀려 2026년 12월로 잡혀 있고, 이 지연이 발주처가 시놉 파트너를 다변화하는 배경으로 지목됐다. 경쟁 구도는 캐나다 앳킨스리얼리스가 2026년 3월 CANDU 중수로로, 미국·프랑스 기업은 SMR로 접근하고 중국은 제3원전 트라키아에 집중하는 형태로 정리됐으며, 현지 전문가는 자금조달 조건과 발전원가를 최종 선정의 핵심 기준으로 꼽았다.",
+      "summary_en": "[Update] The financing cooperation accord signed on 3 November between Korea Eximbank and Turkish Nuclear Energy Corporation (TUNAS) is confirmed to be a review of funding feasibility rather than a binding lending commitment, citing a 6 November report by the Azerbaijani outlet Haqqin. Akkuyu (4,800 MW), Turkey's first plant and Rosatom-built, is now scheduled for full operation in December 2026, a year later than the original 2025 date, and that delay is cited as a reason the owner is diversifying its Sinop partners. The competitive picture separates out: Canada's AtkinsRealis approached in March 2026 with CANDU heavy water, US and French firms are offering SMRs, and China is concentrating on Thrace, the planned third plant; a Turkish analyst named financing terms and generation cost as the decisive selection criteria.",
+      "sales_note": "협약이 여신 확약이 아니라면 선정은 결국 자금조달 구조와 발전원가 절충에서 갈린다. 아큐유의 1년 지연은 공기 신뢰도를 차별화 논거로 쓸 수 있는 지점이므로, 바라카 공기 실적과 수출입은행의 바라카 금융 참여 경험을 한 묶음으로 정리해 둘 필요가 있다.",
+      "sales_note_en": "If the accord is not a credit commitment, selection will turn on the financing structure and on bridging the gap on generation cost. Akkuyu's one-year slip is a point at which schedule credibility can be used as a differentiator, so the Barakah schedule record and Eximbank's Barakah financing experience should be packaged together as one argument."
+    }
+  ]
+}

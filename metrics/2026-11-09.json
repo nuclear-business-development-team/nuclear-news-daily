@@ -1,0 +1,84 @@
+{
+ "date": "2026-11-09",
+ "run_started": "2026-11-09T08:04:16+09:00",
+ "run_finished": "2026-11-09T08:21:31+09:00",
+ "run_minutes": 17.2,
+ "articles": 5,
+ "by_region": {
+  "overseas": 2,
+  "domestic": 3
+ },
+ "by_importance": {
+  "3": 1,
+  "2": 3,
+  "1": 1
+ },
+ "detection_lag_hours": {
+  "median": 47.1,
+  "max": 47.1,
+  "n": 5,
+  "per_article": [
+   23.1,
+   47.1,
+   47.1,
+   23.1,
+   47.1
+  ],
+  "note": "게재 시각이 날짜까지만 확인된 기사는 그날 09:00(+09:00)으로 간주해 계산. 일요일 회차로 신규 게재가 없어 기간을 11-07까지 넓힌 결과 최댓값이 평일 회차보다 크다"
+ },
+ "sources_ok": [
+  "World Nuclear News (RSS)",
+  "NucNet (RSS)",
+  "IAEA Top News (RSS)",
+  "POWER Magazine (RSS)",
+  "UK DESNZ gov.uk (Atom)",
+  "더구루 (RSS)",
+  "더트래커 (RSS)",
+  "정책브리핑 korea.kr (원전·SMR·원자력 3회)",
+  "한국수력원자력 보도자료",
+  "한국전력 보도·설명자료 (curl 대체)",
+  "EU TED 검색 API",
+  "UK Find a Tender OCDS API",
+  "파이낸셜뉴스",
+  "헤럴드경제",
+  "글로벌이코노믹",
+  "천지일보",
+  "Asharq Al-Awsat (English)",
+  "UNN (우크라이나)",
+  "oenergetice.cz",
+  "ceskenoviny.cz",
+  "osge.com",
+  "nettg.pl",
+  "balkaninsight.com"
+ ],
+ "sources_failed": [
+  {
+   "name": "Nuclear Engineering International 피드 (neimagazine.com/feed)",
+   "reason": "301 리다이렉트 추적 후 200이나 2026-06-17자 항목만 반환 — 피드 갱신 중단 의심, 2회차 연속. 보고서에 '출처 점검 필요'로 기재"
+  },
+  {
+   "name": "한국전력 보도·설명자료 (kepco.co.kr)",
+   "reason": "WebFetch HTTP 503 → curl 직접 수신(298KB)으로 목록 확보, 원전 관련 신규 0건. 결과는 확보됐으나 기본 경로는 실패"
+  },
+  {
+   "name": "World Nuclear News 기사 본문 (the-mothballed-nuclear-power-plant)",
+   "reason": "JavaScript 렌더링으로 본문 판독 불가(추출 길이 1자) — 피드 제목·리드로만 수록, 수치 미기재"
+  },
+  {
+   "name": "루마니아 누클레아렐렉트리카 보도자료 (nuclearelectrica.ro)",
+   "reason": "HTTP 503, Retry-After 3600 — 체르나보다 1호기 재병입 11-06 이후 확정 사실 미확보"
+  },
+  {
+   "name": "romania-insider.com",
+   "reason": "HTTP 429 — 체르나보다 1호기 계통 병입 일자 2차 확인 실패"
+  },
+  {
+   "name": "g-enews.com (Industry/2026110719163325803084322ec9) 본문",
+   "reason": "curl 추출 결과 빈 응답 — 같은 사안을 천지일보(동일 일자)로 대체 확인. 카메코 인용 '75억 달러 AP1000 기자재' 수치는 접근 가능한 출처로 확정하지 못해 미기재"
+  }
+ ],
+ "languages": {
+  "en": 2,
+  "ko": 3
+ }
+}

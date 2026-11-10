@@ -1,0 +1,310 @@
+{
+ "date": "2026-11-10",
+ "generated_at": "2026-11-10T09:52:00+09:00",
+ "period": {
+  "from": "2026-11-09",
+  "to": "2026-11-10"
+ },
+ "overview_ko": "유럽에서 우리 EPC가 들어가 있는 사업 하나가 설계 입력값 확정 단계로 넘어갔다 — 에스토니아 경제통신부가 첫 원전 후보지를 6곳에서 비루니굴라 지자체 3곳(마달라·말라·레티페아)으로 좁히고 러시아 접경인 뤼가누세 3곳을 안보 사유로 배제했으며, 사업자 페르미에네르기아의 BWRX-300 2기 일정(2027년 말 부지 확정, 2029년 건설허가 신청, 2035년 하반기 가동)은 유지됐다. 정책 쪽 가장 큰 변화는 캐나다 2026 예산으로, 원자력에너지전략에 5년간 5억 1,850만 캐나다달러를 새로 배정하고 원자력안전위원회(CNSC)를 해당 사업의 단일 연방 규제·환경평가 기관으로 정리했으며 누적 투자 65억 캐나다달러에는 루마니아 CANDU 2기 수출금융 최대 30억 캐나다달러가 포함됐다. 미국은 방향이 갈렸다 — 하원에 원자력 6법안이 올라가고 인허가 개혁 법안이 수정 뒤 에디슨전기협회·듀크에너지 지지를 얻은 반면, 중간선거에서 상원 7석·주지사 5곳이 교체되고 데이터센터 관련 주민투표 47건 중 46건이 부결돼 전력수요 전제가 주 단위에서 흔들렸다. 운전 쪽에서는 다뉴브 수위 저하로 3개월 멈춘 체르나보다 1·2호기가 11월 6일과 10일 복귀하며 2억 유로 손실을 남겼고(정부는 취수 확대 '발라 2'를 우선순위로 지정), 아큐유 4호기는 터빈동 기초 2,240㎥ 타설을 마쳤고 1호기는 연내 계통 투입이 목표다. 영업 관점: 오늘 판단을 바꿀 재료는 에스토니아 부지 압축(FEED 범위·패키지 분할이 특정되는 구간)과 캐나다 수출금융이 걸린 체르나보다 3·4호기 조달 규칙 두 가지이고, 대미 8기는 후보지가 '어느 주인가'가 송전·전력구매 조건을 좌우하므로 통보 전까지 판단을 미루는 것이 맞다.",
+ "overview_en": "In Europe, one project with a Korean EPC already inside it moved into the stage where design inputs get fixed: Estonia's Ministry of Economic Affairs and Communications narrowed the shortlist for the country's first nuclear plant from six sites to three in Viru-Nigula municipality - Madala, Malla and Letipea - ruling out three locations in Lüganuse, which borders Russia, on security grounds, while developer Fermi Energia's schedule for two BWRX-300 units held (site decision end-2027, construction permit application 2029, operation in the second half of 2035). The biggest policy change came from Canada's Budget 2026, which adds CAD518.5 million over five years to the Nuclear Energy Strategy and makes the Canadian Nuclear Safety Commission the single federal regulator and impact-assessment authority for applicable projects; the CAD6.5 billion committed so far includes up to CAD3 billion of export financing for two new CANDU units in Romania. The United States split two ways: six nuclear bills are on the House floor schedule and an amended permitting-reform bill won support from the Edison Electric Institute and Duke Energy, yet the midterms flipped seven Senate seats and five governorships and 46 of 47 data-centre ballot measures were rejected, shaking the demand-side assumptions at state level. On the operating side, Cernavoda 1 and 2 returned on 6 and 10 November after a three-month shutdown caused by low Danube levels, at an estimated cost of EUR200 million, with the government prioritising the Bala 2 water-intake project; and Akkuyu 4 completed a 2,240 cubic metre turbine building foundation pour while unit 1 is targeted to reach the grid this year. Sales angle: only two items move our judgement today - the Estonian site shortlist, which is what fixes FEED scope and package splits, and the Canadian-content procurement rules now attached to Cernavoda 3 and 4 - while for the eight US reactors the candidate states themselves determine grid and offtake terms, so holding judgement until the sites are named is the right call.",
+ "domestic_overview_ko": "국내 기업이 주체인 세 건 모두 '계약 전 단계'의 접점이다. 삼성물산은 에스토니아 페르미에네르기아와 2025년 4월 양해각서로 pre-FEED·FEED에 참여 중이고 후보지가 3곳으로 좁혀져 설계 입력값이 구체화됐으나 EPC 계약은 아직 없다. 두산에너빌리티는 11월 5일 인도네시아 국가에너지위원회(DEN) 대표단의 창원공장 실사를 받아 APR1400 주기기 제작과 사용후연료 저장용기·해체 실적을 설명했는데, 인도네시아 전력공급계획(RUPTL)상 첫 원전은 250MW 2기·총 500MW로 2032·2033년 발전 개시 목표다. 캐나다 뉴브런즈윅 수전 홀트 주총리는 11월 12~20일 방한해 현대엔지니어링·SK이노베이션 E&S·두산에너빌리티와 수소·원자력 협력을 논의할 예정이며 대표단에 SMR 개발사 몰텍스에너지가 포함됐다. 영업 관점: 세 건 모두 협약이 없는 탐색 단계이므로 지금 챙길 것은 '노형 결정 전에 기자재·시공 패키지로 먼저 자리를 잡는' 경로이고, 특히 인도네시아는 노형 공급사가 미정인 상태에서 발주처가 제작 역량을 직접 확인한 단계라 선점 가치가 가장 크다.",
+ "domestic_overview_en": "All three Korean-led items sit at the pre-contract stage. Samsung C&T is working through pre-FEED and FEED with Estonia's Fermi Energia under an April 2025 MoU, and the shortlist narrowing to three sites firms up its design inputs - but no EPC contract has been signed. Doosan Enerbility hosted a delegation from Indonesia's National Energy Council (DEN) at its Changwon plant on 5 November, presenting APR1400 primary-equipment manufacturing along with spent-fuel storage casks and decommissioning experience; Indonesia's power supply plan (RUPTL) sets its first nuclear project at two 250 MW units totalling 500 MW, generating from 2032 and 2033. New Brunswick premier Susan Holt visits Korea from 12 to 20 November to discuss hydrogen and nuclear cooperation with Hyundai Engineering, SK Innovation E&S and Doosan Enerbility, with SMR developer Moltex Energy in her delegation. Sales angle: none of the three has an agreement yet, so what matters now is the route of taking an equipment or construction position before the reactor design is chosen - most of all in Indonesia, where the owner inspected manufacturing capability while the reactor vendor is still undecided.",
+ "countries_pulse": [
+  {
+   "country": "EE",
+   "name_ko": "에스토니아",
+   "name_en": "Estonia",
+   "stance": "expanding",
+   "signal": "첫 원전 부지 후보가 6곳에서 비루니굴라 3곳으로 압축되고 뤼가누세는 안보 사유로 배제 — 2027년 말 최종 선정, 2035년 하반기 가동 일정 유지",
+   "signal_en": "The shortlist for the first nuclear plant narrowed from six sites to three in Viru-Nigula, with Lüganuse excluded on security grounds; final selection stays set for end-2027 and operation for the second half of 2035",
+   "article_ids": [
+    "2026-11-10-01",
+    "2026-11-10-08"
+   ]
+  },
+  {
+   "country": "CA",
+   "name_ko": "캐나다",
+   "name_en": "Canada",
+   "stance": "expanding",
+   "signal": "2026 예산이 원자력에너지전략에 5년 5억 1,850만 캐나다달러를 새로 배정하고 CNSC를 단일 연방 규제·환경평가 기관으로 정리 — 전략 누적 투자 65억 캐나다달러",
+   "signal_en": "Budget 2026 adds CAD518.5 million over five years to the Nuclear Energy Strategy and makes the CNSC the sole federal regulator and impact-assessment authority, with CAD6.5 billion committed under the strategy to date",
+   "article_ids": [
+    "2026-11-10-02",
+    "2026-11-10-10"
+   ]
+  },
+  {
+   "country": "RO",
+   "name_ko": "루마니아",
+   "name_en": "Romania",
+   "stance": "steady",
+   "signal": "다뉴브 수위 저하로 3개월 정지했던 1·2호기가 11월 6일·10일 복귀하고, 정부가 취수 확대 '발라 2' 사업을 우선순위로 지정하며 3·4호기(2030·2031년 상업운전) 지원을 재확인",
+   "signal_en": "Units 1 and 2, shut for three months by low Danube levels, returned on 6 and 10 November; the government made the Bala 2 water-intake project a priority and reaffirmed support for units 3 and 4, due in commercial operation in 2030 and 2031",
+   "article_ids": [
+    "2026-11-10-05",
+    "2026-11-10-02"
+   ]
+  },
+  {
+   "country": "US",
+   "name_ko": "미국",
+   "name_en": "United States",
+   "stance": "steady",
+   "signal": "연방 원자력 입법은 초당적으로 진행(하원 6법안·인허가 개혁에 전력업계 지지)되는 반면, 데이터센터 주민투표 47건 중 46건 부결과 상원 7석·주지사 5곳 교체로 수요측 전제가 흔들림",
+   "signal_en": "Federal nuclear legislation keeps moving on a bipartisan basis - six House bills plus utility backing for permitting reform - while 46 of 47 data-centre ballot measures were rejected and seven Senate seats and five governorships changed hands, unsettling the demand-side assumptions",
+   "article_ids": [
+    "2026-11-10-03",
+    "2026-11-10-04"
+   ]
+  },
+  {
+   "country": "TR",
+   "name_ko": "튀르키예",
+   "name_en": "Turkey",
+   "stance": "expanding",
+   "signal": "아큐유 4호기 터빈동 기초 콘크리트 완료, 1호기는 연내 계통 투입 목표 — 로사톰이 시놉 수주전에 쓸 '완공 레퍼런스'에 근접",
+   "signal_en": "The turbine building foundation for Akkuyu 4 is complete and unit 1 is targeted to reach the grid this year, bringing Rosatom close to a completed-project reference it can use in the Sinop contest",
+   "article_ids": [
+    "2026-11-10-06"
+   ]
+  },
+  {
+   "country": "FR",
+   "name_ko": "프랑스",
+   "name_en": "France",
+   "stance": "steady",
+   "signal": "규제기관 ASNR이 카다라슈에 피동안전계통 시험설비 PASTIS를 가동(France 2030 900만 유로) — SMR 피동계통의 독자 검증 역량 확보",
+   "signal_en": "Regulator ASNR opened the PASTIS passive safety system test facility at Cadarache with EUR9 million from France 2030, giving it independent capability to verify SMR passive systems",
+   "article_ids": [
+    "2026-11-10-07"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-10-01",
+   "region": "overseas",
+   "category": "smr",
+   "importance": 3,
+   "language": "en",
+   "source": "World Nuclear News",
+   "published": "2026-11-09",
+   "url": "https://www.world-nuclear-news.org/articles/estonia-narrows-search-for-nuclear-power-plant-location",
+   "title": "Estonia narrows search for nuclear power plant location",
+   "title_en": "Estonia narrows search for nuclear power plant location",
+   "title_ko": "에스토니아 첫 원전 부지, 6곳에서 비루니굴라 3곳으로 압축 — 뤼가누세는 안보 사유로 배제",
+   "countries": [
+    "EE",
+    "KR"
+   ],
+   "summary_ko": "에스토니아 경제통신부는 11월 9일 첫 원전 부지 검토를 탈린 동쪽 약 120km 비루니굴라 지자체 안의 마달라·말라·레티페아 3곳으로 좁혔다고 밝혔다. 기존 6곳 가운데 뤼가누세 지자체 3곳은 안보 사유로 제외됐고, 송전선·냉각수관·접근도로·변전소가 지날 수 있어 국가공간계획 대상 면적은 약 1,285㎢·8개 지자체로 유지된다. 사업자 페르미에네르기아는 GE버노바히타치 BWRX-300(300MWe) 2기를 계획하며, 2027년 말 최종 부지 결정, 2029년 건설허가 신청, 2031년 착공, 2035년 하반기 1호기 가동을 목표로 한다.",
+   "summary_en": "Estonia's Ministry of Economic Affairs and Communications said on 9 November that the search for the country's first nuclear site now covers three locations - Madala, Malla and Letipea - all in Viru-Nigula municipality about 120 km east of Tallinn. Three sites in Lüganuse municipality were ruled out on security grounds, while the state spatial planning area stays at roughly 1,285 km² across eight municipalities because transmission lines, cooling water lines, access roads and substations may still cross them. Developer Fermi Energia plans two 300 MWe GE Vernova Hitachi BWRX-300 units, with the final site due at the end of 2027, a construction permit application in 2029, construction from 2031 and first operation in the second half of 2035.",
+   "sales_note": "삼성물산이 2024년 11월 MOU와 2025년 4월 티밍협약으로 pre-FEED·FEED 단계에 들어가 있고 EPC 주계약자 후보로 거론되는 사업이다. 부지가 3곳으로 좁혀지면 개념설계 입력값(냉각수·송전·지질)이 특정되므로 FEED 범위와 발주 시점이 구체화된다 — BOP·시공 패키지 분할 구도를 지금 확인해 둘 구간이다.",
+   "sales_note_en": "Samsung C&T is already inside this project at pre-FEED and FEED level, via a November 2024 MoU and an April 2025 teaming agreement, and is named as a prospective EPC prime. Narrowing to three sites fixes the design inputs (cooling water, grid connection, geology), which in turn firms up the FEED scope and award timing - the moment to establish how the balance-of-plant and construction packages will be split.",
+   "related": [
+    "https://www.theguru.co.kr/news/article.html?no=109496"
+   ]
+  },
+  {
+   "id": "2026-11-10-02",
+   "region": "overseas",
+   "category": "policy",
+   "importance": 3,
+   "language": "en",
+   "source": "World Nuclear News",
+   "published": "2026-11-09",
+   "url": "https://www.world-nuclear-news.org/articles/canadian-budget-sets-out-nuclear-investments",
+   "title": "Canadian budget sets out nuclear investments",
+   "title_en": "Canadian budget sets out nuclear investments",
+   "title_ko": "캐나다 2026 예산, 원자력에너지전략 5억 1,850만 캐나다달러 배정 — CNSC를 단일 연방 규제·환경평가 기관으로",
+   "countries": [
+    "CA",
+    "RO"
+   ],
+   "summary_ko": "11월 5일 공개된 캐나다 2026 예산은 원자력에너지전략에 5년간 5억 1,850만 캐나다달러와 연 1,810만 캐나다달러를 배정했다. 천연자원부 2억 6,100만(공급망·연구개발·연구로), 캐나다원자력공사 1억 2,700만, 원자력안전위원회(CNSC) 1억 3,110만(이 중 1,830만은 수수료 회수), 글로벌어페어스 1,440만(수출진흥) 등으로 나뉘며, CNSC는 해당 원자력사업의 단일 연방 규제기관이자 환경영향평가 단독 권한 기관이 된다. 전략 누적 투자는 65억 캐나다달러로, 캐나다성장기금의 달링턴 사업 최대 20억, 캐나다인프라은행 저리금융 9억 7,000만, 루마니아 CANDU 2기 수출금융 최대 30억이 포함되고, 국가전력전략 아래 2050년 계통용량 2배(500억 캐나다달러 이상)가 목표다.",
+   "summary_en": "Canada's Budget 2026, published on 5 November, allocates CAD518.5 million over five years plus CAD18.1 million a year to the Nuclear Energy Strategy: CAD261 million to Natural Resources Canada for supply chains, R&D and research reactor capacity, CAD127 million to Atomic Energy of Canada Limited, CAD131.1 million to the Canadian Nuclear Safety Commission (CAD18.3 million of it cost-recovered) and CAD14.4 million to Global Affairs Canada for export promotion. The CNSC becomes the sole federal regulator and sole impact-assessment authority for applicable nuclear projects. Investments under the strategy now total CAD6.5 billion, including up to CAD2 billion from the Canada Growth Fund for Darlington, CAD970 million of low-interest Canada Infrastructure Bank financing and up to CAD3 billion of export financing for two new CANDU units in Romania, against a National Electricity Strategy target of doubling grid capacity by 2050 with over CAD50 billion of investment.",
+   "sales_note": "수출금융 최대 30억 캐나다달러가 루마니아 CANDU에 걸려 있다는 점은 체르나보다 3·4호기 완공사업이 발주처 재원이 아니라 공급국 금융으로 움직인다는 뜻이다. 우리가 같은 사업의 패키지를 노릴 때 캐나다 수출금융 조건에 묶인 조달 규칙(캐나다산 요건)을 먼저 확인해야 하고, 인허가 창구가 CNSC 단일화되는 변화는 달링턴 모듈 용역의 심사 일정 예측에 유리하다.",
+   "sales_note_en": "Up to CAD3 billion of export financing earmarked for Romanian CANDU units means the Cernavoda 3 and 4 completion project is moving on supplier-country credit rather than the owner's own funds; any package we chase there has to be checked against the Canadian-content rules attached to that financing. Consolidating licensing and impact assessment into the CNSC also makes review schedules on Darlington module work easier to forecast.",
+   "related": []
+  },
+  {
+   "id": "2026-11-10-03",
+   "region": "overseas",
+   "category": "policy",
+   "importance": 2,
+   "language": "ko",
+   "source": "더구루",
+   "published": "2026-11-10",
+   "url": "https://www.theguru.co.kr/news/article.html?no=109484",
+   "title": "美 트럼프發 에너지 인허가 개혁안, 전력업계 지지 확보",
+   "title_en": "US utilities swing behind amended bipartisan energy permitting bill before Senate vote",
+   "title_ko": "美 에너지 인허가 개혁 법안, 주말 수정 뒤 전력업계 지지 확보 — 상원 표결 앞두고 변수 줄어",
+   "countries": [
+    "US"
+   ],
+   "summary_ko": "대형 에너지 사업 승인 절차를 전면 개편하는 초당적 연방 법안이 11월 9일 상원 핵심 표결을 앞두고 주말에 수정됐고, 그 결과 미국 최대 전력사 단체인 에디슨전기협회(EEI)가 유보에서 찬성으로 돌아섰다(드루 말로니 CEO 8일 서한). 듀크에너지도 수정안이 남부 권역을 다른 조항으로부터 실질적으로 보호한다며 지지했다(브라이언 사보이 CFO). 법안은 중복 계획 요건을 없애 계통 현대화와 AI 데이터센터 건설을 지연시키는 인허가 규제를 완화하는 것이 핵심이며, 원자력 고유 조항은 보도에 포함되지 않았다.",
+   "summary_en": "A bipartisan federal bill overhauling approvals for large energy projects was amended over the weekend ahead of a key Senate vote on 9 November, and the Edison Electric Institute - the main US investor-owned utility group - moved from a reserved position to active support, with CEO Drew Maloney writing to lawmakers on the 8th. Duke Energy also backed it, its CFO Brian Savoy saying the amendments meaningfully protect the southern US from other provisions. The bill removes duplicative planning requirements to ease permitting rules that slow grid modernisation and AI data-centre construction; the report names no nuclear-specific provisions.",
+   "sales_note": "대미 투자 원전 8기의 실행 변수는 노형 선택만이 아니라 송전망 연계와 인허가 일정이다. 인허가 개혁이 통과되면 부지 통보 후 계통연계·환경심사 구간이 짧아져 선급금으로 장주기 기자재를 먼저 묶어두는 전략의 설득력이 올라가고, 반대로 부결되면 같은 선급금의 회수 기간이 길어진다.",
+   "sales_note_en": "What decides the eight-reactor US investment package is not only the reactor choice but grid connection and permitting timelines. If this bill passes, the grid-connection and environmental review stretch after site designation gets shorter, which strengthens the case for committing the advance payment to long-lead equipment early; if it fails, the payback period on that same advance lengthens.",
+   "related": [
+    "https://www.ans.org/news/2026-11-09/article-8569/how-will-midterm-results-impact-nuclear-energy/"
+   ]
+  },
+  {
+   "id": "2026-11-10-04",
+   "region": "overseas",
+   "category": "policy",
+   "importance": 2,
+   "language": "en",
+   "source": "ANS Nuclear Newswire",
+   "published": "2026-11-09",
+   "url": "https://www.ans.org/news/2026-11-09/article-8569/how-will-midterm-results-impact-nuclear-energy/",
+   "title": "How will midterm results impact nuclear energy?",
+   "title_en": "How will midterm results impact nuclear energy?",
+   "title_ko": "美 중간선거 이후 원자력 정책 점검 — 상원 7석 교체·주지사 5곳 교체, 데이터센터 주민투표 47건 중 46건 부결",
+   "countries": [
+    "US"
+   ],
+   "summary_ko": "미국원자력학회(ANS)는 11월 9일 기준 상원 7석과 주지사 5곳이 공화당에서 민주당으로 넘어갔고 상원 2석은 미확정이라고 정리했다. 'Data Centers on the Ballot' 집계로는 데이터센터 관련 주민투표 47건 중 46건이 부결 또는 부결에 근접해, 당선자 상당수가 원자력을 직접 언급하지 않거나 데이터센터 승인 유예(텍사스 주지사 당선자 지나 이노호사)·수익자 비용부담(아이오와 주지사 당선자 롭 샌드)을 내세웠다. 레임덕 기간에는 연방 심사 신속화와 데이터센터의 송전비용 분담을 담은 초당적 'American Affordability and Jobs Act'와 하원 본회의에 올라간 원자력 6법안(REFUEL법, 미국농축배치법, 효율적원자력인허가청문회법 등)이 남아 있다.",
+   "summary_en": "The American Nuclear Society's 9 November review counts seven Senate seats and five governorships flipping from Republican to Democrat, with two Senate races undecided. Per the Data Centers on the Ballot tracker, 46 of 47 data-centre ballot measures were rejected or nearly so, and many winners either did not address nuclear directly or ran on slowing data centres - Texas governor-elect Gina Hinojosa wants a moratorium on approvals, Iowa governor-elect Rob Sand says data centres benefiting from the Duane Arnold restart should cover its cost. Left for the lame-duck session are the bipartisan American Affordability and Jobs Act, which would speed federal reviews and make data centres pay a share of transmission costs, and six nuclear bills already on the House floor schedule, including the REFUEL Act, the American Enrichment Deployment Act and the Efficient Nuclear Licensing Hearings Act.",
+   "sales_note": "연방 차원의 원자력 지원 입법은 초당적으로 유지되지만, 전력수요를 떠받치던 데이터센터가 주·지방 단위에서 제동이 걸리는 구도다. 대미 원전 8기의 장기 전력구매계약 주체와 송전비용 분담 조건이 주 정치에 따라 달라질 수 있어, 후보지 통보 시 '어느 주인가'가 사업성 판단의 선행 변수다.",
+   "sales_note_en": "Federal support for nuclear legislation remains bipartisan, but the data-centre demand that underpins load growth is now being checked at state and local level. Who signs the long-term power purchase agreement for the eight US reactors, and how transmission costs are shared, may turn on state politics - so when Washington names the candidate sites, which state they are in is the leading variable for project economics.",
+   "related": []
+  },
+  {
+   "id": "2026-11-10-05",
+   "region": "overseas",
+   "category": "large",
+   "importance": 2,
+   "language": "en",
+   "source": "World Nuclear News",
+   "published": "2026-11-09",
+   "url": "https://www.world-nuclear-news.org/articles/cernavoda-units-return-to-operation-after-three-months",
+   "title": "Cernavodă units returning to operation after three months",
+   "title_en": "Cernavodă units returning to operation after three months",
+   "title_ko": "루마니아 체르나보다 1·2호기, 다뉴브 수위 저하로 3개월 정지 뒤 복귀 — 정지 손실 2억 유로 추정",
+   "countries": [
+    "RO"
+   ],
+   "summary_ko": "중부 유럽 가뭄으로 다뉴브강 수위가 설계상 100년 빈도 예상보다 낮아지면서 7월 말 정지한 체르나보다 1호기가 11월 6일 계통에 재병입했고, 2호기는 11월 9일 기동을 시작해 11월 10일 계통 병입이 예정됐다(각 650MWe CANDU, 8월 초 정지). 두 호기는 루마니아 전력의 약 5분의 1을 담당하며, 이번 정지의 손실은 2억 유로(2억 2,300만 달러)로 추정됐다. 누클레아렐렉트리카는 가용률 개선을 위한 단·중·장기 대책을 당국과 협의 중이고, 정부는 취수량을 늘리는 '발라 2' 사업을 우선순위로 지정하고 상시 준설을 함께 추진하기로 했다. 3·4호기(CANDU-6, 2021년 보고서 기준 공정률 52%·30%)의 상업운전 목표는 각각 2030년·2031년이며 정부는 개발 지원 방침을 재확인했다.",
+   "summary_en": "Drought in central Europe pushed the Danube below levels the designers had expected in 100 years, shutting Cernavoda 1 at the end of July and Cernavoda 2 in early August; unit 1 reconnected to the grid on 6 November and unit 2 began starting up on 9 November, due to synchronise on 10 November. The two 650 MWe CANDU units supply about one-fifth of Romania's electricity, and the outage is estimated to have cost EUR200 million (USD223 million). Nuclearelectrica is working with the authorities on short, medium and long-term measures to improve availability, while the government has made the Bala 2 project - which would bring more water to the plant - a priority and plans permanent dredging. Units 3 and 4, CANDU-6 designs put at 52% and 30% complete in a 2021 report, are scheduled for commercial operation in 2030 and 2031, and the government reaffirmed it will support their development.",
+   "sales_note": "발주처의 3개월 정지는 그 자체로 체르나보다 3·4호기 완공사업의 재원 여력을 깎는다. 동시에 취수·냉각 인프라(발라 2·준설)가 정부 우선순위로 올라온 것은 3·4호기 제안에서 냉각수 확보 설계가 평가 항목으로 커진다는 신호다 — 우리 제안에 취수 리스크 대응을 명시할 근거로 쓸 수 있다.",
+   "sales_note_en": "A three-month outage directly erodes the owner's financial room for completing units 3 and 4. At the same time, making intake and cooling infrastructure a government priority - Bala 2 plus permanent dredging - signals that cooling-water security will weigh more heavily in the evaluation of any units 3 and 4 proposal, which is a concrete hook for addressing intake risk in our own offer.",
+   "related": [
+    "https://balkaninsight.com/2026/11/05/romania-restarts-nuclear-reactor-as-danube-river-levels-recover/bi/"
+   ]
+  },
+  {
+   "id": "2026-11-10-06",
+   "region": "overseas",
+   "category": "large",
+   "importance": 2,
+   "language": "en",
+   "source": "World Nuclear News",
+   "published": "2026-11-09",
+   "url": "https://www.world-nuclear-news.org/articles/concrete-work-completed-for-akkuyu-4s-turbine-unit",
+   "title": "Concrete work completed for Akkuyu 4's turbine unit",
+   "title_en": "Concrete work completed for Akkuyu 4's turbine unit",
+   "title_ko": "튀르키예 아큐유 4호기 터빈동 기초 콘크리트 완료 — 2,240㎥ 연속 타설, 1호기는 연내 계통 투입 목표",
+   "countries": [
+    "TR",
+    "RU"
+   ],
+   "summary_ko": "아큐유 원전 4호기 터빈동 기초에 2,240㎥가 넘는 콘크리트가 하루 넘게 펌프 9대로 연속 타설돼 완료됐고, 사전에 철근 308톤이 설치됐다. 설계강도 도달까지 약 60일이 걸리며, 터빈 설비 설치는 튀르키예 원자력규제청(NDK) 검사 승인 후 시작된다. 4호기 최초 콘크리트는 2022년 7월이었고, 전체 사업은 VVER-1200 4기·4,800MWe 규모로 튀르키예 전력수요의 약 10%를 담당할 BOO(건설·소유·운영) 방식이며, 1호기는 연내 계통 투입이 목표다.",
+   "summary_en": "More than 2,240 cubic metres of concrete were placed in a continuous pour lasting over a day, using nine pumps, to complete the turbine building foundation for Akkuyu 4, after more than 308 tonnes of rebar had been installed. The foundation needs about 60 days to reach design strength, and turbine set components can only be installed once Turkey's Nuclear Regulatory Authority (NDK) signs off its inspections. First concrete for unit 4 was poured in July 2022; the Rosatom-built plant comprises four VVER-1200 units totalling 4,800 MWe on a build-own-operate basis, expected to meet about 10% of Turkish electricity demand, with unit 1 targeted to supply the grid by the end of 2026.",
+   "sales_note": "아큐유 1호기 연내 계통 투입은 로사톰이 '튀르키예에서 실제로 끝내 보였다'는 레퍼런스를 확보한다는 뜻이고, 이는 시놉 2원전 수주전에서 러시아의 가장 강한 논거가 된다. 11월 4일 체결된 수출입은행–TUNAS 금융 양해각서가 타당성 분석 단계인 만큼, 우리 쪽은 금융조건과 현지화율로 승부할 구간이다.",
+   "sales_note_en": "Getting Akkuyu 1 onto the grid this year gives Rosatom a finished-in-Turkey reference, which becomes its strongest argument in the contest for the Sinop project. With the Korea Eximbank-TUNAS financing MoU of 4 November still at the feasibility-analysis stage, our ground to compete on is financing terms and local content.",
+   "related": []
+  },
+  {
+   "id": "2026-11-10-07",
+   "region": "overseas",
+   "category": "policy",
+   "importance": 1,
+   "language": "en",
+   "source": "World Nuclear News",
+   "published": "2026-11-09",
+   "url": "https://www.world-nuclear-news.org/articles/asnr-opens-passive-safety-system-testing-facility",
+   "title": "ASNR opens passive safety system testing facility",
+   "title_en": "ASNR opens passive safety system testing facility",
+   "title_ko": "프랑스 원자력안전방사선방호청(ASNR), 피동안전계통 시험설비 'PASTIS' 가동 — France 2030에서 900만 유로",
+   "countries": [
+    "FR"
+   ],
+   "summary_ko": "프랑스 ASNR(2025년 1월 IRSN·ASN 통합)이 카다라슈 부지에 피동안전계통 시험설비 PASTIS를 가동했다. 열수력 루프 'ALCINA'와 격납 용기 'KoKoMo' 두 플랫폼으로 구성되며, 경수로 사고·이상 시 잔열 제거용 피동계통의 1·2차계통 자연순환 압력손실과, 대형 수조에 잠긴 격납용기 내부의 대류·벽면 응축을 우선 과제로 다룬다. 재원은 France 2030의 900만 유로(1,000만 달러)이고, EDF 연구개발팀과 유라톰 EASI-SMR 과제 등 국제 파트너가 참여한다.",
+   "summary_en": "France's ASNR, formed in January 2025 by merging IRSN and ASN, has opened PASTIS, a passive safety system test facility at its Cadarache site. It has two platforms - the ALCINA thermal-hydraulic loop and the KoKoMo confinement enclosure - and its priority topics are convective behaviour and pressure losses in the primary and secondary circuits of passive residual-heat-removal systems, and convection and wall condensation inside an enclosure immersed in a large water pool, as in a pool-immersed SMR containment. Funding is EUR9 million (USD10 million) from the French government's France 2030 initiative, with EDF R&D teams and international partners including the Euratom programme's EASI-SMR project.",
+   "sales_note": "규제기관이 피동안전계통을 독자적으로 검증할 설비를 갖추면 유럽 인허가에서 피동계통 설계의 입증 수준 요구가 올라간다. 유럽향 SMR·대형원전 제안 시 피동계통 해석 근거를 ASNR 시험 데이터와 정합되게 준비하는 것이 인허가 공정 산정의 전제가 된다.",
+   "sales_note_en": "Once a regulator can test passive safety systems independently, the evidentiary bar for passive-system designs in European licensing rises. For SMR and large-reactor offers aimed at Europe, aligning passive-system analysis with the kind of data ASNR will now generate becomes a precondition for realistic licensing-schedule estimates.",
+   "related": []
+  },
+  {
+   "id": "2026-11-10-08",
+   "region": "domestic",
+   "category": "smr",
+   "importance": 2,
+   "language": "ko",
+   "source": "더구루",
+   "published": "2026-11-10",
+   "url": "https://www.theguru.co.kr/news/article.html?no=109496",
+   "title": "에스토니아 원전 후보지 '6곳→3곳' 압축…삼성물산 수혜 전망",
+   "title_en": "Estonia cuts SMR site shortlist from six to three, improving Samsung C&T's position",
+   "title_ko": "에스토니아 원전 후보지 '6곳→3곳' 압축…삼성물산 수혜 전망",
+   "countries": [
+    "KR",
+    "EE"
+   ],
+   "summary_ko": "페르미에네르기아가 현지시간 11월 9일 에스토니아 첫 원전 후보지를 비루니굴라 지역 3곳으로 좁혔다고 발표했고, 러시아와 접한 이다비루주 뤼가누세 지역은 안보 우려로 제외됐다. 삼성물산은 2025년 4월 페르미에네르기아와 SMR 개발 양해각서를 맺고 사업구조 수립·비용 산정·부지 평가를 포함한 개념설계(pre-FEED)부터 기본설계(FEED)까지 참여하며, 최종 EPC 계약으로 이어질 것으로 보도됐다(EPC 체결은 아직 없음). 최종 부지는 2027년 말, 최종 실행계획은 2030년까지, 상업운전은 2035년이 목표이고 노형은 GE히타치 BWRX-300(300MW)이다.",
+   "summary_en": "Fermi Energia announced on 9 November local time that Estonia's first nuclear plant will be sited at one of three locations in the Viru-Nigula area, with the Lüganuse area of Ida-Viru County - which borders Russia - excluded on security grounds. Samsung C&T, which signed an SMR development MoU with Fermi Energia in April 2025, is engaged from pre-FEED through FEED, covering project structuring, cost estimation and site evaluation, and is reported as the likely eventual EPC contractor, though no EPC contract has been signed. The final site is due at the end of 2027, the final implementation plan by 2030 and commercial operation in 2035, using GE Hitachi's 300 MW BWRX-300.",
+   "sales_note": "국내 EPC가 유럽 SMR의 설계 초기 단계에 들어가 있는 드문 사례이고, 부지 압축은 그 설계 입력값이 확정되기 시작했다는 신호다. BWRX-300은 폴란드·캐나다·미국에서도 같은 노형으로 추진돼 설계·조달이 반복 적용되는 구조이므로, 대형원전과 달리 노형 공급사가 아닌 EPC가 기자재·시공 패키지의 실질 발주 창구가 되는 구간이 길다.",
+   "sales_note_en": "It is rare for a Korean EPC to sit this early in a European SMR's design chain, and narrowing the site list signals that its design inputs are starting to firm up. The BWRX-300 is being pursued in Poland, Canada and the United States as the same design, so engineering and procurement repeat across projects - which means that, unlike large reactors, the EPC rather than the reactor vendor acts as the effective buyer for equipment and construction packages for a long stretch.",
+   "related": [
+    "https://www.world-nuclear-news.org/articles/estonia-narrows-search-for-nuclear-power-plant-location"
+   ]
+  },
+  {
+   "id": "2026-11-10-09",
+   "region": "domestic",
+   "category": "large",
+   "importance": 2,
+   "language": "ko",
+   "source": "더구루",
+   "published": "2026-11-09",
+   "url": "https://www.theguru.co.kr/news/article.html?no=109422",
+   "title": "두산에너빌리티, 인도네시아 국가 에너지 사령탑과 회동…첫 원전 도입 앞두고 창원공장 실사",
+   "title_en": "Indonesia's National Energy Council inspects Doosan Enerbility's Changwon plant ahead of first nuclear project",
+   "title_ko": "두산에너빌리티, 인도네시아 국가에너지위원회(DEN) 대표단 창원공장 실사 — 첫 원전 500MW 도입 준비",
+   "countries": [
+    "KR",
+    "ID"
+   ],
+   "summary_ko": "인도네시아 국가에너지위원회(DEN) 대표단이 11월 5일 두산에너빌리티 창원공장을 방문해 APR1400 주기기(원자로용기·증기발생기·원자로냉각재펌프·MMIS) 제작 현장을 확인했고, 두산은 가압중수로 기술과 사용후핵연료 저장용기, 해체·정비 실적도 함께 설명했다. 대표단은 사티아 위드야 유다 산업담당 위원을 단장으로 운글 프리얀토 기술담당 위원, 나낭 크리스탄토 사무국 조정관, 주한 인도네시아대사관 경제담당관으로 구성됐다. 인도네시아의 2025~2034년 전력공급계획(RUPTL)은 첫 원전으로 총 500MW(250MW 2기)를 담고 있으며, 수마트라·방카 권역과 칼리만탄에 각 1기씩 2032년·2033년 발전 개시를 목표로 한다. 이번 방문에서 체결된 협약은 없다.",
+   "summary_en": "A delegation from Indonesia's National Energy Council (DEN) visited Doosan Enerbility's Changwon plant on 5 November to inspect manufacturing of APR1400 primary equipment - reactor vessel, steam generator, reactor coolant pump and man-machine interface system - and Doosan also presented its PHWR technology, spent-fuel storage casks and decommissioning and maintenance record. The delegation was led by industry commissioner Satya Widya Yudha, with technology commissioner Unggul Priyanto, secretariat coordinator Nanang Kristanto and an economic officer from the Indonesian embassy in Seoul. Indonesia's 2025-2034 power supply plan (RUPTL) includes a first nuclear project of 500 MW in total - two 250 MW units, one in the Sumatra/Bangka region and one in Kalimantan - targeting generation in 2032 and 2033. No agreement was signed during the visit.",
+   "sales_note": "발주 노형이 250MW급 2기로 명시된 만큼 인도네시아는 대형원전보다 SMR·중소형 노형 경쟁이고, 두산의 강점은 노형이 아니라 주기기 제작 능력이다. 발주처가 제작 역량을 직접 확인하는 단계라면 노형 공급사(GEV히타치·로사톰·중국)와 무관하게 기자재 공급 자리를 선점할 수 있어, 노형 결정 전에 기자재·시공 패키지로 접근하는 것이 유효하다.",
+   "sales_note_en": "With the plan specifying two 250 MW units, Indonesia is an SMR and mid-size contest rather than a large-reactor one, and Doosan's edge there is fabrication capability rather than a reactor design. When the owner is at the stage of inspecting manufacturing itself, an equipment supply position can be secured regardless of which reactor vendor wins - GE Vernova Hitachi, Rosatom or a Chinese supplier - so approaching through equipment and construction packages before the design decision is the effective route.",
+   "related": []
+  },
+  {
+   "id": "2026-11-10-10",
+   "region": "domestic",
+   "category": "policy",
+   "importance": 2,
+   "language": "ko",
+   "source": "더트래커",
+   "published": "2026-11-10",
+   "url": "https://thetracker.co.kr/View.aspx?No=4304727",
+   "title": "加 뉴브런즈윅 주총리 방한...현대차·SK·두산와 수소·원자력 협력 모색",
+   "title_en": "New Brunswick premier to visit Korea for hydrogen and nuclear talks with Hyundai, SK and Doosan",
+   "title_ko": "캐나다 뉴브런즈윅 수전 홀트 주총리 방한 예정(11월 12~20일) — 현대엔지니어링·SK이노베이션E&S·두산에너빌리티와 수소·원자력 협력 모색",
+   "countries": [
+    "KR",
+    "CA"
+   ],
+   "summary_ko": "캐나다 뉴브런즈윅주 수전 홀트 주총리가 11월 12~20일 캄보디아와 한국을 방문하며, 대표단에 세인트존항만공사·DP월드와 SMR 개발사 몰텍스에너지가 포함됐다. 한국에서는 현대엔지니어링, SK이노베이션 E&S, 두산에너빌리티와 면담이 예정됐고 현대글로비스·한국광해광업공단도 면담 상대로 거론됐다. 양측은 수소와 원자력 분야 협력 기회를 모색할 계획이며, 보도 시점에서 체결된 협약은 없다.",
+   "summary_en": "Premier Susan Holt of New Brunswick, Canada, will visit Cambodia and Korea from 12 to 20 November, with a delegation that includes Port Saint John, DP World and SMR developer Moltex Energy. Talks in Korea are expected with Hyundai Engineering, SK Innovation E&S and Doosan Enerbility, with Hyundai Glovis and the Korea Mine Rehabilitation and Mineral Resources Corporation also named as meeting partners. The two sides plan to explore cooperation in hydrogen and nuclear; no agreement had been signed as of the report.",
+   "sales_note": "뉴브런즈윅은 포인트레프로 부지를 중심으로 SMR 실증을 추진하는 주이고, 대표단에 몰텍스에너지가 들어간 것은 원자력 의제가 수소에 딸린 항목이 아니라는 뜻이다. 캐나다 2026 예산이 원자력 공급망·연구개발에 재원을 배정한 직후의 방한이므로, 주정부 단위 사업에 기자재·시공으로 들어갈 창구가 열리는지 면담 결과를 확인할 가치가 있다.",
+   "sales_note_en": "New Brunswick is the Canadian province pushing SMR demonstration around its Point Lepreau site, and the inclusion of Moltex Energy in the delegation indicates nuclear is not a side item attached to hydrogen. Coming immediately after Budget 2026 allocated money to nuclear supply chains and R&D, the outcome of these meetings is worth tracking for whether a provincial-level route opens for equipment and construction scope.",
+   "related": []
+  }
+ ]
+}

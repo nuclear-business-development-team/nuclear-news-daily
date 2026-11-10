@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
@@ -67,19 +67,6 @@
    "published": "2026-11-02",
    "deadline": "2026-11-16",
    "url": "https://ted.europa.eu/en/notice/757424-2026/pdf"
-  },
-  {
-   "country": "DE",
-   "buyer": "European Commission, DG JRC - Joint Research Centre",
-   "title": "EU 집행위 JRC 카를스루에 — 핫셀용 베타·감마 차폐창 설계·제작·납품",
-   "title_en": "Supply of a hot cell gamma shielding window for JRC Karlsruhe",
-   "scope": "고방사선 환경 작업 육안감시용 주문제작 차폐창 설계·제작·납품. 기간 60개월",
-   "scope_en": "Design, production and delivery of a custom beta/gamma shielding window for visual monitoring in a high-radiation environment. 60 months",
-   "portal": "TED",
-   "notice_no": "695182-2026",
-   "published": "2026-10-08",
-   "deadline": "2026-11-09",
-   "url": "https://ted.europa.eu/en/notice/695182-2026/pdf"
   },
   {
    "country": "DK",
@@ -547,6 +534,32 @@
    "published": "2026-11-03",
    "deadline": "2026-11-24",
    "url": "https://ted.europa.eu/en/notice/760804-2026/pdf"
+  },
+  {
+   "country": "BE",
+   "buyer": "European Defence Agency",
+   "title": "'EU 국방 에너지체계용 원자력 기술(NUCLEUS)' 연구·자문 용역 기본계약 (26.RTI.OP.102)",
+   "title_en": "Framework contract for the 'Nuclear Technologies for EU Defence Energy Systems (NUCLEUS)' study (26.RTI.OP.102)",
+   "scope": "선진 원자력 기술, 국방 에너지 복원력, 에너지 안보, 핵심 에너지 인프라 보호를 다루는 연구·자문 용역 기본계약. 과업은 연구·평가·전문가 자문·워크숍·분석 활동이며, 규제·인허가 체계, 핵연료 공급, 이행 경로, 사이버·하이브리드·물리보안, 역량 개발이 범위에 포함된다. 개방입찰, 재경쟁 없는 기본계약(fa-wo-rc), 공고 기재 추정금액 90만 유로, 입찰서 접수 마감 2026-11-20 17:00. CPV 75220000·73110000.",
+   "scope_en": "A framework contract for research and consulting services in the form of a study on advanced nuclear technologies, defence energy resilience, energy security and the protection of critical energy infrastructure. Tasks cover studies, assessments, expert consultations, workshops and analytical work, including regulatory and licensing frameworks, fuel supply, implementation pathways, cyber, hybrid and physical security, and capability development. Open procedure, framework agreement without reopening of competition, stated estimated value EUR 900,000, tenders due by 17:00 on 20 November 2026. CPV 75220000 and 73110000.",
+   "portal": "TED",
+   "notice_no": "782381-2026",
+   "published": "2026-11-10",
+   "deadline": "2026-11-20",
+   "url": "https://ted.europa.eu/en/notice/782381-2026/pdf"
+  },
+  {
+   "country": "ES",
+   "buyer": "The European Joint Undertaking for ITER and the Development of Fusion Energy ('Fusion for Energy')",
+   "title": "원자력안전 계측제어(I&C) 자문·설계·검증 용역 [사전정보공고]",
+   "title_en": "Provision of Nuclear Safety I&C Consultancy, Design and Qualification Services [prior information notice]",
+   "scope": "사전정보공고(PIN)로, 원자력안전 계측제어 분야의 자문·설계·검증 용역 발주 예정을 알리는 단계다. 공고 데이터에 상세 과업 설명·추정금액·입찰 마감이 기재되지 않아 확인하지 못했다. CPV 71300000(엔지니어링 용역), 이행지 스페인.",
+   "scope_en": "A prior information notice flagging a forthcoming procurement of consultancy, design and qualification services for nuclear safety instrumentation and control. The notice data carries no detailed task description, estimated value or tender deadline, so none could be confirmed. CPV 71300000 (engineering services); place of performance Spain.",
+   "portal": "TED",
+   "notice_no": "778583-2026",
+   "published": "2026-11-09",
+   "deadline": null,
+   "url": "https://ted.europa.eu/en/notice/778583-2026/pdf"
   }
  ]
 }

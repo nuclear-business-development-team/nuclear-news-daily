@@ -1,0 +1,63 @@
+{
+ "date": "2026-11-10",
+ "run_started": "2026-11-10T09:11:52+09:00",
+ "run_finished": "2026-11-10T10:05:30+09:00",
+ "run_minutes": 53.6,
+ "articles": 10,
+ "by_region": {"overseas": 7, "domestic": 3},
+ "by_importance": {"3": 2, "2": 7, "1": 1},
+ "detection_lag_hours": {
+  "median": 24.2,
+  "max": 24.2,
+  "n": 10,
+  "per_article": [24.2, 24.2, 0.2, 24.2, 24.2, 24.2, 24.2, 0.2, 24.2, 0.2],
+  "note": "게재 시각이 날짜까지만 확인된 기사는 그날 09:00(+09:00)으로 간주해 계산(SKILL §9). 당일 게재 3건(2026-11-10-03·08·10)은 0.2시간으로, 평일 회차 복귀로 최댓값이 직전 2회차(47.1h)의 절반 수준으로 내려왔다"
+ },
+ "sources_ok": [
+  "World Nuclear News (RSS)",
+  "NucNet (RSS)",
+  "IAEA Top News (RSS, 목록만)",
+  "POWER Magazine (RSS)",
+  "UK DESNZ gov.uk (Atom)",
+  "ANS Nuclear Newswire (목록 페이지)",
+  "더구루 (RSS)",
+  "더트래커 (RSS)",
+  "정책브리핑 korea.kr (원전·SMR·원자력 3회)",
+  "한국수력원자력 보도자료",
+  "한국전력 보도·설명자료",
+  "EU TED 검색 API",
+  "UK Find a Tender OCDS API",
+  "oenergetice.cz",
+  "e15.cz",
+  "nyteknik.se",
+  "hankintailmoitukset.fi (검색 색인)",
+  "osge.com",
+  "aa.com.tr",
+  "gazeta.uz",
+  "tuoitre.vn",
+  "ujd.gov.sk"
+ ],
+ "sources_failed": [
+  {
+   "name": "Nuclear Engineering International 피드 (neimagazine.com/feed)",
+   "reason": "HTTP 200이나 2026-06-17자 항목만 반환 — 피드 갱신 중단 의심, 3회차 연속. 보고서에 '출처 점검 필요'로 기재"
+  },
+  {
+   "name": "IAEA 보도자료 본문 (iaea.org/newscenter/pressreleases/...)",
+   "reason": "WebFetch HTTP 402, curl HTTP 403(Cloudflare 자바스크립트 검증) — IAEA Top News 피드에 오른 '슬로바키아 원자력·방사선 안전 규제체계 검토(IRRS 후속)' 보도자료의 게재일을 확정하지 못해 수록하지 않았다. 피드 자체에 pubDate가 없어 날짜 대체 확인 경로도 없음. UJD 측 자료로 '2026년 11월 중 후속 IRRS 수행 예정'만 확인"
+  },
+  {
+   "name": "TED 공고 XML·PDF 본문 (ted.europa.eu/en/notice/<번호>/xml, /pdf)",
+   "reason": "XML은 HTTP 202(비동기 렌더링 대기), PDF는 WebFetch 빈 응답 — 신규 2건(782381-2026·778583-2026)의 범위·금액·마감은 검색 API 필드(description-lot, estimated-value-lot, deadline-receipt-tender-date-lot)로 대체 확보"
+  },
+  {
+   "name": "TED 검색 API 다중 OR 제목 질의 / classification-cpv IN 필터",
+   "reason": "기능 결함 2건 — ① 제목 OR 질의가 용어 수 증가 시 오류 없이 0건 반환(대조군 11-02~11-04 반증) ② CPV IN 필터 미적용(지열·태양광·일반폐기물 반환). 용어별 단건 질의 18회 분할로 우회"
+  },
+  {
+   "name": "WebSearch allowed_domains 차단 도메인",
+   "reason": "di.se / lesechos.fr / lemonde.fr / lefigaro.fr / economictimes.indiatimes.com / thehindubusinessline.com / thehindu.com / hnonline.sk 가 에이전트 User-Agent 거부로 질의 자체 실패(HTTP 400) — 스웨덴·프랑스·인도·슬로바키아 현지어 수집을 접근 가능한 대체 매체(nyteknik.se, actu.orange.fr, sme.sk 등)로 돌렸다. sources.yaml 의 local/local_english 목록 갱신 필요"
+  }
+ ],
+ "languages": {"en": 6, "ko": 4}
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
@@ -316,19 +316,6 @@
    "url": "https://ted.europa.eu/en/notice/708440-2026/pdf"
   },
   {
-   "country": "PL",
-   "buyer": "Bechtel Polska Sp. z o.o.",
-   "title": "복수탈염설비(Condensate Polishing Package) 공급사 자격심사 — 폴란드 AP1000 3기",
-   "title_en": "Condensate Polishing Package supplier prequalification for three AP1000 units, Poland",
-   "scope": "AP1000 3기 전량의 복수탈염설비 설계·조달·제작·스키드 탑재·공장시험·납품(설치 감리 포함). 호기별 구성품은 전치여과기, 복수탈염탑, 양이온·음이온 재생탑 및 부속계통. 자격요건은 유사 복수탈염·수지재생 설비 실적, ISO 9001:2015 또는 동등 품질체계, 재무건전성이며, 통과 업체는 비밀유지계약 체결 후 견적요청서를 받는다. 공고는 EU와 정부조달협정(GPA)을 맺지 않은 국가의 기업이 지배하거나 그 역량에 의존하는 응찰자를 배제할 수 있다고 명기했다. 마감일은 공고 데이터에 기재되지 않았다.",
-   "scope_en": "Design, procurement, fabrication, skid mounting, shop testing and delivery of the condensate polishing package for all three AP1000 units, including installation supervision. Each unit comprises pre-filters, polisher vessels, cation and anion regeneration vessels and ancillary systems. Prequalification requires comparable condensate-polishing and resin-regeneration experience, ISO 9001:2015 or an equivalent quality programme, and financial standing; those who pass sign a non-disclosure agreement before receiving the request for quotation. The notice states that bidders owned or controlled by, or relying on the capacity of, entities from countries outside the EU Government Procurement Agreement may be excluded. No deadline is given in the notice data.",
-   "portal": "TED",
-   "notice_no": "728533-2026",
-   "published": "2026-10-21",
-   "deadline": "2026-11-10",
-   "url": "https://ted.europa.eu/en/notice/728533-2026/pdf"
-  },
-  {
    "country": "NL",
    "buyer": "Gemeente Den Helder",
    "title": "덴헬더르 지자체 관내 소형모듈원전(SMR) 도입 타당성 시장조사",
@@ -560,6 +547,32 @@
    "published": "2026-11-09",
    "deadline": null,
    "url": "https://ted.europa.eu/en/notice/778583-2026/pdf"
+  },
+  {
+   "country": "GB",
+   "buyer": "United Kingdom National Nuclear Laboratory",
+   "title": "제작·기계가공 및 부대 공급·용역 개방형 기본협약 (NNLC703F)",
+   "title_en": "Open framework agreement for fabrication, machining and associated supplies and services (NNLC703F)",
+   "scope": "제작·기계가공과 그에 부대하는 공급·용역을 담는 개방형 기본협약. 등재 후 개별 발주는 제한형 퀵쿼트·개방형 퀵쿼트·미니경쟁·수의발주 네 방식으로 이뤄지고 고정금액 또는 실비정산으로 체결된다. 미니경쟁은 전자입찰 포털을 통해 해당 로트의 전체 공급자를 포함해 진행하며 1회 1로트로 제한된다. 입찰 마감은 2026-12-08 13:00, 공고 기재값은 1,500만 파운드(부가세 포함 1,800만 파운드)이며 개방입찰이다.",
+   "scope_en": "An open framework agreement covering fabrication, machining and associated supplies and services. Call-offs are placed by restricted quick quote, open quick quote, mini-competition or direct award, on either a fixed-price or a reimbursable basis. Mini-competitions run through the e-tendering portal and include all suppliers on the relevant lot, one lot at a time. Tenders are due by 13:00 on 8 December 2026. The notice states a value of GBP 15 million (GBP 18 million including VAT) under an open procedure.",
+   "portal": "UK Find a Tender",
+   "notice_no": "106629-2026",
+   "published": "2026-11-10",
+   "deadline": "2026-12-08",
+   "url": "https://www.find-tender.service.gov.uk/Notice/106629-2026"
+  },
+  {
+   "country": "GB",
+   "buyer": "UK Atomic Energy Authority",
+   "title": "LIBRTI 배기 탈삼중수소화설비(EDS) 상세설계·제작·시험·설치 및 시운전 지원 (T056MN26)",
+   "title_en": "LIBRTI exhaust detritiation system (EDS): detailed design, manufacture, testing, installation and commissioning support (T056MN26)",
+   "scope": "LIBRTI 설비의 배기 탈삼중수소화설비(EDS)에 대한 상세설계·제작·시험·설치와 시운전 지원을 한 계약으로 묶은 공고. 입찰 마감은 2027-02-18 12:00, 공고 기재값은 300만 파운드(부가세 포함 360만 파운드)이며 개방입찰이다.",
+   "scope_en": "A single contract bundling detailed design, manufacture, testing and installation of the exhaust detritiation system (EDS) for the LIBRTI facility, together with commissioning support. Tenders are due by 12:00 on 18 February 2027. The notice states a value of GBP 3 million (GBP 3.6 million including VAT) under an open procedure.",
+   "portal": "UK Find a Tender",
+   "notice_no": "106786-2026",
+   "published": "2026-11-10",
+   "deadline": "2027-02-18",
+   "url": "https://www.find-tender.service.gov.uk/Notice/106786-2026"
   }
  ]
 }

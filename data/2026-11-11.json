@@ -1,0 +1,245 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T13:06:00+09:00",
+ "period": {
+  "from": "2026-11-10",
+  "to": "2026-11-11"
+ },
+ "overview_ko": "오늘 회차에서 영업 판단을 바꿀 재료는 두 가지다 — 미 NRC의 선진로 건설허가와 튀르키예 시놉 수주전의 2파전 압축. NRC는 11월 10일 다우 시드리프트 부지의 롱모트 발전소에 엑스에너지 Xe-100 4기(각 80MWe·200MWt) 건설허가를 발급했는데, 미국에서 고온가스로 건설허가는 약 60년 만이고 다중모듈 선진로 시설·페블베드 노심·온라인 재장전 설계 인가와 위험정보 기반 인허가체계(LMP) 적용 심사는 모두 NRC 첫 사례이며 심사는 18개월 일정을 지켰다. 다만 허가는 운영을 포함하지 않고 다우의 건설 확정은 2027년 예비 투자결정 이후다. 연료·공급망에서는 우즈베키스탄 나보이우란이 우라늄 생산을 2030년까지 7,500톤에서 1만 5,000톤으로 2배, 탐사매장량 20만 톤으로 늘리는 계획을 대통령에게 보고해, 11월 4일 카자흐스탄의 전략 비축 지시에 이어 중앙아시아 두 번째 증산 목표가 공식화됐다. 건설 쪽은 중국 싼아오 4호기가 11월 10일 최초 콘크리트를 타설해 한 부지에서 네 번째 화룡1호가 착공했고, 영국은 업계 설문에서 응답자 79.7%가 전망을 낙관하면서도 사업비·인력·규제·장기 정부지원을 공통 제약으로 지목했다. 영업 관점: 시놉이 한국·캐나다 2파전으로 좁혀진 만큼 비교 기준이 CANDU 단일 노형과 캐나다 수출금융으로 수렴하므로 금융조건 구체화 속도가 이번 분기 최우선 변수이고, 미국 선진로는 인허가 리스크가 한 단계 내려갔지만 발주는 2027년 투자결정 이후라는 두 사실을 분리해 봐야 한다.",
+ "overview_en": "Two items in this edition change how we read the market: a US advanced-reactor construction permit and the narrowing of the Sinop contest to two bidders. On 10 November the NRC issued a construction permit for the Long Mott Generating Station at Dow's Seadrift site in Texas - four X-energy Xe-100 units of 80 MWe / 200 MWt each. It is the first US construction permit for a high-temperature gas-cooled reactor in nearly 60 years, and the NRC's first approval of a multi-module advanced reactor facility, a pebble-bed core and an online-refuelling design, and its first HTGR review under the risk-informed Licensing Modernisation Project framework; the review met its 18-month schedule. The permit does not authorise operation, and Dow's construction commitment follows a preliminary investment decision in 2027. On the fuel side, Uzbekistan's Navoiyuran presented the president with a plan to double uranium output from 7,500 tonnes to 15,000 tonnes by 2030 and lift explored reserves to 200,000 tonnes, making it the region's second expansion target on the record after Kazakhstan's strategic-reserve directive of 4 November. In construction, China poured first concrete at San'ao 4 on 10 November, starting a fourth Hualong One on that site, while a UK industry survey found 79.7% of respondents optimistic yet naming costs, workforce, regulation and long-term government support as the shared constraints. Sales angle: with Sinop down to South Korea and Canada, our benchmark converges on a single rival design and Canadian export finance, which makes the pace of firming up financing terms the priority variable this quarter; and on US advanced reactors, licensing risk has stepped down but the orders still sit behind a 2027 investment decision - two facts to keep apart.",
+ "domestic_overview_ko": "국내는 해외 두 사업의 진행이 그대로 우리 기업 역무로 넘어온 회차다. 튀르키예 시놉 신규원전(4기)에서 바이라크타르 에너지천연자원부 장관이 11월 10일 안탈리아 COP31에서 파트너 선정이 \"앞으로 몇 달이 매우 중요하다\"며 한국(APR1400)과 캐나다(CANDU)를 기술 면에서 긍정 평가한다고 밝혀, 1년 넘게 중국·러시아·미국·프랑스까지 포함됐던 경합이 2파전으로 좁혀졌다. 11월 3일 정상 간 금융협력 양해각서로 2025년 11월 한전–튀르키예원자력청 MOU가 금융까지 확장됐고 한전은 예비 타당성조사를 수행 중이며, 팀코리아 후보로 현대건설·삼성물산(시공)과 두산에너빌리티(주기기)가 거론된다. 미국에서는 NRC의 엑스에너지 텍사스 SMR 건설허가로 두산에너빌리티의 SMR 16기분 기자재 공급(2026년 3월 구속력 계약, 금액 비공개)과 11월 5일 알레이마 튜브 합의를 통한 헬리컬 코일 공급, DL이앤씨의 표준설계 계약과 DL에너지를 통한 개발·투자·운영 구조가 실행 단계로 넘어갔다. 국내 공식 발표(정책브리핑 3회 검색, 한수원·한전 게시판)는 접속됐으나 수집 기간 내 원전 관련 신규 게재가 없었다. 영업 관점: 시놉은 금융조건을 구속력 있는 수준으로 올리는 속도가, 미국 선진로는 발주처 투자결정(2027년) 전까지 납기 확약을 어디까지 받아둘지가 각각 다음 판단 지점이다.",
+ "domestic_overview_en": "This edition is one where progress on two overseas projects lands directly on Korean scopes. On Turkey's four-unit Sinop plant, energy minister Alparslan Bayraktar said at COP31 in Antalya on 10 November that the coming months are critical for the partner decision and that Turkey views South Korea (APR1400) and Canada (CANDU) positively on technology - narrowing a field that had included China, Russia, the US and France for more than a year down to two. A 3 November presidential memorandum extended the November 2025 KEPCO-TAEK memorandum into financing, KEPCO is running a pre-feasibility study, and Hyundai E&C and Samsung C&T (construction) and Doosan Enerbility (equipment) are named as Team Korea candidates. In the US, the NRC's construction permit for X-energy's Texas SMRs moved into execution Doosan Enerbility's equipment supply for 16 SMRs (binding contract in March 2026, value undisclosed) and its helical-coil supply built on the 5 November Alleima tubing agreement, along with DL E&C's standardised design contract and the development, investment and operation structure it plans through DL Energy. Korean official sources (three searches of the policy briefing portal, plus the KHNP and KEPCO boards) were all reachable but published nothing nuclear-related inside the collection window. Sales angle: for Sinop the next decision point is how fast financing terms become binding, and for US advanced reactors it is how much delivery commitment can be secured before the owner's 2027 investment decision.",
+ "countries_pulse": [
+  {
+   "country": "US",
+   "name_ko": "미국",
+   "name_en": "United States",
+   "stance": "expanding",
+   "signal": "NRC가 고온가스로 건설허가를 약 60년 만에 발급하며 다중모듈·페블베드·온라인 재장전 설계를 처음 인가 — 동시에 사용후핵연료 처분은 유카마운틴 지위 종료 법안까지 나와 재편 논의 단계",
+   "signal_en": "The NRC issued its first HTGR construction permit in nearly 60 years, approving multi-module, pebble-bed and online-refuelling designs for the first time, while spent-fuel policy is being reopened, including a bill to end Yucca Mountain's repository status",
+   "article_ids": [
+    "2026-11-11-01",
+    "2026-11-11-05",
+    "2026-11-11-08"
+   ]
+  },
+  {
+   "country": "TR",
+   "name_ko": "튀르키예",
+   "name_en": "Turkey",
+   "stance": "expanding",
+   "signal": "시놉 신규원전(4기) 파트너 경합이 한국·캐나다 2파전으로 좁혀지고 장관이 \"앞으로 몇 달이 결정적\"이라고 공표 — 2035년 7.2GW·2050년 20GW 목표에 3호 원전·5GW SMR 계획이 뒤따름",
+   "signal_en": "The contest for the four-unit Sinop plant has narrowed to South Korea and Canada, with the energy minister calling the coming months critical, behind targets of 7.2 GW by 2035 and 20 GW by 2050 and plans for a third plant and a 5 GW SMR programme",
+   "article_ids": [
+    "2026-11-11-07"
+   ]
+  },
+  {
+   "country": "CN",
+   "name_ko": "중국",
+   "name_en": "China",
+   "stance": "expanding",
+   "signal": "싼아오 4호기 최초 콘크리트로 한 부지에서 네 번째 화룡1호 착공 — 5·6호기 3단계까지 계획 유지",
+   "signal_en": "First concrete at San'ao 4 starts a fourth Hualong One on the same site, with Phase III units 5 and 6 still planned",
+   "article_ids": [
+    "2026-11-11-02"
+   ]
+  },
+  {
+   "country": "UZ",
+   "name_ko": "우즈베키스탄",
+   "name_en": "Uzbekistan",
+   "stance": "expanding",
+   "signal": "국영 나보이우란이 우라늄 생산을 2030년까지 7,500톤→1만 5,000톤으로 2배, 탐사매장량 20만 톤 목표를 대통령에게 보고 — 광산 부문 한정",
+   "signal_en": "State miner Navoiyuran presented the president with a plan to double uranium output from 7,500 to 15,000 tonnes by 2030 and expand explored reserves to 200,000 tonnes, covering mining only",
+   "article_ids": [
+    "2026-11-11-03"
+   ]
+  },
+  {
+   "country": "GB",
+   "name_ko": "영국",
+   "name_en": "United Kingdom",
+   "stance": "steady",
+   "signal": "기조 유지 — 업계 설문에서 79.7%가 전망을 낙관하면서도 사업비·인력·규제·장기 정부지원을 공통 제약으로 지목했고, 해체 쪽은 하웰 부지 4.2헥타르 정화를 끝내 인가해제 절차로 넘어감",
+   "signal_en": "Policy unchanged: an industry survey found 79.7% optimistic while naming costs, workforce, regulation and long-term government support as the shared constraints, and on the back end Harwell completed remediation of 4.2 hectares and moved into delicensing",
+   "article_ids": [
+    "2026-11-11-04",
+    "2026-11-11-06"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-11-01",
+   "title": "US issues landmark construction permit for Texas SMR plant",
+   "title_ko": "美 NRC, 다우 시드리프트 'Xe-100 4기' 롱모트 발전소 건설허가 발급 — 고온가스로 건설허가 약 60년 만",
+   "title_en": "US issues landmark construction permit for Texas SMR plant",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/us-issues-landmark-construction-permit-for-texas-smr-plant",
+   "published": "2026-11-10",
+   "region": "overseas",
+   "category": "smr",
+   "countries": [
+    "US"
+   ],
+   "importance": 3,
+   "summary_ko": "미 원자력규제위원회(NRC)가 11월 10일 다우(Dow) 시드리프트 부지의 롱모트 발전소(Long Mott Generating Station)에 건설허가를 발급했다. 엑스에너지 Xe-100 고온가스로 4기(각 80MWe·200MWt)로, 미국에서 고온가스로 건설허가는 약 60년 만이고 다중모듈 선진로 시설·페블베드 노심·온라인 재장전 설계에 대한 허가와 위험정보 기반 인허가체계(LMP)로 심사한 고온가스로는 모두 NRC 첫 사례다. 2025년 3월 신청 뒤 10월 30일 최종안전평가보고서가 나왔고 NRC 위원장은 18개월 심사일정을 지켰다고 밝혔다. 건설허가는 운영을 포함하지 않아 별도 운영허가가 필요하며, 사업주 롱모트에너지(다우 자회사)는 아직 건설을 확정하지 않고 2027년 예비 투자결정을 검토할 예정이다.",
+   "summary_en": "The US NRC issued a construction permit on 10 November for the Long Mott Generating Station at Dow's Seadrift site in Texas - four X-energy Xe-100 high-temperature gas-cooled reactors of 80 MWe / 200 MWt each. It is the first US construction permit for an HTGR in nearly 60 years and the NRC's first approval of a multi-module advanced reactor facility, of a pebble-bed core and of an online-refuelling design, as well as its first HTGR review under the risk-informed Licensing Modernisation Project framework. The application was filed in March 2025, the final safety evaluation report issued on 30 October, and the NRC chairman said the review met its 18-month schedule. The permit does not authorise operation, and owner Long Mott Energy, a Dow subsidiary, has yet to commit to construction, with a preliminary investment decision expected to be considered in 2027.",
+   "sales_note": "다중모듈·페블베드 선진로 설계가 미 규제심사를 예정 일정 안에 통과한 첫 사례로, 선진로 사업의 인허가 리스크를 발주처·금융기관에 설명할 때 쓸 기준점이 생겼다. 다만 발주처 투자결정이 2027년으로 남아 있어 시공·기자재 본발주는 아직 열리지 않았다는 점을 함께 봐야 한다.",
+   "sales_note_en": "This is the first time a multi-module, pebble-bed advanced reactor design has cleared US regulatory review on schedule, giving a concrete reference point for explaining advanced-reactor licensing risk to owners and lenders. The owner's investment decision still sits in 2027, however, so the main construction and equipment packages have not yet opened.",
+   "related": [
+    "https://www.ans.org/news/article-7935/nrc-issues-construction-permit-for-dowx-energy-long-mott-project"
+   ]
+  },
+  {
+   "id": "2026-11-11-02",
+   "title": "Fourth Hualong One under construction at San'ao site",
+   "title_ko": "중국 싼아오 4호기 최초 콘크리트 — 부지 네 번째 화룡1호, 2단계 공정 본격화",
+   "title_en": "Fourth Hualong One under construction at San'ao site",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/fourth-hualong-one-under-construction-at-sanao-site",
+   "published": "2026-11-10",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "CN"
+   ],
+   "importance": 2,
+   "summary_ko": "중국광핵집단(CGN)은 11월 10일 08시 28분 저장성 싼아오 원전 4호기 기초에 최초 콘크리트를 타설해 본공사에 착수했다고 밝혔다. 노형은 화룡1호 가압경수로이며, 사업회사 창난원전의 지분은 CGN 46%, 지리기술그룹 2%, 나머지는 국유기업들이 보유한다. 부지는 1·2호기(1단계), 3·4호기(2단계), 5·6호기(3단계)로 총 6기가 계획돼 있고 발전소 전체 연간 발전량은 54TWh 이상으로 제시됐다. 2호기는 2027년 송전 개시가 예정돼 있다.",
+   "summary_en": "China General Nuclear poured first concrete for San'ao unit 4 in Zhejiang province at 08:28 on 10 November, which CGN says marks the official start of main construction. The unit is a Hualong One PWR. CGN holds 46% of project company Cangnan Nuclear Power, Geely Technology Group 2% and other state-owned enterprises the remainder. The site is planned for six units - 1 and 2 in Phase I, 3 and 4 in Phase II and 5 and 6 in Phase III - with plant-level output put at more than 54 TWh a year. Unit 2 is scheduled to begin supplying electricity in 2027.",
+   "sales_note": "같은 부지에서 네 번째 호기를 연속 착공하는 중국의 연속 건설 리듬은 수출 경합에서 '공기·단가 레퍼런스'로 직접 쓰이는 수치다. 튀르키예 시놉처럼 중국이 후보로 남아 있는 사업에서 우리 공기 실적과 비교될 기준선으로 기록해 둘 건이다.",
+   "sales_note_en": "China's cadence of starting a fourth unit on the same site is exactly the schedule-and-cost reference that gets used against us in export competitions. Worth logging as the baseline our own construction record will be compared with wherever China remains a contender, such as Turkey's Sinop."
+  },
+  {
+   "id": "2026-11-11-03",
+   "title": "Uzbekistan plans to double uranium production",
+   "title_ko": "우즈베키스탄, 우라늄 생산 2030년까지 2배로 — 올해 7,500톤에서 1만 5,000톤, 탐사매장량 20만 톤 목표",
+   "title_en": "Uzbekistan plans to double uranium production",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/uzbekistan-plans-to-double-uranium-production",
+   "published": "2026-11-10",
+   "region": "overseas",
+   "category": "fuel",
+   "countries": [
+    "UZ"
+   ],
+   "importance": 2,
+   "summary_ko": "우즈베키스탄 국영 우라늄 기업 나보이우란이 미르지요예프 대통령에게 보고한 계획에 따르면, 올해 7,500톤 수준인 우라늄 생산을 2030년까지 1만 5,000톤으로 늘리고 탐사매장량을 20만 톤까지 확대한다. 탐사·시추 확대와 신규 흡착설비 도입이 포함되고 250개 일자리가 생긴다. 금액은 공표되지 않았다. 올해 4월 상업생산을 시작한 키질코크 광구가 함께 언급됐으며, 계획은 광산 부문에 한정돼 원전 건설과는 연결되지 않았다.",
+   "summary_en": "State miner Navoiyuran's plan, presented to President Shavkat Mirziyoyev, would lift uranium output from about 7,500 tonnes this year to 15,000 tonnes by 2030 and expand explored reserves to 200,000 tonnes. It covers more exploration and drilling, new sorption units and 250 new jobs; no investment figures were given. The Qizilkok deposit, which began commercial production in April, was also cited. The plan concerns mining only and makes no link to nuclear plant construction.",
+   "sales_note": "카자흐스탄의 전략 비축 지시(11월 4일)에 이어 중앙아시아 두 번째 생산국이 증산 목표를 공식화했다. 천연우라늄 조달선 다변화를 제안서의 연료 공급 안정성 항목에 쓸 수 있는 재료이고, 동시에 자원국이 전환·농축 단계로 올라오려는 흐름의 선행지표로 볼 구간이다.",
+   "sales_note_en": "After Kazakhstan's strategic-reserve directive on 4 November, the region's second producer has now put an expansion target on the record. It is usable material for the fuel-supply security section of our proposals, and at the same time a leading indicator of resource states trying to move up into conversion and enrichment."
+  },
+  {
+   "id": "2026-11-11-04",
+   "title": "UK Nuclear Professionals Confident, But Warn Of Uncertainties And Challenges",
+   "title_ko": "영국 원자력 전문인력 설문 — 79.7%가 산업 전망 낙관, 공기·예산·인력은 공통 우려",
+   "title_en": "UK nuclear professionals confident, but warn of uncertainties and challenges",
+   "language": "en",
+   "source": "NucNet",
+   "url": "https://www.nucnet.org/news/uk-nuclear-professionals-confident-but-warn-of-uncertainties-and-challenges-11-2-2026",
+   "published": "2026-11-10",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "GB"
+   ],
+   "importance": 1,
+   "summary_ko": "영국 원자력학회(Nuclear Institute) 회원 설문에서 응답자의 79.7%가 산업 전망을 낙관했고 그 가운데 33.3%는 '매우 낙관'으로 답했다. 반면 사업비, 인력 수급, 규제 장벽, 장기적인 정부 지원이 주요 우려로 꼽혔고 대형 사업을 공기·예산 안에 끝내는 문제와 숙련인력 부족·채용 난이도가 반복적으로 지적됐다. 로버트 고프턴 사무총장은 회원들이 보여준 산업 신뢰가 고무적이라고 밝혔다. (본문은 유료여서 공개된 제목·리드만 사용했다.)",
+   "summary_en": "In a Nuclear Institute member survey, 79.7% of respondents were optimistic about the industry's future and a third of those (33.3%) were 'very optimistic'. Their main concerns were project costs, workforce capacity, regulatory barriers and long-term government support, with recurring worries about delivering major projects on time and to budget and about skills shortages and recruitment. Chief executive Robert Gofton said the confidence members showed in the industry was encouraging. (The body is paywalled, so only the published headline and lead were used.)",
+   "sales_note": "영국 신규원전·SMR 사업의 공통 제약이 기술이 아니라 인력과 예산 집행이라는 점을 발주국 업계가 스스로 지적한 자료다. 영국 진입 제안에서 '숙련인력 투입·공기 준수 실적'을 앞세우는 논거의 근거 자료로 쓸 수 있다.",
+   "sales_note_en": "The owner-country's own industry is pointing at workforce and budget delivery, not technology, as the binding constraint on UK new build and SMR programmes. Useful as supporting evidence when we lead with skilled-labour mobilisation and on-schedule delivery in UK proposals."
+  },
+  {
+   "id": "2026-11-11-05",
+   "title": "The Midterm Elections Opened a Bipartisan Path on Nuclear Waste",
+   "title_ko": "[기고] 美 중간선거가 사용후핵연료 정책에 초당적 길을 열었다 — 유카마운틴은 2010년 이후 신규 예산 '0'",
+   "title_en": "Commentary: the midterm elections opened a bipartisan path on nuclear waste",
+   "language": "en",
+   "source": "POWER Magazine (기고)",
+   "url": "https://www.powermag.com/the-midterm-elections-opened-a-bipartisan-path-on-nuclear-waste/",
+   "published": "2026-11-10",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "US"
+   ],
+   "importance": 1,
+   "summary_ko": "미 핵연료 재처리 기업 큐리오(Curio)의 경영진 2인이 쓴 기고로, 중간선거 결과를 계기로 사용후핵연료 정책에서 초당적 경로가 열렸다고 주장한다. 제시된 사실관계는 연방법이 지정한 유카마운틴이 2010년 이후 신규 예산을 받지 못하고 인허가 절차가 중단된 상태라는 점, 마이크 레빈 하원의원(민주·캘리포니아)이 '원자력 생애주기 혁신 캠퍼스' 절차를 환영하며 의회의 수권·재원·점검을 요구했다는 점, 수지 리 하원의원(민주·네바다)이 유카마운틴의 처분장 지위를 종료시키는 법안을 발의했다는 점, 초당적 '사용후핵연료 해법 코커스'가 있다는 점이다. 의회조사국(CRS)은 2025년 러시아가 세계 농축용량의 약 43%를 보유한 것으로 추정했다. 기고자들은 파트너국 대상 미국의 사용후연료 회수·재활용 서비스를 제안하지만 연료 종류·운송·안전조치·재원·소유권·잔류폐기물·책임 등 조건은 미정이라고 밝혔다.",
+   "summary_en": "A commentary by two executives of US fuel-recycling firm Curio argues that the midterm results have opened a bipartisan path on spent-fuel policy. The facts it sets out: Yucca Mountain, the site named in federal law, has received no new appropriations since 2010 and its licensing process is suspended; Rep. Mike Levin (D-California) has welcomed the Nuclear Lifecycle Innovation Campus process and urged Congress to authorise it with durable funding, benchmarks and oversight; Rep. Susie Lee (D-Nevada) has introduced legislation to end Yucca Mountain's status as the national repository; and a bipartisan Spent Nuclear Fuel Solutions Caucus exists. The Congressional Research Service estimated Russia held about 43% of global enrichment capacity in 2025. The authors propose a US takeback and recycling service for partner countries while acknowledging that fuel types, transport, safeguards, financing, ownership, residual waste and liability all remain unsettled.",
+   "sales_note": "기고문이므로 주장과 사실을 분리해 읽어야 하지만, 미국이 수출 패키지에 '사용후연료 회수·재활용'을 얹는 구상이 업계에서 공개 논의된다는 점은 신규 진입국 수주전의 비가격 경쟁 항목이 늘어난다는 뜻이다. 우리 제안의 백엔드 대응(저장·반환·처분 책임 분담)을 어디까지 쓸지 미리 정리해 둘 사안이다.",
+   "sales_note_en": "It is a commentary, so claims need separating from facts, but the open industry discussion of bundling spent-fuel takeback and recycling into US export packages means one more non-price criterion in competitions for newcomer markets. Worth deciding in advance how far our own proposals go on back-end responsibility - storage, return and disposal liability."
+  },
+  {
+   "id": "2026-11-11-06",
+   "title": "Largest remediation project at UK's Harwell site completed",
+   "title_ko": "영국 하웰 부지 최대 토양정화 완료 — 4.2헥타르 복원, 97,000톤 반출 뒤 인가해제 절차",
+   "title_en": "Largest remediation project at UK's Harwell site completed",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/largest-remediation-project-at-uks-harwell-site-completed",
+   "published": "2026-11-10",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "GB"
+   ],
+   "importance": 1,
+   "summary_ko": "영국 원자력복원서비스(NRS, 원자력해체청 NDA 자회사)가 옥스퍼드셔 하웰 부지의 구 액체폐기물처리시설(LETP)과 인접 하수처리구역 정화를 완료했다. 1948년부터 2013년까지 연구시설의 액체폐기물을 처리한 시설로, 매설 탱크·배관·펌프장·철근콘크리트 구조물 등 최대 지하 10m 깊이 설비를 철거하며 9만 7,000톤이 넘는 물량을 반출하고 4.2헥타르를 복원했다. 하수처리구역에는 지표수 관리용 자연배수 저류지를 조성했다. 물리적 정화는 끝났고 현재 인가해제와 환경허가 반납 절차가 진행 중이며, 해제된 땅은 하웰 과학혁신단지 용도로 활용될 예정이다. 공사비와 기간은 공표되지 않았다.",
+   "summary_en": "Nuclear Restoration Services, a subsidiary of the UK Nuclear Decommissioning Authority, has completed remediation of the former Liquid Effluent Treatment Plant and the neighbouring sewage farm area at Harwell in Oxfordshire. The plant treated liquid waste from the site's research programmes from 1948 until operations ended in 2013. Buried tanks, pipelines, pumping stations and reinforced concrete structures, some as deep as 10 metres, were removed, taking out more than 97,000 tonnes of material and restoring 4.2 hectares. A sustainable drainage pond was built in the former sewage farm area. Physical remediation is finished and the land is going through final delicensing and environmental permit surrender, after which it is intended for the Harwell Science and Innovation Campus. No cost or duration figures were published.",
+   "sales_note": "영국 해체·정화 발주가 '철거→인가해제→부지 재활용'을 한 묶음으로 설계된다는 점을 보여주는 완료 사례다. 해체·정화 역무가 어느 범위까지 한 계약으로 묶여 발주되고 무엇을 완료 기준으로 삼는지에 대한 참조값이다.",
+   "sales_note_en": "A completed case showing how UK decommissioning work is bundled as demolition, then delicensing, then site reuse. A reference point for how far decommissioning and remediation scopes are bundled into a single contract and what counts as completion."
+  },
+  {
+   "id": "2026-11-11-07",
+   "title": "튀르키예, 새 원전 계약 놓고 한국·캐나다 마지막 저울질...현대건설·두산에너빌 수혜 기대",
+   "title_ko": "튀르키예, 새 원전 계약 놓고 한국·캐나다 마지막 저울질...현대건설·두산에너빌 수혜 기대",
+   "title_en": "Turkey narrows its next nuclear plant to South Korea and Canada",
+   "language": "ko",
+   "source": "더구루",
+   "url": "https://www.theguru.co.kr/news/article.html?no=109555",
+   "published": "2026-11-11",
+   "region": "domestic",
+   "category": "large",
+   "countries": [
+    "KR",
+    "TR"
+   ],
+   "importance": 3,
+   "summary_ko": "[새 사실 — 경합이 한국·캐나다 2파전으로 좁혀졌다] 알파르슬란 바이라크타르 튀르키예 에너지천연자원부 장관은 11월 10일 안탈리아 COP31에서 시놉 신규원전(4기)의 파트너 선정에 대해 \"앞으로 몇 달이 매우 중요하다\"며 한국과 캐나다를 기술 면에서 긍정적으로 본다고 밝혔다. 한국은 APR1400(1,400MW급), 캐나다는 앳킨스레알리스의 CANDU 가압중수로를 제시했고, 선정 기준은 가격경쟁력·공급원 다변화·최적 기술제안을 함께 보는 것이다. 11월 3일 한-튀르키예 정상 간 금융협력 양해각서로 2025년 11월 한전–튀르키예원자력청(TAEK) 협력 MOU가 금융 영역까지 확장됐고, 한전은 시놉 예비 타당성조사를 수행 중이다. 팀코리아 후보로는 현대건설·삼성물산(시공)과 두산에너빌리티(주기기)가 거론되며 세 곳 모두 UAE 바라카 사업에 참여했다. 11월 11일 기준 공식 선정은 없다.",
+   "summary_en": "[New: the field has narrowed to South Korea and Canada] Turkish energy minister Alparslan Bayraktar said at COP31 in Antalya on 10 November that the coming months are critical for choosing a partner for the four-unit Sinop plant, and that Turkey views South Korea and Canada positively on technology. Korea is offering the 1,400 MW-class APR1400 and Canada AtkinsRealis's CANDU pressurised heavy-water reactor; Turkey says it will weigh competitiveness, diversification of supply and the best technical proposal together. A 3 November memorandum between the Korean and Turkish presidents extended the November 2025 KEPCO-TAEK cooperation memorandum into financing, and KEPCO is running a pre-feasibility study for Sinop. Hyundai E&C and Samsung C&T (construction) and Doosan Enerbility (equipment) are named as Team Korea candidates, all three having worked on Barakah in the UAE. No formal selection had been made as of 11 November.",
+   "sales_note": "1년 넘게 중국·러시아·미국·프랑스까지 포함됐던 구도가 2파전으로 줄면서, 우리 제안의 비교 대상이 CANDU 단일 노형과 캐나다 수출금융으로 수렴한다. 캐나다가 2026 예산에서 루마니아 CANDU 2기에 최대 30억 캐나다달러 수출금융을 배정한 사례가 그대로 금융조건 비교의 기준선이 될 가능성이 크므로, 수출입은행–TUNAS 금융협약을 타당성 분석 단계에서 구속력 있는 조건으로 올리는 속도가 변수다. 선정 이후 3호 원전과 5GW SMR 계획이 이어진다는 점에서 이번 건은 단일 사업이 아니라 시장 진입권 성격이다.",
+   "sales_note_en": "With the field down to two, our proposal is now benchmarked against a single rival design (CANDU) and Canadian export finance. Canada's Budget 2026 allocation of up to CAD 3 billion of export financing for two CANDU units in Romania is likely to become the reference point for financing terms, so how fast the Korea Eximbank-TUNAS arrangement moves from feasibility analysis to binding terms is the variable to watch. With a third plant and a 5 GW SMR programme queued behind Sinop, this is less a single project than an entry ticket to the market.",
+   "related": [
+    "https://www.bloomberg.com/news/articles/2026-11-10/turkey-nears-new-nuclear-power-deal-favors-canada-south-korea"
+   ]
+  },
+  {
+   "id": "2026-11-11-08",
+   "title": "[단독] 美엑스에너지, 텍사스 SMR 건설 허가 받아...두산에너빌·DL이앤씨 수혜 본격화",
+   "title_ko": "[단독] 美엑스에너지, 텍사스 SMR 건설 허가 받아...두산에너빌·DL이앤씨 수혜 본격화",
+   "title_en": "US construction permit for X-energy's Texas SMRs puts Doosan and DL E&C scopes into execution",
+   "language": "ko",
+   "source": "더구루",
+   "url": "https://www.theguru.co.kr/news/article.html?no=109552",
+   "published": "2026-11-11",
+   "region": "domestic",
+   "category": "smr",
+   "countries": [
+    "KR",
+    "US"
+   ],
+   "importance": 3,
+   "summary_ko": "미 NRC가 현지시간 11월 10일 엑스에너지의 텍사스 SMR 건설허가 신청을 승인하면서, 국내 기업 두 곳의 공급 역무가 실행 단계로 넘어갔다. 사업은 다우 공장 부지의 Xe-100 4기(각 80MW·총 320MW)로 미 에너지부 선진로실증사업(ARDP) 지원을 받으며, 엑스에너지와 다우는 내년 투자결정, 2030년 이전 착공, 2030년대 초 가동을 계획하고 설계 표준화·장납기 기자재 공급망 구축·운영허가 신청 준비를 진행한다. 두산에너빌리티는 2026년 3월 SMR 16기분 주요 기자재 제작·공급 구속력 계약을 체결했고(금액 비공개), 11월 5일 스웨덴 알레이마와 증기발생기용 고온합금 튜브 공급에 합의해 이를 자체 기술로 최대 600℃ 증기를 만드는 헬리컬 코일로 가공해 텍사스 사업에 공급한다. DL이앤씨는 같은 3월 표준설계 계약을 맺었고, 계열사 DL에너지가 사업개발·투자를, DL이앤씨가 EPC를, 이후 운영은 DL에너지가 맡는 구조를 계획한다. 2023년 1월 지분투자는 DL이앤씨 2,000만 달러, 두산에너빌리티 500만 달러였다.",
+   "summary_en": "With the NRC's approval of X-energy's construction permit application on 10 November US time, the supply scopes of two Korean companies move into execution. The project is four Xe-100 units of 80 MW each (320 MW total) at Dow's Texas site, backed by the US DOE's Advanced Reactor Demonstration Program; X-energy and Dow plan an investment decision next year, construction before 2030 and operation in the early 2030s, while finalising and standardising the design, building a long-lead supply chain and preparing the operating licence application. Doosan Enerbility signed a binding contract in March 2026 to manufacture and supply key equipment for 16 SMRs (value undisclosed) and agreed on 5 November with Sweden's Alleima on high-temperature alloy tubing for steam generators, which Doosan will finish with its own technology into the helical coils that produce steam up to 600C for the Texas plant. DL E&C signed a standardised SMR design contract in the same month and plans a structure in which affiliate DL Energy handles development and investment, DL E&C acts as EPC contractor and DL Energy operates the plant. Equity investments in January 2023 were USD 20 million by DL E&C and USD 5 million by Doosan Enerbility.",
+   "sales_note": "국내 기업의 선진로 참여가 '지분투자·설계계약' 단계에서 규제 허가를 받은 실물 사업의 공급 역무로 넘어간 첫 구간이다. 특히 DL이앤씨가 EPC에 그치지 않고 계열사를 통해 개발·투자·운영까지 묶는 구조는, 해외 SMR 사업에서 시공사가 지분을 넣어 역무를 확보하는 방식이 실제로 쓰인다는 선례가 된다 — 우리 제안 구조를 설계할 때 비교할 모델이다. 다만 다우의 최종 건설 확정은 2027년 예비 투자결정 이후이므로 납기 확약 시점은 아직 유동적이다.",
+   "sales_note_en": "This is the first point at which Korean participation in advanced reactors moves from equity stakes and design contracts into supply scopes on a licensed, real project. DL E&C's structure in particular - not stopping at EPC but bundling development, investment and operation through an affiliate - is a working precedent for a contractor taking equity to secure scope on an overseas SMR project, and a model worth comparing when we design our own proposal structures. Dow's final construction commitment still follows a preliminary investment decision in 2027, so delivery commitments remain fluid.",
+   "related": [
+    "https://www.world-nuclear-news.org/articles/us-issues-landmark-construction-permit-for-texas-smr-plant"
+   ]
+  }
+ ]
+}

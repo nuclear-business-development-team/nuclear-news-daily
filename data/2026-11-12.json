@@ -1,0 +1,241 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T09:05:00+09:00",
+ "period": {
+  "from": "2026-11-11",
+  "to": "2026-11-12"
+ },
+ "overview_ko": "온타리오전력(OPG)이 달링턴 BWRX-300 1호기가 2030년 10월 상업운전과 77억 캐나다달러 추정치를 모두 지키지 못한다고 공식 확인했다 — 서방권 첫 SMR 건설 프로젝트의 공기·원가가 무너진 첫 사례이고, 원인으로 초호기 설계 엔지니어링 미완(GE버노바히타치)과 그로 인한 시공·공급망 영향이 지목됐으며 수정 추정치는 2027년 중반에 나온다. 로사톰은 300MW 이하 SMR(육상·부유식 포함)을 파리협정 6.4조 크레딧 대상으로 넣는 방법론 초안을 COP31 전에 UN 기후사무국에 제출했고, 승인 목표는 2028년 상반기다. 그리스에서는 1,600MW 1기가 건설기간 중 GDP 약 45억 유로·피크 고용 1만 2,000명을 낸다는 민간 연구가 나와 총투자 110억 유로 중 40% 이상이 국내에서 집행된다는 현지화 수치가 제시됐다. IAEA 규제검토(IRRS)는 요르단 체계를 \"잘 확립됐다\"고 평가하고 관리체계·규제기능 일관성 등 4건의 보완을 제시했으며, 슬로바키아 후속단은 2022년 지적 33건 중 20건을 종결 처리했다. 영업 관점: 서방권 SMR 선도 호기의 공기·원가 이탈이 공표된 만큼, BWRX-300 후속 사업(에스토니아·폴란드·미국)의 발주처와 금융기관이 초호기 리스크 분담과 설계 성숙도 요구를 강화할 가능성에 대비해야 한다.",
+ "overview_en": "Ontario Power Generation has confirmed that the first BWRX-300 unit at Darlington will miss both its October 2030 in-service date and its CAD7.7 billion estimate - the first schedule and cost break on a Western SMR construction project - blaming incomplete first-of-a-kind engineering by GE Vernova Hitachi and the resulting effects on construction execution and the supply chain, with a revised estimate due around mid-2027. Rosatom has filed a draft methodology with the UN climate secretariat ahead of COP31 to make SMRs up to 300 MW, land-based or floating, eligible for credits under Article 6.4 of the Paris Agreement, targeting approval in the first half of 2028. In Greece, a private study put the GDP contribution of a single 1,600 MW unit at about EUR4.5 billion over construction with some 12,000 jobs at peak, and more than 40% of the EUR11 billion total investment spent domestically. IAEA regulatory review missions called Jordan's framework well established while flagging four areas for enhancement, and a follow-up mission in Slovakia closed 20 of the 33 findings from 2022. Sales angle: with the lead Western SMR project now publicly off schedule and off budget, expect owners and lenders on follow-on BWRX-300 projects in Estonia, Poland and the US to push harder on first-of-a-kind risk sharing and design-maturity requirements.",
+ "domestic_overview_ko": "두산에너빌리티가 11월 2~5일 체코 플젠을 방문해 스코다JS 본사와 비츠코비체·BAEST·MICo 등 현지 4개사의 제작역량·원전 실적을 실사하고, 원자로 내부구조물 등 일부 품목의 기술협력 가능성을 검토 중이라고 밝혔다 — 두코바니 5·6호기 공급망 구성과 테멜린 3·4호기 대비 차원이며, 핵심 공급망은 국내 협력사 중심으로 유지하되 체코 규제기관(SÚJB) 요건 충족과 인허가 지연 리스크 완화를 위해 현지업체를 활용한다는 설명이고, 스코다JS와의 후속 기술협의는 2027년 초로 예정됐다. 한국수력원자력은 제주대에 그린수소 기술혁신센터 구축을 본격화해 수전해 운전기술 실증에 들어간다고 발표했다. 정책브리핑(korea.kr)에는 11월 11~12일 원전·SMR·원자력 관련 신규 보도자료가 없었고, 한전 보도자료 게시판도 11월 9일 이후 신규 게재가 없었다. 영업 관점: 체코 현지화 요구가 '발주처 지시'가 아니라 공급사 주도의 사전 자격심사로 진행되고 있어, 우리 역무에서도 현지 협력업체 풀 확보와 SÚJB 인허가 서류 역량을 선제적으로 갖추는 쪽이 유리하다.",
+ "domestic_overview_en": "Doosan Enerbility said it visited Plzen in Czechia from 2 to 5 November, auditing the manufacturing capability and nuclear track record of Skoda JS and three other local firms - Vitkovice, BAEST and MICo - and is reviewing technical cooperation on selected items such as reactor internals. The move supports supply-chain build-out for Dukovany 5 and 6 and prepares for Temelin 3 and 4; Doosan says it will keep its core supply chain with Korean partners while using capable Czech firms to meet the Czech regulator's (SUJB) requirements and reduce licensing-delay risk, with follow-up technical talks with Skoda JS planned for early 2027. KHNP announced it is moving ahead with a green hydrogen technology innovation centre at Jeju National University for water-electrolysis operating technology demonstration. The korea.kr policy briefing carried no new nuclear, SMR or atomic-energy releases on 11-12 November, and KEPCO's press board has posted nothing new since 9 November. Sales angle: because Czech localisation is advancing as supplier-led pre-qualification rather than an owner mandate, building a local partner pool and SUJB licensing-documentation capability ahead of time is the stronger position for our own scopes.",
+ "countries_pulse": [
+  {
+   "country": "CA",
+   "name_ko": "캐나다",
+   "name_en": "Canada",
+   "stance": "expanding",
+   "signal": "원자력 정책·예산 기조는 유지되는 가운데 달링턴 BWRX-300 1호기의 2030년 10월 상업운전·77억 캐나다달러 목표가 공식적으로 무너져, 초호기 공기·원가 리스크가 정책이 아니라 실행 단계에서 드러남 — 수정 추정치는 2027년 중반",
+   "signal_en": "Policy and budget support hold, but the October 2030 in-service date and CAD7.7 billion estimate for Darlington's first BWRX-300 have now officially broken, exposing first-of-a-kind schedule and cost risk at the execution rather than the policy level, with a revised estimate due mid-2027",
+   "article_ids": [
+    "2026-11-12-01"
+   ]
+  },
+  {
+   "country": "RU",
+   "name_ko": "러시아",
+   "name_en": "Russia",
+   "stance": "expanding",
+   "signal": "로사톰이 300MW 이하 SMR을 파리협정 6.4조 크레딧 대상에 넣는 방법론 초안을 COP31 전에 UN 기후사무국에 제출 — 노형 중립·부유식 포함, 승인 목표 2028년 상반기로 기후금융 경로를 선점하려는 움직임",
+   "signal_en": "Rosatom filed a design-neutral draft methodology with the UN climate secretariat ahead of COP31 to make SMRs up to 300 MW, including floating units, eligible for Article 6.4 credits, targeting approval in the first half of 2028 and moving first on the climate-finance route",
+   "article_ids": [
+    "2026-11-12-02"
+   ]
+  },
+  {
+   "country": "GR",
+   "name_ko": "그리스",
+   "name_en": "Greece",
+   "stance": "cautious",
+   "signal": "원전 보유 경험이 없는 상태에서 8월 국무회의가 SMR 검토 부처간위원회를 설치한 데 이어, 1,600MW 1기의 건설기간 GDP 약 45억 유로·피크 고용 1만 2,000명을 제시한 민간 연구가 공표 — 제도·여론 기반 조성 단계",
+   "signal_en": "With no nuclear experience and an inter-ministerial SMR committee created by the Council of Ministers in August, a private study has now put a single 1,600 MW unit at about EUR4.5 billion of GDP over construction and 12,000 jobs at peak, keeping Greece at the stage of building institutional and public groundwork",
+   "article_ids": [
+    "2026-11-12-03"
+   ]
+  },
+  {
+   "country": "SK",
+   "name_ko": "슬로바키아",
+   "name_en": "Slovakia",
+   "stance": "expanding",
+   "signal": "IAEA 규제검토 후속단(11월 2~9일)이 2022년 지적 33건 중 20건을 종결하고 공중보건당국·교통부 독립성·자원 보강을 남겨둠 — 모호우체 4호기 2027년 1분기 전면가동 전망과 함께 신규 호기 준비의 규제 기반이 정리되는 흐름",
+   "signal_en": "An IAEA follow-up review mission on 2-9 November closed 20 of the 33 findings from 2022, leaving independence and resourcing of the public health authority and transport ministry open, while Mochovce 4 is expected fully operational in Q1 2027 - the regulatory base for new units is being tidied up",
+   "article_ids": [
+    "2026-11-12-04"
+   ]
+  },
+  {
+   "country": "JO",
+   "name_ko": "요르단",
+   "name_en": "Jordan",
+   "stance": "cautious",
+   "signal": "IAEA 규제검토단이 요르단 체계를 \"잘 확립됐다\"고 평가하고 통합관리체계·규제기능 일관성·안전요건·기록관리 4건의 보완을 제시 — 연구로만 보유한 상태에서 SMR 도입을 검토하는 단계로 노형·파트너·일정은 미공표",
+   "signal_en": "An IAEA review team called Jordan's framework well established while flagging four enhancements - integrated management system, consistency of core regulatory functions, specific safety requirements and record-keeping - with the country still only operating a research reactor and weighing SMRs, no design, partner or timeline announced",
+   "article_ids": [
+    "2026-11-12-05"
+   ]
+  },
+  {
+   "country": "CZ",
+   "name_ko": "체코",
+   "name_en": "Czechia",
+   "stance": "expanding",
+   "signal": "현지화가 발주처 지시가 아니라 공급사 주도 사전 자격심사로 진행 — 두산에너빌리티가 스코다JS 등 4개사 제작역량을 실사하고 원자로 내부구조물 등 품목별 기술협력을 검토, 후속 협의는 2027년 초",
+   "signal_en": "Localisation is advancing as supplier-led pre-qualification rather than an owner mandate, with Doosan Enerbility auditing Skoda JS and three other Czech firms and weighing item-level cooperation such as reactor internals, with follow-up talks in early 2027",
+   "article_ids": [
+    "2026-11-12-06"
+   ]
+  },
+  {
+   "country": "INT",
+   "name_ko": "국제기구",
+   "name_en": "International",
+   "stance": "steady",
+   "signal": "IAEA가 요르단·슬로바키아 규제검토 결과를 잇따라 공표하며 신규 도입국·확대국 양쪽에 규제 선행조건을 명시하는 패턴이 이어짐 — 최종 보고서는 각 약 3개월 후 제출",
+   "signal_en": "The IAEA published regulatory review results for Jordan and Slovakia back to back, continuing a pattern of spelling out regulatory preconditions for both newcomer and expanding programmes, with final reports due in about three months each",
+   "article_ids": [
+    "2026-11-12-04",
+    "2026-11-12-05"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-12-01",
+   "title": "OPG set to revise timeline and cost of first SMR unit",
+   "title_ko": "온타리오전력(OPG), 달링턴 BWRX-300 1호기 2030년 10월 상업운전·77억 캐나다달러 모두 \"달성 못 한다\" 공식 확인 — 수정 추정치 2027년 중반",
+   "title_en": "OPG set to revise timeline and cost of first SMR unit",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/opg-to-revise-timeline-and-cost-of-first-smr-unit",
+   "published": "2026-11-11",
+   "region": "overseas",
+   "category": "smr",
+   "countries": [
+    "CA"
+   ],
+   "importance": 3,
+   "summary_ko": "온타리오전력(OPG)이 달링턴 신규원전 사업에서 건설 중인 BWRX-300 4기 중 1호기가 기존 일정(2030년 10월 상업운전)과 추정 사업비(77억 캐나다달러·54억 달러, 전 호기 공용설비 포함)를 모두 지키지 못한다고 밝혔다. 원인으로는 GE버노바히타치(GEVH)의 초호기 BWRX-300 설계 엔지니어링이 아직 끝나지 않았고 그 영향이 시공 수행과 공급망 성능으로 번진 점을 들었으며, OPG는 GEVH와 잔여 엔지니어링을 마무리하고 있다고 설명했다. 재평가 범위는 엔지니어링 완료도·시공 산출물·설계 성숙도·초호기 복잡성·물가·지정학 리스크와 완화조치 실효성이고, 평가는 2027년 중반에 실질적으로 완료할 예정이다. 캐나다 원자력안전위원회(CNSC)는 2025년 4월 건설허가를 발급했고 온타리오주는 다음 달 4기 총 209억 캐나다달러 예산을 승인한 상태다.",
+   "summary_en": "Ontario Power Generation says the first of four BWRX-300 units under construction at the Darlington New Nuclear Project will meet neither its October 2030 commercial operation date nor its CAD7.7 billion (USD5.4 billion) estimate, which includes systems common to all the planned units. OPG attributes this to engineering for the first-of-a-kind BWRX-300 by GE Vernova Hitachi still being incomplete, with knock-on effects on construction execution and supply chain performance, and says it is working with GEVH to finish the outstanding engineering. The reassessment covers engineering completion and construction deliverables, design maturity, first-of-a-kind complexity, inflation and geopolitical risk, and the effectiveness of mitigations, and is to be substantially complete by mid-2027. The CNSC issued the Licence to Construct in April 2025 and Ontario approved a CAD20.9 billion budget for the four units the following month.",
+   "sales_note": "서방권에서 가장 앞서 있던 SMR 건설 호기의 공기·원가가 공식적으로 이탈한 첫 사례다. BWRX-300을 채택한 후속 사업(에스토니아·폴란드·미국)의 발주처·금융기관이 초호기 리스크 분담, 설계 성숙도 확인 시점, 총액계약 성립 조건을 더 엄격히 요구할 가능성이 높아 입찰 전제가 바뀔 수 있다. 동시에 '설계 미완 상태의 조기 착공'이 공기 이탈의 원인으로 공표됐다는 점은, 기본설계 물량 확정 뒤 총액계약을 요구하는 우리 측 협상 논리를 뒷받침하는 선례로 쓸 수 있다.",
+   "sales_note_en": "This is the first formal schedule and cost break on the most advanced SMR construction project in the West. Owners and lenders on follow-on BWRX-300 projects in Estonia, Poland and the US are likely to tighten demands on first-of-a-kind risk sharing, the point at which design maturity is verified, and the conditions for a lump-sum contract, which could change bid premises. At the same time, the stated cause - starting construction before design engineering was complete - is a usable precedent for our own negotiating logic of fixing basic-design quantities before signing lump sum."
+  },
+  {
+   "id": "2026-11-12-02",
+   "title": "Russia proposes carbon credits framework for SMRs",
+   "title_ko": "로사톰, 300MW 이하 SMR을 파리협정 6.4조 탄소크레딧 대상에 넣는 방법론 초안 UN 제출 — 부유식 포함·노형 중립, 승인 목표 2028년 상반기",
+   "title_en": "Russia proposes carbon credits framework for SMRs",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/russia-proposes-carbon-credits-framework-for-smrs",
+   "published": "2026-11-11",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "RU",
+    "INT"
+   ],
+   "importance": 2,
+   "summary_ko": "러시아 국영 로사톰이 SMR의 온실가스 감축량 산정 방법론 초안을 튀르키예 COP31 개최 전 UN 기후사무국에 제출했다. 파리협정 6.4조(파리협정 크레딧 메커니즘) 적용을 전제로 특정 노형에 묶이지 않는 설계 중립 방식이고, 대상은 육상·부유식을 포함한 300MW 이하 SMR이다. 로사톰은 100MW급 SMR 하나당 연 최소 100만 달러의 크레딧 수익을 추산했고, 공개 협의를 준비 중이며 협의·심사를 통과하면 2028년 상반기 승인을 예상한다고 밝혔다. 폴리나 리온 지속가능책임자는 지금까지 원전 기반 기후사업이 탄소시장에 한 건도 등록된 적이 없다며 재생에너지와의 취급 격차를 좁히는 것이 목적이라고 설명했다.",
+   "summary_en": "Russia's state nuclear corporation Rosatom has submitted a draft methodology for calculating avoided greenhouse gas emissions from SMRs to the UN climate secretariat ahead of COP31 in Turkey. It is design-neutral and would apply under Article 6.4 of the Paris Agreement, the Paris Agreement Crediting Mechanism, to SMRs up to 300 MW on land or on floating units. Rosatom estimates at least USD1 million a year in credit revenue for a hypothetical 100 MW unit, is preparing public consultation, and expects approval in the first half of 2028 if the proposal clears consultation and review. Chief Sustainability Officer Polina Lion said not a single nuclear-based climate project has ever been registered in a carbon market and that the aim is to narrow the gap with how renewables are treated.",
+   "sales_note": "SMR 사업의 수익구조에 탄소크레딧이 더해지면 발주처의 금융 조달 논리가 바뀌므로, 제안서의 경제성 분석에 크레딧 수익 시나리오를 넣을 근거가 생긴다. 다만 승인 목표가 2028년 상반기이고 방법론 제안 주체가 로사톰이어서, 유럽·중동 발주처 대상 제안에서는 승인 여부가 확정되기 전까지 전제로 쓰지 않는 편이 안전하다.",
+   "sales_note_en": "If carbon credits are added to SMR revenue, the financing case owners build changes, giving grounds to include a credit-revenue scenario in the economics section of proposals. But approval is targeted only for the first half of 2028 and the proponent is Rosatom, so it is safer not to rely on it as a premise in bids to European or Middle Eastern owners until approval is settled."
+  },
+  {
+   "id": "2026-11-12-03",
+   "title": "Study analyses economic impact of Greek nuclear power plant",
+   "title_ko": "그리스 첫 원전 경제효과 연구 — 1,600MW 1기 건설기간 GDP 약 45억 유로·피크 고용 1만 2,000명, 총투자 110억 유로 중 40% 이상 국내 집행",
+   "title_en": "Study analyses economic impact of Greek nuclear power plant",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/study-analyses-economic-impact-of-greek-nuclear-power-plant",
+   "published": "2026-11-11",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "GR"
+   ],
+   "importance": 2,
+   "summary_ko": "그리스 아틀로스에너지(2024년 9월 설립)와 컨설팅사 헬릭소스가 1,600MW 원전 1기 건설이 건설기간 중 그리스 GDP에 약 45억 유로, 가동기간에는 연 약 1억 6,000만 유로를 더한다는 연구를 공표했다. 피크 건설인력은 약 1만 2,000명(직접 약 4,000명), 가동인력 약 1,900명, 세수는 건설기간 약 12억 유로·가동기간 연 약 6,000만 유로로 추정했고 300MW SMR 시나리오는 건설기간 GDP 약 5억 9,000만 유로·고용 약 2,100명이다. 총투자는 약 110억 유로로 가정했고 이 중 40% 이상(약 46억 유로)이 건설·금속제품·전기기기·기술용역 등 그리스 내에서 집행된다고 봤다. 그리스는 원전 보유 경험이 없고, 미초타키스 총리가 3월 파리 원자력정상회의에서 SMR 역할 검토를 언급한 뒤 8월 국무회의가 SMR 검토 부처간위원회를 설치했다.",
+   "summary_en": "Greece's Athlos Energy, founded in September 2024, and consultancy Helixos have published a study putting the GDP contribution of building one 1,600 MW nuclear unit at about EUR4.5 billion over the construction period and about EUR160 million a year once operating. Peak construction employment is put at roughly 12,000, including about 4,000 direct jobs, with about 1,900 operating jobs, and tax revenue of some EUR1.2 billion over construction and about EUR60 million a year in operation. A 300 MW SMR scenario gives about EUR590 million of construction-period GDP and some 2,100 jobs. Total investment is assumed at about EUR11 billion, of which more than 40%, about EUR4.6 billion, would be spent inside Greece, mainly on construction, metal products, electrical equipment and technical services. Greece has never deployed nuclear power; Prime Minister Kyriakos Mitsotakis said in March at the Paris nuclear summit that Greece would examine a role for SMRs, and the Council of Ministers created an inter-ministerial SMR committee in August.",
+   "sales_note": "그리스는 아직 사업자도 노형도 없는 초기 시장이지만, 민간이 현지화율 40% 이상을 전면에 내세운 연구를 내놓은 것은 향후 발주 시 현지 공급망 참여 비율이 핵심 평가요소가 될 신호다. 대형원전·SMR 두 시나리오가 병행 검토되는 단계이므로 지금은 제안이 아니라 부처간위원회·아틀로스 쪽 접점 확보와 현지 파트너 사전 파악이 실익이 있다.",
+   "sales_note_en": "Greece is still an early market with no project company and no selected design, but the fact that a private study leads with a local-content share above 40% signals that local supply-chain participation will be a core evaluation factor when procurement comes. With large-reactor and SMR scenarios running in parallel, the useful work now is contact with the inter-ministerial committee and Athlos and early mapping of local partners, not proposals."
+  },
+  {
+   "id": "2026-11-12-04",
+   "title": "IAEA Mission says Slovakia is Committed to Strengthening Nuclear and Radiation Safety Regulatory Framework",
+   "title_ko": "IAEA 규제검토(IRRS) 후속단, 슬로바키아 2022년 지적 33건 중 20건 종결 — 공중보건당국 독립성·교통부 자원은 미해결",
+   "title_en": "IAEA Mission says Slovakia is Committed to Strengthening Nuclear and Radiation Safety Regulatory Framework",
+   "language": "en",
+   "source": "IAEA (Devdiscourse 보도 경유)",
+   "url": "https://www.devdiscourse.com/article/science-environment/4004289-slovakias-nuclear-power-expansion-gains-momentum-iaea-reviews-safety-progress",
+   "published": "2026-11-10",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "SK",
+    "INT"
+   ],
+   "importance": 2,
+   "summary_ko": "IAEA 종합규제검토(IRRS) 후속단이 슬로바키아 정부 요청으로 11월 2~9일 8일간 원자력규제청(ÚJD SR) 주관으로 활동하고, 2022년 1차 검토의 지적 33건 중 20건(권고 23건 중 12건, 제안 10건 중 8건)을 종결 처리했다. 단은 호주·핀란드·파키스탄·포르투갈·루마니아 전문가 5명과 IAEA 직원 3명으로 구성됐고 단장은 우마 라마사미다. 남은 사항으로는 공중보건당국과 지역사무소가 부당한 영향 없이 결정할 수 있는 체계 확보, 공중보건당국·교통부에 대한 충분한 자원 배정이 지목됐다. 슬로바키아는 조정위원회를 설치하고 방사선방호법을 개정했으며, 모호우체 4호기는 시운전 승인을 받아 2027년 1분기 전면가동이 예상된다. 최종 보고서는 약 3개월 후 제출된다. (IAEA 보도자료 원문은 iaea.org 접속 차단으로 열지 못해 2차 보도로 확인했다.)",
+   "summary_en": "An IAEA Integrated Regulatory Review Service follow-up mission worked in Slovakia for eight days, 2-9 November, at the government's request and hosted by the Nuclear Regulatory Authority (UJD SR), closing 20 of the 33 findings from the 2022 mission - 12 of 23 recommendations and 8 of 10 suggestions. The team comprised five experts from Australia, Finland, Pakistan, Portugal and Romania plus three IAEA staff, led by Uma Ramasamy. Items left open include ensuring the Public Health Authority and its regional offices can decide free from inappropriate influence, and providing adequate resources to the public health authorities and the Ministry of Transport. Slovakia has set up a coordination committee and amended its radiation protection act, and Mochovce 4 has been authorised for commissioning with full operation expected in Q1 2027. The final report is due in about three months. (The IAEA press release itself could not be opened because iaea.org blocks access, so the details were taken from secondary reporting.)",
+   "sales_note": "슬로바키아는 전날 야슬로브스케보후니체 AP1000 기본설계가 웨스팅하우스에 수의계약으로 발주된 나라다. 규제 지적의 과반 종결은 신규 호기 인허가 일정 가정의 신뢰도를 높이는 요소이고, 남은 지적이 규제기관 자체가 아니라 공중보건·교통 부처 쪽이라는 점은 원자력 인허가 본류의 병목은 아니라는 해석을 지지한다.",
+   "sales_note_en": "Slovakia is the country where the Jaslovske Bohunice AP1000 front-end engineering study was awarded to Westinghouse through a negotiated procedure a day earlier. Closing a majority of the regulatory findings raises confidence in licensing-schedule assumptions for new units, and the fact that the open items sit with the public health and transport ministries rather than the nuclear regulator itself supports reading them as outside the main licensing bottleneck."
+  },
+  {
+   "id": "2026-11-12-05",
+   "title": "IAEA reviews Jordan's nuclear regulatory framework",
+   "title_ko": "IAEA 규제검토단, 요르단 체계 \"잘 확립됐다\" — 통합관리체계·규제기능 일관성 등 4건 보완 권고, SMR 도입 검토 단계",
+   "title_en": "IAEA reviews Jordan's nuclear regulatory framework",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/iaea-reviews-jordans-nuclear-regulatory-framework",
+   "published": "2026-11-11",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "JO",
+    "INT"
+   ],
+   "importance": 1,
+   "summary_ko": "IAEA 종합규제검토(IRRS)단이 요르단 에너지광물규제위원회(EMRC)의 원자력·방사선 안전 규제체계를 \"잘 확립됐다\"고 평가하면서 국제 안전기준에 맞춘 추가 보완을 제시했다. 우수사례로는 국제 동료검토 참여 의지, 포용적 소통, 아동·대중 대상 홍보, 라돈 지도 작성, 등급화된 수송 비상대비 등 7개 분야가 꼽혔고, 보완 필요 4개 분야는 통합관리체계 발전, 핵심 규제기능의 일관성·실효성 개선, 특정 원자력·방사선 안전요건과 규제장치 강화, 규제기록 관리 현대화다. 검토단은 브라질·캐나다·크로아티아·이집트·핀란드·리투아니아·파키스탄·폴란드·포르투갈·루마니아·스웨덴·스위스 전문가 12명과 IAEA 직원 3명으로 구성됐고 단장은 캐나다원자력안전위원회의 람지 자말이다. 최종 보고서는 약 3개월 후 요르단 정부에 제출된다. 요르단은 연구·훈련로를 운영하며 SMR로 원자력 발전 도입을 검토하고 있다.",
+   "summary_en": "An IAEA Integrated Regulatory Review Service mission called the nuclear and radiation safety regulatory framework of Jordan's Energy and Minerals Regulatory Commission well established, while suggesting further enhancements in line with international safety standards. Seven areas of good performance were identified, including commitment to international peer review, inclusive communication, outreach to children and the public, radon mapping and graded transport emergency preparedness. Four areas for enhancement were flagged: further developing the integrated management system, improving the consistency and effectiveness of core regulatory functions, strengthening specific nuclear and radiation safety requirements and regulatory arrangements, and modernising regulatory records. The team had 12 experts from Brazil, Canada, Croatia, Egypt, Finland, Lithuania, Pakistan, Poland, Portugal, Romania, Sweden and Switzerland plus three IAEA staff, led by Ramzi Jammal of the Canadian Nuclear Safety Commission. The final report goes to the government in about three months. Jordan operates a research and training reactor and is weighing nuclear power with SMRs.",
+   "sales_note": "요르단은 노형·파트너·일정이 모두 미공표인 초기 검토 단계이고, 이번 검토는 규제 역량이 신규 도입의 걸림돌은 아니라는 쪽 신호다. 중동 SMR 시장 후보로 기록해 두되 현 단계에서 영업 자원을 배분할 근거는 아니다.",
+   "sales_note_en": "Jordan has announced no design, partner or timeline and is at an early review stage; this mission signals that regulatory capability is not the obstacle to introducing nuclear power. Worth logging as a Middle East SMR prospect, but not yet grounds for allocating sales resources."
+  },
+  {
+   "id": "2026-11-12-06",
+   "title": "두산에너빌리티, 체코 원전 기자재 분야 현지 협력 확대",
+   "title_ko": "두산에너빌리티, 체코 원전 기자재 분야 현지 협력 확대 — 스코다JS 등 4개사 실사, 원자로 내부구조물 기술협력 검토",
+   "title_en": "Doosan Enerbility expands local nuclear equipment cooperation in Czechia, auditing Skoda JS and three other firms",
+   "language": "ko",
+   "source": "더구루",
+   "url": "https://www.theguru.co.kr/news/article.html?no=109592",
+   "published": "2026-11-11",
+   "region": "domestic",
+   "category": "large",
+   "countries": [
+    "KR",
+    "CZ"
+   ],
+   "importance": 2,
+   "summary_ko": "두산에너빌리티가 11월 2~5일(현지시간) 체코 플젠의 스코다JS(Škoda JS) 본사를 방문해 프로젝트관리·설계·제작·품질 역량을 검토하고 대형기기 공장과 제어봉구동장치(CRDM) 공장을 둘러봤다고 밝혔다. 함께 검토한 현지 업체는 비츠코비체(VÍTKOVICE)·BAEST·MICo로, 비안전등급 기자재 제작역량과 원전 실적을 확인했고 안전·비안전등급 기술요건과 공급사 평가절차를 설명했다. 원자로 내부구조물 등 일부 품목의 기술협력 가능성을 검토 중이며 구체 범위는 추가 기술·품질 검증에 따라 정해진다. 방문 중 두코바니 발주처 EDU II와 ČEZ, 스코다JS 경영진을 만났고 스코다JS와의 후속 기술협의는 2027년 초로 예정됐다. 두산은 핵심 공급망을 국내 협력사 중심으로 유지하되 체코 규제기관(SÚJB) 요건 충족과 인허가 지연 리스크 완화를 위해 역량 있는 현지업체와 협력한다는 입장이며, 2024년 5월 프라하 '두산 파트너십 데이'에서 스코다JS 등과 기자재 공급협력 MOU를 체결한 바 있다. 두코바니 5·6호기 지원과 테멜린 3·4호기 등 후속 사업 대비가 목적이다.",
+   "summary_en": "Doosan Enerbility says it visited Skoda JS headquarters in Plzen, Czechia, from 2 to 5 November local time, reviewing its project management, design, manufacturing and quality capabilities and touring its large-equipment plant and control rod drive mechanism factory. It also assessed three other Czech firms - VITKOVICE, BAEST and MICo - checking their non-safety-grade manufacturing capability and nuclear project experience, and explained its technical requirements for safety and non-safety grade equipment and its supplier evaluation process. Technical cooperation on selected items such as reactor internals is under review, with the scope to be set by further technical and quality verification. During the visit Doosan met management of EDU II, the Dukovany project owner, CEZ and Skoda JS, and follow-up technical talks with Skoda JS are planned for early 2027. Doosan says it will keep its core supply chain centred on Korean partners while working with capable Czech firms to satisfy the Czech regulator SUJB and cut licensing-delay risk; it signed an equipment-supply cooperation MOU with Skoda JS and others at its Doosan Partnership Day in Prague in May 2024. The aim is to support Dukovany 5 and 6 and prepare for follow-on projects including Temelin 3 and 4.",
+   "sales_note": "체코 현지화가 발주처 지시가 아니라 공급사 주도의 사전 자격심사 형태로 진행되고 있다는 점이 확인됐다. 시공·BOP 패키지가 다시 열리는 국면에서 우리 역무도 같은 방식으로 현지 협력업체 풀과 SÚJB 인허가 서류 역량을 미리 갖춰 두는 쪽이 평가에서 유리하고, 스코다JS가 ČEZ 그룹 소속이라는 점에서 발주처와의 접점을 공유하는 효과도 함께 봐야 한다.",
+   "sales_note_en": "This confirms that Czech localisation is proceeding as supplier-led pre-qualification rather than an owner mandate. With construction and balance-of-plant packages reopening, building a local partner pool and SUJB licensing-documentation capability in advance puts our own scopes in a stronger evaluation position, and because Skoda JS sits inside the CEZ group, such cooperation also shares a channel to the owner."
+  },
+  {
+   "id": "2026-11-12-07",
+   "title": "한국수력원자력, 제주대와 '그린수소 기술혁신센터' 구축 본격화",
+   "title_ko": "한국수력원자력, 제주대와 '그린수소 기술혁신센터' 구축 본격화 — 수전해 운전기술 실증",
+   "title_en": "KHNP moves ahead with a green hydrogen technology innovation centre at Jeju National University",
+   "language": "ko",
+   "source": "한국수력원자력 보도자료",
+   "url": "https://www.khnp.co.kr/main/selectBbsNttList.do?bbsNo=71&key=2289",
+   "published": "2026-11-11",
+   "region": "domestic",
+   "category": "policy",
+   "countries": [
+    "KR"
+   ],
+   "importance": 1,
+   "summary_ko": "한국수력원자력이 제주대학교에 '그린수소 기술혁신센터' 구축을 본격화하고 수전해 운전기술 실증에 들어간다고 발표했다. 11월 11일 한수원 보도자료 게시판과 더트래커 보도로 확인된 내용으로, 발전사업자가 무탄소 전력과 수소 생산을 연계하는 기술 실증 거점을 대학과 함께 두는 형태다.",
+   "summary_en": "Korea Hydro & Nuclear Power says it is moving ahead with a Green Hydrogen Technology Innovation Centre at Jeju National University and will begin demonstrating water-electrolysis operating technology. Confirmed from KHNP's press board and reporting by The Tracker on 11 November, it places a demonstration base linking carbon-free power to hydrogen production inside a university.",
+   "sales_note": "원전-수소 연계 실증 실적은 중동·유럽 입찰에서 탈탄소 패키지 제안의 근거 자료로 쓰이며, 최근 한수원의 체코 청정수소 사업화(11월 7일)·미국 EPRI 협력(11월 5일) 발표와 같은 흐름이다. 다만 국내 대학 실증 단계로 수주 영향은 간접적이다.",
+   "sales_note_en": "A track record in coupling nuclear with hydrogen is used as supporting material for decarbonisation packages in Middle Eastern and European bids, and this follows KHNP's Czech clean hydrogen commercialisation announcement on 7 November and its EPRI cooperation on 5 November. As a domestic university demonstration, however, its effect on orders is indirect.",
+   "related": [
+    "https://thetracker.co.kr/View.aspx?No=4308121"
+   ]
+  }
+ ]
+}

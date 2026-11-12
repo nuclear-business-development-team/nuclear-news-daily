@@ -1,8 +1,47 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
+  {
+   "country": "CZ",
+   "buyer": "ČEZ, a. s.",
+   "title": "두코바니 원전→브르노 열수송 사업 9503 OB06 — 블록 열교환기 4기 (실시설계+공급·설치+시운전)",
+   "title_en": "Dukovany-to-Brno heat transmission project 9503 OB06 - four block heat-exchange units (detailed design, supply, installation and commissioning)",
+   "scope": "두코바니 원전에서 브르노시로 열을 공급하는 사업의 OB06 패키지로, 주발전동 HVB1·HVB2에 블록 열교환기 4기를 설치한다. 각 열교환기는 기본 가열기 1기와 첨두 가열기 2기(첨두 1호·2호)로 구성된다. 수행 역무는 실시설계 도서(projektová dokumentace pro provádění stavby) 작성과 이후 공급·조립·시운전이며, 필요한 철거·조립 작업, 각종 시험·검사, 시운전, 시험운전, 준공도서 작성을 포함한다. 절차는 공고 있는 협상절차이고 CPV는 42511100(열교환기)이다. 공고에 추정금액은 기재되지 않았다.",
+   "scope_en": "The OB06 package of the project transmitting heat from the Dukovany nuclear power plant to the city of Brno, covering four block heat-exchange units on main power blocks HVB1 and HVB2. Each unit comprises one base heater and two peak heaters. The scope runs from preparing detailed design documentation for construction through supply, assembly and commissioning, and includes the necessary dismantling and assembly work, tests and inspections, commissioning, trial operation and as-built documentation. The procedure is negotiated with a call for competition and the CPV code is 42511100 (heat-exchange units). The notice states no estimated value.",
+   "portal": "TED",
+   "notice_no": "787858-2026",
+   "published": "2026-11-12",
+   "deadline": "2026-12-17",
+   "url": "https://ted.europa.eu/en/notice/787858-2026/pdf"
+  },
+  {
+   "country": "GB",
+   "buyer": "Nuclear Restoration Services Limited",
+   "title": "둔레이 원형고속로(PFR) 환기계통 개량 — 조달·제작·설치·시운전 (사전공고)",
+   "title_en": "Prototype Fast Reactor ventilation upgrades - procurement, manufacture, installation and commissioning (planned procurement notice)",
+   "scope": "둔레이 부지 원형고속로(Prototype Fast Reactor) 시설의 환기계통 개량 사업이다. 역무는 조달, 제작, 설치, 시운전이며 주발주유형은 공사(works), CPV는 45351000(기계설비 설치공사)이다. 추정금액은 VAT 포함 1,500만 파운드(VAT 제외 1,250만 파운드)이고 발주참조는 C26426이다. 절차는 경쟁적 유연절차(Competitive flexible procedure) 2단계로, 1단계에서 참가조건 심사로 공급사를 압축하고 2단계에서 입찰을 초청한다. 참가의향 접수 마감은 2027년 2월 5일 12:00(UTC)이다. 공고문은 기술적 사유로 연결되지 않은 이전 공고 2건(026167-2026, 047874-2026)을 안내하고 있다.",
+   "scope_en": "An upgrade of the ventilation systems at the Prototype Fast Reactor facility on the Dounreay site. The scope covers procurement, manufacture, installation and commissioning; the main procurement category is works and the CPV code is 45351000 (mechanical engineering installation works). The estimated value is GBP15 million including VAT (GBP12.5 million excluding VAT) under buyer reference C26426. The procedure is a two-stage competitive flexible procedure: stage one down-selects on conditions of participation and stage two invites tenders. Expressions of interest are due by 12:00 UTC on 5 February 2027. The notice points to two earlier notices, 026167-2026 and 047874-2026, that are not linked to it for technical reasons.",
+   "portal": "UK Find a Tender",
+   "notice_no": "107563-2026",
+   "published": "2026-11-12",
+   "deadline": "2027-02-05",
+   "url": "https://www.find-tender.service.gov.uk/Notice/107563-2026"
+  },
+  {
+   "country": "SK",
+   "buyer": "Jadrová energetická spoločnosť Slovenska, a. s.",
+   "title": "감정평가 용역 동적구매체계(DNS) — 부동산·농지·산림 일반가치 및 보상액 산정 감정인 선정 (4개 카테고리)",
+   "title_en": "Dynamic purchasing system for expert appraisal services - valuation of real estate, agricultural land and forest land and assessment of compensation (four categories)",
+   "scope": "동적구매체계(DNS)로 감정인을 선정하는 공고다. 카테고리는 A(건축 분야 부동산 가치 평가), B(농업 분야 농지 가치 평가·표토 수지), C·D(산림 분야 — 산림 경영 및 산림자산 피해 평가, 산림 가치 평가)로 나뉘고 공고문에는 산림지 코드 23 02 02와 23 03 03이 명기돼 있다. 역무는 부동산 일반가치 산정 감정서, 권리 평가 감정서, 표토 수지, 산림의 비생산적 기능 상실에 대한 보상액 산정이다. 절차는 제한입찰이고 CPV는 71319000(감정인 용역), 추정금액은 20만 유로다. 참가요청 접수 마감은 2026년 12월 11일 10:00으로 4개 카테고리가 동일하다.",
+   "scope_en": "A notice establishing a dynamic purchasing system to select expert appraisers across four categories: A for construction-sector real estate valuation, B for agricultural land valuation and topsoil balances, and C and D for forestry - forest management and assessment of damage to forest assets, and forest valuation - with forest land codes 23 02 02 and 23 03 03 named in the notice. The services cover expert reports determining the general value of real estate, valuation of rights, topsoil balances, and assessment of compensation for the loss of non-productive forest functions. The procedure is restricted, the CPV code is 71319000 (expert witness services) and the estimated value is EUR200,000. Requests to participate are due by 10:00 on 11 December 2026 for all four categories.",
+   "portal": "TED",
+   "notice_no": "787403-2026",
+   "published": "2026-11-12",
+   "deadline": "2026-12-11",
+   "url": "https://ted.europa.eu/en/notice/787403-2026/pdf"
+  },
   {
    "country": "NL",
    "buyer": "Nucleaire Energie Organisatie Nederland B.V.",
@@ -28,19 +67,6 @@
    "published": "2026-11-04",
    "deadline": "2026-12-14",
    "url": "https://ted.europa.eu/en/notice/767219-2026/xml"
-  },
-  {
-   "country": "GB",
-   "buyer": "International Nuclear Services Limited (Nuclear Transport Solutions)",
-   "title": "기자재·조립품 제작 기본협약 사전시장조사(PME/RFI)",
-   "title_en": "Preliminary market engagement (PME/RFI) for a Manufacturing Framework for Components and Assemblies",
-   "scope": "기자재·조립품 제작 기본협약 발주에 앞선 사전시장조사(RFI). 회신 기한은 2026-11-12 23:59이고 Atamis 포털로 접수한다. 공고 기재 예정 계약기간은 2027-05-10~2031-05-09, 공고 기재값은 500만 파운드(부가세 포함 600만 파운드)이며 CPV는 14622000(강재)·45255400(제작역무)이다. 중소기업 참여 적합으로 표시돼 있다.",
-   "scope_en": "Preliminary market engagement (RFI) ahead of a manufacturing framework for components and assemblies. Responses are due by 23:59 on 12 November 2026 via the Atamis portal. The notice states a contract period of 10 May 2027 to 9 May 2031 and a value of GBP 5 million (GBP 6 million including VAT), under CPV codes 14622000 (steel) and 45255400 (fabrication work). The notice marks the lot as suitable for SMEs.",
-   "portal": "UK Find a Tender",
-   "notice_no": "104582-2026",
-   "published": "2026-11-04",
-   "deadline": "2026-11-12",
-   "url": "https://www.find-tender.service.gov.uk/Notice/104582-2026"
   },
   {
    "country": "CZ",
@@ -80,45 +106,6 @@
    "published": "2026-10-05",
    "deadline": "2026-11-23",
    "url": "https://ted.europa.eu/en/notice/684493-2026/pdf"
-  },
-  {
-   "country": "TR",
-   "buyer": "European Commission, INTPA - International Partnerships",
-   "title": "EU 집행위(INTPA) — 튀르키예 원자력규제청(NDK)·기술지원기관(NÜTED) 역량강화 용역",
-   "title_en": "Further strengthening the nuclear safety and radioprotection regulator in Türkiye (TR3.01/26)",
-   "scope": "원자력안전·방사선방호·방사성폐기물 안전관리·수송안전·검사 분야 규제역량 강화 용역. 추정 400만 유로, 기간 42개월",
-   "scope_en": "Service contract strengthening regulatory capacity in nuclear safety, radiation protection, radioactive waste management, transport safety and inspection. Estimated EUR 4 million over 42 months",
-   "portal": "TED",
-   "notice_no": "696701-2026",
-   "published": "2026-10-09",
-   "deadline": "2026-11-12",
-   "url": "https://ted.europa.eu/en/notice/696701-2026/pdf"
-  },
-  {
-   "country": "SK",
-   "buyer": "Jadrová a vyraďovacia spoločnosť, a.s. (JAVYS)",
-   "title": "사용후핵연료(VJP)·방사성폐기물(RAO) 수송차량 및 수반차량 수리·기술검사",
-   "title_en": "Repairs and technical inspections of transport and escort wagons for spent fuel (VJP) and radioactive waste (RAO)",
-   "scope": "사용후핵연료·방사성폐기물 수송차량 및 수반차량의 수리와 기술검사. CPV 50222000, 공개입찰. 공고 기재값 236,000(통화 미표기).",
-   "scope_en": "Repairs and technical inspections of wagons used to transport spent fuel and radioactive waste, and of escort wagons. CPV 50222000, open procedure. The notice states a value of 236,000 with no currency given.",
-   "portal": "TED",
-   "notice_no": "707398-2026",
-   "published": "2026-10-13",
-   "deadline": "2026-11-12",
-   "url": "https://ted.europa.eu/en/notice/707398-2026/pdf"
-  },
-  {
-   "country": "GB",
-   "buyer": "Great British Energy - Nuclear",
-   "title": "그윈도드(Gwyndod) 소형모듈원자로 사업 및 SMR 프로그램 재원·자금조달 자문",
-   "title_en": "Financial advisory services for the Gwyndod small modular reactor project and the wider SMR programme",
-   "scope": "그윈도드 SMR 사업과 SMR 프로그램 전반의 공공·민간·혼합 조달방식에 대한 장단점·위험·전제조건 분석, 시장 소통 지원, 향후 정부 결정 근거 작성. 추정금액은 부가세 포함 60만 파운드이며 발주처의 현재 가정에 따른 총 지출 추정치다. 상세 과업지시서는 상호 비밀유지협약 체결 뒤 초청 참가자에게 배포된다.",
-   "scope_en": "Analysis of the advantages, risks and enabling conditions of public, private and hybrid funding and financing approaches for the Gwyndod SMR project and the wider SMR programme, support for market engagement, and the evidence base for future government decisions. The estimated value is GBP 600,000 including VAT, a total potential spend on the buyer's current assumptions. The detailed scope is issued to invited tenderers after a mutual non-disclosure agreement.",
-   "portal": "UK Find a Tender",
-   "notice_no": "097231-2026",
-   "published": "2026-10-14",
-   "deadline": "2026-11-12",
-   "url": "https://www.find-tender.service.gov.uk/Notice/097231-2026"
   },
   {
    "country": "SK",

@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-14",
+  "run_started": "2026-11-14T08:04:51+09:00",
+  "run_finished": "2026-11-14T09:48:00+09:00",
+  "run_minutes": 103.2,
+  "articles": 8,
+  "by_region": {
+    "overseas": 7,
+    "domestic": 1
+  },
+  "by_importance": {
+    "3": 3,
+    "2": 4,
+    "1": 1
+  },
+  "by_category": {
+    "large": 3,
+    "smr": 0,
+    "policy": 2,
+    "fuel": 3
+  },
+  "detection_lag_hours": {
+    "median": 23.08,
+    "max": 47.08,
+    "n": 8,
+    "note": "run_started(2026-11-14T08:04:51+09:00) 기준. 게재 시각이 날짜까지만 있는 기사는 그날 09:00 (+09:00)으로 간주해 계산했다. 최댓값 47.08시간은 NYPA 보도자료(2026-11-12 게재)로, 11월 13일 회차에 잡히지 않고 금차에 자격심사 10곳 명단 검색으로 포착된 건이다. 나머지 7건은 모두 11월 13일 게재분으로 23.08시간이다. 계산은 python3 datetime·statistics로 수행"
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "ANS Nuclear Newswire (목록 페이지)",
+    "정책브리핑 korea.kr (원전·SMR·원자력 3회 검색)",
+    "한국수력원자력 보도자료 게시판",
+    "한국전력 보도·설명자료 게시판",
+    "EU TED 검색 API (api.ted.europa.eu/v3/notices/search)",
+    "UK Find a Tender OCDS API",
+    "New York Power Authority",
+    "New Civil Engineer",
+    "oenergetice.cz",
+    "에너지데일리"
+  ],
+  "sources_failed": [
+    {
+      "name": "IAEA News (iaea.org 보도자료 본문)",
+      "reason": "402 — sources.yaml의 unreachable 등재대로 본문 열람 포기하고 검색으로 대체. 피드(iaea.org/feeds/topnews)는 수신되나 항목에 게재일이 없어 날짜 확정 불가"
+    },
+    {
+      "name": "Nuclear Engineering International (neimagazine.com/feed)",
+      "reason": "리다이렉트 추적 후 200이나 최신 항목이 2026-06-16자 — 피드 정체 3회차 연속"
+    },
+    {
+      "name": "TED 공고 본문 (ted.europa.eu /pdf·/xml)",
+      "reason": "HTTP 202 비동기 생성만 반환 — 본문 열람 불가. 검색 API 필드 조회로 제목·발주처·게재일·금액·CPV·절차유형을 확정 (전 회차와 동일 증상)"
+    }
+  ],
+  "languages": {
+    "en": 7,
+    "ko": 1
+  },
+  "collection_window_notes": {
+    "ted_published_2026_11_13": 3340,
+    "ted_published_2026_11_14": 0,
+    "ted_nuclear_keyword_hits_2026_11_13": 15,
+    "ted_nuclear_relevant": 1,
+    "ukfts_releases_2026_11_13": 452,
+    "ukfts_releases_2026_11_14": 0,
+    "ukfts_keyword_hits": 2,
+    "ukfts_relevant": 0,
+    "note": "토요일 회차. TED는 11월 14일 게재 0건으로 확인(API 전수 조회), 영국 FTS도 11월 14일 릴리스 0건. TED 11월 13일 원자력 키워드 15건 중 14건은 CPV 09300000 분류명에 'nuclear energy'가 들어가는 전력·열 공급계약 등 오탐이고, 유일한 관련 건은 ITER 중성입자빔 자기차폐 공급 낙찰공고(789774-2026, Fusion for Energy, 1억 3,335만 유로)다. UK FTS 키워드 2건은 Fusion21 주택 개보수 프레임워크와 민간원자력경찰청 소형 손전등 구매로 모두 오탐"
+  }
+}

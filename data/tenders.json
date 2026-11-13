@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
@@ -106,32 +106,6 @@
    "published": "2026-10-05",
    "deadline": "2026-11-23",
    "url": "https://ted.europa.eu/en/notice/684493-2026/pdf"
-  },
-  {
-   "country": "SK",
-   "buyer": "Jadrová a vyraďovacia spoločnosť, a.s. (JAVYS)",
-   "title": "보안 출입설비 개량 (Inovácia bezpečnostných prístupových prvkov)",
-   "title_en": "Upgrade of security access equipment (Inovácia bezpečnostných prístupových prvkov)",
-   "scope": "보안 출입설비 개량. CPV 32420000(네트워크 장비), 공개입찰. 공고 기재값 611,651(통화 미표기).",
-   "scope_en": "Upgrade of security access equipment. CPV 32420000 (network equipment), open procedure. The notice states a value of 611,651 with no currency given.",
-   "portal": "TED",
-   "notice_no": "706302-2026",
-   "published": "2026-10-13",
-   "deadline": "2026-11-13",
-   "url": "https://ted.europa.eu/en/notice/706302-2026/pdf"
-  },
-  {
-   "country": "GB",
-   "buyer": "Nuclear Restoration Services Limited",
-   "title": "힝클리포인트A 1·2호기 스프링행거 철거 — 설계·시공 사전시장조사(RFI)",
-   "title_en": "Removal of spring hangers, Hinkley Point A Reactors 1 and 2 — preliminary market engagement",
-   "scope": "1·2호기 스프링행거 조립체 철거의 설계와 시공. 가설지지대 설계·설치, 스프링 하중 해제, 조립체 전량 철거, 가설물 철거. 공고 기재값 570만 파운드(부가세 포함 684만), 중소기업 적합 표시. 회신 마감 11월 13일, 본 공고 예고 2027년 2월 1일, 계약기간 2027년 7월~2029년 6월",
-   "scope_en": "Design and delivery of works to remove the spring hanger assemblies on Reactors 1 and 2: design and installation of temporary supports, de-energisation of the springs, removal of the assemblies in their entirety and removal of the temporary works. Notice value GBP 5.7 million (GBP 6.84 million incl. VAT), flagged suitable for SMEs. Responses due 13 November; the tender notice is signalled for 1 February 2027 and the contract would run July 2027 to June 2029.",
-   "portal": "UK Find a Tender",
-   "notice_no": "096201-2026",
-   "published": "2026-10-12",
-   "deadline": "2026-11-13",
-   "url": "https://www.find-tender.service.gov.uk/Notice/096201-2026"
   },
   {
    "country": "BE",
@@ -379,19 +353,6 @@
    "published": "2026-10-27",
    "deadline": "2026-12-08",
    "url": "https://ted.europa.eu/en/notice/741571-2026/pdf"
-  },
-  {
-   "country": "SK",
-   "buyer": "Jadrová a vyraďovacia spoločnosť, a.s. (JAVYS)",
-   "title": "V1 부지 SO639 공조설비 재건 — 실시설계·기기공급·철거설치·시운전 일괄 (추정 430,000유로)",
-   "title_en": "Reconstruction of the air-conditioning installations in building SO639 at the V1 site - design, supply, removal and installation, and commissioning (estimated EUR 430,000)",
-   "scope": "실시설계도서 작성·승인, 냉동설비(실외기·실내기) 공급, 철거·설치 및 건축공사, 개별·기능·종합시험과 평가, 기술·준공도서 작성, 전기설비 검사, 인도.",
-   "scope_en": "Preparation and approval of detailed design documentation, supply of cooling units (outdoor and indoor), removal and installation plus construction work, individual, functional and integrated testing with evaluation, technical and as-built documentation, electrical inspection, and handover.",
-   "portal": "TED",
-   "notice_no": "743993-2026",
-   "published": "2026-10-27",
-   "deadline": "2026-11-13",
-   "url": "https://ted.europa.eu/en/notice/743993-2026/pdf"
   },
   {
    "country": "NO",

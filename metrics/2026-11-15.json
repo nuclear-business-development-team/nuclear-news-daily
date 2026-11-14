@@ -1,0 +1,101 @@
+{
+ "date": "2026-11-15",
+ "run_started": "2026-11-15T08:04:08+09:00",
+ "run_finished": "2026-11-15T08:35:54+09:00",
+ "run_minutes": 31.8,
+ "articles": 6,
+ "by_region": {
+  "overseas": 5,
+  "domestic": 1
+ },
+ "by_importance": {
+  "3": 0,
+  "2": 2,
+  "1": 4
+ },
+ "by_category": {
+  "large": 3,
+  "smr": 0,
+  "policy": 3,
+  "fuel": 0
+ },
+ "detection_lag_hours": {
+  "median": 47.07,
+  "max": 95.07,
+  "n": 6,
+  "note": "run_started(2026-11-15T08:04:08+09:00) 기준. 게재 시각이 날짜까지만 있는 기사는 그날 09:00(+09:00)으로 간주했고, 더구루 기사(2026-11-15-06)만 RSS pubDate 00:00:15(+09:00)이 있어 실제 시각을 썼다(8.06시간). 중간값 47.07시간·최댓값 95.07시간은 모두 일요일 회차라 신규 게재가 없어 11월 11~13일 게재분을 보완 수집한 결과이며, 특히 95.07시간 2건(TED 786089-2026 EDU II 송전연계·783381-2026 폴란드 MOLF)은 제목에 원자력 키워드가 없어 11-12·11-13 회차 키워드 필터에서 빠진 건을 금차 전수 조회로 포착한 것이다. 계산은 python3 datetime·statistics로 수행",
+  "values": [
+   95.07,
+   95.07,
+   47.07,
+   47.07,
+   47.07,
+   8.06
+  ]
+ },
+ "sources_ok": [
+  "World Nuclear News (RSS + 목록 페이지)",
+  "NucNet (RSS)",
+  "IAEA Top News (RSS — 제목·날짜만)",
+  "POWER Magazine (RSS)",
+  "UK DESNZ gov.uk (Atom)",
+  "더구루 (RSS)",
+  "더트래커 (RSS, 리다이렉트 -L 추적)",
+  "ANS Nuclear Newswire (목록 페이지)",
+  "정책브리핑 korea.kr (원전·SMR·원자력 3회 검색)",
+  "한국수력원자력 보도자료 게시판",
+  "한국전력 보도·설명자료 게시판",
+  "EU TED 검색 API (api.ted.europa.eu/v3/notices/search — 11/11·11/12·11/13 게재분 전수 9,916건 조회)",
+  "UK Find a Tender OCDS API (11/12~11/15 릴리스 885건 전수 조회)",
+  "Office for Nuclear Regulation (onr.org.uk)",
+  "X-energy 3분기 보도자료 (SEC EDGAR)",
+  "Rolls-Royce SMR 공급망 페이지",
+  "OPG (opg.com)"
+ ],
+ "sources_failed": [
+  {
+   "name": "IAEA News (iaea.org 보도자료 본문)",
+   "reason": "402 — sources.yaml의 unreachable 등재대로 본문 열람 포기. 피드로 제목·날짜는 확인했으나 우크라이나 상황보고 375호·미하마 LTO 검토 2건은 대체 출처에서도 내용 확인 실패로 미수록"
+  },
+  {
+   "name": "Nuclear Engineering International (neimagazine.com/feed)",
+   "reason": "리다이렉트 추적 후 HTTP 200이나 기간 내 항목 0건 — 피드 정체 4회차 연속"
+  },
+  {
+   "name": "TED 공고 본문 (ted.europa.eu /pdf·/xml)",
+   "reason": "HTTP 202 비동기 생성만 반환 — 본문 열람 불가. 검색 API 필드 조회로 제목·발주처·게재일·마감·금액·낙찰자·절차유형·CPV·역무설명(description-lot)을 확정"
+  },
+  {
+   "name": "TED 검색 API 일부 필드",
+   "reason": "contract-value·organisation-name-win·description-procurement 필드는 unsupported 반환 → winner-name·total-value·description-lot 로 대체"
+  },
+  {
+   "name": "에이전트 프록시 상태 조회 ($HTTPS_PROXY/__agentproxy/status)",
+   "reason": "권한 거부 — TED 202 원인 진단을 위해 조회하려 했으나 실행되지 않았다. 검색 API 우회로 영향 없음"
+  }
+ ],
+ "languages": {
+  "en": 2,
+  "ko": 1,
+  "cs": 1,
+  "pl": 1,
+  "sl": 1
+ },
+ "collection_window_notes": {
+  "ted_published_2026_11_11": 3382,
+  "ted_published_2026_11_12": 3194,
+  "ted_published_2026_11_13": 3340,
+  "ted_published_2026_11_14": 0,
+  "ted_published_2026_11_15": 0,
+  "ted_enumerated_total": 9916,
+  "ted_nuclear_candidates": 89,
+  "ted_nuclear_relevant_new": 3,
+  "ukfts_releases_2026_11_12_to_15": 885,
+  "ukfts_releases_2026_11_14": 0,
+  "ukfts_releases_2026_11_15": 0,
+  "ukfts_keyword_hits": 12,
+  "ukfts_relevant_new": 0,
+  "method_change": "TED를 키워드 검색이 아니라 게재일 전수 열거(publication-date = YYYYMMDD, limit 250·page 순회)로 바꾼 뒤 제목·발주처에 로컬 정규식을 적용했다. 직전 두 회차가 놓친 2건(786089-2026 'SoSB o připojení NJZ EDU do PS', 783381-2026 'Budowa infrastruktury hydrotechnicznej MOLF...')은 제목에 nuclear·reaktor 류 단어가 없고 발주처명(Elektrárna Dukovany II / Urząd Morski w Gdyni)으로만 식별되는 건이어서 FT 키워드 질의로는 잡히지 않았다. 또한 FT 질의를 'FT ~ (a OR b)' 형태로 쓰면 날짜 조건과 AND로 결합할 때 결과가 0으로 떨어지는 문제를 확인해 '(FT ~ (a) OR FT ~ (b)) AND ...' 형태로 교정했다.",
+  "note": "일요일 회차. TED·UK FTS 모두 11월 14·15일 신규 게재 0건을 API 전수 조회로 확정했고, 전문지(WNN·NucNet·ANS)도 11-13자 이후 신규 없음. 따라서 금차는 11월 11~13일 게재분 보완 수집이 중심이다."
+ }
+}

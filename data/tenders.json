@@ -1,47 +1,8 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
-  {
-   "country": "CZ",
-   "buyer": "ČEZ, a. s.",
-   "title": "두코바니 원전→브르노 열수송 사업 9503 OB06 — 블록 열교환기 4기 (실시설계+공급·설치+시운전)",
-   "title_en": "Dukovany-to-Brno heat transmission project 9503 OB06 - four block heat-exchange units (detailed design, supply, installation and commissioning)",
-   "scope": "두코바니 원전에서 브르노시로 열을 공급하는 사업의 OB06 패키지로, 주발전동 HVB1·HVB2에 블록 열교환기 4기를 설치한다. 각 열교환기는 기본 가열기 1기와 첨두 가열기 2기(첨두 1호·2호)로 구성된다. 수행 역무는 실시설계 도서(projektová dokumentace pro provádění stavby) 작성과 이후 공급·조립·시운전이며, 필요한 철거·조립 작업, 각종 시험·검사, 시운전, 시험운전, 준공도서 작성을 포함한다. 절차는 공고 있는 협상절차이고 CPV는 42511100(열교환기)이다. 공고에 추정금액은 기재되지 않았다.",
-   "scope_en": "The OB06 package of the project transmitting heat from the Dukovany nuclear power plant to the city of Brno, covering four block heat-exchange units on main power blocks HVB1 and HVB2. Each unit comprises one base heater and two peak heaters. The scope runs from preparing detailed design documentation for construction through supply, assembly and commissioning, and includes the necessary dismantling and assembly work, tests and inspections, commissioning, trial operation and as-built documentation. The procedure is negotiated with a call for competition and the CPV code is 42511100 (heat-exchange units). The notice states no estimated value.",
-   "portal": "TED",
-   "notice_no": "787858-2026",
-   "published": "2026-11-12",
-   "deadline": "2026-12-17",
-   "url": "https://ted.europa.eu/en/notice/787858-2026/pdf"
-  },
-  {
-   "country": "GB",
-   "buyer": "Nuclear Restoration Services Limited",
-   "title": "둔레이 원형고속로(PFR) 환기계통 개량 — 조달·제작·설치·시운전 (사전공고)",
-   "title_en": "Prototype Fast Reactor ventilation upgrades - procurement, manufacture, installation and commissioning (planned procurement notice)",
-   "scope": "둔레이 부지 원형고속로(Prototype Fast Reactor) 시설의 환기계통 개량 사업이다. 역무는 조달, 제작, 설치, 시운전이며 주발주유형은 공사(works), CPV는 45351000(기계설비 설치공사)이다. 추정금액은 VAT 포함 1,500만 파운드(VAT 제외 1,250만 파운드)이고 발주참조는 C26426이다. 절차는 경쟁적 유연절차(Competitive flexible procedure) 2단계로, 1단계에서 참가조건 심사로 공급사를 압축하고 2단계에서 입찰을 초청한다. 참가의향 접수 마감은 2027년 2월 5일 12:00(UTC)이다. 공고문은 기술적 사유로 연결되지 않은 이전 공고 2건(026167-2026, 047874-2026)을 안내하고 있다.",
-   "scope_en": "An upgrade of the ventilation systems at the Prototype Fast Reactor facility on the Dounreay site. The scope covers procurement, manufacture, installation and commissioning; the main procurement category is works and the CPV code is 45351000 (mechanical engineering installation works). The estimated value is GBP15 million including VAT (GBP12.5 million excluding VAT) under buyer reference C26426. The procedure is a two-stage competitive flexible procedure: stage one down-selects on conditions of participation and stage two invites tenders. Expressions of interest are due by 12:00 UTC on 5 February 2027. The notice points to two earlier notices, 026167-2026 and 047874-2026, that are not linked to it for technical reasons.",
-   "portal": "UK Find a Tender",
-   "notice_no": "107563-2026",
-   "published": "2026-11-12",
-   "deadline": "2027-02-05",
-   "url": "https://www.find-tender.service.gov.uk/Notice/107563-2026"
-  },
-  {
-   "country": "SK",
-   "buyer": "Jadrová energetická spoločnosť Slovenska, a. s.",
-   "title": "감정평가 용역 동적구매체계(DNS) — 부동산·농지·산림 일반가치 및 보상액 산정 감정인 선정 (4개 카테고리)",
-   "title_en": "Dynamic purchasing system for expert appraisal services - valuation of real estate, agricultural land and forest land and assessment of compensation (four categories)",
-   "scope": "동적구매체계(DNS)로 감정인을 선정하는 공고다. 카테고리는 A(건축 분야 부동산 가치 평가), B(농업 분야 농지 가치 평가·표토 수지), C·D(산림 분야 — 산림 경영 및 산림자산 피해 평가, 산림 가치 평가)로 나뉘고 공고문에는 산림지 코드 23 02 02와 23 03 03이 명기돼 있다. 역무는 부동산 일반가치 산정 감정서, 권리 평가 감정서, 표토 수지, 산림의 비생산적 기능 상실에 대한 보상액 산정이다. 절차는 제한입찰이고 CPV는 71319000(감정인 용역), 추정금액은 20만 유로다. 참가요청 접수 마감은 2026년 12월 11일 10:00으로 4개 카테고리가 동일하다.",
-   "scope_en": "A notice establishing a dynamic purchasing system to select expert appraisers across four categories: A for construction-sector real estate valuation, B for agricultural land valuation and topsoil balances, and C and D for forestry - forest management and assessment of damage to forest assets, and forest valuation - with forest land codes 23 02 02 and 23 03 03 named in the notice. The services cover expert reports determining the general value of real estate, valuation of rights, topsoil balances, and assessment of compensation for the loss of non-productive forest functions. The procedure is restricted, the CPV code is 71319000 (expert witness services) and the estimated value is EUR200,000. Requests to participate are due by 10:00 on 11 December 2026 for all four categories.",
-   "portal": "TED",
-   "notice_no": "787403-2026",
-   "published": "2026-11-12",
-   "deadline": "2026-12-11",
-   "url": "https://ted.europa.eu/en/notice/787403-2026/pdf"
-  },
   {
    "country": "NL",
    "buyer": "Nucleaire Energie Organisatie Nederland B.V.",
@@ -67,32 +28,6 @@
    "published": "2026-11-04",
    "deadline": "2026-12-14",
    "url": "https://ted.europa.eu/en/notice/767219-2026/xml"
-  },
-  {
-   "country": "CZ",
-   "buyer": "ČEZ, a. s.",
-   "title": "두코바니(EDU)→브르노 열수송 사업 9503 OB03 — 전기·계측제어(SKŘ) 설계·공사·자재 일괄",
-   "title_en": "Dukovany-to-Brno heat transmission project 9503, lot OB03 - electrical and I&C design, works and materials",
-   "scope": "전기 및 계측제어(SKŘ) 분야의 프로젝트 도서 작성과 후속 공사·자재 공급. 전기 수용설비 전원 확보, 사업 및 열수송계통 제어용 SKŘ 구축, 발주처 기존 설비·계통과의 접속, 필요한 해체·설치 작업과 시험·검사, 시운전 및 준공도서 작성을 포함한다. 공고 후 협상절차(neg-w-call).",
-   "scope_en": "Preparation of project documentation and subsequent works and supplies in the electrical and instrumentation & control (SKR) field. Covers power supply to electrical consumers, SKR for control of the project and the heat main, connection to the buyer's existing equipment and systems, necessary dismantling and installation works, tests and inspections, commissioning and as-built documentation. Negotiated procedure with prior call for competition.",
-   "portal": "TED",
-   "notice_no": "756403-2026",
-   "published": "2026-11-02",
-   "deadline": "2026-12-07",
-   "url": "https://ted.europa.eu/en/notice/756403-2026/pdf"
-  },
-  {
-   "country": "PL",
-   "buyer": "Narodowe Centrum Badań Jądrowych (NCBJ)",
-   "title": "연구원자로 MARIA 배기·급기 환기계통 개량 — 재공고",
-   "title_en": "Modernisation of the extract and supply ventilation systems of the MARIA research reactor - re-issued",
-   "scope": "1단계는 현장조사와 기존 배기·급기 환기계통 실사, 신규 기기 설치 실행설계(기존 설비와의 통합 반영, 원자력시설운영부 승인 대상), 납품·설치·통합 및 SAT 일정 수립이다. 이후 단계에서 기기 공급·설치·시험이 이어진다. 10월 공고(731646-2026)의 재공고로 마감이 11월 16일 12시다.",
-   "scope_en": "Stage I covers a site visit and inventory of the existing extract and supply ventilation systems, a detailed technical design for installing the new equipment that accounts for integration with existing installations and is subject to approval by the nuclear facility operations department, and a schedule for delivery, installation, integration and site acceptance testing. Later stages cover supply, installation and testing. Re-issue of the October notice (731646-2026), with a deadline of 16 November at 12:00.",
-   "portal": "TED",
-   "notice_no": "757424-2026",
-   "published": "2026-11-02",
-   "deadline": "2026-11-16",
-   "url": "https://ted.europa.eu/en/notice/757424-2026/pdf"
   },
   {
    "country": "DK",
@@ -390,7 +325,7 @@
    "portal": "TED",
    "notice_no": "743826-2026",
    "published": "2026-10-27",
-   "deadline": "2026-12-02",
+   "deadline": "2026-12-21",
    "url": "https://ted.europa.eu/en/notice/743826-2026/pdf"
   },
   {
@@ -416,7 +351,7 @@
    "portal": "TED",
    "notice_no": "750257-2026",
    "published": "2026-10-29",
-   "deadline": "2026-11-17",
+   "deadline": "2026-11-30",
    "url": "https://ted.europa.eu/en/notice/750257-2026/pdf"
   },
   {
@@ -442,7 +377,34 @@
    "portal": "UK FTS",
    "notice_no": "ocds-h6vhtk-07935d / 102534-2026",
    "published": "2026-10-29",
-   "url": "https://www.find-tender.service.gov.uk/Notice/102534-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/102534-2026",
+   "deadline": null
+  },
+  {
+   "country": "CZ",
+   "buyer": "ČEZ, a. s.",
+   "title": "두코바니(EDU)→브르노 열수송 사업 9503 OB03 — 전기·계측제어(SKŘ) 설계·공사·자재 일괄",
+   "title_en": "Dukovany-to-Brno heat transmission project 9503, lot OB03 - electrical and I&C design, works and materials",
+   "scope": "전기 및 계측제어(SKŘ) 분야의 프로젝트 도서 작성과 후속 공사·자재 공급. 전기 수용설비 전원 확보, 사업 및 열수송계통 제어용 SKŘ 구축, 발주처 기존 설비·계통과의 접속, 필요한 해체·설치 작업과 시험·검사, 시운전 및 준공도서 작성을 포함한다. 공고 후 협상절차(neg-w-call).",
+   "scope_en": "Preparation of project documentation and subsequent works and supplies in the electrical and instrumentation & control (SKR) field. Covers power supply to electrical consumers, SKR for control of the project and the heat main, connection to the buyer's existing equipment and systems, necessary dismantling and installation works, tests and inspections, commissioning and as-built documentation. Negotiated procedure with prior call for competition.",
+   "portal": "TED",
+   "notice_no": "756403-2026",
+   "published": "2026-11-02",
+   "deadline": "2026-12-07",
+   "url": "https://ted.europa.eu/en/notice/756403-2026/pdf"
+  },
+  {
+   "country": "PL",
+   "buyer": "Narodowe Centrum Badań Jądrowych (NCBJ)",
+   "title": "연구원자로 MARIA 배기·급기 환기계통 개량 — 재공고",
+   "title_en": "Modernisation of the extract and supply ventilation systems of the MARIA research reactor - re-issued",
+   "scope": "1단계는 현장조사와 기존 배기·급기 환기계통 실사, 신규 기기 설치 실행설계(기존 설비와의 통합 반영, 원자력시설운영부 승인 대상), 납품·설치·통합 및 SAT 일정 수립이다. 이후 단계에서 기기 공급·설치·시험이 이어진다. 10월 공고(731646-2026)의 재공고로 마감이 11월 16일 12시다.",
+   "scope_en": "Stage I covers a site visit and inventory of the existing extract and supply ventilation systems, a detailed technical design for installing the new equipment that accounts for integration with existing installations and is subject to approval by the nuclear facility operations department, and a schedule for delivery, installation, integration and site acceptance testing. Later stages cover supply, installation and testing. Re-issue of the October notice (731646-2026), with a deadline of 16 November at 12:00.",
+   "portal": "TED",
+   "notice_no": "757424-2026",
+   "published": "2026-11-02",
+   "deadline": "2026-11-16",
+   "url": "https://ted.europa.eu/en/notice/757424-2026/pdf"
   },
   {
    "country": "RO",
@@ -508,6 +470,58 @@
    "published": "2026-11-10",
    "deadline": "2027-02-18",
    "url": "https://www.find-tender.service.gov.uk/Notice/106786-2026"
+  },
+  {
+   "country": "CZ",
+   "buyer": "ČEZ, a. s.",
+   "title": "두코바니 원전→브르노 열수송 사업 9503 OB06 — 블록 열교환기 4기 (실시설계+공급·설치+시운전)",
+   "title_en": "Dukovany-to-Brno heat transmission project 9503 OB06 - four block heat-exchange units (detailed design, supply, installation and commissioning)",
+   "scope": "두코바니 원전에서 브르노시로 열을 공급하는 사업의 OB06 패키지로, 주발전동 HVB1·HVB2에 블록 열교환기 4기를 설치한다. 각 열교환기는 기본 가열기 1기와 첨두 가열기 2기(첨두 1호·2호)로 구성된다. 수행 역무는 실시설계 도서(projektová dokumentace pro provádění stavby) 작성과 이후 공급·조립·시운전이며, 필요한 철거·조립 작업, 각종 시험·검사, 시운전, 시험운전, 준공도서 작성을 포함한다. 절차는 공고 있는 협상절차이고 CPV는 42511100(열교환기)이다. 공고에 추정금액은 기재되지 않았다.",
+   "scope_en": "The OB06 package of the project transmitting heat from the Dukovany nuclear power plant to the city of Brno, covering four block heat-exchange units on main power blocks HVB1 and HVB2. Each unit comprises one base heater and two peak heaters. The scope runs from preparing detailed design documentation for construction through supply, assembly and commissioning, and includes the necessary dismantling and assembly work, tests and inspections, commissioning, trial operation and as-built documentation. The procedure is negotiated with a call for competition and the CPV code is 42511100 (heat-exchange units). The notice states no estimated value.",
+   "portal": "TED",
+   "notice_no": "787858-2026",
+   "published": "2026-11-12",
+   "deadline": "2026-12-17",
+   "url": "https://ted.europa.eu/en/notice/787858-2026/pdf"
+  },
+  {
+   "country": "GB",
+   "buyer": "Nuclear Restoration Services Limited",
+   "title": "둔레이 원형고속로(PFR) 환기계통 개량 — 조달·제작·설치·시운전 (사전공고)",
+   "title_en": "Prototype Fast Reactor ventilation upgrades - procurement, manufacture, installation and commissioning (planned procurement notice)",
+   "scope": "둔레이 부지 원형고속로(Prototype Fast Reactor) 시설의 환기계통 개량 사업이다. 역무는 조달, 제작, 설치, 시운전이며 주발주유형은 공사(works), CPV는 45351000(기계설비 설치공사)이다. 추정금액은 VAT 포함 1,500만 파운드(VAT 제외 1,250만 파운드)이고 발주참조는 C26426이다. 절차는 경쟁적 유연절차(Competitive flexible procedure) 2단계로, 1단계에서 참가조건 심사로 공급사를 압축하고 2단계에서 입찰을 초청한다. 참가의향 접수 마감은 2027년 2월 5일 12:00(UTC)이다. 공고문은 기술적 사유로 연결되지 않은 이전 공고 2건(026167-2026, 047874-2026)을 안내하고 있다.",
+   "scope_en": "An upgrade of the ventilation systems at the Prototype Fast Reactor facility on the Dounreay site. The scope covers procurement, manufacture, installation and commissioning; the main procurement category is works and the CPV code is 45351000 (mechanical engineering installation works). The estimated value is GBP15 million including VAT (GBP12.5 million excluding VAT) under buyer reference C26426. The procedure is a two-stage competitive flexible procedure: stage one down-selects on conditions of participation and stage two invites tenders. Expressions of interest are due by 12:00 UTC on 5 February 2027. The notice points to two earlier notices, 026167-2026 and 047874-2026, that are not linked to it for technical reasons.",
+   "portal": "UK Find a Tender",
+   "notice_no": "107563-2026",
+   "published": "2026-11-12",
+   "deadline": "2027-02-05",
+   "url": "https://www.find-tender.service.gov.uk/Notice/107563-2026"
+  },
+  {
+   "country": "SK",
+   "buyer": "Jadrová energetická spoločnosť Slovenska, a. s.",
+   "title": "감정평가 용역 동적구매체계(DNS) — 부동산·농지·산림 일반가치 및 보상액 산정 감정인 선정 (4개 카테고리)",
+   "title_en": "Dynamic purchasing system for expert appraisal services - valuation of real estate, agricultural land and forest land and assessment of compensation (four categories)",
+   "scope": "동적구매체계(DNS)로 감정인을 선정하는 공고다. 카테고리는 A(건축 분야 부동산 가치 평가), B(농업 분야 농지 가치 평가·표토 수지), C·D(산림 분야 — 산림 경영 및 산림자산 피해 평가, 산림 가치 평가)로 나뉘고 공고문에는 산림지 코드 23 02 02와 23 03 03이 명기돼 있다. 역무는 부동산 일반가치 산정 감정서, 권리 평가 감정서, 표토 수지, 산림의 비생산적 기능 상실에 대한 보상액 산정이다. 절차는 제한입찰이고 CPV는 71319000(감정인 용역), 추정금액은 20만 유로다. 참가요청 접수 마감은 2026년 12월 11일 10:00으로 4개 카테고리가 동일하다.",
+   "scope_en": "A notice establishing a dynamic purchasing system to select expert appraisers across four categories: A for construction-sector real estate valuation, B for agricultural land valuation and topsoil balances, and C and D for forestry - forest management and assessment of damage to forest assets, and forest valuation - with forest land codes 23 02 02 and 23 03 03 named in the notice. The services cover expert reports determining the general value of real estate, valuation of rights, topsoil balances, and assessment of compensation for the loss of non-productive forest functions. The procedure is restricted, the CPV code is 71319000 (expert witness services) and the estimated value is EUR200,000. Requests to participate are due by 10:00 on 11 December 2026 for all four categories.",
+   "portal": "TED",
+   "notice_no": "787403-2026",
+   "published": "2026-11-12",
+   "deadline": "2026-12-11",
+   "url": "https://ted.europa.eu/en/notice/787403-2026/pdf"
+  },
+  {
+   "country": "DE",
+   "buyer": "Europäische Kommission, Gemeinsame Forschungsstelle (JRC)",
+   "title": "EU 공동연구센터(JRC) 카를스루에 — 글러브박스·핫셀·실험실 및 건물 전기설비 구축·개조",
+   "portal": "ted",
+   "notice_no": "791159-2026",
+   "published": "2026-11-13",
+   "deadline": "2026-12-21",
+   "url": "https://ted.europa.eu/en/notice/791159-2026/pdf",
+   "title_en": "European Commission Joint Research Centre, Karlsruhe - installation and modification of electrical systems in glove boxes, hot cells, laboratories and the building",
+   "scope": "JRC 카를스루에의 글러브박스·핫셀·실험실 및 건물 내 전기설비 구축 및 개조 수행. 공고에 추정금액은 기재되지 않았다.",
+   "scope_en": "Carrying out the construction and modification of electrical installations in glove boxes, hot cells, laboratories and the building at JRC Karlsruhe. The notice states no estimated value."
   }
  ]
 }

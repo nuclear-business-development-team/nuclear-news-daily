@@ -1,0 +1,208 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T08:23:12+09:00",
+ "period": {
+  "from": "2026-11-14",
+  "to": "2026-11-15"
+ },
+ "overview_ko": "일요일 회차로 원자력 전문지·통신사 기사는 금요일(11월 13일)자에서 멈췄고, 금차에 새로 확인된 것은 모두 유럽 공공조달공고(TED)에 올라온 발주·낙찰 기록이다. 체코 두코바니 신규원전 발주사 EDU II가 신규호기를 체코 송전계통에 접속하는 계약(SoSB)의 제3차 추가합의를 송전계통운영사 ČEPS와 10억 5,000만 코루나 규모로 체결했고(낙찰 결정 9월 30일), 폴란드는 첫 원전 EJ1 부지의 중량물 하역부두(MOLF) 건설공사를 낙찰해 주기기 해상 반입 인프라를 발주 단계로 넘겼다. 슬로베니아 크르슈코 원전은 원자로용기·덮개 플랜지 밀봉면 검사와 세정장비 공급을 프라마톰에 63만 7,660유로로 낙찰했고, EU 퓨전포에너지는 ITER 중성입자빔 자기차폐 1억 3,335만 유로를 이탈리아·스페인 4개사에 발주했다. 영국 원자력규제청은 호주 안전조치·비확산사무소와 첫 안전조치 협력 양해각서를 비엔나 IAEA 심포지엄에서 체결했다. 영업 관점: 유럽 신규 사업 두 건이 모두 '발주처가 자체 예산으로 집행하는 선행 인프라'(계통연계·중량물 하역) 단계에 들어갔다는 점이 중요하며, 이는 후속 시공·주기기 패키지의 발주 시점을 역산할 수 있는 공개 근거다.",
+ "overview_en": "A Sunday run: the nuclear trade press and wires stop at Friday 13 November, and everything newly confirmed this cycle comes from procurement records on the EU's TED portal. EDU II, the owner company for the Czech Dukovany new build, has concluded a third amendment worth CZK 1.05 billion with transmission operator ČEPS to connect the new units to the Czech grid, the award decision dating from 30 September. Poland has awarded construction of the MOLF marine offloading facility at its first plant's Lubiatowo-Kopalino site, moving heavy-component sea access into procurement. Slovenia's Krško plant awarded reactor-vessel and head flange sealing-surface inspection plus a cleaning machine to Framatome at EUR 637,660, and Fusion for Energy placed EUR 133.35 million of ITER neutral beam magnetic shielding with four Italian and Spanish fabricators. The UK's Office for Nuclear Regulation signed its first dedicated safeguards cooperation memorandum, with Australia's ASNO, at the IAEA Safeguards Symposium in Vienna. Sales angle: what matters is that both European new-build programmes have entered the stage of enabling infrastructure the client funds itself - grid connection and heavy-load offloading - which is public ground for back-calculating when the construction and heavy-component packages will follow.",
+ "domestic_overview_ko": "정부·한수원·한전 공식 발표는 11월 13일 이후 신규 건이 없었다(정책브리핑 원전·SMR·원자력 3회 검색, 한수원·한전 보도자료 게시판 확인). 국내에서 새로 확인된 것은 체코 전력시장 동향 기사 한 건으로, 체즈(ČEZ)가 올해 테멜린 원전 설비 현대화 등에 38억 코루나를 투자할 계획이고 한국수력원자력이 수주한 두코바니 신규 2기는 2029년 사전 공사 착수를 목표로 추진 중이라는 내용이다. 코트라는 변압기·개폐장치·전력케이블에서 데이터센터용 배전반·전력변환장치까지 수출 기회가 넓어진다고 보고 EU 기술인증·납기·현지 유지보수 역량 확보를 권고했다. 영업 관점: 두코바니 신규 건설과 별개로 같은 발주처의 가동 원전 현대화가 매년 집행되는 독립 발주 축으로 확인되므로, 신규 패키지를 기다리는 구간에 현대화·개보수로 먼저 진입해 발주처 실적을 쌓는 경로를 함께 봐야 한다.",
+ "domestic_overview_en": "No new official releases came from the government, KHNP or KEPCO after 13 November - checked across the korea.kr policy briefing under three search terms and both utilities' press boards. The one new domestic item is a market report on Czechia: ČEZ plans CZK 3.8 billion this year on plant modernisation including the Temelín nuclear station, and the two new Dukovany units won by KHNP are working toward preparatory construction in 2029. KOTRA sees the export opening widening from transformers, switchgear and power cable into data-centre switchboards and power converters, and advises securing EU technical certification, delivery performance and local maintenance capability. Sales angle: separately from the Dukovany new build, modernisation of the same client's operating plants shows up as its own annually funded track, so the route of entering through refurbishment work - and building a client record while the new-build packages are pending - deserves to be looked at alongside it.",
+ "countries_pulse": [
+  {
+   "country": "CZ",
+   "name_ko": "체코",
+   "name_en": "Czechia",
+   "stance": "expanding",
+   "signal": "시공계약 협상 종료 이후에도 발주처 EDU II가 신규호기 송전계통 접속계약 추가합의(10억 5,000만 코루나)를 집행 — 신규 건설 외에 테멜린 설비 현대화도 올해 38억 코루나 규모로 병행",
+   "signal_en": "Even after the construction contract talks ended, owner EDU II is still executing the new units' grid-connection agreement (CZK 1.05 billion), while CZK 3.8 billion of plant modernisation including Temelín runs alongside the new build",
+   "article_ids": [
+    "2026-11-15-01",
+    "2026-11-15-06"
+   ]
+  },
+  {
+   "country": "PL",
+   "name_ko": "폴란드",
+   "name_en": "Poland",
+   "stance": "expanding",
+   "signal": "첫 원전 EJ1 부지의 중량물 하역부두(MOLF) 건설공사 낙찰 — 주기기 해상 반입 인프라가 발주 단계로 진입",
+   "signal_en": "The MOLF marine offloading facility for the first plant's site has been awarded, moving heavy-component sea access into procurement",
+   "article_ids": [
+    "2026-11-15-02"
+   ]
+  },
+  {
+   "country": "SI",
+   "name_ko": "슬로베니아",
+   "name_en": "Slovenia",
+   "stance": "steady",
+   "signal": "기조 유지 — JEK2 신규호기 절차에는 변동 없고, 가동 중 크르슈코 원전의 원자로용기 플랜지 정비가 프라마톰(EDF 그룹)에 낙찰",
+   "signal_en": "No change in stance - the JEK2 new-unit process is unmoved, while reactor-vessel flange maintenance at the operating Krško plant went to Framatome, part of the EDF group",
+   "article_ids": [
+    "2026-11-15-03"
+   ]
+  },
+  {
+   "country": "GB",
+   "name_ko": "영국",
+   "name_en": "United Kingdom",
+   "stance": "expanding",
+   "signal": "기조 유지 — 규제기관 ONR이 호주 ASNO와 첫 안전조치 협력 양해각서를 체결하며 신형로·민간 해양 원자력까지 협력 범위에 포함",
+   "signal_en": "Stance unchanged - regulator ONR signed its first safeguards cooperation memorandum, with Australia's ASNO, extending cooperation to advanced reactors and civil maritime nuclear",
+   "article_ids": [
+    "2026-11-15-04"
+   ]
+  },
+  {
+   "country": "AU",
+   "name_ko": "호주",
+   "name_en": "Australia",
+   "stance": "cautious",
+   "signal": "상용 원전 도입국은 아니나 안전조치·비확산 역량 확충 쪽으로 움직임 — ONR과 규제기관 간 협력 틀 체결",
+   "signal_en": "Not a commercial nuclear country, but moving to build up safeguards and non-proliferation capability through a regulator-level framework with ONR",
+   "article_ids": [
+    "2026-11-15-04"
+   ]
+  },
+  {
+   "country": "INT",
+   "name_ko": "국제기구",
+   "name_en": "International",
+   "stance": "expanding",
+   "signal": "EU 퓨전포에너지가 ITER 중성입자빔 자기차폐 1억 3,335만 유로를 이탈리아·스페인 4개사에 발주 — 원자력 안전등급 대형 구조물 제작이 남유럽 제작사로 집중",
+   "signal_en": "Fusion for Energy placed EUR 133.35 million of ITER neutral beam magnetic shielding with four Italian and Spanish firms, concentrating safety-class heavy structural fabrication in southern Europe",
+   "article_ids": [
+    "2026-11-15-05"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-15-01",
+   "title": "SoSB o připojení NJZ EDU do PS – dodatek č. 3",
+   "title_ko": "체코 두코바니 신규원전(NJZ EDU) 송전계통 접속계약 제3차 추가합의 — 발주사 EDU II가 송전계통운영사 ČEPS에 10억 5,000만 코루나 규모로 체결",
+   "title_en": "Czech new-build owner EDU II signs third amendment to the Dukovany grid-connection agreement with TSO ČEPS, valued at CZK 1.05 billion",
+   "language": "cs",
+   "source": "EU 공공조달공고(TED) 786089-2026",
+   "url": "https://ted.europa.eu/en/notice/786089-2026/pdf",
+   "published": "2026-11-11",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "CZ"
+   ],
+   "importance": 2,
+   "summary_ko": "체코 두코바니 신규원전 발주사 엘렉트라나 두코바니 II(Elektrárna Dukovany II, EDU II)가 신규호기(NJZ EDU)를 체코 송전계통에 접속하기 위한 접속계약(SoSB)의 제3차 추가합의를 송전계통운영사 ČEPS와 체결한 사실이 11월 11일 EU 공공조달공고(TED)에 공표됐다. 추정금액은 10억 5,000만 코루나, 낙찰 결정일은 2026년 9월 30일이며 절차는 단일 송전사업자를 상대로 한 '공고 없는 협상절차'다. 공고에 적힌 역무는 \"신규호기를 체코 송전계통에 접속하는 것\" 한 줄이고, 세부 공정과 완료시점은 공개되지 않았다.",
+   "summary_en": "A TED award notice published on 11 November shows Elektrárna Dukovany II (EDU II), the owner company for the Czech new-build, has concluded a third amendment to the connection agreement (SoSB) that ties the new Dukovany units (NJZ EDU) into the Czech transmission system, with transmission system operator ČEPS. The estimated value is CZK 1.05 billion, the award decision was taken on 30 September 2026, and the procedure was a negotiated one without a call for competition, the transmission operator being the sole possible counterparty. The notice describes the scope in a single line - securing the connection of the new units to the Czech grid - and gives no milestones or completion date.",
+   "sales_note": "시공계약 협상이 10월 29일 종료된 뒤에도 발주처 측 계통연계 투자는 그대로 집행되고 있다는 공개 근거다. 건설허가 신청(2027년 4월)·착공(2029년 11월) 일정을 발주처가 자체 예산으로 뒷받침하고 있다는 뜻으로 읽힌다. 송전연계 자체는 단일 송전사업자 수의계약이어서 외부 참여 여지가 없으나, 계통연계를 전제로 발주되는 품목(개폐장치·주변압기·소내 전력계통)의 발주 시점을 역산하는 기준점이 된다.",
+   "sales_note_en": "This is public evidence that owner-side grid investment is still being executed even after the construction contract talks ended on 29 October, which reads as the client funding the April 2027 licence application and November 2029 construction start from its own budget. The connection work itself is a sole-source award to the transmission operator and offers no entry point, but it anchors a back-calculation of when the packages that depend on it - switchgear, main transformers, on-site electrical systems - will go to tender."
+  },
+  {
+   "id": "2026-11-15-02",
+   "title": "Budowa infrastruktury hydrotechnicznej MOLF na potrzeby inwestycji EJ1 w lokalizacji Lubiatowo-Kopalino",
+   "title_ko": "폴란드 첫 원전(EJ1) 전용 중량물 하역부두(MOLF) 건설공사 낙찰 — 그디니아 해양청 발주, 분할 불가 초대형 기자재를 Ro-Ro·Lo-Lo로 하역",
+   "title_en": "Poland awards construction of the MOLF marine offloading facility serving its first nuclear plant at Lubiatowo-Kopalino",
+   "language": "pl",
+   "source": "EU 공공조달공고(TED) 783381-2026",
+   "url": "https://ted.europa.eu/en/notice/783381-2026/pdf",
+   "published": "2026-11-11",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "PL"
+   ],
+   "importance": 2,
+   "summary_ko": "폴란드 그디니아 해양청(Urząd Morski w Gdyni)이 루비아토보-코팔리노 부지의 첫 원전(EJ1)용 중량물 하역부두(MOLF) 수상 인프라 건설공사 낙찰공고를 11월 11일 TED에 게재했다. 공고에 기재된 역무는 분할 불가 초대형 기자재(AIL)와 대형 구조물을 하역하고 원전 건설·운영에 필요한 그 밖의 자재도 환적할 수 있는 시설을 짓는 것으로, 하역은 Ro-Ro 또는 Lo-Lo 방식으로 수행한다. 절차는 공고를 수반한 협상절차이며 낙찰자와 계약금액은 공고에 기재되지 않았다.",
+   "summary_en": "The Maritime Office in Gdynia published a TED award notice on 11 November for the construction of the MOLF marine offloading facility serving Poland's first nuclear plant (EJ1) at the Lubiatowo-Kopalino site. As described in the notice, the facility is to unload abnormal indivisible loads and other oversized items, and to handle the other materials needed to build and operate the plant, with unloading by either Ro-Ro or Lo-Lo. The procedure was negotiated with a prior call; the notice names neither the winner nor the contract value.",
+   "sales_note": "원자로용기·증기발생기급 품목의 해상 반입 경로가 발주 단계로 넘어갔다는 신호로, 폴란드 AP1000 3기 사업의 주기기 반입 일정이 실물 공정에 묶이기 시작했다. 중량물 운송·반입 제약은 격납용기·대형모듈을 현지 제작할지 해상 반입할지를 가르는 변수여서, 대형 모듈 제작·운송을 제안할 때 MOLF 제원(하역 중량·접안 선형 제약)을 선행 확인할 필요가 있다.",
+   "sales_note_en": "Sea access for reactor-vessel and steam-generator class items has moved into procurement, which starts tying the heavy component delivery schedule of Poland's three AP1000 units to physical works. Heavy-load transport constraints are what decide whether containment vessels and large modules are fabricated locally or shipped in, so any proposal on large-module fabrication and transport should first establish the MOLF's ratings - lift weight and berth limits."
+  },
+  {
+   "id": "2026-11-15-03",
+   "title": "Inšpekcija tesnilnih površin prirobnice reaktorske posode in prirobnice reaktorske glave, ter dobava stroja za čiščenje prirobnice reaktorske posode",
+   "title_ko": "슬로베니아 크르슈코 원전, 원자로용기·원자로덮개 플랜지 밀봉면 검사와 용기 플랜지 세정장비 공급을 프라마톰에 낙찰 — 계약 63만 7,660유로",
+   "title_en": "Slovenia's Krško plant awards reactor-vessel and head flange sealing-surface inspection plus a flange cleaning machine to Framatome, at EUR 637,660",
+   "language": "sl",
+   "source": "EU 공공조달공고(TED) 790837-2026",
+   "url": "https://ted.europa.eu/en/notice/790837-2026/pdf",
+   "published": "2026-11-13",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "SI"
+   ],
+   "importance": 1,
+   "summary_ko": "슬로베니아 크르슈코 원전(Nuklearna elektrarna Krško, NEK)이 원자로용기 플랜지와 원자로덮개 플랜지의 밀봉면 검사 용역 및 원자로용기 플랜지 세정장비 공급을 프라마톰 독일법인(Framatome GmbH)에 낙찰했다고 11월 13일 TED에 공표했다. 추정금액은 56만 유로, 체결된 계약금액은 63만 7,660유로이며 절차는 공고를 수반한 협상절차다.",
+   "summary_en": "A TED award notice published on 13 November shows Nuklearna elektrarna Krško (NEK) has awarded Framatome GmbH the inspection of the sealing surfaces on the reactor vessel and vessel head flanges, together with the supply of a machine to clean the vessel flange. The estimate was EUR 560,000 and the contract was concluded at EUR 637,660, under a negotiated procedure with a prior call.",
+   "sales_note": "가동 중 원전의 원자로용기 밀봉면 정비는 노형 공급사 계열(프라마톰은 EDF 그룹)이 사실상 독점하는 역무다. 크르슈코는 슬로베니아 신규호기(JEK2)의 후보 부지이기도 해서, 신규 사업 제안 시 기존 호기 정비 레퍼런스를 가진 경쟁 진영이 발주처 접점을 먼저 확보한 상태임을 전제해야 한다.",
+   "sales_note_en": "Sealing-surface work on an operating reactor vessel is in practice monopolised by the reactor designer's own group - Framatome belongs to EDF. Krško is also the candidate site for Slovenia's new unit (JEK2), so any new-build pitch should assume a rival camp already holds the client relationship through operating-plant maintenance references."
+  },
+  {
+   "id": "2026-11-15-04",
+   "title": "ONR's first-ever safeguards agreement strengthens UK-Australia nuclear cooperation",
+   "title_ko": "영국 원자력규제청(ONR), 호주 안전조치·비확산사무소와 첫 안전조치 협력 양해각서 — 비엔나 IAEA 안전조치 심포지엄에서 체결",
+   "title_en": "ONR's first-ever safeguards agreement strengthens UK-Australia nuclear cooperation",
+   "language": "en",
+   "source": "Office for Nuclear Regulation (ONR)",
+   "url": "https://www.onr.org.uk/news/all-news/2026/11/onr-s-first-ever-safeguards-agreement-strengthens-uk-australia-nuclear-cooperation",
+   "published": "2026-11-13",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "GB",
+    "AU",
+    "INT"
+   ],
+   "importance": 1,
+   "summary_ko": "영국 원자력규제청(ONR)이 호주 안전조치·비확산사무소(ASNO)와 양해각서를 체결했다. 비엔나에서 열린 IAEA 안전조치 심포지엄에서 서명했으며, ONR이 핵물질 안전조치·보안 협력을 위해 맺은 첫 전용 협력 틀이다. 협력 범위는 공동연구·기술협력·인력교류·교육훈련이고, ONR은 신형로 기술과 민간 해양 원자력 응용, 안전조치 역량 확대를 체결 배경으로 들었다. 공개된 설명에 AUKUS 언급은 없다.",
+   "summary_en": "The UK's Office for Nuclear Regulation has signed a memorandum of understanding with Australia's Safeguards and Non-Proliferation Office (ASNO), concluded at the IAEA Safeguards Symposium in Vienna. ONR describes it as its first dedicated framework for cooperation on nuclear safeguards and security, covering joint research, technical work, staff exchanges and training. ONR cites emerging reactor technologies, civil maritime nuclear applications and the need to grow safeguards capability as the reasons; the published account makes no mention of AUKUS.",
+   "sales_note": "신형로와 민간 해양 원자력까지 규제기관 간 협력 범위에 들어가기 시작했다는 신호로, 신규 도입국에서 규제 수용성이 공급국 선택에 영향을 주는 구도가 강화된다. 호주는 아직 상용 원전 도입국이 아니어서 직접 영업 기회로는 보지 않는다.",
+   "sales_note_en": "Regulator-to-regulator cooperation is starting to cover advanced reactors and civil maritime applications, which reinforces the pattern where regulatory acceptance shapes vendor choice in newcomer countries. Australia is not yet a commercial nuclear country, so this is not read as a direct sales opening."
+  },
+  {
+   "id": "2026-11-15-05",
+   "title": "Supply of the ITER Neutral Beam Magnetic Shielding",
+   "title_ko": "EU 퓨전포에너지(F4E), ITER 중성입자빔 자기차폐 공급 낙찰 — 1억 3,335만 유로, 이탈리아·스페인 4개사",
+   "title_en": "Fusion for Energy awards ITER neutral beam magnetic shielding supply, EUR 133.35 million, to four Italian and Spanish fabricators",
+   "language": "en",
+   "source": "EU 공공조달공고(TED) 789774-2026",
+   "url": "https://ted.europa.eu/en/notice/789774-2026/pdf",
+   "published": "2026-11-13",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "INT",
+    "ES",
+    "IT"
+   ],
+   "importance": 1,
+   "summary_ko": "EU 핵융합 공동사업기구 퓨전포에너지(F4E)가 ITER 중성입자빔 자기차폐 공급 낙찰공고를 11월 13일 TED에 게재했다. 계약금액은 1억 3,335만 유로이고 낙찰자는 아스투르페이토(ASTURFEITO)·데프레토인두스트리에(De Pretto Industrie)·시믹(SIMIC)·ASG슈퍼컨덕터스 4개사다. 공고에 따르면 2기(최대 3기) 공급이며 1기는 저항성 전자석 9개와 철·탄소강판 피동차폐체로 구성되고, 차폐체 1기 외형은 15m×5m×5m·중량 600톤, 전자석 1개 치수는 약 4m×4m에 구리 도체 3톤이 들어간다. 피동차폐체 일부는 중성입자빔 용기를 지지하는 원자력 안전기능을 가져 RCC-MR 2007 기준으로 제작한다.",
+   "summary_en": "Fusion for Energy (F4E) published a TED award notice on 13 November for the supply of ITER's neutral beam magnetic shielding, worth EUR 133.35 million, to four fabricators: Asturfeito, De Pretto Industrie, SIMIC and ASG Superconductors. Per the notice the award covers two units, up to a maximum of three; each system comprises nine resistive magnets plus a passive shield of iron and carbon steel plates, one shield measuring 15m by 5m by 5m and weighing 600 tonnes, with a typical coil about 4m by 4m containing three tonnes of copper conductor. Part of the passive shield carries a nuclear safety function as support for the neutral beam vessel and is to be manufactured to RCC-MR 2007.",
+   "sales_note": "원자력 안전등급 대형 구조물 제작이 남유럽 중량물 제작사 쪽으로 묶이는 흐름을 보여준다. 핵융합은 당사 수행범위 밖이지만 같은 제작사들이 유럽 대형원전 모듈·구조물 입찰에서 경쟁자로 다시 등장하므로, 제작능력 실적 관리 대상으로 기록해 둘 값이 있다.",
+   "sales_note_en": "It shows safety-class heavy structural fabrication consolidating among southern European heavy-fabrication shops. Fusion sits outside our scope of work, but the same firms reappear as competitors in European large-reactor module and structural tenders, so their capability record is worth tracking."
+  },
+  {
+   "id": "2026-11-15-06",
+   "title": "체코, 전력망 현대화·AI 데이터센터 투자 확대…전력기자재 시장 '활기'",
+   "title_ko": "체코, 전력망 현대화·AI 데이터센터 투자 확대…전력기자재 시장 '활기'",
+   "title_en": "Czech grid modernisation and AI data-centre build-out widen the export window for Korean power-equipment suppliers, KOTRA says",
+   "language": "ko",
+   "source": "더구루",
+   "url": "https://www.theguru.co.kr/news/article.html?no=109656",
+   "published": "2026-11-15",
+   "region": "domestic",
+   "category": "policy",
+   "countries": [
+    "KR",
+    "CZ"
+   ],
+   "importance": 1,
+   "summary_ko": "체코 주요 송배전 사업자들이 올해 전력망 확충·현대화에 400억 코루나 이상을 투입하고, 송전공사는 연평균 약 130억 코루나를 들여 2030년까지 400kV급 송전선로 509km를 정비한다. 같은 기사에서 체즈(ČEZ)는 올해 테멜린 원전 설비 현대화 등에 38억 코루나를 투자할 계획이고, 한국수력원자력이 수주한 두코바니 신규 2기는 2029년 사전 공사 착수를 목표로 추진 중이라고 전했다. 코트라는 변압기·개폐장치·전력케이블과 데이터센터용 배전반·전력변환장치·보호기기로 수출 기회가 넓어진다고 보고, 현지 제조사·EPC와의 협력과 EU 기술인증·납기·현지 유지보수 역량 확보를 권고했다.",
+   "summary_en": "Czech transmission and distribution operators are putting more than CZK 40 billion into grid expansion and modernisation this year, with the transmission company spending roughly CZK 13 billion a year to renew 509 km of 400 kV lines by 2030. The same report says ČEZ plans CZK 3.8 billion this year on plant modernisation including the Temelín nuclear station, and that the two new Dukovany units won by KHNP are working toward preparatory construction in 2029. KOTRA sees the export opening widening from transformers, switchgear and power cable into data-centre switchboards, power converters and protection devices, and advises partnering with local manufacturers or EPC firms while securing EU technical certification, delivery performance and local maintenance capability.",
+   "sales_note": "두코바니 신규 건설과 별개로, 같은 발주처(ČEZ)의 가동 원전 설비 현대화가 매년 집행되는 독립된 발주 축으로 확인된다. 신규 패키지 발주를 기다리는 구간에서 현대화·개보수로 먼저 진입해 발주처 실적을 쌓는 경로가 열려 있다. 다만 공개된 38억 코루나는 테멜린을 포함한 설비 현대화 전체 계획치로, 원자력 부문 단독 금액은 확인되지 않았다.",
+   "sales_note_en": "Separately from the Dukovany new build, modernisation of the same client's operating nuclear plants shows up as its own annually funded procurement track. That leaves a route to enter through modernisation and refurbishment work and build a record with the client while the new-build packages are still pending. One caveat: the CZK 3.8 billion figure is the overall plant-modernisation plan including Temelín, and no nuclear-only figure was disclosed."
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
@@ -522,6 +522,71 @@
    "title_en": "European Commission Joint Research Centre, Karlsruhe - installation and modification of electrical systems in glove boxes, hot cells, laboratories and the building",
    "scope": "JRC 카를스루에의 글러브박스·핫셀·실험실 및 건물 내 전기설비 구축 및 개조 수행. 공고에 추정금액은 기재되지 않았다.",
    "scope_en": "Carrying out the construction and modification of electrical installations in glove boxes, hot cells, laboratories and the building at JRC Karlsruhe. The notice states no estimated value."
+  },
+  {
+   "country": "CZ",
+   "buyer": "ČEZ, a. s.",
+   "title": "체코 ČEZ — 두코바니(EDU)→브르노 열수송 9503 OB05: 탈염수 저장탱크 2기 (실시설계+공급·설치+시운전 일괄)",
+   "title_en": "ČEZ - Dukovany-to-Brno heat transmission project 9503, package OB05: two demineralised water storage tanks (detailed design plus supply, installation and commissioning)",
+   "scope": "공고 역무설명에 따르면 시공용 실시설계문서 작성과 탈염수 저장탱크 2기의 공급·설치·시운전을 한 계약으로 수행한다. 탱크 본체를 구성하는 노즐 연결부·플랜지·저부 조립 세그먼트·정착요소·기술용 강구조물이 모두 포함되고, 탱크 접근구조물(계단·플랫폼·난간), 보온, 표면처리, 필요한 해체·조립 작업, 각종 시험·검사, 시운전, 시험운전, 준공도서 작성까지 범위에 들어간다. 입찰서 접수 마감은 2026-12-10 10:00이며 절차는 공고를 수반한 협상절차, CPV는 44611500(물 탱크)이고 공고에 추정금액은 기재되지 않았다.",
+   "scope_en": "The notice describes a single contract covering preparation of detailed design documentation for construction plus the supply, installation and commissioning of two demineralised water storage tanks. It includes all nozzle connections, flanges, bottom assembly segments, anchoring elements and the structural steel forming the tank bodies, together with access structures (stairs, platforms, railings), thermal insulation, surface treatment, the necessary dismantling and assembly work, tests and inspections, commissioning, trial operation and as-built documentation. Tenders are due by 10:00 on 10 December 2026 under a negotiated procedure with a call for competition; the CPV code is 44611500 (water tanks) and the notice states no estimated value.",
+   "portal": "TED",
+   "notice_no": "777114-2026",
+   "published": "2026-11-09",
+   "deadline": "2026-12-10",
+   "url": "https://ted.europa.eu/en/notice/777114-2026/pdf"
+  },
+  {
+   "country": "PL",
+   "buyer": "Polskie Elektrownie Jądrowe Sp. z o.o.",
+   "title": "폴란드 PEJ — 첫 원전(최대 3,750MWe, 호체보) 토목공사 수반 고고학·고생물학 조사 및 입회감독",
+   "title_en": "Polskie Elektrownie Jądrowe - archaeological and palaeontological survey and supervision for earthworks at Poland's first nuclear power plant (up to 3,750 MWe, Choczewo)",
+   "scope": "공고 역무설명에 따르면 포모제주 베이헤로보군 호체보 지자체에 건설되는 전기출력 최대 3,750MWe 폴란드 첫 원전의 토목공사에 수반되는 고고학 조사 수행과 결과 보고서 작성, 토목공사 중 고고학 입회감독이 대상이다. 토목공사 중 긴급 발굴조사, 출토 동산유물의 보존처리, 화석·고생물 유존체가 발견될 경우의 고생물학 감독도 포함된다. 입찰서 접수 마감은 2026-12-18 12:00이며 절차는 일반경쟁, CPV는 71351914·71351920이고 공고에 추정금액은 기재되지 않았다.",
+   "scope_en": "The notice covers archaeological investigation and reporting, and archaeological supervision during the earthworks for Poland's first nuclear power plant of up to 3,750 MWe electrical output, in the Choczewo commune of Wejherowo county, Pomerania. It also includes emergency rescue excavation during earthworks, conservation of recovered movable finds, and palaeontological supervision should fossils or palaeontological features be uncovered. Tenders are due by 12:00 on 18 December 2026 under an open procedure; the CPV codes are 71351914 and 71351920 and the notice states no estimated value.",
+   "portal": "TED",
+   "notice_no": "780249-2026",
+   "published": "2026-11-10",
+   "deadline": "2026-12-18",
+   "url": "https://ted.europa.eu/en/notice/780249-2026/pdf"
+  },
+  {
+   "country": "SK",
+   "buyer": "Slovenské elektrárne, a.s.",
+   "title": "슬로바키아 Slovenské elektrárne — 보후니체(SE-EBO) 호기 대정비 중 서보구동기 예방·예측·수정정비 지원",
+   "title_en": "Slovenské elektrárne - support for preventive, predictive and corrective maintenance of servo-drives at Bohunice (SE-EBO) during unit general overhauls",
+   "scope": "공고 역무설명에 따르면 발주처를 위해 호기 대정비 기간 중, 필요시 통상운전 중에도 서보구동기의 예방·예측·수정정비 수행을 지원하는 역무다. 세부 기술명세는 입찰서류 부속서로 별도 제공된다. 입찰서 접수 마감은 2026-12-21 12:00이며 절차는 공고를 수반한 협상절차, CPV는 50000000·50532100이고 추정금액은 150만 유로다.",
+   "scope_en": "The notice describes support for the buyer in carrying out preventive, predictive and corrective maintenance of servo-drives during unit general overhauls and, where needed, during normal operation, with detailed technical specifications provided separately as an annex to the tender documents. Tenders are due by 12:00 on 21 December 2026 under a negotiated procedure with a call for competition; the CPV codes are 50000000 and 50532100 and the estimated value is EUR 1.5 million.",
+   "portal": "TED",
+   "notice_no": "777526-2026",
+   "published": "2026-11-09",
+   "deadline": "2026-12-21",
+   "url": "https://ted.europa.eu/en/notice/777526-2026/pdf"
+  },
+  {
+   "country": "INT",
+   "buyer": "European Joint Undertaking for ITER and the Development of Fusion Energy (F4E)",
+   "title": "유럽 퓨전포에너지(F4E) — ITER 자석 현장역무(보존·예방정비·저온시험·조립) 및 시험코일 제작",
+   "title_en": "Fusion for Energy - on-site activities on the ITER magnets (preservation, preventive maintenance, cold testing, assembly) and manufacture of test coils",
+   "scope": "공고 역무설명에 따르면 ITER 자석에 대한 현장역무(보존·예방정비·저온시험·조립 지원)와 시험코일 제작이 대상이다. 입찰서 접수 마감은 2026-11-30 16:00이며 절차는 공고를 수반한 협상절차, CPV는 31630000(자석)·50000000이고 공고에 추정금액은 기재되지 않았다.",
+   "scope_en": "The notice covers on-site activities on the ITER magnets - support to preservation, preventive maintenance, cold testing and assembly - together with the manufacture of test coils. Tenders are due by 16:00 on 30 November 2026 under a negotiated procedure with a call for competition; the CPV codes are 31630000 (magnets) and 50000000 and the notice states no estimated value.",
+   "portal": "TED",
+   "notice_no": "777294-2026",
+   "published": "2026-11-09",
+   "deadline": "2026-11-30",
+   "url": "https://ted.europa.eu/en/notice/777294-2026/pdf"
+  },
+  {
+   "country": "SK",
+   "buyer": "Jadrová a vyraďovacia spoločnosť, a.s. (JAVYS)",
+   "title": "슬로바키아 JAVYS — 소방설비 예방정비·검사 및 비계획 수리 (2개 로트)",
+   "title_en": "JAVYS - preventive maintenance and inspection of firefighting installations plus unplanned repairs (two lots)",
+   "scope": "공고 역무설명에 따르면 로트 1은 법령에 따른 고정식 소화설비의 예방정비(월·분기·반기·연 단위 점검)와 비계획 수리, 법규·기술조건 준수를 위한 특수작업이다. 로트 2는 방화문·소화기·소화전의 가동성 유지로, 연 1회 예방정비와 연 1회 점검, 수리 및 수리 후 점검, TROX 방화댐퍼의 반년 점검·연 예방정비·결함 제거, 소화기 점검을 포함한다. 입찰서 접수 마감은 2026-11-26 12:00이며 절차는 일반경쟁, 계약금액은 로트 합계 27만 7,119유로다.",
+   "scope_en": "Lot 1 covers statutory preventive maintenance of fixed firefighting installations (monthly, quarterly, half-yearly and annual checks), unplanned repairs and special activities required to meet legal and technical conditions. Lot 2 covers keeping fire doors, extinguishers and hydrants serviceable, including annual preventive maintenance and annual inspection, repairs and post-repair inspection, half-yearly checks and annual preventive maintenance of TROX fire dampers with rectification of defects found, and inspection of extinguishers. Tenders are due by 12:00 on 26 November 2026 under an open procedure; the contract value across the lots is EUR 277,119.",
+   "portal": "TED",
+   "notice_no": "781257-2026",
+   "published": "2026-11-10",
+   "deadline": "2026-11-26",
+   "url": "https://ted.europa.eu/en/notice/781257-2026/pdf"
   }
  ]
 }

@@ -1,0 +1,487 @@
+{
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T08:28:00+09:00",
+ "period": {
+  "from": "2026-11-16",
+  "to": "2026-11-17"
+ },
+ "overview_ko": "유럽 가동원전의 안전계통·계측제어 현대화 발주가 이번 회차의 중심이다. 슬로바키아 Slovenské elektrárne는 모호우체 1·2호기 안전계통(SORR·SIS·CPL) 현대화 2억 7,690만 유로 경쟁적 대화를 다시 게재해 참가신청 마감을 12월 8일에서 12월 23일로 15일 연장했고, 체코 ČEZ ENERGOSERVIS는 두코바니·테멜린의 전기설치공사와 DOSP 지원 역무에 대한 자격심사시스템을 새로 열었다. 반면 불가리아 코즐로두이는 5·6호기 안전제어계통 보증기간 후 정비를 641만 6,000유로 수의계약으로 현지 업체에 넘겨, 같은 성격의 역무가 나라마다 경쟁입찰과 수의계약으로 갈린다는 점을 보여줬다. 정책 쪽에서는 프랑스 감사원이 EPR2 6기 사업비를 2025년 가치 840억 유로(당초 517억 유로)로 재산정하고 전력가격 70유로/MWh 하회 시 추가 국고 없이는 자금조달이 어렵다고 경고했으며, 헝가리는 팍시II 공식 감사를 연내 종료할 예정이다. 튀르키예 아쿠유 1호기는 고온기능시험을 앞두고 로사톰이 12월 연료장전·1~2월 전력 공급을 희망한다고 밝혔다. 연료·선진로에서는 뉴클레오가 미국 MOX 연료 제조용 재처리 사용후핵연료 공급을 큐리오와 협력하기로 했고, 오클로는 아우로라-INL 구조 콘크리트·철골을 완료하고 향후 12개월 내 주기기 설치와 그로브스-2 포지 착공을 예고했다. 영업 관점: 신규 건설 입찰이 조용한 구간에 유럽 가동원전의 개보수·계측제어 현대화와 시공 자격심사가 동시에 열리고 있어, 두코바니 신규호기 재입찰(2027년 7월 선정)을 기다리는 사이 현지 실적을 쌓을 수 있는 진입 창구는 오히려 늘어났다.",
+ "overview_en": "Procurement for safety system and I&C modernisation across Europe's operating fleet dominates this edition. Slovakia's Slovenske elektrarne republished its EUR 276.9 million competitive dialogue to modernise the Mochovce 1-2 safety systems (SORR, SIS and CPL), extending the deadline for requests to participate by 15 days from 8 to 23 December, while Czechia's ČEZ ENERGOSERVIS opened a new supplier qualification system for electrical installation works and DOSP support at Dukovany and Temelin. Bulgaria's Kozloduy, by contrast, handed post-warranty maintenance of its units 5-6 safety control systems to a local firm for EUR 6.416 million without a call for competition, showing how similar work splits between open tender and direct award from country to country. On policy, France's state auditor recalculated the six-unit EPR2 programme at EUR 84 billion in 2025 values, against EUR 51.7 billion originally, and warned it could not be financed without further state money if power prices fall below EUR 70/MWh; Hungary's formal Paks II audit is due to conclude this year. In Turkey, Akkuyu 1 is preparing for hot tests, with Rosatom hoping for fuel loading in December and electricity in January or February. In fuel and advanced reactors, Newcleo agreed to work with Curio on supplying recycled used fuel for MOX production in the United States, and Oklo completed structural concrete and steel at Aurora-INL, flagging component installation and the start of Groves-2 Forge within 12 months. Sales angle: with new-build tendering quiet, Europe's refurbishment and I&C modernisation work and its installation qualification systems are opening at the same time, so the routes to build a local track record have actually widened while the Dukovany new-build re-tender waits for its July 2027 award.",
+ "domestic_overview_ko": "원자력안전위원회가 11월 16일 한울원전 취수구 삼중수소 검출 사건조사에 착수했다 — 한수원이 11월 13일 보고한 지하수 관측정 3만Bq/L(자체 관리기준 4만Bq/L)이 발단이고, 취수구는 117Bq/L, 제한구역 외부 해수는 불검출이며 원인은 액체 방사성폐기물 해양 배출 배관 손상으로 추정돼 KINS 조사단이 현장에 파견됐다. 제12차 전력수급기본계획을 위한 원전 공론화위원회는 11월 16일 공식 누리집을 열고 11월 25일 공개토론회 참석 신청을 11월 17일부터 23일까지 받는다 — 국내 신규 원전 기수가 이 3개월 숙의 절차를 거쳐 전기본에 반영된다. 한수원과 한국원자력연구원은 OECD/NEA와 협력해 11월 8~13일 대전에서 차세대원자로 사용후핵연료 관리·재처리 국제 워크숍 2회를 열었고(WISARD 기술 워크숍에 8개국 12개 기관), 원안위는 11월 16~20일 원전·중저준위 처분시설을 대상으로 겨울철 특별점검을 시행한다. 영업 관점: 삼중수소 사건조사는 해외 입찰에서 운영 레퍼런스를 제시할 때 질의 대상이 될 수 있어 조사 결과와 재발방지 조치를 영문으로 정리해 둘 필요가 있고, 공론화 결과는 국내 연속 건설 실적이라는 수출 경쟁력의 근거를 좌우한다.",
+ "domestic_overview_en": "Korea's Nuclear Safety and Security Commission opened an incident investigation on 16 November into tritium detected at the Hanul plant intake. It began with KHNP's 13 November report of 30,000 Bq/L in a groundwater monitoring well against its own 40,000 Bq/L management limit; the intake measured 117 Bq/L, nothing was detected in seawater outside the restricted area, the cause is attributed to damage to the pipe discharging treated liquid radioactive waste to sea, and a KINS investigation team has been sent to the site. The nuclear public deliberation committee for the 12th Basic Plan for Electricity Supply and Demand opened its official website on 16 November and is taking applications from 17 to 23 November to attend a public debate on 25 November - the number of new domestic reactors will be fed into the Basic Plan through this three-month deliberation. KHNP and KAERI, working with the OECD Nuclear Energy Agency, held two international workshops in Daejeon from 8 to 13 November on spent fuel management and reprocessing for next-generation reactors, with 12 organisations from 8 countries at the WISARD technical workshop, and the NSSC is running a winter special inspection of nuclear plants and low- and intermediate-level waste disposal facilities from 16 to 20 November. Sales angle: the tritium investigation could draw questions when Korea presents its operating record in overseas bids, so the findings and corrective actions are worth documenting in English, while the outcome of the public deliberation will determine the continuous home-market build record that underpins Korea's export pitch.",
+ "countries_pulse": [
+  {
+   "country": "SK",
+   "name_ko": "슬로바키아",
+   "name_en": "Slovakia",
+   "stance": "expanding",
+   "signal": "가동원전 안전계통 현대화 2억 7,690만 유로 경쟁적 대화의 참가신청 마감이 12월 8일에서 12월 23일로 15일 연장돼, 보후니체 신규호기와 별개로 개보수 트랙의 대형 발주가 실제로 진행되고 있음이 확인됐다",
+   "signal_en": "The deadline for requests to participate in the EUR 276.9 million competitive dialogue to modernise operating-fleet safety systems has been extended by 15 days, from 8 to 23 December, confirming that a large refurbishment-track procurement is genuinely moving forward alongside the new unit at Bohunice",
+   "article_ids": [
+    "2026-11-17-01"
+   ]
+  },
+  {
+   "country": "FR",
+   "name_ko": "프랑스",
+   "name_en": "France",
+   "stance": "cautious",
+   "signal": "감사원이 EPR2 6기 사업비를 2025년 가치 840억 유로로 재산정하고 전력가격 70유로/MWh 하회 시 추가 국고 없이는 자금조달이 어렵다고 경고 — 건설 착수 목표는 2027년으로 유지되나 재원 구조에 공식 경고가 붙었다",
+   "signal_en": "The state auditor has recalculated the six-unit EPR2 programme at EUR 84 billion in 2025 values and warned that below EUR 70/MWh it could not be financed without additional state money - construction is still targeted to start in 2027, but the funding structure now carries an official warning",
+   "article_ids": [
+    "2026-11-17-02",
+    "2026-11-17-10"
+   ]
+  },
+  {
+   "country": "CZ",
+   "name_ko": "체코",
+   "name_en": "Czechia",
+   "stance": "expanding",
+   "signal": "ČEZ ENERGOSERVIS가 두코바니·테멜린 전기설치공사 자격심사시스템을 새로 열어, 신규호기 시공사 재입찰(2027년 7월 선정 목표)과 별개로 가동원전 시공 역무의 공급사 명부가 확대되고 있다",
+   "signal_en": "ČEZ ENERGOSERVIS has opened a new supplier qualification system for electrical installation work at Dukovany and Temelin, widening the roster for operating-fleet installation services separately from the re-tender for the new-build contractor targeted for July 2027",
+   "article_ids": [
+    "2026-11-17-03"
+   ]
+  },
+  {
+   "country": "HU",
+   "name_ko": "헝가리",
+   "name_en": "Hungary",
+   "stance": "cautious",
+   "signal": "팍시II 공식 감사가 설계·문서·공정·재무·법률 전반을 대상으로 연내 종료 예정이며, 사업자는 EPC 계약의 구속력 때문에 정부가 일방적으로 조건을 바꿀 수는 없다는 입장이다 — 공사는 계속되나 내년 계획 승인이 선행조건이다",
+   "signal_en": "The formal Paks II audit covering design, documentation, schedule, finance and legal aspects is due to end this year, and the project company says the binding EPC contract means the government cannot change the terms on its own - construction continues, but approval of next year's plans is the gating step",
+   "article_ids": [
+    "2026-11-17-05"
+   ]
+  },
+  {
+   "country": "TR",
+   "name_ko": "튀르키예",
+   "name_en": "Türkiye",
+   "stance": "expanding",
+   "signal": "아쿠유 1호기가 고온기능시험을 앞두고 있으며 로사톰은 성공 시 12월 연료장전, 1~2월 전력 공급을 희망한다고 밝혔다 — 첫 호기 가동이 임박해 시놉·트라키아 후속 협상의 비교 기준이 만들어지는 국면이다",
+   "signal_en": "Akkuyu 1 is about to begin hot tests and Rosatom says fuel loading could follow in December with electricity in January or February - the imminent start-up of the first unit sets the benchmark for the follow-on Sinop and Thrace negotiations",
+   "article_ids": [
+    "2026-11-17-06"
+   ]
+  },
+  {
+   "country": "BG",
+   "name_ko": "불가리아",
+   "name_en": "Bulgaria",
+   "stance": "steady",
+   "signal": "코즐로두이 5·6호기 안전제어계통 보증기간 후 정비를 641만 6,000유로 수의계약으로 현지 업체에 발주 — 가동원전 안전계측제어 정비는 경쟁 없이 현지 공급망으로 가는 구조가 유지되고 있다",
+   "signal_en": "Kozloduy has awarded post-warranty maintenance of the units 5-6 safety control systems to a local firm for EUR 6.416 million without competition, showing that operating-fleet safety I&C service keeps flowing to the domestic supply chain outside competitive procedures",
+   "article_ids": [
+    "2026-11-17-04"
+   ]
+  },
+  {
+   "country": "PL",
+   "name_ko": "폴란드",
+   "name_en": "Poland",
+   "stance": "expanding",
+   "signal": "PEJ가 호체보 부지 자연환경 감리·모니터링 용역을 개방입찰로 발주(접수 12월 18일) — 웨스팅하우스·벡텔과의 EPC 본계약이 미서명인 상태에서도 부지 준비 역무 발주는 계속되고 있다",
+   "signal_en": "PEJ has tendered nature supervision and monitoring services for the Choczewo site on an open procedure with bids due 18 December - site preparation work keeps being awarded even with the main EPC contract with Westinghouse and Bechtel still unsigned",
+   "article_ids": [
+    "2026-11-17-11"
+   ]
+  },
+  {
+   "country": "NO",
+   "name_ko": "노르웨이",
+   "name_en": "Norway",
+   "stance": "steady",
+   "signal": "원자력해체공사(NND)가 IFE 원자력시설 이관을 염두에 두고 할덴·셸레르·힘달렌의 환기·냉각설비 개량 기본협약을 입찰에 부쳤다 — 해체 전환기 시설 유지·개량 역무가 묶음 계약으로 발주되는 단계다",
+   "signal_en": "NND, the nuclear decommissioning agency, has tendered a framework agreement for ventilation and cooling upgrades at Halden, Kjeller and Himdalen ahead of the transfer of IFE's nuclear installations - facility maintenance and upgrade work during the decommissioning transition is being bundled into framework contracts",
+   "article_ids": [
+    "2026-11-17-12"
+   ]
+  },
+  {
+   "country": "GB",
+   "name_ko": "영국",
+   "name_en": "United Kingdom",
+   "stance": "expanding",
+   "signal": "NRS가 둔레이 재료시험로 해체전략 수립 지원을 수의계약으로 발주 — 해체사업을 전략·대안검토 단계부터 외부 용역으로 쪼개 발주하는 방식이 이어지고 있다",
+   "signal_en": "NRS has made a direct award for support in developing the Dounreay Materials Test Reactor decommissioning strategy, continuing the practice of slicing decommissioning work into external contracts from the strategy and options-study stage",
+   "article_ids": [
+    "2026-11-17-09"
+   ]
+  },
+  {
+   "country": "US",
+   "name_ko": "미국",
+   "name_en": "United States",
+   "stance": "expanding",
+   "signal": "오클로 아우로라-INL이 구조 콘크리트·철골을 완료하고 에너지부 예비 안전성분석 승인(5단계 중 3단계)을 받아 향후 12개월 내 주기기 설치 단계로 넘어간다 — 선진로 1호기의 기자재 발주가 본격화되는 구간이다",
+   "signal_en": "Oklo's Aurora-INL has completed structural concrete and steel and received DOE approval of its preliminary documented safety analysis, the third of five milestones, moving to component installation within 12 months - the point at which equipment orders for the first advanced reactor ramp up",
+   "article_ids": [
+    "2026-11-17-08"
+   ]
+  },
+  {
+   "country": "INT",
+   "name_ko": "국제",
+   "name_en": "International",
+   "stance": "expanding",
+   "signal": "뉴클레오–큐리오가 미국 MOX 연료 제조용 재처리 사용후핵연료·초우라늄 물질 공급에 협력하고, OECD/NEA WISARD 공동연구에는 8개국 12개 기관이 선진로 사용후핵연료 관리를 논의했다 — 선진로 진영에서 연료 확보와 후행 핵주기가 노형 선택과 묶이고 있다",
+   "signal_en": "Newcleo and Curio are collaborating on the supply of recycled used fuel and transuranic materials for MOX production in the United States, while 12 organisations from 8 countries discussed advanced reactor spent fuel management in the OECD/NEA WISARD project - fuel security and the back end of the cycle are becoming bundled with technology choice among advanced reactor vendors",
+   "article_ids": [
+    "2026-11-17-07",
+    "2026-11-17-15"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-17-01",
+   "title": "Modernizácia bezpečnostných systémov SORR, SIS a CPL, Súťažný dialóg (TED 795744-2026)",
+   "title_ko": "슬로바키아 SE, 모호우체 1·2호기 안전계통(SORR·SIS·CPL) 현대화 2억 7,690만 유로 경쟁적 대화 — 참가신청 마감 12월 8일→12월 23일 연장 재공고",
+   "title_en": "Slovakia's SE re-issues its EUR 276.9 million competitive dialogue to modernise the Mochovce 1-2 safety systems, pushing the request-to-participate deadline from 8 to 23 December",
+   "language": "sk",
+   "source": "EU TED",
+   "url": "https://ted.europa.eu/en/notice/795744-2026/pdf",
+   "published": "2026-11-16",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "SK"
+   ],
+   "importance": 3,
+   "summary_ko": "슬로바키아 전력공사 Slovenské elektrárne가 안전계통 SORR·SIS·CPL 현대화 사업의 경쟁적 대화 공고를 11월 16일 다시 게재해 참가신청 마감을 2026년 12월 23일 10시로 옮겼다(기존 10월 27일자 741571-2026 공고는 12월 8일 마감). 추정금액은 2억 7,690만 유로로 동일하며, 역무는 안전기능 수행·심층방호·독립성·다중성·기기검증·진단 성능을 끌어올리는 안전계통 현대화와 함께 호기 운전 개입 및 계획예방정비 영향을 최소화하고 현대화 계통의 인터페이스를 명확히 정의하는 것이다.",
+   "summary_en": "Slovak utility Slovenske elektrarne republished its competitive-dialogue notice for the modernisation of the SORR, SIS and CPL safety systems on 16 November, moving the deadline for requests to participate to 10:00 on 23 December 2026, from 8 December in the original notice of 27 October (741571-2026). The estimated value is unchanged at EUR 276.9 million. The scope is to raise the safety systems' safety-function performance, defence in depth, independence, redundancy, equipment qualification and diagnostics, while minimising intrusion into unit operation and planned outages and clearly defining the interfaces of the modernised systems.",
+   "sales_note": "2억 7,690만 유로 규모 계측제어·안전계통 현대화는 신규 건설이 아닌 가동원전 개보수 트랙의 대형 패키지이며, 마감이 15일 늘어 참가 자격 검토 시간이 생겼다. 경쟁적 대화 방식이라 참가자로 선정되면 발주처와 사양을 함께 만들 수 있어 후속 계약까지 유리하다.",
+   "sales_note_en": "At EUR 276.9 million this is a large package on the operating-fleet refurbishment track rather than new build, and the 15-day extension buys time to assess eligibility. Because it is a competitive dialogue, a selected participant helps shape the specification with the owner, which carries an advantage into the follow-on contract.",
+   "related": [
+    "https://ted.europa.eu/en/notice/741571-2026/pdf"
+   ]
+  },
+  {
+   "id": "2026-11-17-02",
+   "title": "Low electricity prices could impact EPR2 programme funding, auditor warns",
+   "title_ko": "프랑스 감사원, EPR2 6기 사업비 2025년 가치 840억 유로로 재산정 — 전력가격 70유로/MWh 하회 시 추가 국고 없이는 자금조달 곤란 경고",
+   "title_en": "Low electricity prices could impact EPR2 programme funding, auditor warns",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/low-electricity-prices-could-impact-epr2-programme-funding-auditor-warns",
+   "published": "2026-11-16",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "FR"
+   ],
+   "importance": 3,
+   "summary_ko": "프랑스 감사원(Cour des comptes)이 EPR2 6기 사업비를 2025년 가치 840억 유로로 계산했다 — EDF가 지난 12월 제시한 예비 추정치 728억 유로(2020년 가격), 2023년 수정치 674억 유로, 당초 517억 유로를 모두 넘는 금액이다. 감사원은 전력가격이 70유로/MWh를 밑돌면 EDF의 자금 소요가 크게 늘어 이미 발표된 국고 저리융자(사업비의 60%, 예금공탁금고 저축재원) 외의 추가 재정 없이는 사업 추진이 어렵고, 저가 시나리오에서 국가가 건설기간 중 현금배당을 포기하면 2026~2040년 누적 최대 650억 유로의 재정 영향이 생길 수 있다고 봤다. 차액계약(CfD) 행사가격은 100유로/MWh(2024년 유로) 이하이며 첫 호기 상업운전이 빨라도 2038년이어서 그때까지는 재정 부담이 없다.",
+   "summary_en": "France's Cour des Comptes has put the six-unit EPR2 programme at EUR 84 billion in 2025 values - above EDF's preliminary December estimate of EUR 72.8 billion (2020 prices), the 2023 revision of EUR 67.4 billion and the original EUR 51.7 billion. The auditor says that if power prices fall below EUR 70/MWh, EDF's financing needs would rise sharply and the programme could not be funded without state money beyond the announced subsidised loan, which covers 60% of the programme from the Caisse des Depots savings fund. In low-price scenarios the state forgoing cash dividends during construction could affect public finances by up to EUR 65 billion cumulatively over 2026-2040. The contract for difference has a strike price of no more than EUR 100/MWh (2024 euros) and carries no budget impact until the first EPR2 units are commissioned, which would be 2038 at the earliest.",
+   "sales_note": "경쟁 벤더 EDF의 자국 사업 원가가 공식 감사로 당초의 1.6배로 확정된 셈이어서, 체코·폴란드·네덜란드 등 유럽 입찰에서 EDF가 제시하는 가격·공기 신뢰도에 대한 발주처 질문이 늘어날 수 있다. 다만 프랑스 국가 지원 구조(저리융자 60%+CfD)는 우리 수출금융 패키지가 비교 대상으로 삼게 되는 기준이기도 하다.",
+   "sales_note_en": "A state audit has in effect confirmed that rival vendor EDF's home-market programme now costs about 1.6 times the original estimate, which is likely to sharpen owner scrutiny of the price and schedule EDF offers in European tenders in Czechia, Poland and the Netherlands. At the same time, the French state support structure - a subsidised loan covering 60% plus a CfD - is the benchmark against which Korean export finance packages will be measured."
+  },
+  {
+   "id": "2026-11-17-03",
+   "title": "Systém kvalifikace - \"PROVÁDĚNÍ ELEKTROMONTÁŽNÍCH PRACÍ A PODPORA PŘI ZPRACOVÁNÍ DOSP V EDU A ETE\" (TED 799064-2026)",
+   "title_ko": "체코 ČEZ ENERGOSERVIS, 두코바니·테멜린 전기설치공사 및 DOSP 지원 자격심사시스템 신규 개설 — 원자력안전 영향 설비 작업 포함",
+   "title_en": "Czech ČEZ ENERGOSERVIS opens a new supplier qualification system for electrical installation works and DOSP support at the Dukovany and Temelin nuclear plants",
+   "language": "cs",
+   "source": "EU TED",
+   "url": "https://ted.europa.eu/en/notice/799064-2026/pdf",
+   "published": "2026-11-17",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "CZ"
+   ],
+   "importance": 2,
+   "summary_ko": "ČEZ 그룹의 정비 자회사 ČEZ ENERGOSERVIS(트셰비치)가 11월 17일 자격심사시스템(qualification system) 공고를 내고, 두코바니 원전과 테멜린 원전의 전기설치공사 및 DOSP 작성 지원 역무에 대한 유자격 공급사 명부를 구성한다고 밝혔다. 발주 예정 역무는 전기설비·배전·케이블계통·배전반·계측제어 설비·보호계통 등 전력·기술계통 구성품의 설치·해체·개조·수리·유지·시험·시운전과 유자격 인력 제공, 그리고 원자력안전에 영향을 주는 설비 작업이다. 자격심사시스템은 상시 접수 방식으로 별도 마감일이 없다.",
+   "summary_en": "ČEZ ENERGOSERVIS, the ČEZ group maintenance subsidiary based in Trebic, published a qualification-system notice on 17 November to build a roster of qualified suppliers for electrical installation works and DOSP documentation support at the Dukovany and Temelin nuclear plants. The work to be awarded covers the installation, dismantling, reconstruction, repair, maintenance, testing and commissioning of electrical equipment, distribution systems, cable systems, switchboards, instrumentation and control equipment and protection systems, together with the supply of qualified personnel, including work on equipment that affects nuclear safety. A qualification system runs on a rolling basis with no single deadline.",
+   "sales_note": "체코 현장에서 전기·계측제어 시공 역무의 유자격 명부가 새로 열린 것으로, 신규호기 시공 입찰(2027년 7월 선정 목표)과 별개로 가동원전 쪽에서 체코 현지 실적을 쌓을 수 있는 경로다. 상시 접수이므로 현지 파트너와 함께 조기 등록해 두는 것이 유리하다.",
+   "sales_note_en": "A new roster of qualified suppliers for electrical and I&C installation work in Czechia has opened, offering a route to build a local track record on the operating fleet that is separate from the new-build construction tender targeted for July 2027. Because entry is rolling, early registration with a local partner is an advantage."
+  },
+  {
+   "id": "2026-11-17-04",
+   "title": "Техническо обслужване и ремонт на Програмно технически комплекс управляващи системи за безопасност ПТК УСБ на 5 и 6 ЕБ, на „АЕЦ Козлодуй” ЕАД (TED 796980-2026)",
+   "title_ko": "불가리아 코즐로두이 5·6호기 안전제어계통(ПТК УСБ) 보증기간 후 정비·수리, 641만 6,000유로 수의계약으로 АДЕН ГРУП에 낙찰",
+   "title_en": "Bulgaria's Kozloduy awards post-warranty maintenance and repair of the units 5-6 safety control system complex to ADEN GROUP for EUR 6.416 million, without a call for competition",
+   "language": "bg",
+   "source": "EU TED",
+   "url": "https://ted.europa.eu/en/notice/796980-2026/pdf",
+   "published": "2026-11-17",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "BG"
+   ],
+   "importance": 2,
+   "summary_ko": "코즐로두이 원전(АЕЦ Козлодуй ЕАД)이 5·6호기 안전제어계통 프로그램·기술 복합체(ПТК УСБ)의 보증기간 이후 기술정비·수리 계약을 공고 없는 협상절차로 불가리아 АДЕН ГРУП ООД에 낙찰했다고 11월 17일 공표했다. 계약금액은 641만 6,000유로(추정 641만 6,460유로)다. 역무는 계획예방정비 기간 중 전문 기술정비, 기술규정과 운전지침 30.ОУ.ОК.ИК.13이 정한 절차·기한에 따른 비정형·복합 결함 및 규정 기술특성 이탈 해소, 원품 또는 기능등가 예비품·소모품 공급과 상시 보유분 유지, 형상관리 및 고장·결함 분석이다.",
+   "summary_en": "Kozloduy nuclear power plant announced on 17 November that it has awarded the contract for post-warranty technical maintenance and repair of the programme and technical complex of the safety control systems (PTK USB) at units 5 and 6 to Bulgaria's ADEN GROUP OOD through a negotiated procedure without a prior call for competition. The contract value is EUR 6.416 million (estimated at EUR 6,416,460). The scope covers specialised technical servicing during planned outages, resolution of non-standard and complex defects and deviations from regulated technical characteristics under the procedures and deadlines set by the technological regulations and operating instruction 30.OU.OK.IK.13, supply of original or functionally equivalent spare parts and consumables and maintenance of an operational stock of them, configuration management and failure and defect analysis.",
+   "sales_note": "가동원전 안전계측제어 정비가 현지 업체에 수의계약으로 가는 전형적인 사례로, 유럽 가동원전 정비시장은 현지 실적과 원설비 접근권이 사실상의 진입 장벽임을 보여준다. 슬로바키아 모호우체 현대화(같은 회차 슬로바키아 건)처럼 경쟁입찰로 열리는 대형 현대화 건과 대비해 접근 전략을 달리 가져갈 근거다.",
+   "sales_note_en": "This is a typical case of operating-fleet safety I&C maintenance going to a local firm without competition, showing that a local track record and access to the original equipment are the real barriers to entry in Europe's operating-fleet service market. It is a reason to approach such work differently from the large modernisations that do open to competition, such as the Slovak Mochovce case in this edition."
+  },
+  {
+   "id": "2026-11-17-05",
+   "title": "Work programme being planned for next year, as Paks II audit continues",
+   "title_ko": "헝가리 팍시II, 정부 감사 연내 종료 목표 — 로사톰 \"발주처가 허용하는 속도로만 진행 가능\", 내년 작업계획 수립 중",
+   "title_en": "Work programme being planned for next year, as Paks II audit continues",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/work-programme-being-planned-for-next-year-as-paks-ii-audit-continues",
+   "published": "2026-11-16",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "HU",
+    "RU"
+   ],
+   "importance": 2,
+   "summary_ko": "헝가리 팍시 신규원전(VVER-1200 2기) 공사가 계속되는 가운데, 팍시II 사장 아틸라 샤고디는 설계·문서 준비도·작업공정과 재무·기술·법률 측면을 다루는 공식 감사가 2026년 말까지 끝나고 그 뒤 심층조사 필요성을 판단한다고 밝혔다. 2026년 5월 페테르 마차르 신임 총리 정부가 팍시 계속운전과 팍시II 계약·투자과정 전반의 재검토를 발표한 데 따른 것이다. 로사톰 알렉세이 리하초프 사장은 경제·기술 쟁점에 대한 해명을 제공할 뜻을 밝히며 \"발주처가 허용하는 속도로만 사업을 진행할 수 있다\"고 말했고, 다음 단계는 내년 재무·생산계획 승인이다. 샤고디는 자금조달이 모든 당사자를 구속하는 EPC 계약에 달려 있어 정부가 일방적으로 조건을 바꿀 수는 없다고 했다. 1차 콘크리트는 2026년 2월 타설됐고 계통연결 목표는 2030년대 초, 러시아 국가차관 최대 100억 유로가 사업비의 80%를 조달한다.",
+   "summary_en": "With construction continuing on Hungary's two new VVER-1200 units at Paks, Paks II chief executive Attila Sagodi said the formal audit - covering design, documentation readiness, the work schedule and financial, technological and legal aspects - is due to finish by the end of 2026, after which the team will decide whether deeper investigation is needed. The review follows the May 2026 announcement by new Prime Minister Peter Magyar's government of a re-examination of the Paks life extension, the Paks II contracts and the whole investment process. Rosatom director general Alexei Likhachev said the Russian side is willing to provide clarifications on economic and technological issues and that \"we can only move forward with the project at the speed the client allows us\"; the next step is approval of next year's financial and production plans. Sagodi noted that financing depends on the EPC contract, which binds all parties, so the government cannot change the arrangement on its own. First concrete was poured in February 2026, grid connection is targeted for the beginning of the 2030s, and a Russian state loan of up to EUR 10 billion funds 80% of the project.",
+   "sales_note": "러시아 노형 사업이 정권 교체 뒤 계약 재검토를 받는 사례로, EPC 계약의 구속력이 정부 재검토를 제약한다는 점이 확인됐다. 동유럽 발주처가 공급국 리스크를 재평가하는 흐름은 우리에게 유리하나, 반대로 계약 체결 후 정권이 바뀌어도 조건 변경이 어렵다는 점은 입찰 단계의 조건 설계가 그만큼 중요함을 뜻한다.",
+   "sales_note_en": "This is a case of a Russian-design project facing a contract review after a change of government, and it confirms that the binding nature of the EPC contract constrains what a review can change. The trend of Central and Eastern European owners reassessing supplier-country risk works in Korea's favour, while the flip side - that terms are hard to change once signed, even after a change of government - underlines how much the conditions set at bid stage matter."
+  },
+  {
+   "id": "2026-11-17-06",
+   "title": "Akkuyu 1 fuel loading 'could start next month'",
+   "title_ko": "튀르키예 아쿠유 1호기, 고온기능시험 성공 시 12월 연료장전 — 리하초프 \"1~2월 전력 공급 희망\"",
+   "title_en": "Akkuyu 1 fuel loading 'could start next month'",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/akkuyu-1-fuel-loading-could-start-next-month",
+   "published": "2026-11-16",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "TR",
+    "RU"
+   ],
+   "importance": 2,
+   "summary_ko": "튀르키예 첫 원전인 아쿠유 1호기가 고온기능시험(핵연료 없이 외부 전원으로 기기·안전계통을 정상조건에서 확인)을 준비 중이며, 로사톰은 시험이 성공하면 이르면 12월 연료장전을 시작할 수 있다고 밝혔다. 알렉세이 리하초프 사장은 튀르키예에서 열린 COP31 세계원자력의 날 행사에서 1~2월 전력 공급을 희망한다고 말했다(로사톰 사내지 Strana Rosatom 보도). 세계원자력발전사업자협회(WANO)의 가동 전 동료평가가 벨라루스·불가리아·중국·러시아·슬로바키아·미국 전문가 17명으로 2주 넘게 수행됐다. 발전소는 VVER-1200 4기·총 4,800MWe로 완공 시 튀르키예 전력 수요의 약 10%를 담당하며, 건설·소유·운영(BOO) 방식이다. 리하초프는 튀르키예 기업들이 투자 의향을 보여 비공개 협의가 진행 중이라고 밝혔고, 정부 승인 기업에는 최대 49% 지분이 허용된다.",
+   "summary_en": "Akkuyu 1, Turkey's first nuclear unit, is preparing for hot tests - which check equipment and safety systems under normal conditions using an external power source rather than nuclear fuel - and Rosatom says fuel loading could begin as early as December if they succeed. Director general Alexei Likhachev, speaking at World Atomic Day during the COP31 summit in Turkey, said he hopes Turkey will receive electricity in January or February, as reported by Rosatom's in-house publication Strana Rosatom. A World Association of Nuclear Operators pre-start-up peer review ran for more than two weeks with 17 experts from Belarus, Bulgaria, China, Russia, Slovakia and the USA. The plant comprises four VVER-1200 units totalling 4,800 MWe, is being delivered on a build-own-operate basis and is expected to meet about 10% of Turkey's electricity demand when complete. Likhachev said Turkish entities have shown interest in investing and that confidential talks are under way; stakes of up to 49% are allowed for companies approved by the Turkish government.",
+   "sales_note": "아쿠유 1호기가 실제 발전에 들어가면 러시아 BOO 모델의 첫 완주 사례가 되어, 시놉(한국·캐나다 2파전)과 트라키아 협상에서 발주처가 비교 기준으로 삼을 가능성이 크다. 아쿠유 지분 최대 49% 개방은 시놉에서도 지분·금융 참여형 제안이 요구될 수 있음을 시사한다.",
+   "sales_note_en": "If Akkuyu 1 actually starts generating it becomes the first completed example of Rosatom's build-own-operate model, and the owner is likely to use it as a yardstick in the Sinop race between Korea and Canada and in the Thrace talks. The opening of up to 49% of Akkuyu to investors suggests that equity and financing participation may also be expected in a Sinop offer."
+  },
+  {
+   "id": "2026-11-17-07",
+   "title": "Newcleo, Curio team up for recycled nuclear fuel supply",
+   "title_ko": "뉴클레오–큐리오, 재처리 사용후핵연료·초우라늄 물질 공급 협력 — 미국 MOX 연료 제조시설용",
+   "title_en": "Newcleo, Curio team up for recycled nuclear fuel supply",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/newcleo-curio-team-up-for-recycled-nuclear-fuel-supply",
+   "published": "2026-11-16",
+   "region": "overseas",
+   "category": "fuel",
+   "countries": [
+    "FR",
+    "US"
+   ],
+   "importance": 2,
+   "summary_ko": "프랑스에 본사를 둔 선진원자로 기업 뉴클레오(Newcleo)가 미국 워싱턴 소재 사용후핵연료 재활용 기업 큐리오 레거시 벤처스(Curio Legacy Ventures)와 협력 합의를 체결했다. 큐리오는 자체 특허 NuCycle 재활용 공정을 개발 중이며, 양사는 뉴클레오가 미국에 계획 중인 연료 제조시설의 혼합산화물(MOX) 연료 생산을 위해 재처리 사용후핵연료와 초우라늄 물질을 공급하는 데 협력한다.",
+   "summary_en": "France-headquartered advanced reactor company Newcleo has agreed to collaborate with Curio Legacy Ventures, a Washington-based company developing its patented NuCycle used-fuel recycling process. The two will work together on the supply of recycled used nuclear fuel and transuranic materials for mixed-oxide (MOX) fuel production at Newcleo's planned US fuel manufacturing facility.",
+   "sales_note": "납냉각 고속로 사업자가 미국 내 재처리 연료 공급망을 선제적으로 묶는 움직임으로, 선진로 진영에서 연료 확보가 노형 선택과 묶여 가는 흐름을 보여준다. 우리 i-SMR·수출 노형도 연료 조달 경로를 제안서 단계에서 함께 제시해야 하는 압력이 커진다.",
+   "sales_note_en": "A lead-cooled fast reactor developer is locking in a US recycled-fuel supply chain ahead of time, illustrating how fuel security is becoming bundled with technology choice among advanced reactor vendors. It increases the pressure for Korean designs, including i-SMR, to present a fuel supply route at proposal stage.",
+   "related": [
+    "https://www.nucnet.org/news/newcleo-and-curio-announce-collaboration-to-advance-recycled-nuclear-fuel-supply-11-1-2026"
+   ]
+  },
+  {
+   "id": "2026-11-17-08",
+   "title": "Oklo roundup: Groves-1 plans, Centrus contract, Aurora concrete",
+   "title_ko": "[새 사실] 오클로 아우로라-INL 구조 콘크리트·철골 완료(11월 11일 발표) — 에너지부 예비 안전성분석 승인(5단계 중 3단계), 향후 12개월 내 주기기 설치·그로브스-2 포지 착공 계획",
+   "title_en": "Oklo roundup: Groves-1 plans, Centrus contract, Aurora concrete",
+   "language": "en",
+   "source": "ANS Nuclear Newswire",
+   "url": "https://www.ans.org/news/2026-11-16/article-8581/oklo-roundup-groves1-plans-centrus-contract-aurora-concrete/",
+   "published": "2026-11-16",
+   "region": "overseas",
+   "category": "smr",
+   "countries": [
+    "US"
+   ],
+   "importance": 2,
+   "summary_ko": "이미 다룬 그로브스-1 운전제약 해제(11월 13일자)와 센트러스 HALEU 확정계약(11월 13일자)에 더해, 오클로는 11월 11일 아이다호국립연구소(INL) 부지에 아우로라-INL의 구조 콘크리트와 철골이 설치됐다고 발표했다. 에너지부는 이 사업의 예비 문서화 안전성분석(PDSA)을 승인해 5개 승인 관문 중 세 번째를 넘겼고, 가동 전에는 문서화 안전성분석과 최종 준비성 검토가 남아 있다. 아우로라-INL은 75MWe 액체금속냉각·금속연료 고속로로 2025년 9월 착공했으며, 오클로는 향후 12개월 내 주요 원자로 기기를 부지에 설치하고 그로브스-2 포지 건설을 시작할 계획이다.",
+   "summary_en": "Beyond the already-reported lifting of operating restrictions on Groves-1 and the definitive Centrus HALEU contracts, both dated 13 November, Oklo announced on 11 November that structural concrete and steel are in place at the Idaho National Laboratory site for Aurora-INL. The Department of Energy has approved the project's preliminary documented safety analysis, the third of five approval milestones; a documented safety analysis and a final readiness review remain before start-up. Aurora-INL is a 75-MWe liquid-metal-cooled, metal-fuelled fast reactor that broke ground in September 2025, and Oklo plans to install major reactor components at the site and begin construction of Groves-2 Forge within the next 12 months.",
+   "sales_note": "미국 선진로 1호기가 토건에서 기기 설치 단계로 넘어가는 시점으로, 주기기·구조물 발주가 향후 12개월에 집중된다. 국내 주기기·단조 업체가 미국 선진로 공급망에 들어갈 창구가 열리는 구간이다.",
+   "sales_note_en": "The first US advanced reactor is moving from civil works to component installation, which concentrates orders for major equipment and structures into the next 12 months. This is the window in which Korean heavy-component and forging suppliers can enter the US advanced reactor supply chain."
+  },
+  {
+   "id": "2026-11-17-09",
+   "title": "Dounreay Materials Test Reactor (DMTR) Strategy Development Support",
+   "title_ko": "영국 NRS, 둔레이 재료시험로(DMTR) 해체전략 수립 지원 용역을 오라노 영국법인에 49만 9,869파운드 수의계약 — 2026년 11월 30일~2027년 6월 29일",
+   "title_en": "UK's NRS directly awards Dounreay Materials Test Reactor decommissioning strategy support to Orano Limited for GBP 499,869",
+   "language": "en",
+   "source": "UK Find a Tender",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108646-2026",
+   "published": "2026-11-16",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "GB"
+   ],
+   "importance": 2,
+   "summary_ko": "영국 원자력복원서비스(Nuclear Restoration Services, NRS)가 11월 16일 둔레이 재료시험로(DMTR) 해체전략 수립 지원 계약(C30866, 공고 108646-2026)의 낙찰 공고를 냈다. 수급업체는 오라노 영국법인(Orano Limited), 계약금액은 부가세 제외 49만 9,869.10파운드(포함 59만 9,842.92파운드)이며, 낙찰일 10월 26일·이의제기 기간 11월 26일 종료·계약기간 2026년 11월 30일~2027년 6월 29일이다. 발주 방식은 수의계약(direct award)이고 역무 분류는 기술시험·분석·자문(CPV 71600000)이다. 이 계약은 NRS가 향후 DMTR 해체활동의 선호 전략을 선정할 수 있도록 대안검토(Options study)를 뒷받침하는 근거를 제공한다.",
+   "summary_en": "Nuclear Restoration Services (NRS) published an award notice on 16 November for the Dounreay Materials Test Reactor (DMTR) strategy development support contract (C30866, notice 108646-2026). The supplier is Orano Limited and the value is GBP 499,869.10 excluding VAT, or GBP 599,842.92 including it, with an award date of 26 October, a standstill period ending 26 November and a contract term running from 30 November 2026 to 29 June 2027. It was made as a direct award and is classified as technical testing, analysis and consultancy services (CPV 71600000). The contract provides the evidence required to support an options study enabling NRS to select a preferred strategy for future DMTR decommissioning activities.",
+   "sales_note": "프랑스 핵주기 그룹 오라노가 영국 해체사업의 전략 수립 단계를 수의계약으로 가져간 사례다. 해체 실행 패키지의 범위가 이 단계에서 정해지므로, 전략·대안검토 용역을 먼저 잡은 업체가 후속 발주에서 유리해지는 구조를 보여준다.",
+   "sales_note_en": "France's Orano fuel-cycle group has taken the strategy-setting stage of a UK decommissioning project through a direct award. Because the scope of the execution packages is decided at this stage, it illustrates how a firm that secures the strategy and options-study work gains an advantage in the follow-on procurements."
+  },
+  {
+   "id": "2026-11-17-10",
+   "title": "Prestations d'Ingénierie de sûreté d'installations nucléaires intéressant la défense, neuves, en exploitation ou en démantèlement (TED 797880-2026)",
+   "title_ko": "프랑스 원자력청(CEA) 군사응용국, 국방 관련 원자력시설(신규·가동·해체) 안전엔지니어링 용역 기본협약 입찰 — 접수 12월 21일",
+   "title_en": "France's CEA military applications directorate tenders a framework agreement for nuclear safety engineering services for defence-related facilities, whether new, operating or being decommissioned, with bids due 21 December",
+   "language": "fr",
+   "source": "EU TED",
+   "url": "https://ted.europa.eu/en/notice/797880-2026/pdf",
+   "published": "2026-11-17",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "FR"
+   ],
+   "importance": 1,
+   "summary_ko": "프랑스 원자력·대체에너지청(CEA) 군사응용국(DAM) SAPI가 11월 17일 공고 있는 협상절차로 안전엔지니어링 용역 기본협약(주문형) 입찰을 냈다. 대상은 국방 관련 원자력시설과 환경보호 분류시설(ICPE)의 신규 건설 또는 가동·해체 중 개조 사업으로, 역무는 원자력 안전 연구·분석·종합문서·규제 제출서류 작성과 당국 심사 대응, 안전요구사항에 따른 적합성 확인 관리, 시스템 엔지니어링과 연계한 시설 안전 형상관리다. 참가신청 마감은 2026년 12월 21일 16시다.",
+   "summary_en": "SAPI, part of the military applications directorate (DAM) of France's Alternative Energies and Atomic Energy Commission (CEA), published a notice on 17 November for a negotiated procedure with a call for competition to award a call-off framework agreement for safety engineering services. It covers construction of defence-related nuclear facilities and modification work on individual facilities and environmentally classified installations (ICPE) that are operating or being decommissioned. The services include studies, analyses, reviews, synthesis documents and regulatory nuclear safety dossiers and support for their examination by the authorities, management of conformity demonstration against safety requirements, and safety configuration management of the facilities in connection with systems engineering. Requests to participate are due by 16:00 on 21 December 2026.",
+   "sales_note": "국방 관련 시설이라 외국 업체 참여는 사실상 제한되지만, 프랑스가 신규·가동·해체를 한 묶음의 안전엔지니어링 기본협약으로 묶는 발주 방식 자체는 참고가 된다.",
+   "sales_note_en": "Foreign participation is effectively restricted because the facilities are defence-related, but the French practice of bundling new build, operation and decommissioning into a single safety engineering framework is itself worth noting."
+  },
+  {
+   "id": "2026-11-17-11",
+   "title": "Świadczenie usług nadzoru przyrodniczego oraz monitoringu środowiska przyrodniczego w związku z realizacją budowy pierwszej w Polsce Elektrowni Jądrowej w gminie Choczewo (TED 793389-2026)",
+   "title_ko": "폴란드 PEJ, 호체보 첫 원전 건설용 자연환경 감리·모니터링 용역 입찰 — 개방입찰, 접수 12월 18일",
+   "title_en": "Poland's PEJ tenders nature supervision and environmental monitoring services for the construction of the country's first nuclear plant at Choczewo, with bids due 18 December",
+   "language": "pl",
+   "source": "EU TED",
+   "url": "https://ted.europa.eu/en/notice/793389-2026/pdf",
+   "published": "2026-11-16",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "PL"
+   ],
+   "importance": 1,
+   "summary_ko": "폴란드 국영 원전 발주사 Polskie Elektrownie Jądrowe(그단스크)가 11월 16일 개방입찰 공고를 내고, 호체보(Choczewo)에 건설하는 폴란드 첫 원전을 위한 자연환경 감리와 서식지·식물·균류·동물 모니터링, 영향 최소화 조치 및 그 효과 모니터링, 자연환경 조사 용역을 발주했다. 입찰 접수 마감은 2026년 12월 18일 12시다. 추정금액은 공고에 제시되지 않았다.",
+   "summary_en": "Polskie Elektrownie Jadrowe, the Polish state nuclear project company based in Gdansk, published an open-procedure notice on 16 November for nature supervision services, monitoring of habitats, plants, fungi and animals, mitigation measures and monitoring of their effectiveness, and nature inventories for the construction of Poland's first nuclear power plant at Choczewo. Bids are due by 12:00 on 18 December 2026. No estimated value is given in the notice.",
+   "sales_note": "부지 인허가 이행 조건을 집행하는 단계의 용역으로, 폴란드 EPC 본계약(웨스팅하우스·벡텔과 주요 조건 합의, 미서명)과 별개로 부지 준비 역무가 계속 발주되고 있음을 보여준다.",
+   "sales_note_en": "This is a service contract implementing site permit conditions, and it shows that site preparation work continues to be tendered separately from the main EPC contract, whose commercial terms are agreed with Westinghouse and Bechtel but not yet signed."
+  },
+  {
+   "id": "2026-11-17-12",
+   "title": "Purchase of ventilation and cooling (TED 795893-2026)",
+   "title_ko": "노르웨이 원자력해체공사(NND), 할덴·셸레르·힘달렌 원자력시설 환기·냉각설비 개량 기본협약 입찰 — 1,500만 크로네, 접수 12월 15일",
+   "title_en": "Norway's nuclear decommissioning agency NND tenders a framework agreement to upgrade ventilation and cooling at the Halden, Kjeller and Himdalen nuclear facilities, worth NOK 15 million, with bids due 15 December",
+   "language": "en",
+   "source": "EU TED",
+   "url": "https://ted.europa.eu/en/notice/795893-2026/pdf",
+   "published": "2026-11-16",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "NO"
+   ],
+   "importance": 1,
+   "summary_ko": "노르웨이 원자력해체공사(Norsk nukleær dekommisjonering, NND, 할덴 소재)가 11월 16일 공고 있는 협상절차로 환기·냉각설비 기본협약 입찰을 냈다. 1개 업체와 계약을 맺어 NND와 노르웨이 에너지기술연구소(IFE)의 원자력 활동이 사용하는 시설(현재 할덴·셸레르·힘달렌)의 환기·냉각설비를 개량하며, IFE의 셸레르·힘달렌 원자력시설을 NND로 이관하는 계획에도 이 협약을 쓴다. 역무는 신규 설치, 수리, 기존 설비 개량과 특수 사업·수요용 자재 공급이며, 발주처는 대형 사업에 대해 별도 계약을 체결할 권리를 유보했다. 추정금액 1,500만 노르웨이 크로네, 참가신청 마감 2026년 12월 15일 11시(UTC)다.",
+   "summary_en": "Norsk nuklear dekommisjonering (NND), the Norwegian nuclear decommissioning agency based in Halden, published a notice on 16 November for a negotiated procedure with a call for competition to award a framework agreement for ventilation and cooling. A single supplier will be contracted to upgrade the ventilation and cooling installations serving NND's and the Institute for Energy Technology's (IFE) nuclear activities at the properties in use at any given time, currently Halden, Kjeller and Himdalen, and the agreement will also be used for the planned transfer of IFE's nuclear installations at Kjeller and Himdalen to NND. The scope covers new installations, repairs and upgrades of existing installations plus materials for special projects and needs; the contracting authority reserves the right to award separate contracts for major projects. The estimated value is NOK 15 million and requests to participate are due by 11:00 UTC on 15 December 2026.",
+   "sales_note": "해체 전환 단계의 시설 운영·개량 역무가 기본협약으로 묶여 나오는 사례로, 규모는 작지만 노르웨이 해체시장의 발주 방식과 일정 기준을 파악할 수 있는 건이다.",
+   "sales_note_en": "A small case in which facility operation and upgrade work during a transition to decommissioning is bundled into a framework agreement, useful mainly for reading how the Norwegian decommissioning market structures and schedules its awards.",
+   "related": [
+    "https://ted.europa.eu/en/notice/792837-2026/pdf"
+   ]
+  },
+  {
+   "id": "2026-11-17-13",
+   "title": "한울 원전 취수구 삼중수소 검출 사건조사 착수",
+   "title_ko": "한울 원전 취수구 삼중수소 검출 사건조사 착수",
+   "title_en": "NSSC launches an incident investigation after tritium is detected at the Hanul nuclear plant intake",
+   "language": "ko",
+   "source": "원자력안전위원회 (정책브리핑)",
+   "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789457",
+   "published": "2026-11-16",
+   "region": "domestic",
+   "category": "policy",
+   "countries": [
+    "KR"
+   ],
+   "importance": 2,
+   "summary_ko": "원자력안전위원회가 11월 16일 한울원전 취수구 삼중수소 검출 사건조사에 착수했다. 한수원이 11월 13일 한울원전 내부 지하수 관측정 1개소에서 삼중수소 3만Bq/L(한수원 자체 관리기준 4만Bq/L에 근접)이 검출된 사실을 원안위 지역사무소에 보고한 것이 발단으로, 원안위는 누설 가능성이 있는 관련 설비 작동 중지와 인근 해수 분석을 요구했다. 한수원 분석에서 취수구 지점 삼중수소는 117Bq/L, 제한구역 외부 해수 시료에서는 불검출이었고 감마핵종도 검출되지 않았다. 한수원은 액체 방사성폐기물 처리 후 해양 배출 배관의 손상으로 일부 배출물이 유입된 것으로 추정하고 있으며, 원안위는 한국원자력안전기술원(KINS) 전문가 조사단을 현장에 파견해 한수원 조치사항과 주변 환경 영향을 점검한다.",
+   "summary_en": "On 16 November Korea's Nuclear Safety and Security Commission (NSSC) opened an incident investigation into tritium detected at the Hanul nuclear plant's intake. It followed Korea Hydro & Nuclear Power's report to the NSSC regional office on 13 November that one groundwater monitoring well inside the Hanul site had shown tritium at 30,000 Bq/L, close to KHNP's own management limit of 40,000 Bq/L. The NSSC required KHNP to shut down the equipment that might be leaking and to analyse nearby seawater. KHNP's analysis put tritium at the intake at 117 Bq/L, with none detected in seawater samples taken outside the restricted area and no gamma nuclides detected. KHNP attributes the finding to damage to the pipe that discharges treated liquid radioactive waste to sea, which allowed some of the discharge to seep in. The NSSC has sent an investigation team of Korea Institute of Nuclear Safety (KINS) experts to the site to check KHNP's actions and any effect on the surrounding environment.",
+   "sales_note": "측정치 자체는 제한구역 외부 불검출로 환경 영향이 확인되지 않았으나, 배출 배관 손상이라는 설비 건전성 문제가 규제기관 사건조사로 올라간 점은 해외 입찰에서 운영 레퍼런스를 제시할 때 질의 대상이 될 수 있다. 조사 결과와 재발방지 조치를 영문으로 정리해 두는 것이 안전하다.",
+   "sales_note_en": "The measurements themselves show nothing detected outside the restricted area and no confirmed environmental impact, but the fact that an equipment integrity problem - damage to a discharge pipe - has escalated to a regulator-led incident investigation could draw questions when Korea presents its operating record in overseas bids. It is worth preparing an English summary of the findings and the corrective actions.",
+   "related": [
+    "https://www.energydaily.co.kr/news/articleView.html?idxno=205156",
+    "https://view.asiae.co.kr/article/2026111617220174213"
+   ]
+  },
+  {
+   "id": "2026-11-17-14",
+   "title": "원전 공론화 누리집 16일 개설… 공개토론회 참석 신청 17일부터",
+   "title_ko": "원전 공론화 누리집 16일 개설… 공개토론회 참석 신청 17일부터",
+   "title_en": "The nuclear public deliberation website opened on 16 November, with applications to attend the public debate from the 17th",
+   "language": "ko",
+   "source": "기후에너지환경부 (정책브리핑)",
+   "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789390",
+   "published": "2026-11-16",
+   "region": "domestic",
+   "category": "policy",
+   "countries": [
+    "KR"
+   ],
+   "importance": 2,
+   "summary_ko": "제12차 전력수급기본계획을 위한 원전 공론화위원회(위원장 은재호)가 11월 16일 낮 12시 공식 누리집(원전공론화.kr)을 열었다. 누리집은 공론화 주제·추진일정·회의 결과를 안내하고 '국민 의견' 게시판으로 누구나 의견을 낼 수 있게 했다. 공개토론회는 11월 25일 오전 8시 30분부터 낮 12시까지 서울 정동1928아트센터 이벤트홀에서 두 개 의제로 열리며 유튜브로 생중계되고, 참석 신청은 11월 17일부터 23일까지 누리집에서 받아 신청자가 많으면 추첨으로 정한다. 기후에너지환경부는 약 3개월간 시민참여단 숙의토론·전문가 공개토론회·온라인 의견수렴을 거쳐 제12차 전력수급기본계획에 반영할 계획이며, 공론화위원회는 정책 결정기구가 아닌 자문기구다.",
+   "summary_en": "The nuclear public deliberation committee for Korea's 12th Basic Plan for Electricity Supply and Demand, chaired by Eun Jae-ho, opened its official website at noon on 16 November. The site sets out the deliberation topics, schedule and meeting results and includes a public comments board open to anyone. A public debate will be held on 25 November from 08:30 to 12:00 at the Jeongdong 1928 Art Center in Seoul, covering two agenda items and streamed live on YouTube; applications to attend are taken on the website from 17 to 23 November, with a lottery if there are more applicants than places. The Ministry of Climate, Energy and Environment plans to run about three months of citizen panel deliberation, expert public debates and online comment gathering before feeding the results into the 12th Basic Plan. The committee is advisory and does not make the final policy decision.",
+   "sales_note": "국내 신규 원전 기수가 제12차 전기본에서 정해지는 과정이 공개 숙의 절차로 들어간 것으로, 결과가 국내 신규 건설 물량과 공급망 가동률을 좌우한다. 해외 입찰에서 '본국의 연속 건설 실적'을 경쟁력으로 쓰는 만큼 일정과 결론을 추적할 필요가 있다.",
+   "sales_note_en": "The number of new domestic reactors to be set in the 12th Basic Plan has now entered a public deliberation process, and the outcome will drive domestic new-build volume and supply chain utilisation. Because a continuous home-market build record is used as a selling point in overseas bids, the schedule and conclusions are worth tracking.",
+   "related": [
+    "https://www.news1.kr/economy/env-policy/6355077",
+    "https://www.todayenergy.kr/news/articleView.html?idxno=305623"
+   ]
+  },
+  {
+   "id": "2026-11-17-15",
+   "title": "한국수력원자력, 차세대원자로 사용후핵연료 관리 국제 협력 강화",
+   "title_ko": "한국수력원자력, 차세대원자로 사용후핵연료 관리 국제 협력 강화",
+   "title_en": "KHNP strengthens international cooperation on spent fuel management for next-generation reactors",
+   "language": "ko",
+   "source": "한국수력원자력 보도자료",
+   "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77765",
+   "published": "2026-11-16",
+   "region": "domestic",
+   "category": "fuel",
+   "countries": [
+    "KR",
+    "INT"
+   ],
+   "importance": 1,
+   "summary_ko": "한국수력원자력과 한국원자력연구원이 11월 8~13일 대전 원자력연구원 국제원자력교육훈련센터(INTEC)에서 차세대원자로 사용후핵연료 관리·재처리를 주제로 두 차례 국제 워크숍을 개최했다(11월 16일 공개). 경제협력개발기구 원자력기구(OECD/NEA)와 협력해 마련했으며, 11월 8~10일 'WISARD 기술 워크숍'에는 한수원·원자력연을 포함해 8개국 12개 기관 전문가가 참여해 SMR 등 선진원자로 사용후핵연료 특성과 기존 저장·운반·처분 기술의 적용 가능성, 연구 진행과 향후 계획을 논의했다(참여국에 미국·영국·캐나다·독일 포함). 11월 11~13일 '선진핵주기 재활용 워크숍'에서는 국가별 재처리 기술과 정책 동향, 재처리 방식에 따른 폐기물 특성과 관리 수요 차이, 국제협력이 필요한 연구주제를 다뤘다. WISARD는 선진원자로 설계의 사용후핵연료·방사성폐기물 관리에 관한 OECD/NEA 공동연구사업이다.",
+   "summary_en": "Korea Hydro & Nuclear Power and the Korea Atomic Energy Research Institute held two international workshops on spent fuel management and reprocessing for next-generation reactors from 8 to 13 November at KAERI's International Nuclear Training and Education Center (INTEC) in Daejeon, disclosed on 16 November. The events were organised in cooperation with the OECD Nuclear Energy Agency. The WISARD technical workshop on 8-10 November brought together experts from 12 organisations in 8 countries, including KHNP and KAERI, with the United States, the United Kingdom, Canada and Germany among those named; it covered the spent fuel characteristics of SMRs and other advanced reactors, whether existing storage, transport and disposal technologies can be applied, and research progress and future plans. The Recycling for Advanced Fuel Cycles workshop on 11-13 November addressed national reprocessing technologies and policy trends, how waste characteristics and management needs vary by reprocessing route, and research topics requiring international cooperation. WISARD (Waste Integration for Small and Advanced Reactor Designs) is an OECD/NEA joint research project on spent fuel and radioactive waste management in advanced reactor design.",
+   "sales_note": "SMR 수출 제안에서 사용후핵연료 처리 경로를 묻는 발주처가 늘고 있어, OECD/NEA 공동연구 참여 실적은 i-SMR 제안서의 후행 핵주기 설명을 보강하는 근거로 쓸 수 있다.",
+   "sales_note_en": "More owners are asking about the spent fuel route in SMR proposals, so participation in this OECD/NEA joint research gives i-SMR proposals supporting evidence for the back end of the fuel cycle.",
+   "related": [
+    "https://www.energydaily.co.kr/news/articleView.html?idxno=205117"
+   ]
+  },
+  {
+   "id": "2026-11-17-16",
+   "title": "원안위, 겨울철 원자력이용시설 특별점검",
+   "title_ko": "원안위, 겨울철 원자력이용시설 특별점검 — 11월 16~20일, 원전·중저준위 처분시설 대상",
+   "title_en": "NSSC runs a winter special inspection of nuclear facilities from 16 to 20 November",
+   "language": "ko",
+   "source": "원자력안전위원회 (정책브리핑)",
+   "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789397",
+   "published": "2026-11-16",
+   "region": "domestic",
+   "category": "policy",
+   "countries": [
+    "KR"
+   ],
+   "importance": 1,
+   "summary_ko": "원자력안전위원회가 폭설·동파 등 겨울철 자연재해와 화재로 인한 원자력이용시설 사고·고장을 예방하기 위해 11월 16일부터 20일까지 특별점검을 시행한다. 원안위와 한국원자력안전기술원(KINS)·한국원자력통제기술원(KINAC)이 참여하며 대상은 원자력발전소와 중저준위 방사성폐기물 처분시설 등이다. 폭설·한파 대비 시설 동파 방지 조치와 제설 장비·자재 확보 상태, 가연성 물질 관리 등 화재 예방 상태, 사건 발생 시 비상대응 체계를 확인하고, 미흡 사항은 조속히 개선하도록 조치한 뒤 이행 여부를 계속 확인한다. 기상청은 올해 평년보다 강수량이 많아 기온 하강 시 폭설이 늘 것으로 전망했다.",
+   "summary_en": "Korea's Nuclear Safety and Security Commission is running a special inspection from 16 to 20 November to prevent accidents and failures at nuclear facilities caused by winter hazards such as heavy snow and freezing, and by fire. The NSSC, the Korea Institute of Nuclear Safety and the Korea Institute of Nuclear Nonproliferation and Control are taking part, and the scope covers nuclear power plants and low- and intermediate-level radioactive waste disposal facilities. Inspectors are checking freeze protection measures and the availability of snow-clearing equipment and materials, fire prevention including the control of combustible materials, and whether emergency response arrangements are in place; shortcomings are to be corrected promptly and follow-up implementation will be verified. The Korea Meteorological Administration forecasts above-average precipitation this year, which is expected to increase heavy snowfall when temperatures drop.",
+   "sales_note": "",
+   "sales_note_en": "",
+   "related": [
+    "https://www.energydaily.co.kr/news/articleView.html?idxno=205122",
+    "https://www.todayenergy.kr/news/articleView.html?idxno=305619"
+   ]
+  }
+ ]
+}

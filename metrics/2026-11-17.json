@@ -1,0 +1,118 @@
+{
+ "date": "2026-11-17",
+ "run_started": "2026-11-17T08:04:19+09:00",
+ "run_finished": "2026-11-17T08:33:00+09:00",
+ "run_minutes": 28.7,
+ "articles": 16,
+ "by_region": {
+  "overseas": 12,
+  "domestic": 4
+ },
+ "by_importance": {
+  "3": 2,
+  "2": 7,
+  "1": 7
+ },
+ "by_category": {
+  "large": 7,
+  "smr": 1,
+  "policy": 6,
+  "fuel": 2
+ },
+ "detection_lag_hours": {
+  "median": 23.07,
+  "max": 24.07,
+  "n": 16,
+  "note": "run_started(2026-11-17T08:04:19+09:00) 기준. 게재 시각이 날짜까지만 있는 기사는 SKILL §9 규칙대로 그날 09:00(+09:00)으로 간주했다(23.07시간). 다만 EU TED 공고 6건은 09:00(+09:00) 환산 시 11월 17일 게재분이 음수(-0.93시간)가 되어 의미가 없으므로, TED가 게재일 00:00 CET에 공고를 공개하는 실제 관행을 적용해 11월 16일 게재분 24.07시간·11월 17일 게재분 0.07시간으로 계산했다(금차 방식 보완). 중간값 23.07시간은 전일 아침~금일 아침 1주기 수집이 정상 작동했음을 뜻하고, 최댓값 24.07시간도 전일 TED 게재분이다. 계산은 python3 datetime·statistics로 수행",
+  "values": [
+   24.07,
+   23.07,
+   0.07,
+   0.07,
+   23.07,
+   23.07,
+   23.07,
+   23.07,
+   23.07,
+   0.07,
+   24.07,
+   24.07,
+   23.07,
+   23.07,
+   23.07,
+   23.07
+  ]
+ },
+ "sources_ok": [
+  "World Nuclear News (RSS, 11-16 게재 5건)",
+  "NucNet (RSS)",
+  "POWER Magazine (RSS)",
+  "UK DESNZ gov.uk (Atom — 기간 내 0건)",
+  "ANS Nuclear Newswire (목록 페이지 + 기사 본문 1건)",
+  "더구루 (RSS — 원자력 관련 0건)",
+  "더트래커 (RSS, 리다이렉트 -L 추적)",
+  "정책브리핑 korea.kr (원전·SMR·원자력 3회 검색 + 보도자료 3건)",
+  "한국수력원자력 보도자료 게시판 (목록 + 본문 1건)",
+  "한국전력 보도·설명자료 게시판 (기간 내 원자력 0건)",
+  "EU TED 검색 API (api.ted.europa.eu/v3/notices/search — 11/16 3,784건 + 11/17 3,535건 전수 열거, 11/14·11/15는 재조회에서도 0건 확정)",
+  "UK Find a Tender OCDS API (11/16~11/17 릴리스 448건 전수 조회, 5페이지)",
+  "oenergetice.cz (체코 — 게재일 확인용)",
+  "enerjigunlugu.net / aa.com.tr / dunya.com (튀르키예 현지어)",
+  "sme.sk / teraz.sk / energie-portal.sk (슬로바키아 현지어)",
+  "rp.pl / biznesalert.pl (폴란드 현지어)",
+  "delo.si / rtvslo.si (슬로베니아 현지어)",
+  "nos.nl / fd.nl (네덜란드 현지어)",
+  "nyteknik.se / svt.se / sverigesradio.se (스웨덴 현지어)",
+  "에너지데일리 / 투데이에너지 / 아시아경제 / 뉴스1 / 전기신문 (국내)"
+ ],
+ "sources_failed": [
+  {
+   "name": "TED 공고 본문 (ted.europa.eu /pdf·/xml)",
+   "reason": "HTTP 202 비동기 생성만 반환 — 3회차 연속 본문 열람 불가. 검색 API 필드(description-lot·estimated-value-lot·total-value·procedure-type·winner-name)로 역무설명·금액·절차유형·낙찰자까지 대체 확정. 참가자격·제출서류는 미확인"
+  },
+  {
+   "name": "Nuclear Engineering International (neimagazine.com/feed)",
+   "reason": "HTTP 200이나 응답 본문 0바이트 — 6회차 연속 정체"
+  },
+  {
+   "name": "IAEA Top News (iaea.org/feeds/topnews)",
+   "reason": "피드 수신 성공(10.8KB)이나 기간 내 항목 0건"
+  },
+  {
+   "name": "더트래커 (thetracker.co.kr/RSS/RSS.aspx)",
+   "reason": "www 포함 주소가 301 리다이렉트 — curl -L 없이는 203바이트 안내 HTML만 수신. -L 추적으로 복구"
+  },
+  {
+   "name": "hnonline.sk / nu.nl / di.se / lesechos.fr / lemonde.fr / latribune.fr",
+   "reason": "WebSearch allowed_domains 거부(크롤러 차단 도메인) — 슬로바키아·네덜란드·스웨덴·프랑스 현지어 검색은 teraz.sk·energie-portal.sk·fd.nl·nyteknik.se·svt.se·sverigesradio.se로 대체 수행"
+  },
+  {
+   "name": "korea.kr 보도자료 본문 (pressReleaseView.do)",
+   "reason": "제목·날짜·부처만 노출되고 본문은 HWPX·PDF 첨부로만 제공 — 수치는 국내 언론 보도(에너지데일리·투데이에너지·뉴스1·아시아경제)로 교차 확인"
+  }
+ ],
+ "languages": {
+  "en": 7,
+  "ko": 4,
+  "sk": 1,
+  "cs": 1,
+  "bg": 1,
+  "pl": 1,
+  "fr": 1
+ },
+ "collection_window_notes": {
+  "ted_published_2026_11_14": 0,
+  "ted_published_2026_11_15": 0,
+  "ted_published_2026_11_16": 3784,
+  "ted_published_2026_11_17": 3535,
+  "ted_enumerated_total": 7319,
+  "ted_nuclear_candidates_after_regex": 37,
+  "ted_relevant_new": 9,
+  "ukfts_releases_2026_11_16_to_17": 448,
+  "ukfts_keyword_hits": 19,
+  "ukfts_relevant_new": 1,
+  "method_change": "직전 회차(11-16)는 TED 11월 14·15·16일 게재를 각각 0건으로 확정했으나, 금차 조회에서 11월 16일 3,784건이 색인돼 있었다 — TED 검색 API 색인이 약 1일 지연된다는 뜻이다. 따라서 앞으로 TED는 '당일 0건'을 결론으로 쓰지 않고 다음 회차에 전일분을 반드시 재조회한다(11월 14·15일은 금차 재조회에서도 0건으로 확정). 또한 정규식 오탐을 1건 교정했다 — 'ITER'를 대소문자 무시로 매칭하면 독일어 'Erweiterung' 내부의 'iter'에 걸려 후보가 200건으로 불어난다. ITER·F4E·JESS·JAVYS·SOGIN·UKAEA·NND·NEK 등 약어는 대소문자 구분 + 단어경계 패턴으로 옮겨 후보를 37건으로 줄였다. 반대 방향 한계도 확인했다 — 금차 최대 건(TED 795744-2026, 2억 7,690만 유로)은 제목('Modernizácia bezpečnostných systémov SORR, SIS a CPL')에 원자력 키워드가 전혀 없어 제목·본문 정규식으로는 잡히지 않고 발주처명(Slovenské elektrárne) 질의로만 잡혔다. 제목 기반 필터만으로는 유럽 가동원전 발주를 놓치므로 발주처명 질의를 상시 병행한다.",
+  "ted_api_field_notes": "buyer-name·description-lot 의 '~ (A OR B OR ...)' OR 목록 질의는 0건을 반환해 쓸 수 없다(단일 토큰만 유효). 또 특수문자가 든 토큰(예: ČEZ)을 넣으면 필터가 무력화돼 당일 전체 건수가 반환된다. 따라서 발주처 질의는 ASCII 단일 토큰으로 1건씩 반복 수행했다.",
+  "note": "화요일 아침 회차. 전일(11-16) 전문지 게재 5건(WNN)과 국내 보도자료 4건, TED 11/16·11/17 게재 공고 9건, UK FTS 낙찰 1건을 모두 당일 수집했다. 현지어 수집은 화요일이므로 수주·입찰 진행국(CZ·PL·SK·SI·NL·SE·TR 등)만 훑었고, 신규 사실은 없었다(체코 oenergetice 기사는 9월 16일자, 튀르키예 enerjigunlugu 기사는 2025년 7월 1일자로 확인해 기간 밖 제외)."
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "date": "2026-11-18",
+ "run_started": "2026-11-18T08:04:22+09:00",
+ "run_finished": "2026-11-18T08:32:00+09:00",
+ "run_minutes": 27.6,
+ "articles": 12,
+ "by_region": {
+  "overseas": 8,
+  "domestic": 4
+ },
+ "by_importance": {
+  "3": 1,
+  "2": 7,
+  "1": 4
+ },
+ "by_category": {
+  "large": 5,
+  "smr": 0,
+  "policy": 5,
+  "fuel": 2
+ },
+ "detection_lag_hours": {
+  "median": 11.1,
+  "max": 24.07,
+  "n": 12,
+  "note": "run_started(2026-11-18T08:04:22+09:00) 기준. 금차는 RSS 피드가 게재 시각까지 제공한 기사 7건에 대해 SKILL §9의 '날짜만 있으면 09:00(+09:00)' 대체규칙 대신 피드의 실제 pubDate를 사용했다(WNN 5건·ANS 1건·더트래커 1건). EU TED 공고 2건은 TED가 게재일 00:00 CET에 공개하는 관행을 적용해 24.07시간으로 계산했다(직전 회차 방식 유지). 날짜만 있는 국내 기사 3건은 09:00(+09:00) 규칙을 적용했고, 그중 원안위 상주 지진 보도자료(11-18 게재)는 09:00 환산 시 음수(-0.93시간)가 되어 의미가 없으므로 0.0으로 처리했다 — 수집 시점(08:20경)에 목록에 이미 올라와 있었으므로 실제 게재는 08:04 이전이다. 중간값이 전일(23시간대)에서 11.1시간으로 떨어진 것은 피드 실제 시각을 쓴 효과이며 수집 주기 변화가 아니다. 계산은 python3 datetime·statistics로 수행",
+  "values": [
+   24.07,
+   24.07,
+   10.59,
+   10.43,
+   10.77,
+   11.11,
+   11.08,
+   12.72,
+   23.07,
+   23.07,
+   0.49,
+   0.0
+  ]
+ },
+ "languages": {
+  "en": 7,
+  "ko": 4,
+  "cs": 1
+ },
+ "sources_ok": [
+  "World Nuclear News (RSS — 11-17 게재 6건, 이 중 5건 기사화)",
+  "NucNet (RSS — 기간 내 신규 0건, 11-17 EPR2는 직전 회차 반영분)",
+  "IAEA Top News (RSS — 11-17 잠비아 INIR 1건, 제목만 있고 요약 없음)",
+  "POWER Magazine (RSS — 기간 내 원자력 0건)",
+  "UK DESNZ gov.uk (Atom — 기간 내 0건)",
+  "ANS Nuclear Newswire (목록 페이지 — 11-17 게재 4건, 1건 기사화)",
+  "EU TED 검색 API (11-17 게재분 전수 조회, 다국어 제목 정규식 필터)",
+  "더구루 (RSS — 원자력 키워드 1건)",
+  "더트래커 (RSS — 원자력 키워드 3건, 홍보성 1건 제외)",
+  "정책브리핑 korea.kr (srchWord 원전·SMR·원자력 3회)",
+  "한국수력원자력 보도자료 게시판 (목록 + 상세 1건)",
+  "한국전력 보도·설명자료 게시판 (기간 내 원자력 0건)",
+  "OSGE 보도자료 (WebFetch — 기간 밖 확인용)",
+  "에너지신문 (WebFetch — 기간 밖 확인용)"
+ ],
+ "sources_failed": [
+  {
+   "name": "EU TED 공고 본문 (/pdf·/xml)",
+   "reason": "HTTP 202 — 비동기 생성 응답만 반환(4회차 연속). 검색 API 구조화 필드로 대체 확정"
+  },
+  {
+   "name": "Nuclear Engineering International (RSS)",
+   "reason": "HTTP 301→200이나 2026-06 기사에서 정체(7회차 연속)"
+  },
+  {
+   "name": "정책브리핑 개별 보도자료 상세 (newsId=156738000)",
+   "reason": "404 — 삭제·조회불가 응답"
+  },
+  {
+   "name": "WebSearch allowed_domains 거부 (hnonline.sk, di.se)",
+   "reason": "EGRESS_BLOCKED — 슬로바키아·스웨덴 현지어 검색은 대체 매체(sme.sk·nyteknik.se)로 수행"
+  },
+  {
+   "name": "iaea.org 기사 본문",
+   "reason": "sources.yaml unreachable 지정 — 열람 시도하지 않음. 잠비아 INIR 건은 사실 확인 불가로 기사화 보류"
+  }
+ ],
+ "notes": "금차 ★★★ 1건(2026-11-18-01, 폴란드 BOP 건축허가 설계·종합설계자 공고)은 reports/docx 로 사내 보고서식 생성 완료. 공고 포털 조회 결과는 pipeline-watch/alerts/2026-11-18.md Ⅲ 표 및 pipeline-watch/metrics/2026-11-18.json 에 별도 기록."
+}

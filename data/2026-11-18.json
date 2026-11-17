@@ -1,0 +1,411 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T09:12:00+09:00",
+  "period": {
+    "from": "2026-11-17",
+    "to": "2026-11-18"
+  },
+  "overview_ko": "폴란드 첫 원전의 EPC사 벡텔 폴란드가 Balance of Plant 건축허가 설계도서 작성과 13개 허가패키지를 총괄하는 종합설계자(General Designer) 지원 용역을 11월 17일 공고해, 발주 단계가 기자재 단품에서 허가설계·설계총괄로 올라섰다(AP1000 3기·최대 3,750MW, 실비정산 방식, 2035년 12월 완료 전망). 체코에서는 ČEZ ENERGOSERVIS가 두코바니·테멜린 전기설치공사·DOSP 지원 자격심사시스템의 두 번째 범주(역량지원)를 개설해 — 직전 회차에 보고한 '원자력안전 영향 설비(VTZ) 작업' 범주(799064-2026)와 같은 날 게재된 쌍둥이 창구다 — 신규 건설 입찰이 조용한 구간에 가동원전 역무 창구를 범주별로 계속 늘렸다. 연료 쪽에서는 스웨덴 블뤼칼라가 우렌코와 상용 납냉각로용 첫 HALEU 농축계약을 맺어 영국 카펜허스트가 서방 선진로 연료의 단일 창구로 굳어졌고, 방글라데시 루프푸르 1호기는 첫 계통연결로 로사톰 일괄 수출 모델의 실적을 하나 더 쌓았다. 미국은 NRC가 ACRS 심사 역할을 '새롭거나 주목할' 안전쟁점으로 한정하는 최종규칙을 확정했다. 영업 관점: 대형원전 BOP 기본·허가설계가 발주처가 아닌 EPC사 하도급 경로로 열리는 사례가 확인된 만큼, 공고 마감일이 없는 벡텔식 공급사 포털 구조에서는 RFP 발급 시점을 쫓는 공급사 등록 선점이 응찰 자격 자체를 가른다.",
+  "overview_en": "Bechtel Polska, the EPC contractor for Poland's first nuclear plant, published a contract notice on 17 November for balance-of-plant construction permit design development and for General Designer support coordinating 13 permit packages - moving procurement up from single equipment items into permit design and design coordination (three AP1000 units of up to 3,750 MW, on a time-and-material basis, forecast to complete in December 2035). In Czechia, CEZ ENERGOSERVIS opened the second category, capacity support, of its qualification system for electrical installation work and DOSP support at Dukovany and Temelin on the same day as the first, continuing to add category-by-category windows for operating-fleet work while new-build tendering stays quiet. On fuel, Sweden's Blykalla signed the first HALEU enrichment contract for a commercial lead-cooled reactor with Urenco, further establishing Capenhurst in the UK as the single Western channel for advanced reactor fuel, while Bangladesh's Rooppur 1 added another entry to the record of Rosatom's turnkey export model with its first grid connection. In the United States, the NRC finalised a rule confining ACRS review to safety issues that are novel or noteworthy. Sales angle: with large-reactor BOP basic and permit design now demonstrably opening through an EPC subcontract route rather than from the owner, and with Bechtel-style supplier portals carrying no notice deadline, getting supplier registration in place ahead of the RFP issue date is what decides eligibility to bid at all.",
+  "domestic_overview_ko": "두코바니에서는 두산에너빌리티가 원자로계통 설계를 맡은 한전기술을 대상으로 11월 16~18일 품질보증감사를 실시했고, 체코 원자력안전위원회(SÚJB) 3명과 발주사 EDU II 3명이 전 과정을 참관했다 — 계약 체결 이후 체코 규제기관이 이런 감사를 직접 참관한 첫 사례로, 시공계약 협상 결렬 이후 설계·기자재 품질체계를 규제기관에 직접 보여 신뢰를 복구하는 수단으로 쓰였다. 같은 기간 체코 하원의원이자 전 산업부 장관인 루카시 블체크가 서울에서 한수원 체코사업단장과 만나 건설 진행·사업관리·인허가·설계를 논의했다. 연료 쪽에서는 국내 기업과 미국 ARC 클린테크놀로지의 ARC-100용 HALEU 통합 공급망 MOU가 단독 보도됐으나, 보도 안에서 당사자 표기가 포스코인터내셔널과 현대엔지니어링으로 엇갈려 확인되지 않았다. 원안위는 경북 상주 규모 3.6 지진이 원자로 시설 안전에 영향이 없음을 확인했다. 영업 관점: 시공사 교체가 설계·주기기 공급 경로에는 미치지 않고 있다는 공개 근거가 쌓인 만큼, 신규 시공사 선정(2027년 7월)까지의 공백은 품질·인허가 실적으로 메우는 것이 수주 서사에 유리하다.",
+  "domestic_overview_en": "At Dukovany, Doosan Enerbility audited KEPCO E&C - which holds the reactor system design - from 16 to 18 November, with three officials from the Czech regulator SUJB and three from the owner company EDU II observing throughout. It is the first time the Czech regulator has observed such an audit since the contract was signed, and it served to rebuild trust after the construction contract talks broke off by showing the regulator the design and equipment quality system directly. Over the same period Lukas Vlcek, a Czech MP and former industry minister, met KHNP's head of Czech projects in Seoul to discuss construction progress, project management, licensing and design. On fuel, a Korean outlet reported exclusively on an MOU with US developer ARC Clean Technology for an integrated HALEU supply chain for the ARC-100, but the counterparty is unconfirmed, named as POSCO International in the headline and Hyundai Engineering in the body. The Nuclear Safety and Security Commission confirmed that a magnitude 3.6 earthquake near Sangju had no impact on reactor facility safety. Sales angle: with public evidence accumulating that the contractor change is not reaching the design and main equipment supply route, filling the gap until the new contractor is selected in July 2027 with quality and licensing credentials is the stronger line for the order narrative.",
+  "countries_pulse": [
+    {
+      "country": "PL",
+      "name_ko": "폴란드",
+      "name_en": "Poland",
+      "stance": "expanding",
+      "signal": "첫 원전 EPC사 벡텔이 BOP 건축허가 설계·종합설계자 용역을 공고 — 발주 단계가 기자재에서 허가설계·설계총괄로 올라섰다",
+      "signal_en": "EPC contractor Bechtel tendered balance-of-plant permit design and General Designer support, moving procurement up from equipment into permit design and design coordination",
+      "article_ids": [
+        "2026-11-18-01"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "신규 시공 입찰이 열리기를 기다리는 구간에 가동원전 전기·계측제어 역무 자격심사 창구가 범주별로 추가 개설",
+      "signal_en": "With the new-build construction tender still pending, further category-by-category qualification windows opened for electrical and I&C work on the operating fleet",
+      "article_ids": [
+        "2026-11-18-02",
+        "2026-11-18-09",
+        "2026-11-18-10"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "NRC가 ACRS 심사 역할을 '새롭거나 주목할' 쟁점으로 한정하는 최종규칙 확정 — 인허가 절차 간소화가 규칙으로 고착",
+      "signal_en": "The NRC finalised a rule confining ACRS review to novel or noteworthy issues, writing licensing simplification into rule",
+      "article_ids": [
+        "2026-11-18-05",
+        "2026-11-18-11"
+      ]
+    },
+    {
+      "country": "SE",
+      "name_ko": "스웨덴",
+      "name_en": "Sweden",
+      "stance": "expanding",
+      "signal": "블뤼칼라가 상용 납냉각로용 첫 HALEU 농축계약을 확보 — 자국 부지(운트라·노르순데트) 계획과 미국 첫 호기 연료가 함께 묶였다",
+      "signal_en": "Blykalla secured the first HALEU enrichment contract for a commercial lead-cooled reactor, tying its Swedish site plans at Untra and Norrsundet to fuel for its first US unit",
+      "article_ids": [
+        "2026-11-18-03"
+      ]
+    },
+    {
+      "country": "GB",
+      "name_ko": "영국",
+      "name_en": "United Kingdom",
+      "stance": "expanding",
+      "signal": "우렌코 카펜허스트 HALEU 설비가 서방 선진로 연료의 단일 창구로 계약을 계속 흡수",
+      "signal_en": "Urenco's Capenhurst HALEU facility keeps absorbing contracts as the single Western channel for advanced reactor fuel",
+      "article_ids": [
+        "2026-11-18-03"
+      ]
+    },
+    {
+      "country": "BD",
+      "name_ko": "방글라데시",
+      "name_en": "Bangladesh",
+      "stance": "expanding",
+      "signal": "루프푸르 1호기 첫 계통연결·첫 발전 — 신규 도입국이 10개월 시운전 단계로 진입",
+      "signal_en": "Rooppur 1 achieved first grid connection and first power, taking a newcomer country into a ten-month trial operation phase",
+      "article_ids": [
+        "2026-11-18-04"
+      ]
+    },
+    {
+      "country": "RU",
+      "name_ko": "러시아",
+      "name_en": "Russia",
+      "stance": "expanding",
+      "signal": "로사톰이 신규 도입국에서 연료장전(5월)→첫 발전(11월) 공정을 끌어내 일괄 수출 모델 실적을 추가",
+      "signal_en": "Rosatom took a newcomer country from fuel loading in May to first power in November, adding to the record of its turnkey export model",
+      "article_ids": [
+        "2026-11-18-04"
+      ]
+    },
+    {
+      "country": "FR",
+      "name_ko": "프랑스",
+      "name_en": "France",
+      "stance": "expanding",
+      "signal": "연구부가 10년 핵융합 로드맵 발표 — 2035년 유럽 실증로 기술 확보 목표, 예산 금액은 미제시",
+      "signal_en": "The research ministry published a ten-year fusion roadmap targeting the technologies for a European pilot plant by 2035, with no funding figures given",
+      "article_ids": [
+        "2026-11-18-06"
+      ]
+    },
+    {
+      "country": "JP",
+      "name_ko": "일본",
+      "name_en": "Japan",
+      "stance": "expanding",
+      "signal": "IAEA 장기운전 안전검토가 미하마 3호기에서 마무리 — 계속운전 국제 검증 실적 축적",
+      "signal_en": "An IAEA long term operation safety review concluded at Mihama 3, adding to Japan's internationally verified continued-operation record",
+      "article_ids": [
+        "2026-11-18-07",
+        "2026-11-18-08"
+      ]
+    },
+    {
+      "country": "UA",
+      "name_ko": "우크라이나",
+      "name_en": "Ukraine",
+      "stance": "steady",
+      "signal": "체르노빌이 후쿠시마 원격·로봇 해체기술 도입을 검토 — 석관 해체에 원격감시 적용 가능성 가늠",
+      "signal_en": "Chernobyl is weighing the adoption of Fukushima's remote and robotic decommissioning technology, assessing remote monitoring for dismantling the Shelter Object",
+      "article_ids": [
+        "2026-11-18-08"
+      ]
+    },
+    {
+      "country": "INT",
+      "name_ko": "국제기구",
+      "name_en": "International",
+      "stance": "steady",
+      "signal": "IAEA는 계속운전 안전검토(일본)와 해체기술 교류(체르노빌–후쿠시마)로 가동·해체 단계 지원에 무게",
+      "signal_en": "The IAEA weighted its work toward the operating and decommissioning phases, through a continued-operation safety review in Japan and decommissioning knowledge exchange between Chernobyl and Fukushima",
+      "article_ids": [
+        "2026-11-18-07",
+        "2026-11-18-08"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-18-01",
+      "title": "Balance of Plant Construction Permit Design Development and General Designer Support Services",
+      "title_ko": "폴란드 첫 원전 EPC사 벡텔, Balance of Plant 건축허가 설계도서 작성·종합설계자(General Designer) 지원 용역 공고",
+      "title_en": "Bechtel Polska tenders balance-of-plant construction permit design and General Designer support for Poland's first nuclear plant",
+      "language": "en",
+      "source": "TED (EU 공공조달공고)",
+      "url": "https://ted.europa.eu/en/notice/797929-2026/pdf",
+      "published": "2026-11-17",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "PL",
+        "US"
+      ],
+      "importance": 3,
+      "summary_ko": "폴란드 첫 원전(사업주 PEJ, 호체보 루비아토보-코팔리노 부지, AP1000 3기·최대 3,750MW)의 EPC사 벡텔 폴란드(Bechtel Polska)가 Balance of Plant 건축허가 설계도서 작성과 종합설계자(General Designer) 지원 용역을 11월 17일 공고했다. 역무는 두 갈래로, ① 폴란드 건축법에 따른 BOP 영구설비 건축허가 설계도서 4개 대형 패키지(각 패키지가 토지이용계획·건축구조설계·기술설계 3권과 허가신청서·부속서류로 구성, 설계입력 검증·수리권 및 예외허가 신청·환경영향평가 결정 부합성 확인·영문/폴란드어 동시 제출·관청 절차 지원·설계자 감리 포함)와 ② 벡텔·웨스팅하우스·제3자의 설계입력이 섞인 13개 허가패키지 간 인터페이스를 총괄하는 종합설계자 역무다. 제안은 단가 기준 실비정산(Time and Material) 방식이며 하도급 완료 시점은 2035년 12월로 전망됐다.",
+      "summary_en": "Bechtel Polska, the EPC contractor for Poland's first nuclear plant - owned by Polskie Elektrownie Jadrowe and sited at Lubiatowo-Kopalino in the Choczewo municipality for three AP1000 units of up to 3,750 MW - published a contract notice on 17 November for balance-of-plant construction permit design development and General Designer support. The work splits in two: four large construction permit design packages for permanent BOP structures under Polish Building Law, each comprising a land development plan, architectural and construction design and technical design plus permit application forms, with design input verification, water permits and derogation applications, confirmation of compliance with the EIA decision, documentation in both English and Polish, support to authority proceedings and author's supervision; and the General Designer role coordinating interfaces across 13 permit packages that carry design inputs from Bechtel, Westinghouse and third parties. Proposals are sought on a time-and-material basis with agreed unit rates for change management, and the subcontract is forecast to complete in December 2035.",
+      "sales_note": "발주처가 사업주(PEJ)가 아니라 EPC사인 벡텔이고 설계입력을 웨스팅하우스가 함께 쥔 구조여서, 대형원전 BOP 기본설계·허가설계 역무가 EPC 하도급 경로로 열린 사례다. 공고에 마감일·추정금액이 없고 제출이 벡텔 자체 공급사 포털(Digital Supply Chain System) 등록을 거치므로, 응찰 가능 시점은 TED가 아니라 벡텔의 RFP 발급 일정에 달려 있어 공급사 등록 상태를 먼저 확인해야 한다. 2035년까지 이어지는 다년 역무이자 13개 허가패키지 인터페이스 총괄이라 수주 시 폴란드 건축법 인허가 설계 레퍼런스를 통째로 확보하는 효과가 있다.",
+      "sales_note_en": "The buyer here is the EPC contractor, Bechtel, rather than the owner PEJ, and Westinghouse holds part of the design input - an example of large-reactor BOP basic and permit design opening up through an EPC subcontract route. The notice carries no deadline and no estimated value, and bids go through Bechtel's own Digital Supply Chain System, so the window depends on Bechtel's RFP issue date rather than on TED, making supplier registration status the first thing to check. As a multi-year scope running to 2035 that also coordinates interfaces across 13 permit packages, winning it would secure a complete reference in Polish Building Law permit design.",
+      "related": [
+        "https://ted.europa.eu/en/notice/687978-2026/pdf"
+      ]
+    },
+    {
+      "id": "2026-11-18-02",
+      "title": "Systém kvalifikace - \"PROVÁDĚNÍ ELEKTROMONTÁŽNÍCH PRACÍ A PODPORA PŘI ZPRACOVÁNÍ DOSP V EDU A ETE - KAPACITNÍ VÝPOMOCI\"",
+      "title_ko": "체코 ČEZ ENERGOSERVIS, 두코바니·테멜린 전기설치공사·DOSP 지원 자격심사시스템의 두 번째 범주(역량지원) 개설",
+      "title_en": "CEZ ENERGOSERVIS opens a second category - capacity support - of its Dukovany and Temelin electrical installation and DOSP qualification system",
+      "language": "cs",
+      "source": "TED (EU 공공조달공고)",
+      "url": "https://ted.europa.eu/en/notice/797748-2026/pdf",
+      "published": "2026-11-17",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "CZ"
+      ],
+      "importance": 2,
+      "summary_ko": "체코 ČEZ 그룹의 정비 자회사 ČEZ ENERGOSERVIS가 두코바니(EDU)·테멜린(ETE) 전기설치공사와 DOSP 문서작성 지원을 위한 자격심사시스템의 '역량지원(kapacitní výpomoci)' 범주를 11월 17일 개설했다. 같은 날 게재돼 직전 회차에 보고한 '원자력안전 영향 설비(VTZ) 작업' 범주(799064-2026)와 쌍을 이루는 두 번째 창구로, 전기설비·배전·케이블 계통·배전반·계측제어·보호계통의 설치·해체·개조·수리·정비·시험·시운전에 투입할 유자격 인력을 공급받는 것이 대상이다. 응찰 마감이 있는 입찰이 아니라 유효기간이 2100년까지인 상시 접수 명부이며, 공고에 금액은 없다.",
+      "summary_en": "CEZ ENERGOSERVIS, the maintenance subsidiary of Czech utility CEZ, opened the 'capacity support' (kapacitni vypomoci) category of its supplier qualification system for electrical installation work and DOSP documentation support at Dukovany and Temelin on 17 November. It is the second window alongside the category for work on equipment affecting nuclear safety (799064-2026) published the same day, and covers the supply of qualified personnel for installing, dismantling, modifying, repairing, maintaining, testing and commissioning electrical equipment, distribution and cable systems, switchgear, instrumentation and control and protection systems. It is not a tender with a closing date but a standing register valid to 2100, and the notice states no value.",
+      "sales_note": "두코바니 신규호기 시공계약이 다시 열리기를 기다리는 구간에, 발주처 측 체코 현지 정비사가 전기·계측제어 역무의 유자격 인력 명부를 범주별로 쪼개 상시 개설하는 흐름이 확인된다. 배관·용접 자격심사(10월 730671·736607)와 같은 2분할 패턴이어서, 현지 인력·공종 자격을 미리 확보해 두면 신규 시공 입찰과 무관하게 가동원전 역무로 진입할 통로가 된다.",
+      "sales_note_en": "While the Dukovany new-build construction package waits to reopen, the client-side Czech maintenance company is steadily opening standing registers of qualified personnel for electrical and I&C work, split by category. It repeats the two-part pattern of the October piping and welding qualification systems (730671 and 736607), so securing local personnel and trade qualifications in advance offers a way into operating-fleet work independent of the new-build construction tender.",
+      "related": [
+        "https://ted.europa.eu/en/notice/799064-2026/pdf"
+      ]
+    },
+    {
+      "id": "2026-11-18-03",
+      "title": "Urenco, Blykalla sign HALEU deal",
+      "title_ko": "우렌코–블뤼칼라, 상용 납냉각로용 첫 HALEU 농축계약 — 영국 카펜허스트 농축, 2030년대 초 인도 개시",
+      "title_en": "Urenco and Blykalla sign the first HALEU enrichment contract for a commercial lead-cooled reactor",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/urenco-blykalla-sign-haleu-deal",
+      "published": "2026-11-17",
+      "region": "overseas",
+      "category": "fuel",
+      "countries": [
+        "SE",
+        "GB",
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "스웨덴 선진로 개발사 블뤼칼라(Blykalla)가 농축기업 우렌코(Urenco)와 HALEU(U-235 5~20% 농축) 농축계약을 체결했다. 블뤼칼라가 천연우라늄 원료를 공급하고 우렌코가 영국 카펜허스트 HALEU 설비에서 농축하는 구조로, 대상은 블뤼칼라의 미국 첫 SEALER 호기(55MWe 납냉각 소형모듈로, 도로 수송 가능)용 연료다. 우렌코는 인도 개시를 2030년대 초로 보고 있으며, 블뤼칼라의 미국 Fjäll 사업은 영출력로 Fjäll-Zero의 2027년 임계를 목표로 한다. 상용 납냉각로를 대상으로 한 첫 HALEU 농축계약이다.",
+      "summary_en": "Swedish advanced reactor developer Blykalla has signed a HALEU enrichment contract with enrichment company Urenco, covering uranium enriched to between 5% and 20% U-235. Blykalla supplies the uranium feed and Urenco enriches it at its HALEU facility at Capenhurst in the UK, for fuel for Blykalla's first SEALER unit in the United States - a 55 MWe road-transportable lead-cooled small modular reactor. Urenco expects deliveries to begin in the early 2030s, while Blykalla's US Fjall project targets criticality of the zero-power Fjall-Zero reactor in 2027. It is the first HALEU enrichment contract for a commercial lead-cooled reactor.",
+      "sales_note": "HALEU 확보가 노형 개발사의 선택이 아니라 사업 진입 요건으로 굳어지는 흐름이다. 우렌코는 2025년 웨스팅하우스 eVinci용 5년 계약, 2026년 안타레스 공급계약에 이어 카펜허스트 설비를 서방 HALEU의 단일 창구로 묶어 가고 있어, SMR·선진로 사업에 기자재나 시공으로 참여할 때 연료 확보 경로가 사업 일정의 선행 제약으로 작용할 수 있다.",
+      "sales_note_en": "Securing HALEU is hardening from a developer's option into a condition of entry. After a five-year deal with Westinghouse for eVinci in 2025 and a supply agreement with Antares earlier in 2026, Urenco is consolidating Capenhurst as the single Western HALEU channel - so on SMR and advanced reactor projects entered as an equipment or construction supplier, the fuel route can become the binding constraint on the schedule.",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-04",
+      "title": "Bangladesh's Rooppur 1 supplies country's first nuclear energy",
+      "title_ko": "방글라데시 루프푸르 1호기 첫 계통연결·첫 발전 — VVER-1200, 350MWe로 시험병입 후 10개월 시운전",
+      "title_en": "Bangladesh's Rooppur 1 connects to the grid and supplies the country's first nuclear electricity",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/bangladeshs-rooppur-1-nuclear-supplies-countrys-first-nuclear-energy",
+      "published": "2026-11-17",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "BD",
+        "RU"
+      ],
+      "importance": 2,
+      "summary_ko": "러시아 로사톰이 건설한 방글라데시 첫 원전 루프푸르 1호기(VVER-1200, 1,200MWe)가 현지시각 15시 16분 계통에 연결돼 첫 전력을 공급했다. 4월 16일 운영허가, 5월 연료장전, 10월 11일 15시 34분 첫 임계를 거친 결과로, 첫 시험병입은 350MWe 출력으로 8~10시간 유지한 뒤 기술시험을 위해 약 28시간 계통에서 분리한 뒤 다시 4~6시간 재병입하는 단계로 진행되며 각 단계마다 방글라데시 원자력규제청 승인이 필요하다. 이후 10개월 시운전을 거쳐 전출력 상업공급에 들어간다. 2015년 12월 체결된 최초 계약 규모는 126억 5,000만 달러다.",
+      "summary_en": "Rooppur 1, Bangladesh's first nuclear unit and a Rosatom-built VVER-1200 rated at 1,200 MWe, was connected to the grid at 15:16 local time and supplied the country's first nuclear electricity. It follows an operating licence on 16 April, fuel loading in May and first criticality at 15:34 on 11 October. The first trial connection runs at 350 MWe for some eight to ten hours, after which the unit disconnects for about 28 hours of technical tests before reconnecting for four to six hours, each step requiring approval from the Bangladesh Atomic Energy Regulatory Authority. A ten-month trial operation period then precedes commercial supply at full capacity. The original December 2015 contract was worth USD 12.65 billion.",
+      "sales_note": "로사톰이 신규 도입국에서 연료장전부터 첫 발전까지 6개월대로 끌고 간 사례가 추가됐다. 금융(자국 국가간 신용)과 운영인력 양성을 묶어 파는 러시아식 일괄 모델의 실적 레퍼런스가 늘어나는 만큼, 동남아·중동 신규 도입국 입찰에서 우리 측은 공기 실적과 함께 금융조건 패키지를 같은 수준으로 제시해야 한다.",
+      "sales_note_en": "This adds another case of Rosatom taking a newcomer country from fuel loading to first power in about six months. As the track record of the Russian turnkey model - bundling state-to-state financing with operator training - keeps growing, bids in newcomer markets in Southeast Asia and the Middle East will require a financing package presented at the same level as the schedule record.",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-05",
+      "title": "NRC issues final rule on ACRS reform",
+      "title_ko": "미 NRC, 원자로안전자문위원회(ACRS) 심사 역할 축소 최종규칙 확정 — '새롭거나 주목할' 안전쟁점으로 한정",
+      "title_en": "US NRC finalises rule narrowing the ACRS role in licence reviews",
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/article-8660/nrc-issues-final-rule-on-acrs-reform/",
+      "published": "2026-11-17",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "미국 원자력규제위원회(NRC)가 원자로안전자문위원회(ACRS)의 인허가 심사 역할을 간소화하는 직접최종규칙(direct final rule)을 확정했다. ACRS 검토를 '새롭거나 주목할 만한(novel or noteworthy)' 안전중요 쟁점으로 한정하는 것이 핵심이며, 해당 범위는 NRC 정의상 안전관련 구조물·계통·기기이거나 안전중요 기능을 수행하는 구조물·계통·기기와 연결된 설계·부지·운전 특성으로 규정됐다. 발효일과 인허가 기간 단축 효과는 공개 기사에서 확인되지 않았다.",
+      "summary_en": "The US Nuclear Regulatory Commission has issued a direct final rule streamlining the role of its Advisory Committee on Reactor Safeguards in licence reviews. The rule confines ACRS review to safety-significant issues that are 'novel or noteworthy', defined as attributes of a facility's design, siting or operation tied either to safety-related structures, systems and components as the NRC defines them, or to structures, systems and components performing safety-significant functions. The effective date and the expected effect on licensing timelines are not confirmed in the published report.",
+      "sales_note": "미국 인허가 절차에서 반복심사 단계를 걷어내는 방향이 규칙으로 굳어지는 신호다. 대미 투자 원전과 미국 내 SMR 참여를 추진할 때 설계변경·표준설계 심사 일정 가정을 다시 점검할 근거가 되며, 다만 발효일이 확인되지 않아 일정에 반영하기 전 연방관보 고시를 직접 확인해야 한다.",
+      "sales_note_en": "This signals that stripping duplicative review steps out of US licensing is being written into rule. It is grounds to revisit assumptions on design change and standard design review schedules for US nuclear investment and SMR participation, though the effective date is unconfirmed, so the Federal Register notice should be checked before any schedule is adjusted.",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-06",
+      "title": "France launches roadmap for fusion energy development",
+      "title_ko": "프랑스 연구부, 10년 핵융합 로드맵 발표 — 2035년까지 유럽 실증로용 기술 확보·전공 학생 2배",
+      "title_en": "France's research ministry launches a ten-year fusion roadmap",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/france-launches-roadmap-for-fusion-energy-development",
+      "published": "2026-11-17",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "FR",
+        "INT"
+      ],
+      "importance": 1,
+      "summary_ko": "프랑스 연구부가 10년 단위 핵융합 로드맵을 내놨다. 필리프 바티스트 고등교육·연구·우주담당 장관이 ITER 부지와 원자력청(CEA) 카다라슈 센터를 방문한 11월 16일 발표했으며, ITER·CEA의 WEST 토카막·레이저 메가줄 관성핵융합 설비를 축으로 연구를 조율하고 투자 방향을 제시하는 것이 목적이다. 2026~2030년은 과학·기술 기반 공고화와 재원 확보에 두고, 중기 목표는 2035년까지 유럽 실증로에 필요한 기술을 갖추는 것이다. 플라즈마물리·원자력공학·극저온기술 등 전공 학생 수를 2배로 늘리는 목표도 담겼으며, 예산 금액은 제시되지 않았다.",
+      "summary_en": "France's research ministry has published a ten-year nuclear fusion roadmap, announced by Philippe Baptiste, Minister for Higher Education, Research and Space, during a 16 November visit to the ITER site and the CEA's Cadarache centre. It aims to coordinate research and guide investment around ITER, the CEA's WEST tokamak and the Laser Megajoule inertial confinement facility. The 2026-2030 phase focuses on consolidating scientific and technological foundations and securing funding, with a medium-term goal of holding the technologies needed for a European pilot plant by 2035. The roadmap also targets doubling student numbers in fields such as plasma physics, nuclear engineering and cryogenic technologies. No funding figures are given.",
+      "sales_note": "",
+      "sales_note_en": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-07",
+      "title": "IAEA sees commitment to safety at Kansai's Mihama unit 3",
+      "title_ko": "IAEA 장기운전 안전검토단, 간사이전력 미하마 3호기 계속운전 체계 점검 완료",
+      "title_en": "IAEA long-term operation safety review concludes at Kansai's Mihama 3",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/iaea-sees-commitment-to-safety-at-kansais-mihama-unit-3",
+      "published": "2026-11-17",
+      "region": "overseas",
+      "category": "large",
+      "countries": [
+        "JP",
+        "INT"
+      ],
+      "importance": 1,
+      "summary_ko": "국제원자력기구(IAEA)가 일본 간사이전력 미하마 3호기를 대상으로 장기운전 안전검토(SALTO 계열)를 마치고 안전에 대한 사업자의 의지를 확인했다고 밝혔다. 가동 40년을 넘긴 호기의 계속운전 관리체계를 국제 검토단이 직접 들여다본 사례다.",
+      "summary_en": "The IAEA has concluded a long term operation safety review at unit 3 of Kansai Electric Power's Mihama plant in Japan and said it saw the operator's commitment to safety. It is a case of an international review team examining at first hand the continued-operation management regime of a unit past 40 years of service.",
+      "sales_note": "경쟁·협력 양쪽인 일본이 가동원전 계속운전의 국제 검증 실적을 쌓고 있다. 노후호기 계속운전 레퍼런스가 신규 수출 경쟁에서 운영역량 지표로 쓰이는 만큼, 국내 계속운전 심사 실적을 같은 틀로 정리해 제시할 필요가 있다.",
+      "sales_note_en": "Japan, both competitor and partner, is accumulating internationally verified credentials in continued operation. As long-term operation references increasingly serve as a proxy for operator capability in export competitions, Korea's own continued-operation review record is worth presenting in the same frame.",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-08",
+      "title": "Chernobyl and Fukushima sharing decommissioning experience",
+      "title_ko": "체르노빌–후쿠시마 해체기술 교류 — 일 원자력연구개발기구, 연료함유물질 원격 시료채취 로봇팔·드론 시연",
+      "title_en": "Chernobyl and Fukushima share decommissioning experience, with JAEA demonstrating remote tools",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/chernobyl-and-fukushima-sharing-decommissioning-experience",
+      "published": "2026-11-17",
+      "region": "overseas",
+      "category": "policy",
+      "countries": [
+        "UA",
+        "JP",
+        "INT"
+      ],
+      "importance": 1,
+      "summary_ko": "우크라이나 체르노빌 원전(SSE ChNPP)의 사용후연료관리·해체 부서 전문가들이 11월 2일부터 나흘간 후쿠시마에서 열린 기술행사에 참가해 일본 원자력연구개발기구(JAEA) 원격제어기술부의 장비를 확인했다. 건물 3차원 모델링·고선량 구역 조사용 드론과 로봇 플랫폼, 후쿠시마 제1원전 노심용융으로 생긴 연료함유물질을 원격 채취하는 로봇팔이 시연됐다. 체르노빌 측은 연료함유물질 취급과 '석관(Shelter Object)' 해체에 로봇·원격감시 기술을 쓸 가능성을 가늠하는 것이 목적이라고 밝혔다. 석관에는 고방사성 물질 약 200톤이 남아 있고, 2019년 완공된 신안전차폐물(NSC)은 지난해 드론 공격으로 손상돼 복구비가 약 5억 유로(5억 7,700만 달러)로 추산된다.",
+      "summary_en": "Senior experts from the used fuel management and decommissioning departments of Ukraine's Chernobyl plant (SSE ChNPP) attended a four-day technical event in Fukushima from 2 November, where the Japan Atomic Energy Agency's Centre for Remote Control Technology Department demonstrated its equipment. Drones and robotic platforms for 3D modelling of buildings and surveying high-radiation areas were shown, along with a robotic arm for remote sampling of the fuel-containing materials formed when fuel melted at Fukushima Daiichi. The Chernobyl side said its aim was to assess the scope for using robotic and remote monitoring technologies in handling fuel-containing materials and dismantling the Shelter Object. The shelter still holds about 200 tonnes of highly radioactive material, and the New Safe Confinement completed in 2019 was damaged by a drone strike last year, with repairs estimated at about EUR 500 million (USD 577 million).",
+      "sales_note": "해체·방폐물 시장에서 원격·로봇 역무가 별도 공종으로 분화되는 신호다. 유럽 해체 공고에 원격조작·로봇 시스템 요구가 들어오기 시작하면 시공 역무만으로는 응찰 범위가 좁아지므로, 협력 가능한 원격기술 보유사를 미리 짚어둘 필요가 있다.",
+      "sales_note_en": "A signal that remote and robotic work is separating out as its own trade in the decommissioning and waste market. Once European decommissioning tenders start carrying requirements for remote handling and robotic systems, a construction-only scope will narrow what can be bid, so it is worth identifying remote-technology partners in advance.",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-09",
+      "title": "체코 원자력 규제기관, 한국의 두코바니 원전 품질관리 현장 첫 점검",
+      "title_ko": "체코 원자력 규제기관, 한국의 두코바니 원전 품질관리 현장 첫 점검",
+      "title_en": "Czech nuclear regulator observes a Dukovany quality audit in Korea for the first time",
+      "language": "ko",
+      "source": "한국수력원자력 보도자료",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77785",
+      "published": "2026-11-17",
+      "region": "domestic",
+      "category": "large",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "importance": 2,
+      "summary_ko": "두산에너빌리티가 두코바니 5·6호기 원자로계통 설계를 맡은 한전기술(KEPCO E&C)을 대상으로 11월 16~18일 사흘간 품질보증감사를 실시했고, 체코 원자력안전위원회(SÚJB) 3명과 발주사 EDU II 3명 등 체코측 6명이 전 과정을 참관했다. 계약 체결 이후 체코 규제기관이 이런 감사를 직접 참관한 것은 처음으로, 체코측이 한국이 공급하는 APR1000의 품질경영체계와 공급망 품질역량을 현장에서 확인하는 자리였다. 감사 범위는 한전기술의 품질보증체계 운영, 설계관리, 문서관리, 품질 관련 절차 준수 여부다.",
+      "summary_en": "Doosan Enerbility carried out a three-day quality assurance audit of KEPCO E&C - the company responsible for the reactor system design of Dukovany 5 and 6 - from 16 to 18 November, observed throughout by six Czech officials: three from the Czech nuclear regulator SUJB and three from the plant owner EDU II. It is the first time the Czech regulator has observed such an audit since the contract was signed, letting the Czech side verify at first hand the quality management system and supply chain quality capability behind the APR1000 Korea is supplying. The audit covered KEPCO E&C's quality assurance system operation, design control, document control and compliance with quality-related procedures.",
+      "sales_note": "시공계약 협상 결렬(10월 29일) 이후 발주처·규제기관의 관심이 '한국측이 품질을 지킬 수 있는가'로 옮겨 간 국면에서, 설계·기자재 쪽 품질체계를 규제기관에 직접 보여 신뢰를 복구하는 수단으로 감사 참관이 쓰였다. 두산–한전기술 간 원자로계통 설계용역 계약이 정상 이행 중임을 공개 확인한 효과도 있어, 시공사 교체가 설계·주기기 공급 경로에는 미치지 않고 있다는 근거로 쓸 수 있다.",
+      "sales_note_en": "With the client's and regulator's attention shifting, after construction contract talks ended on 29 October, to whether the Korean side can hold quality, audit observation is being used to rebuild trust by showing the regulator the design and equipment quality system directly. It also confirms publicly that the reactor system design services contract between Doosan and KEPCO E&C is being performed normally - usable as evidence that the contractor change is not reaching the design and main equipment supply route.",
+      "related": [
+        "https://thetracker.co.kr/View.aspx?No=4315783"
+      ]
+    },
+    {
+      "id": "2026-11-18-10",
+      "title": "한수원, 체코 전 산업부장관과 서울서 회동…'원전 협상 결렬' 파장 뚫고 2029년 착공 사수 총력",
+      "title_ko": "한수원, 체코 전 산업부장관(현 하원의원) 블체크와 서울 회동 — 건설 진행·사업관리·인허가·설계 논의",
+      "title_en": "KHNP meets former Czech industry minister Vlcek in Seoul on Dukovany progress, management, licensing and design",
+      "language": "ko",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=109807",
+      "published": "2026-11-17",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "importance": 2,
+      "summary_ko": "체코 하원의원이자 전 산업통상부 장관인 루카시 블체크(Lukáš Vlček)가 최근 서울을 방문해 한국수력원자력 체코사업단장(장현승)과 국회 관계자 등을 만났다. 블체크는 소셜미디어에 두코바니가 \"여전히 나의 최우선 프로젝트\"라고 적고, 한수원과 발주사 EDU II의 합동 점검회의에 이어 건설 진행·사업관리·인허가·설계를 논의했다고 밝혔다. 11월 9~12일 서울에서 열린 그 합동 점검회의에는 체코측 약 30명과 팀코리아 약 70명 등 100명가량이 참석했다. 한수원은 10월 29일 두산에너빌리티·대우건설 컨소시엄과의 시공계약 협상 종료를 발표했고, 대우건설은 일방적 종료라며 산업통상부 중재를 요청한 상태다.",
+      "summary_en": "Lukas Vlcek, a Czech member of parliament and former industry minister, visited Seoul recently and met KHNP's head of the Czech project team, Jang Hyeon-seung, along with National Assembly officials. Vlcek wrote on social media that Dukovany remains his top priority and said the talks, following a joint review between KHNP and the owner company EDU II, covered construction progress, project management, licensing and design. That joint review, held in Seoul from 9 to 12 November, drew about 100 people, including some 30 Czech representatives and about 70 from Team Korea. KHNP announced the end of construction contract talks with the Doosan Enerbility and Daewoo E&C consortium on 29 October, and Daewoo E&C has called the termination unilateral and asked the industry ministry to mediate.",
+      "sales_note": "시공사 교체 국면에서 한수원이 발주처 라인뿐 아니라 체코 의회·정치권까지 접촉면을 넓히고 있다는 신호다. 신규 시공사 선정이 2027년 7월까지로 묶인 만큼 그 사이의 사업 신뢰는 공식 협의체 밖의 정치적 접촉으로 관리되는 구조이며, 체코측 산업계(산업연맹)가 가격·공기·현지참여 약속 이행을 공개 요구한 점은 향후 현지화 요구 수준을 가늠할 근거가 된다.",
+      "sales_note_en": "A signal that, through the contractor replacement, KHNP is widening its contact surface beyond the client to the Czech parliament and political circles. With the new contractor selection locked to July 2027, confidence in the project through that interval is being managed by political contact outside the formal consultative channels - and the Czech industry federation's public demand that commitments on price, schedule and local participation be honoured is a gauge of the localisation requirements to come.",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-11",
+      "title": "[단독]포스코인터, 美 ARC와 협약...4세대 원전 실증사업 참여",
+      "title_ko": "[단독 보도] 국내 기업–美 ARC 클린테크놀로지 MOU, ARC-100용 HALEU·핵연료 통합 공급망 모색 — 보도 내 당사자 표기 불일치",
+      "title_en": "Trade report: a Korean company signs an MOU with ARC Clean Technology on an integrated HALEU and fuel supply chain for the ARC-100",
+      "language": "ko",
+      "source": "더트래커",
+      "url": "https://thetracker.co.kr/View.aspx?No=4317566",
+      "published": "2026-11-18",
+      "region": "domestic",
+      "category": "fuel",
+      "countries": [
+        "KR",
+        "US"
+      ],
+      "importance": 2,
+      "summary_ko": "더트래커가 국내 기업과 미국 ARC 클린테크놀로지(ARC Clean Technology)의 업무협약(MOU) 체결을 단독 보도했다. 양측은 ARC가 개발 중인 100MWe급 소듐냉각고속로 ARC-100에 쓰일 HALEU와 관련 핵연료의 통합 공급망 구축을 모색하기로 했다. ARC는 아이다호 국립연구소(INL) 운영사 배텔에너지얼라이언스(BEA)와 손잡고 INL 부지에 약 200MWe 규모 상업 실증시설을 추진하고 있다. 다만 기사 제목과 리드는 포스코인터내셔널을, 본문 첫 문단은 현대엔지니어링을 MOU 당사자로 적어 당사자가 확정되지 않으며, 현대엔지니어링–ARC MOU는 2026년 10월 29일 이미 공표된 건이다. 계약금액·투자규모·실증 일정은 보도에 없다.",
+      "summary_en": "Korean trade outlet The Tracker reported exclusively that a Korean company has signed a memorandum of understanding with US developer ARC Clean Technology, under which the parties would explore building an integrated supply chain for HALEU and related fuel for the ARC-100, a 100 MWe sodium-cooled fast reactor under development. ARC is pursuing a commercial demonstration facility of about 200 MWe at the Idaho National Laboratory site with Battelle Energy Alliance, which operates the laboratory. The counterparty is not established, however: the headline and lead name POSCO International while the opening paragraph of the body names Hyundai Engineering, whose own MOU with ARC was already announced on 29 October 2026. No contract value, investment size or demonstration schedule is given.",
+      "sales_note": "국내 기업의 4세대 원전 참여 경로가 시공·기자재에서 연료 공급망으로 넓어지는 흐름을 보여준다. 다만 당사자 표기가 보도 안에서 엇갈려 회사 공시나 공식 발표로 확인되기 전에는 영업 판단의 근거로 쓰지 않는 것이 안전하다.",
+      "sales_note_en": "It points to Korean companies widening their route into Generation IV projects from construction and equipment into the fuel supply chain. The counterparty is contradicted within the report itself, however, so it is safer not to use this as a basis for commercial judgement until confirmed by a company disclosure or official announcement.",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-12",
+      "title": "경북 상주시 인근 규모 3.6 지진 관련, 원자로 시설 안전에는 영향 없는 것으로 확인",
+      "title_ko": "경북 상주 규모 3.6 지진 — 원안위, 원자로 시설 안전 영향 없음 확인",
+      "title_en": "NSSC confirms no impact on reactor facility safety from the magnitude 3.6 earthquake near Sangju",
+      "language": "ko",
+      "source": "정책브리핑 (원자력안전위원회)",
+      "url": "https://www.korea.kr/briefing/pressReleaseList.do?pageIndex=1&srchWord=%EC%9B%90%EC%9E%90%EB%A0%A5",
+      "published": "2026-11-18",
+      "region": "domestic",
+      "category": "policy",
+      "countries": [
+        "KR"
+      ],
+      "importance": 1,
+      "summary_ko": "원자력안전위원회가 경상북도 상주시 인근에서 발생한 규모 3.6 지진과 관련해 원자로 시설 안전에는 영향이 없는 것으로 확인됐다고 11월 18일 밝혔다. 지진 발생 시각과 호기별 계측값은 보도자료 목록 단계에서 확인되지 않았다.",
+      "summary_en": "The Nuclear Safety and Security Commission said on 18 November that a magnitude 3.6 earthquake near Sangju in North Gyeongsang Province had been confirmed to have no impact on the safety of reactor facilities. The time of the earthquake and unit-by-unit instrument readings were not available from the press release listing.",
+      "sales_note": "",
+      "sales_note_en": "",
+      "related": []
+    }
+  ]
+}

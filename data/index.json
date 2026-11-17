@@ -1,6 +1,12 @@
 {
  "days": [
   {
+   "date": "2026-11-18",
+   "article_count": 12,
+   "headline_ko": "폴란드 첫 원전(사업주 PEJ, 호체보 루비아토보-코팔리노 부지, AP1000 3기·최대 3,750MW)의 EPC사 벡텔 폴란드가 Balance of Plant 건축허가 설계도서 작성과 종합설계자(General Designer) 지원 용역을 11월 17일 공고해, 이 사업의 발주 단계가 기자재 단품에서 허가설계·설계총괄로 올라섰다 — 역무는 폴란드 건축법에 따른 BOP 영구설비 건축허가 설계도서 4개 대형 패키지와, 벡텔·웨스팅하우스·제3자 설계입력이 섞인 13개 허가패키지 간 인터페이스를 총괄하는 종합설계자 역무로 나뉘고, 실비정산(Time and Material) 방식에 하도급 완료 시점은 2035년 12월 전망이며 공고에 마감일·추정금액이 없고 제출은 벡텔 자체 공급사 포털을 거친다. 국내에서는 두산에너빌리티가 두코바니 5·6호기 원자로계통 설계를 맡은 한전기술을 대상으로 11월 16~18일 품질보증감사를 실시하고 체코 원자력안전위원회(SÚJB) 3명과 발주사 EDU II 3명이 전 과정을 참관해, 계약 체결 이후 체코 규제기관이 이런 감사를 직접 참관한 첫 사례가 됐다.",
+   "headline_en": "Bechtel Polska, the EPC contractor for Poland's first nuclear plant - owned by Polskie Elektrownie Jadrowe and sited at Lubiatowo-Kopalino for three AP1000 units of up to 3,750 MW - published a contract notice on 17 November for balance-of-plant construction permit design development and General Designer support, lifting procurement on the project from single equipment items to permit design and design coordination. The scope splits between four large construction permit design packages for permanent BOP structures under Polish Building Law and the General Designer role coordinating interfaces across 13 permit packages that carry design inputs from Bechtel, Westinghouse and third parties; it runs on a time-and-material basis with the subcontract forecast to complete in December 2035, and the notice carries no deadline and no estimated value, with bids going through Bechtel's own supplier portal. In Korea, Doosan Enerbility audited KEPCO E&C, which holds the reactor system design for Dukovany 5 and 6, from 16 to 18 November, with three officials from the Czech regulator SUJB and three from the owner company EDU II observing throughout - the first time the Czech regulator has observed such an audit since the contract was signed."
+  },
+  {
    "date": "2026-11-17",
    "article_count": 16,
    "headline_ko": "슬로바키아 전력공사 Slovenské elektrárne가 모호우체 1·2호기 안전계통(SORR·SIS·CPL) 현대화 2억 7,690만 유로 경쟁적 대화 공고를 11월 16일 다시 게재해 참가신청 마감을 12월 8일에서 12월 23일로 15일 연장했고, 같은 기간 체코 ČEZ ENERGOSERVIS는 두코바니·테멜린 전기설치공사·DOSP 지원 역무의 자격심사시스템을 새로 열어 — 신규 건설 입찰이 조용한 구간에 유럽 가동원전의 개보수·계측제어 현대화와 시공 자격심사가 동시에 열렸다. 같은 날 프랑스 감사원은 EPR2 6기 사업비를 2025년 가치 840억 유로(당초 517억 유로)로 재산정하고 전력가격 70유로/MWh 하회 시 추가 국고 없이는 자금조달이 어렵다고 경고했으며, 국내에서는 원자력안전위원회가 한울원전 취수구 삼중수소 검출(지하수 관측정 3만Bq/L·취수구 117Bq/L·제한구역 외부 해수 불검출, 액체 방사성폐기물 배출 배관 손상 추정) 사건조사에 착수했다.",

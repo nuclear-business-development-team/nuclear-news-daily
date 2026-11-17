@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
@@ -626,6 +626,45 @@
    "published": "2026-10-29",
    "deadline": null,
    "url": "https://www.find-tender.service.gov.uk/Notice/102534-2026"
+  },
+  {
+   "country": "PL",
+   "buyer": "Bechtel Polska Sp. z o.o.",
+   "title": "폴란드 원전 Balance of Plant 건축허가 설계도서 작성 및 종합설계자(General Designer) 지원 용역",
+   "title_en": "Balance of Plant Construction Permit Design Development and General Designer Support Services",
+   "scope": "사업주는 Polskie Elektrownie Jądrowe(PEJ), 대상 설비는 AP1000 3기·설비용량 최대 3,750MW(호체보군 루비아토보-코팔리노). 역무는 ① 폴란드 건축법에 따른 BOP 영구설비 건축허가 설계도서 4개 대형 패키지 작성(패키지별 토지이용계획·건축구조설계·기술설계 3권과 허가신청서·부속서류, 설계입력 검증·수리권 및 예외허가 신청·환경영향평가 결정 부합성 확인·영문/폴란드어 동시 제출·관청 절차 지원·설계자 감리 포함)과 ② 벡텔·웨스팅하우스·제3자 설계입력이 혼재하는 13개 허가패키지 간 인터페이스를 총괄하는 종합설계자 역무로 나뉜다. 단가 합의 기반 실비정산(Time and Material) 방식이며 하도급 완료 전망은 2035년 12월이다. 공고에 응찰 마감일과 추정금액은 기재되지 않았고, 제출은 발주처 공급사 포털 등록을 경유한다. CPV 79933000.",
+   "scope_en": "The owner is Polskie Elektrownie Jadrowe (PEJ) and the plant is three AP1000 units with an installed capacity of up to 3,750 MW at Lubiatowo-Kopalino in the Choczewo municipality. The work splits into two parts: four large construction permit design packages for permanent balance-of-plant structures under Polish Building Law, each comprising a land development plan, architectural and construction design and technical design together with permit application forms and formal attachments, with design input verification, water permits and derogation applications, confirmation of compliance with the EIA decision, documentation in both English and Polish, support to authority proceedings and author's supervision; and the General Designer role, coordinating interfaces across 13 permit packages that carry design inputs from Bechtel, Westinghouse and third parties. Proposals are on a time-and-material basis with agreed unit rates, and the subcontract is forecast to complete in December 2035. The notice states no deadline for receipt of tenders and no estimated value, and bids are submitted through the buyer's supplier portal. CPV 79933000.",
+   "portal": "TED",
+   "notice_no": "797929-2026",
+   "published": "2026-11-17",
+   "deadline": null,
+   "url": "https://ted.europa.eu/en/notice/797929-2026/pdf"
+  },
+  {
+   "country": "CZ",
+   "buyer": "ČEZ ENERGOSERVIS spol. s r.o.",
+   "title": "두코바니(EDU)·테멜린(ETE) 전기설치공사 및 DOSP 지원 공급사 자격심사시스템 — 역량지원(kapacitní výpomoci) 범주",
+   "title_en": "Qualification system for electrical installation works and DOSP support at Dukovany and Temelin - capacity support category",
+   "scope": "장래 발주를 위한 유자격 공급사 명부를 구성하는 자격심사시스템이다. 대상 역무는 전기설비·배전·케이블 계통·배전반·계측제어·보호계통의 설치·해체·개조·수리·정비·시험·시운전에 투입할 유자격 인력 공급과, DOSP 문서작성의 행정·기술 지원이다. 응찰 마감일이 있는 입찰이 아니라 유효기간이 2100년 12월 31일까지인 상시 접수 체계이며, 공고에 금액은 기재되지 않았다. 제출 창구는 체코 국가전자조달시스템(NEN)의 자격심사 등록부다. CPV 51110000·50711000.",
+   "scope_en": "A qualification system building a register of qualified suppliers for future contracts. The scope covers the supply of qualified personnel for installing, dismantling, modifying, repairing, maintaining, testing and commissioning electrical equipment, distribution and cable systems, switchgear, instrumentation and control and protection systems, together with administrative and technical support for preparing DOSP documentation. It is not a tender with a closing date but a standing register valid to 31 December 2100, and the notice states no value. Submissions go through the qualification register of the Czech national electronic procurement system (NEN). CPV 51110000 and 50711000.",
+   "portal": "TED",
+   "notice_no": "797748-2026",
+   "published": "2026-11-17",
+   "deadline": null,
+   "url": "https://ted.europa.eu/en/notice/797748-2026/pdf"
+  },
+  {
+   "country": "PL",
+   "buyer": "Bechtel Polska Sp. z o.o.",
+   "title": "1,000실 숙소시설 운영·정비(O&M)",
+   "title_en": "1,000 Rooms Accommodation Facility - Operation and Maintenance",
+   "scope": "폴란드 원전 부지의 1,000실 숙소시설 운영·정비 용역이다. 입찰설명서(RFQ)에 제안서 질의서·역무범위·시방·도면·데이터시트·계약조건·평가기준·공정자료가 포함되며, RFQ는 발주처 디지털 공급망 시스템으로 발급된다. 공고에 응찰 마감일과 추정금액은 기재되지 않았다. CPV 98341100.",
+   "scope_en": "Operation and maintenance of a 1,000-room accommodation facility at the Polish nuclear plant site. The request for quotation covers a proposal questionnaire, scope of works, specifications, drawings, datasheets, terms and conditions, award criteria and schedule data, and is issued through the buyer's digital supply chain system. The notice states no deadline for receipt of tenders and no estimated value. CPV 98341100.",
+   "portal": "TED",
+   "notice_no": "794931-2026",
+   "published": "2026-11-16",
+   "deadline": null,
+   "url": "https://ted.europa.eu/en/notice/794931-2026/pdf"
   }
  ]
 }

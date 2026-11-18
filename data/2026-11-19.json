@@ -1,0 +1,449 @@
+{
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T09:05:00+09:00",
+ "period": {
+  "from": "2026-11-18",
+  "to": "2026-11-19"
+ },
+ "overview_ko": "신규 발주가 조용한 구간에 구조·설계 역무가 '본공사 입찰' 대신 실증·용역 형태로 먼저 열린 회차다. 롤스로이스 SMR은 원자로섬 하부 면진베어링 받침대를 영국 돈캐스터 공장에서 사전제작 실증체로 검증했고, 퓨전포에너지는 요건관리·검증·인터페이스·형상관리를 묶은 시스템엔지니어링 기본계약 800만 유로를 낙찰했으며, 프랑스 CEA는 마르쿨 LG1·HERA·CD 시설 안전 지원 용역을 공고했다. 미국에서는 ENTRA1 에너지가 사전트앤런디와 뉴스케일 노형 기반 발전소의 설계·엔지니어링을 묶어, 설계 발주가 노형사가 아니라 상용화 독점권·금융을 쥔 사업개발 주체로 옮겨 가는 구도를 보였다. 사업 진행 쪽에서는 아쿠유 1호기가 1차계통 285℃·16.5MPa 고온·저온 시운전에 실제 착수해 물리적 기동이 '반 걸음' 남았고, 화이트앤케이스 조사는 1~9월 세계 원자력 인수합병을 103억 달러·60건으로 집계하며 심사 축이 자금조달 가능성·수행계획·인허가 준비도·리스크 배분에 모인다고 지적했다. 영업 관점: 공고 마감일보다 실증·용역 단계 참여 이력이 자격을 가르는 구간이므로, 노형사의 구조물 실증 발주와 EPC사·사업개발사 명의 설계 하도급을 사업주 명의 공고와 별도 감시 축으로 두는 편이 낫다.",
+ "overview_en": "With new-build tendering quiet, this was a round in which structural and design scope opened as demonstrators and services rather than main construction bids. Rolls-Royce SMR proved out the aseismic bearing pedestal that sits beneath its nuclear island as a precast demonstrator at a Doncaster factory; Fusion for Energy awarded a EUR 8 million framework bundling requirements management and verification, interface monitoring and configuration management; and France's CEA tendered safety assistance for its Marcoule LG1, HERA and CD facilities. In the USA, ENTRA1 Energy brought in Sargent & Lundy for engineering and design on plants based on NuScale's technology, showing design scope moving away from the reactor designer and toward the development entity that holds commercialisation rights and financing. On project execution, Akkuyu unit 1 actually entered hot-cold commissioning at 285C and 16.5 MPa in the primary circuit, leaving physical startup \"half a step\" away, while White & Case research put global nuclear M&A at USD10.3 billion over 60 deals in the nine months and noted screening converging on bankability, delivery plans, regulatory readiness and risk allocation. Sales angle: in a phase where a record from the demonstrator and services stage decides qualification more than any notice deadline, reactor designers' structural demonstrator awards and design subcontracts let in the name of EPC contractors and developers deserve monitoring lines of their own, separate from notices issued by owners.",
+ "domestic_overview_ko": "국내는 제도·사업 양쪽에서 굵은 건이 겹쳤다. 기후에너지환경부는 원전 정부승인차액계약을 2027년 1월 1일부터 5년간 적용한다고 밝혔다 — 한수원·한전이 10월 말 서명하고 11월 13일 전기위원회 심의를 마쳤으며, 대상은 2025년 거래 기준 연간 전력거래량의 약 32.1%로 이 제도가 주력 전원에 적용되는 첫 사례다. 산업통상부는 박동일 차관 주재로 11월 18일 제2차 한수원 추진계획 점검회의를 열어 설계·인허가, 부지정보 검증, 숙소부지 선정, 신규 시공사 선정의 주단위 관리계획을 연내 보고 목표로 수립 중임을 확인하고, 제4차 한·체코 장관급 두코바니 이행점검위원회를 12월 10일 국내에서 개최한다고 밝혔다. 해외사업에서는 삼성물산이 폴란드 SGE·GE버노바히타치와 11월 24일 버밍엄에서 공급망 행사를 열어 영국 3개 부지 BWRX-300 14기·4.2GW 사업의 현지 파트너 발굴에 들어가고, 포스코인터내셔널은 미국 ARC 클린테크놀로지와 ARC-100용 핵연료 공급·공급망 MOU를 맺은 당사자로 확인됐다. 영업 관점: 차액계약은 제안서 재무 건전성 장에 인용할 공개 근거를 만들지만 기준가격이 비공개여서 수익 영향은 아직 판단할 수 없고, 두코바니 입찰 조건이 공개될 가장 이른 시점은 12월 10일 장관급 협의체다.",
+ "domestic_overview_en": "Domestically, a major regulatory change and major project news landed together. The Ministry of Climate, Energy and Environment said a government-approved contract for difference will apply to nuclear generation for five years from 1 January 2027: KHNP and KEPCO signed in late October and the Electricity Commission completed its review on 13 November, covering about 32.1% of annual traded electricity on 2025 volumes - the first application of the mechanism to a main power source. The Ministry of Trade, Industry and Energy held a second review of KHNP's project plan on 18 November, chaired by Vice Minister Park Dong-il, confirming that week-by-week management plans for design and licensing, site-information verification, accommodation site selection and selection of a new construction contractor are being drawn up for a report by the end of the year, and that the fourth Korea-Czech ministerial Dukovany implementation review council will be held in Korea on 10 December. Overseas, Samsung C&T will hold a supply chain event in Birmingham on 24 November with Poland's SGE and GE Vernova Hitachi to find local partners for a 14-unit, 4.2 GW BWRX-300 programme across three UK sites, and POSCO International was confirmed as the party to an MOU with ARC Clean Technology on fuel supply and supply chain for the ARC-100. Sales angle: the contract for difference creates publicly citable evidence for the financial-standing section of a proposal, though with the reference price undisclosed its effect on earnings cannot yet be judged, and the 10 December ministerial council is the earliest point at which Dukovany bid conditions are likely to become public.",
+ "countries_pulse": [
+  {
+   "country": "GB",
+   "name_ko": "영국",
+   "name_en": "United Kingdom",
+   "stance": "expanding",
+   "signal": "롤스로이스 SMR이 원자로섬 하부 면진베어링 받침대를 공장 사전제작 실증으로 검증 — 구조·토건 초호기 패키지가 본공사 전에 공급망 실증으로 먼저 열렸고, 삼성물산·SGE·GVH의 BWRX-300 14기 사업도 GBE-N 예비 규제평가 심층검토로 진입",
+   "signal_en": "Rolls-Royce SMR proved out its nuclear island aseismic bearing pedestal as a factory-precast demonstrator, opening structural first-of-a-kind scope as a supply chain trial ahead of main construction, while the Samsung C&T, SGE and GVH 14-unit BWRX-300 project entered detailed GBE-N preliminary regulatory assessment",
+   "article_ids": [
+    "2026-11-19-01",
+    "2026-11-19-09",
+    "2026-11-19-11"
+   ]
+  },
+  {
+   "country": "TR",
+   "name_ko": "튀르키예",
+   "name_en": "Türkiye",
+   "stance": "expanding",
+   "signal": "아쿠유 1호기가 1차계통 285℃·16.5MPa 고온·저온 시운전에 실제 착수 — 물리적 기동이 '반 걸음' 남았다는 로사톰 발언으로 첫 발전 시점이 당겨졌다",
+   "signal_en": "Akkuyu unit 1 actually began hot-cold commissioning at 285C and 16.5 MPa in the primary circuit, with Rosatom calling physical startup \"half a step\" away and pulling first power closer",
+   "article_ids": [
+    "2026-11-19-02"
+   ]
+  },
+  {
+   "country": "US",
+   "name_ko": "미국",
+   "name_en": "United States",
+   "stance": "expanding",
+   "signal": "설계·엔지니어링 발주가 노형사 대신 상용화 독점권·금융을 쥔 사업개발 주체로 옮겨 가는 사례(ENTRA1–사전트앤런디)와, 뉴욕주 사전자격심사 통과 노형사에 국내 기자재·EPC가 구속력 있는 계약으로 묶여 있는 구도가 함께 확인",
+   "signal_en": "Engineering scope is shifting from reactor designers to the development entities holding commercialisation rights and financing, as with ENTRA1 and Sargent & Lundy, while Korean equipment and EPC firms are shown tied by binding contracts to the designers that cleared New York's pre-qualification",
+   "article_ids": [
+    "2026-11-19-03",
+    "2026-11-19-13",
+    "2026-11-19-14"
+   ]
+  },
+  {
+   "country": "NO",
+   "name_ko": "노르웨이",
+   "name_en": "Norway",
+   "stance": "expanding",
+   "signal": "선박용 원자력추진(MarNuPS)에 연구위원회 2,000만 크로네 투입 — 2027년 전기가열 통합시험설비를 거쳐 2031~2032년 선박 적용을 노리는 단계 구성이 공표",
+   "signal_en": "The Research Council put NOK20 million into marine nuclear propulsion (MarNuPS), setting out a staged path through an electrically heated integrated test facility in 2027 toward vessel deployment in 2031/2032",
+   "article_ids": [
+    "2026-11-19-05"
+   ]
+  },
+  {
+   "country": "FR",
+   "name_ko": "프랑스",
+   "name_en": "France",
+   "stance": "steady",
+   "signal": "원자력청(CEA)이 군사응용국 안전엔지니어링 기본협약에 이어 마르쿨 LG1·HERA·CD 시설 안전 지원 용역을 연속 발주 — 연구·국방 시설 용역시장이 신규건설과 별개로 유지",
+   "signal_en": "After the military applications division's safety engineering framework, the CEA has followed with safety assistance services for its Marcoule LG1, HERA and CD facilities, sustaining a research and defence services market quite separate from new build",
+   "article_ids": [
+    "2026-11-19-08"
+   ]
+  },
+  {
+   "country": "FI",
+   "name_ko": "핀란드",
+   "name_en": "Finland",
+   "stance": "steady",
+   "signal": "포툼이 영국 NRS 둔레이 습식사일로 침출수 이온교환 처리 타당성조사를 아멘텀과 병렬 수주 — 자국 신규건설 결정과 별개로 해체·폐기물 처리 용역 수출 실적을 추가",
+   "signal_en": "Fortum won one of two parallel feasibility studies at NRS Dounreay, alongside Amentum, for ion-exchange treatment of wet silo liquor - adding decommissioning and waste treatment service exports quite apart from any domestic new build decision",
+   "article_ids": [
+    "2026-11-19-09"
+   ]
+  },
+  {
+   "country": "RU",
+   "name_ko": "러시아",
+   "name_en": "Russia",
+   "stance": "expanding",
+   "signal": "로스테흐나드조르가 점령 중인 자포리자 3호기 운전허가 심사에 착수(허가 2027년 3월 전망)하는 한편, 아쿠유에서는 1호기 고온·저온 시운전으로 수출 사업의 공정을 진전",
+   "signal_en": "Rostekhnadzor began reviewing an operating licence for the occupied Zaporizhzhia unit 3, with the licence expected in March 2027, while in Turkey its export project advanced into hot-cold commissioning at Akkuyu 1",
+   "article_ids": [
+    "2026-11-19-07",
+    "2026-11-19-02"
+   ]
+  },
+  {
+   "country": "CZ",
+   "name_ko": "체코",
+   "name_en": "Czechia",
+   "stance": "steady",
+   "signal": "발주처 EDU II 방한 협의(11월 9~12일)와 국장급 영상회의로 현안 조율이 유지되는 가운데, 제4차 한·체코 장관급 두코바니 이행점검위원회가 12월 10일 국내에서 열린다",
+   "signal_en": "Issue coordination is holding up through the client EDU II's 9-12 November visit to Korea and director-general video meetings, with the fourth Korea-Czech ministerial Dukovany implementation review council set for 10 December in Korea",
+   "article_ids": [
+    "2026-11-19-12"
+   ]
+  },
+  {
+   "country": "INT",
+   "name_ko": "국제기구",
+   "name_en": "International",
+   "stance": "steady",
+   "signal": "세계 원자력 인수합병이 1~9월 103억 달러로 전년 연간치에 접근하며 심사 축이 자금조달 가능성·수행계획·인허가 준비도·리스크 배분으로 모이고, IAEA는 운영안전점검(신고리 2호기)으로 가동단계 검증을 이어간다",
+   "signal_en": "Global nuclear M&A reached USD10.3 billion in the nine months, closing on last year's full-year total, with screening converging on bankability, delivery plans, regulatory readiness and risk allocation, while the IAEA continued operating-stage verification through its OSART at Shin Kori 2",
+   "article_ids": [
+    "2026-11-19-04",
+    "2026-11-19-06",
+    "2026-11-19-15"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-19-01",
+   "title": "Prototype aseismic bearing completed for Rolls-Royce SMR",
+   "title_ko": "스칸스카, 롤스로이스 SMR 원자로섬 하부 면진베어링 받침대 실증체 제작 완료 — 영국 돈캐스터 공장서 사전제작·시험",
+   "title_en": "Skanska completes first-of-a-kind precast aseismic bearing pedestal demonstrator for Rolls-Royce SMR",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/prototype-aseismic-bearing-completed-for-rolls-royce-smr",
+   "published": "2026-11-18",
+   "region": "overseas",
+   "category": "smr",
+   "countries": [
+    "GB"
+   ],
+   "importance": 2,
+   "summary_ko": "스칸스카 영국법인이 롤스로이스 SMR의 면진베어링(aseismic bearing) 받침대 실증체를 제작·시험 완료했다고 11월 18일 발표됐다. 2026년 1월 롤스로이스 SMR이 스칸스카에 발주한 역무로, 면진베어링은 원자로섬 하부에 놓여 지진 시 지반 운동과 원자로건물을 분리해 지진에너지를 흡수·소산시켜 상부 구조물에 전달되는 힘을 줄이는 장치다. 이번 실증의 목적은 초호기성(first-of-a-kind) 받침대를 현장이 아니라 공장에서 사전제작(precast)하는 방식의 성립 여부를 확인하는 것으로, 제작·시험은 잉글랜드 돈캐스터의 스칸스카 벤틀리웍스에서 수행됐다. 롤스로이스 SMR 노형은 470MWe로 약 90%를 공장제작하는 설계이며, 베어링의 적용 호기는 발표에 명시되지 않았다.",
+   "summary_en": "Skanska UK has built and trialled an aseismic bearing pedestal demonstrator for Rolls-Royce SMR, announced on 18 November. Rolls-Royce SMR awarded the work in January 2026. The bearings sit beneath the nuclear island and decouple the reactor building from ground motion in an earthquake, absorbing and dissipating seismic energy so that less force reaches the superstructure. The demonstrator was built to prove out making the first-of-a-kind pedestal as a precast unit off site rather than in situ, and was constructed and tested at Skanska's Bentley Works in Doncaster, England. The Rolls-Royce SMR design is rated 470 MWe and is about 90% factory-built. The announcement does not say which units will use the bearing.",
+   "sales_note": "구조·토건 초호기 패키지가 본공사 입찰보다 먼저 '공장 사전제작 실증' 형태로 열리는 구도가 확인됐다. 격납·대형 구조물 제작으로 들어가려면 본입찰 시점이 아니라 실증·시작품 단계의 참여 이력이 자격 근거가 될 수 있으므로, 노형 개발사의 구조물 실증 발주를 별도 감시 축으로 두는 편이 낫다.",
+   "sales_note_en": "Structural and civil first-of-a-kind packages are opening as factory-precast demonstrators ahead of any main construction tender. For firms targeting containment or large structural fabrication, a track record from the demonstrator and prototype stage - not the main bid itself - can become the qualifying credential, so reactor developers' structural demonstrator awards deserve their own monitoring line.",
+   "related": [
+    "https://www.nucnet.org/news/sweden-s-skanska-completes-critical-demonstrator-project-for-rolls-royce-smr-11-3-2026"
+   ]
+  },
+  {
+   "id": "2026-11-19-02",
+   "title": "Akkuyu NGS'nin 1. güç ünitesinde reaktör tesisinin \"sıcak soğuk çalıştırması\" başladı",
+   "title_ko": "[새 사실] 아쿠유 1호기 원자로계통 고온·저온 시운전 개시 — 1차계통 285℃·16.5MPa, 연료모의체로 수행",
+   "title_en": "Hot-cold commissioning begins on Akkuyu unit 1's reactor plant",
+   "language": "tr",
+   "source": "Anadolu Ajansı (Enerji Terminali)",
+   "url": "https://www.aa.com.tr/tr/enerjiterminali/elektrik/akkuyu-ngsnin-1-guc-unitesinde-reaktor-tesisinin-sicak-soguk-calistirmasi-basladi/61103",
+   "published": "2026-11-18",
+   "region": "overseas",
+   "category": "large",
+   "countries": [
+    "TR",
+    "RU"
+   ],
+   "importance": 2,
+   "summary_ko": "11월 16일 보도(고온기능시험 성공 시 12월 연료장전 전망)에서 한 단계 나아가, 아쿠유 1호기 원자로계통의 고온·저온 시운전(sıcak soğuk çalıştırma)이 11월 18일 실제로 개시됐다. 원자로계통을 단계적으로 가열해 1차계통 냉각재(화학처리수)를 정격 조건인 285℃·16.5MPa까지 올리고, 실제 핵연료 대신 연료집합체 모의체를 넣은 상태로 1·2차계통 설비를 운전조건에서 시험한다. 확인 대상은 설비·배관 강도와 진동 특성, 전기계통, 안전계통, 원자로 제어·보호계통이다. 시험 후 주기기·보조기기를 분해점검하며 그 결과로 최초 임계 준비 여부를 판정하고, 이어 우라늄 연료집합체를 처음 장전한 뒤 튀르키예 규제기관이 기동을 허가한다. 리하초프 로사톰 사장은 저온·고온 시험 허가를 받아 시험에 착수했고 물리적 기동이 '반 걸음' 남았다고 밝혔다.",
+   "summary_en": "Moving a step beyond the 16 November report that fuel loading could follow successful hot tests in December, hot-cold commissioning of Akkuyu unit 1's reactor plant actually began on 18 November. The reactor plant is heated in stages to bring the primary circuit coolant - chemically treated water - to nominal conditions of 285C and 16.5 MPa, and primary and secondary circuit equipment is tested under operating conditions with fuel assembly simulators in place of real nuclear fuel. The tests check equipment and pipework strength and vibration behaviour, electrical systems, safety systems and the reactor control and protection system. Main and auxiliary equipment will then be overhauled, with those results determining readiness for first criticality, after which uranium fuel assemblies are loaded for the first time and Turkey's regulator permits startup operations. Rosatom Director General Alexei Likhachev said permission for the cold and hot tests had been obtained and that physical commissioning is now \"half a step\" away.",
+   "sales_note": "아쿠유가 실제 발전에 들어가면 러시아 건설·소유·운영(BOO) 모델의 첫 완주 사례가 되고, 같은 정부가 병행 검토 중인 시놉(한국·캐나다 2파전)에서 사업구도 비교의 기준점이 된다. 순수 EPC 제안만으로는 금융·지분 조달을 함께 제시하는 경쟁 제안과 맞서기 어려워지므로, 시놉 제안 설계 시 금융 패키지를 기술 제안과 같은 비중으로 준비할 필요가 있다.",
+   "sales_note_en": "If Akkuyu reaches power generation it becomes the first Russian build-own-operate project to run the full course, and a benchmark for comparing commercial structures in Sinop, where the same government is weighing Korea against Canada. A pure EPC offer will struggle against rival proposals that bundle financing and equity, so a Sinop bid needs its financing package worked up to the same depth as its technical offer.",
+   "related": [
+    "https://www.aa.com.tr/tr/ekonomi/rosatom-genel-muduru-likhachev-akkuyu-ngsnin-ilk-unitesinde-fiziki-calistirmaya-bir-adim-uzaktayiz-/4128661"
+   ]
+  },
+  {
+   "id": "2026-11-19-03",
+   "title": "ENTRA1 teams up with Sargent & Lundy for SMR deployment",
+   "title_ko": "ENTRA1 에너지–사전트앤런디, 뉴스케일 SMR 기반 발전소 설계·엔지니어링 협력",
+   "title_en": "ENTRA1 Energy partners Sargent & Lundy for engineering on NuScale-based plants",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/entra1-teams-up-with-sargent-lundy-for-smr-deployment",
+   "published": "2026-11-18",
+   "region": "overseas",
+   "category": "smr",
+   "countries": [
+    "US"
+   ],
+   "importance": 2,
+   "summary_ko": "시카고 기반 엔지니어링사 사전트앤런디(Sargent & Lundy)가 ENTRA1 에너지와 협력해 뉴스케일 파워 SMR 기술을 적용한 'ENTRA1 에너지 플랜트'의 개발·수행에 엔지니어링·설계를 지원한다고 11월 18일 발표됐다. 발표는 '파트너십·전략적 관계'로만 표현돼 티밍협약·MOU·계약 중 어느 형태인지는 명시되지 않았다. ENTRA1은 뉴스케일의 전략적 파트너로 뉴스케일 제품·용역의 상용화·유통·배치에 관한 전세계 독점권을 보유하고, 발전소를 직접 소유·금융조달하는 구조다. 뉴스케일 파워모듈은 1기 77MWe, 12모듈 VOYGR-12는 924MWe이며, ENTRA1은 테네시강유역개발청(TVA)과 7개 주 공급구역에서 발전소 6기·최대 6GW 규모 협약을 맺고 있다.",
+   "summary_en": "Chicago-based engineering firm Sargent & Lundy is partnering ENTRA1 Energy to provide engineering and design support for developing and executing ENTRA1 Energy Plants built on NuScale Power's SMR technology, announced on 18 November. The announcement describes only a partnership and \"strategic relationship\", without saying whether it is a teaming agreement, an MOU or a contract. ENTRA1 is NuScale's strategic partner and holds exclusive global rights to commercialise, distribute and deploy NuScale's products and services, owning and financing the plants itself. A NuScale Power Module is rated 77 MWe and the twelve-module VOYGR-12 at 924 MWe; ENTRA1 has an agreement with the Tennessee Valley Authority covering six plants and up to 6 GW across TVA's seven-state service region.",
+   "sales_note": "설계·엔지니어링 역무가 노형 개발사(뉴스케일)가 아니라 상용화 독점권을 가진 사업개발·금융 주체(ENTRA1)를 통해 발주되는 구도다. 미국 SMR 시장에서 엔지니어링·EPC 창구를 찾을 때 노형사 접촉만으로는 닿지 않는 경로가 있다는 뜻이므로, 노형별로 '누가 발주 주체인가'를 분리해 정리해 둘 필요가 있다.",
+   "sales_note_en": "Design and engineering scope here is being let not by the reactor designer, NuScale, but by ENTRA1, the development and financing entity that holds the exclusive commercialisation rights. In the US SMR market that means some engineering and EPC routes cannot be reached by approaching the technology vendor alone, so it is worth mapping, design by design, who the actual contracting party is."
+  },
+  {
+   "id": "2026-11-19-04",
+   "title": "Nuclear M&A deals total USD10.3 billion in first nine months of 2026",
+   "title_ko": "2026년 1~9월 세계 원자력 인수합병 103억 달러·60건 — EMEA 39억 달러로 전년 연간치의 2배 초과",
+   "title_en": "Nuclear M&A reaches USD10.3 billion over 60 deals in the first nine months of 2026",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/nuclear-manda-deals-total-10.3-billion-in-first-nine-months-of-2026",
+   "published": "2026-11-18",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "INT"
+   ],
+   "importance": 2,
+   "summary_ko": "법률회사 화이트앤케이스(White & Case)가 머저마켓과 함께 낸 조사에서 2026년 1~9월 완료된 세계 원자력 인수합병이 103억 달러·60건으로 집계됐다고 11월 18일 보도됐다. 2025년 연간 실적은 112억 달러·82건으로, 2026년은 금액 기준으로 전년 연간치를 넘어설 전망이다. 권역별로 EMEA가 1~9월 39억 달러로 2025년 연간치의 2배를 넘었고, 미국은 3분기 3개월간 40억 달러를 기록했다. 조사는 인공지능·데이터센터 확대에 따른 대규모 무탄소 전력 수요와 에너지안보·전화(電化)·계통 복원력·산업경쟁력을 동인으로 들고, 미국·영국·EU의 규제 개편(EU는 SMR 전략)을 긍정 요인으로 꼽았다. 대상 범위는 발전, SMR, 연료공급, 용역, 폐기물관리, 기반설비다.",
+   "summary_en": "Research by law firm White & Case with Mergermarket, reported on 18 November, puts completed global nuclear M&A at USD10.3 billion across 60 deals in the first nine months of 2026, against USD11.2 billion and 82 deals for the whole of 2025 - leaving 2026 on course to beat last year on value. By region, EMEA reached USD3.9 billion in the nine months, more than double its 2025 full-year total, while the USA saw USD4 billion in the three months to the end of September. The research cites demand for dependable large-scale low-carbon power driven by AI and data centres, alongside energy security, electrification, grid resilience and industrial competitiveness, and points to regulatory reform in the USA, UK and EU - the EU's small modular reactor strategy - as supporting the outlook. The segments covered are generation, SMRs, fuel supply, services, waste management and enabling infrastructure.",
+   "sales_note": "조사가 짚은 심사 축이 '수익성'이 아니라 자금조달 가능성(bankability)·수행계획·인허가 준비도·리스크 배분이라는 점이 중요하다. 발주처·투자자가 입찰 평가에서 같은 네 항목을 볼 가능성이 높으므로, 제안서에 공기·가격 외에 인허가 일정 근거와 리스크 배분안을 별도 장으로 담는 편이 유리하다.",
+   "sales_note_en": "The telling detail is that the screening criteria cited are not profitability but bankability, delivery plans, regulatory readiness and risk allocation. Owners and investors are likely to apply the same four tests in bid evaluation, so a proposal gains from carrying a dedicated section on licensing-schedule evidence and risk allocation alongside price and programme."
+  },
+  {
+   "id": "2026-11-19-05",
+   "title": "Maritime nuclear project awarded Norwegian public funds",
+   "title_ko": "노르웨이 선박용 원자력추진계통(MarNuPS) 사업, 연구위원회 2,000만 크로네 지원 — 2027년 전기가열 통합시험설비, 선박 적용 목표 2031~2032년",
+   "title_en": "Norway's maritime nuclear propulsion project wins public funding for an integrated test facility",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/maritime-nuclear-project-awarded-norwegian-public-funds",
+   "published": "2026-11-18",
+   "region": "overseas",
+   "category": "smr",
+   "countries": [
+    "NO",
+    "GB"
+   ],
+   "importance": 1,
+   "summary_ko": "노르웨이 연구위원회(Research Council of Norway)가 선박용 원자력추진계통(Marine Nuclear Propulsion System, MarNuPS) 사업에 초기 자금 2,000만 노르웨이크로네(200만 달러)를 배정했다고 11월 18일 발표됐다. 참여사 자체 부담이 함께 들어간다. 사업은 에메랄드뉴클리어노르웨이가 주도하고 바르드그룹(선박설계·통합), 바르드일렉트로(전력관리·자동화), 아일랜드오프쇼어(해양작업지원선 선주·운항), 노르웨이과학기술대(NTNU, 원자력·열수력 해석), 임페리얼칼리지런던(구조건전성), 마신디나미크(계측·진단·상태감시)가 참여한다. 노형은 에메랄드뉴클리어의 5MWe 가스냉각 젬(Gem) 마이크로원자로에 초임계 이산화탄소 가스터빈을 결합한 구성이다. 1단계는 2027년 올레순 외곽 스테테에 핵연료 대신 전기가열을 쓰는 통합시험설비를 세우는 것으로 총비용은 약 1억 5,000만 크로네이며, 아일랜드오프쇼어의 선박 적용 목표는 2031~2032년이다.",
+   "summary_en": "The Research Council of Norway has awarded NOK20 million (USD2 million) in initial funding to the Marine Nuclear Propulsion System (MarNuPS) project, announced on 18 November, alongside substantial self-financing by the partners. Emerald Nuclear Norway leads, with Vard Group on ship design and integration, Vard Electro on power management and automation, offshore service vessel owner-operator Island Offshore, NTNU on nuclear and thermo-hydraulic modelling, Imperial College London on structural integrity, and Maskindynamikk on instrumentation, diagnostics and condition monitoring. The technology is Emerald Nuclear's 5 MWe gas-cooled Gem Microreactor paired with a supercritical carbon dioxide gas turbine. Stage 1, planned for 2027, is an integrated test facility at Stette outside Alesund using electric heating instead of nuclear fuel, at an estimated total cost of around NOK150 million, with Island Offshore targeting vessel deployment in 2031/2032.",
+   "sales_note": "해상 원자력은 전기가열 모의설비로 계통을 먼저 검증한 뒤 실제 핵연료로 넘어가는 단계 구성이 표준이 되어가고 있다. 조선·해양 기자재 축에서 참여를 검토할 경우 원자로 자체가 아니라 전력관리·자동화·상태감시 같은 선박측 계통이 먼저 발주되는 점에 유의할 필요가 있다.",
+   "sales_note_en": "Maritime nuclear is settling into a staged pattern: prove the system on an electrically heated mock-up first, then move to real fuel. For anyone weighing entry through shipbuilding and marine equipment, note that the vessel-side systems - power management, automation, condition monitoring - are contracted before the reactor itself."
+  },
+  {
+   "id": "2026-11-19-06",
+   "title": "Provision of System Engineering Services",
+   "title_ko": "유럽 퓨전포에너지(F4E), 시스템엔지니어링 용역 기본계약 800만 유로 낙찰 — 요건관리·검증, 단계관문, 인터페이스 감시, 형상관리",
+   "title_en": "Fusion for Energy awards EUR 8 million framework for system engineering services",
+   "language": "en",
+   "source": "TED (EU 공공조달공고)",
+   "url": "https://ted.europa.eu/en/notice/802780-2026/pdf",
+   "published": "2026-11-18",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "INT"
+   ],
+   "importance": 1,
+   "summary_ko": "ITER 사업의 EU 이행기구인 퓨전포에너지(F4E, 바르셀로나 소재)가 시스템엔지니어링 용역 기본계약의 낙찰공고를 11월 18일 EU 공공조달공고에 게재했다. 총액은 800만 유로, CPV는 71336000(엔지니어링 지원 용역)이다. 역무는 요건관리·검증(Requirements Management and Verification) 절차와 보고, 요건관리·검증 행정, 단계관문(phase gates), 인터페이스 감시·지원, 형상관리 등이다. 낙찰자명은 공고 검색 색인에서 확인되지 않았다.",
+   "summary_en": "Fusion for Energy, the EU's implementing body for ITER and based in Barcelona, published a contract award notice on 18 November for a framework contract for system engineering services, with a total value of EUR 8 million under CPV 71336000, engineering support services. The scope covers requirements management and verification processes and reporting, RMV administration, phase gates, interface monitoring and support, and configuration management. The winner's name was not available from the notice search index.",
+   "sales_note": "초대형 원자력·핵융합 사업에서 설계·시공 역무와 별도로 '요건관리·인터페이스·형상관리'가 독립 용역으로 발주되는 사례다. 다수 공급사의 설계입력이 섞이는 사업일수록 이 축의 발주가 먼저 열리므로, 설계총괄·인터페이스 관리 실적을 별도 자격 항목으로 정리해 둘 가치가 있다.",
+   "sales_note_en": "Here requirements management, interface control and configuration management are let as a standalone service, separate from design and construction. The more a project mixes design inputs from many suppliers, the earlier this scope opens, so it is worth cataloguing design-coordination and interface-management credentials as a qualification item in their own right."
+  },
+  {
+   "id": "2026-11-19-07",
+   "title": "Russian regulator considers licence for Zaporizhzhia unit 3",
+   "title_ko": "로스테흐나드조르, 자포리자 3호기 운전허가 심사 착수 — 현장 2주 검토, 허가 발급은 2027년 3월 전망",
+   "title_en": "Russia's regulator starts reviewing an operating licence for Zaporizhzhia unit 3",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/russian-regulator-considers-licence-for-zaporizhzhia-unit-3",
+   "published": "2026-11-18",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "UA",
+    "RU"
+   ],
+   "importance": 1,
+   "summary_ko": "러시아 규제기관 로스테흐나드조르의 심사단이 자포리자 원전에서 3호기 운전허가 신청 제출자료 검토에 착수했다고 11월 18일 보도됐다. 발전소 운영주체는 현장 검토가 2주간 진행되며 허가는 2027년 3월에 나올 것으로 본다고 밝혔다. 이 발전소는 2022년 3월부터 러시아군 점령하에 있고 전 호기가 4년 넘게 정지 상태다. 로스테흐나드조르는 이미 1·2·6호기와 사용후핵연료 건식저장시설에 운전허가를 발급했다. 운영주체는 허가만으로 발전 재개가 보장되는 것은 아니며 안전 조건이 함께 충족돼야 한다고 밝혔다. IAEA 그로시 사무총장은 2025년 6월 로사톰 리하초프 사장과의 협의에서 현 군사 상황에서의 재가동은 바람직하지 않다는 데 공통 인식이 있었다고 밝히고, 냉각수 확보와 안정적 외부전원을 기술적 우려로 들었다. IAEA는 현장에 상주하고 있다.",
+   "summary_en": "A commission from Russia's nuclear regulator Rostekhnadzor has begun reviewing material submitted in support of an operating licence application for Zaporizhzhia unit 3, reported on 18 November. Plant operators said the site visit would last two weeks and that they expect the licence in March 2027. The plant has been under Russian military occupation since March 2022 and all units have been shut down for more than four years. Rostekhnadzor has already issued operating licences for units 1, 2 and 6 and for the dry spent fuel storage facility. Operators said a licence alone does not guarantee resumed generation, which also requires the necessary safety conditions. IAEA Director General Rafael Mariano Grossi said that at talks with Rosatom's Alexei Likhachev in June 2025 there was a \"common view\" that restarting in the current military situation would be inadvisable, citing cooling water availability and stable off-site power as technical concerns. The IAEA maintains a permanent presence at the site.",
+   "sales_note": ""
+  },
+  {
+   "id": "2026-11-19-08",
+   "title": "Assistance sûreté aux installations du SEMP",
+   "title_ko": "프랑스 원자력청(CEA) 마르쿨 — LG1·HERA·CD 시설 공사·실험실 안전 지원 용역 입찰, 접수 2027년 1월 18일",
+   "title_en": "CEA Marcoule tenders nuclear safety assistance for worksites and laboratories at its LG1, HERA and CD facilities",
+   "language": "fr",
+   "source": "TED (EU 공공조달공고)",
+   "url": "https://ted.europa.eu/en/notice/797938-2026/pdf",
+   "published": "2026-11-17",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "FR"
+   ],
+   "importance": 1,
+   "summary_ko": "프랑스 원자력·대체에너지청(CEA) 마르쿨 센터가 SEMP 소관 시설의 공사현장·실험실 안전(sûreté) 지원 용역을 EU 공공조달공고에 11월 17일 게재했다. 대상 시설은 LG1·HERA·CD이며 CPV는 71356200(기술지원 용역), 접수 마감은 2027년 1월 18일이다. 추정금액은 공고에 기재되지 않았다. 직전 회차에 게재된 같은 기관 군사응용국(DAM/SAPI)의 국방 관련 원자력시설 안전엔지니어링 기본협약(797880-2026, 접수 12월 21일)에 이어 CEA가 안전엔지니어링 역무를 연속 발주한 사례다.",
+   "summary_en": "CEA Marcoule, part of France's Alternative Energies and Atomic Energy Commission, published a contract notice on 17 November for nuclear safety assistance covering worksites and laboratories at its LG1, HERA and CD installations. The CPV code is 71356200, technical assistance services, and the deadline for tenders is 18 January 2027. The notice states no estimated value. It follows a framework notice from the same organisation's military applications division (797880-2026, closing 21 December) for safety engineering at defence-related nuclear facilities, making this a second consecutive CEA award cycle for safety engineering scope.",
+   "sales_note": "프랑스는 연구·국방 원자력시설의 안전엔지니어링을 공개 경쟁으로 반복 발주하고 있어, 대형원전 신규건설과 별개로 꾸준한 용역 시장이 형성돼 있다. 다만 두 건 모두 프랑스어 단일 언어 공고에 시설별 접근권이 전제되므로 현지 법인·파트너 없이는 응찰 자격 자체가 제약된다.",
+   "sales_note_en": "France keeps putting safety engineering for its research and defence nuclear facilities out to open competition, creating a steady services market quite separate from large new build. Both notices are published in French only and presuppose facility access, however, so bidding is effectively constrained without a local entity or partner."
+  },
+  {
+   "id": "2026-11-19-09",
+   "title": "Silo Liquor Ion Exchange Treatment Feasibility Study",
+   "title_ko": "영국 NRS 둔레이 습식사일로 침출수 이온교환 처리 타당성조사, 포툼·아멘텀 2사에 분할 낙찰",
+   "title_en": "UK's NRS awards Dounreay wet silo liquor ion-exchange feasibility studies to Fortum and Amentum",
+   "language": "en",
+   "source": "UK Find a Tender",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108808-2026",
+   "published": "2026-11-17",
+   "region": "overseas",
+   "category": "policy",
+   "countries": [
+    "GB",
+    "FI"
+   ],
+   "importance": 1,
+   "summary_ko": "영국 원자력복원서비스(Nuclear Restoration Services, NRS) 둔레이가 습식사일로 침출수(silo liquor)의 이온교환 처리 타당성조사를 11월 17일 두 건으로 나눠 낙찰 공고했다 — 한 건은 핀란드 포툼(Fortum), 다른 한 건은 미국 아멘텀(Amentum)이다. 둔레이 습식사일로는 지하 저장조에 고형물·슬러지를 물에 담아 보관하는 설비로 수력학적으로 연결된 2개 격실로 나뉘며, 침출수량은 150~200㎥로 추정된다. NRS는 이온교환 공정을 쓰는 모듈형 침출수 처리설비 도입을 검토 중이며, 두 계약은 C30758 절차에서 애초 2건 발주를 전제로 진행됐다.",
+   "summary_en": "Nuclear Restoration Services (NRS) Dounreay published award notices on 17 November for two feasibility studies on ion-exchange treatment of its wet silo liquor - one to Finland's Fortum and one to the USA's Amentum. The Dounreay wet silo holds solids and sludges under water in a below-ground vault split into two hydraulically linked compartments, with the liquor volume estimated at 150-200 cubic metres. NRS is investigating a modular liquor treatment capability using an ion-exchange process, and both contracts ran under the C30758 process, which was set up from the outset to award two contracts.",
+   "sales_note": "발주처가 동일 타당성조사를 두 업체에 병렬 발주해 설계안을 비교하는 방식으로, 해체·폐기물 처리 축에서는 단독 수주보다 '복수 병렬 수주' 구조가 흔하다는 점을 보여준다. 수주 확률을 높이려면 단독 적격성보다 복수 발주 구조에 들어갈 수 있는 모듈형 공정 레퍼런스가 유효하다.",
+   "sales_note_en": "The client let the same feasibility study to two firms in parallel to compare design approaches, a reminder that in decommissioning and waste treatment parallel multiple awards are common rather than a single winner. Improving the odds therefore depends less on sole-source eligibility than on holding modular process references that fit a multiple-award structure.",
+   "related": [
+    "https://www.find-tender.service.gov.uk/Notice/108785-2026"
+   ]
+  },
+  {
+   "id": "2026-11-19-10",
+   "title": "2027년 1월 1일부터 원전 차액계약 적용",
+   "title_ko": "2027년 1월 1일부터 원전 정부승인차액계약 적용 — 한수원·한전 서명, 전기위원회 심의 완료, 연간 전력거래량 32.1% 대상",
+   "title_en": "Korea applies a government-approved contract for difference to nuclear output from 1 January 2027",
+   "language": "ko",
+   "source": "기후에너지환경부 (정책브리핑)",
+   "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789829",
+   "published": "2026-11-19",
+   "region": "domestic",
+   "category": "policy",
+   "countries": [
+    "KR"
+   ],
+   "importance": 3,
+   "summary_ko": "기후에너지환경부는 원전에 대한 정부승인차액계약을 2027년 1월 1일부터 5년간 적용한다고 11월 19일 밝혔다. 차액계약은 발전사업자와 전력구매자가 계약전력량과 기준가격을 정해 전력시장가격과 기준가격의 차액을 정산하는 방식으로, 전력도매가격(SMP)이 계약가격보다 높으면 발전회사가 판매회사에 차액을 주고 낮으면 반대로 지급한다. 한국수력원자력과 한국전력은 각각 이사회를 거쳐 10월 말 계약서에 서명했고, 기후에너지환경부는 이를 제출받아 11월 13일 전기위원회 심의를 마쳤다. 체결기념식은 11월 19일 서울 중구 한국전력 경인건설본부에서 열린다. 적용 대상은 2025년 전력시장 거래 기준 연간 전력거래량의 약 32.1%로, 2014년 전기사업법 개정으로 도입된 이 제도가 주력 전원에 적용되는 첫 사례다. 종전에는 2015~2020년 포스코에너지(거래량 0.6%)와 현대그린파워(0.9%)의 부생가스 발전기에만 적용됐다. 정부는 저원가 원전에 대한 합리적 이윤 규제로 절감분이 소비자에게 돌아가고, 한수원과 한전이 재무 예측가능성을 높일 수 있을 것으로 기대한다고 밝혔다.",
+   "summary_en": "Korea's Ministry of Climate, Energy and Environment said on 19 November that a government-approved contract for difference will apply to nuclear generation for five years from 1 January 2027. Under the scheme a generator and a power purchaser fix a contracted volume and a reference price and settle the gap against the market price: when the wholesale price (SMP) exceeds the contract price the generator pays the retailer the difference, and when it falls below, the retailer pays the generator. Korea Hydro & Nuclear Power and KEPCO each obtained board approval and signed in late October, and the ministry completed the Electricity Commission's review on 13 November. A signing ceremony is being held on 19 November at KEPCO's Gyeongin construction headquarters in Jung-gu, Seoul. The scheme covers about 32.1% of annual electricity traded, on 2025 power market volumes - the first time the mechanism, introduced by a 2014 amendment to the Electricity Business Act, has been applied to a main power source. It had previously covered only by-product gas generators run by POSCO Energy (0.6% of traded volume) and Hyundai Green Power (0.9%) from 2015 to 2020. The ministry expects reasonable profit regulation on low-cost nuclear output to pass savings to consumers, and KHNP and KEPCO to gain financial predictability and management stability.",
+   "sales_note": "해외 입찰에서 한수원의 재무 안정성과 자금조달 조건은 평가 항목이고, 특히 사업주 지분출자·수출금융을 함께 요구하는 사업(튀르키예 시놉, 사우디)에서는 모회사 현금흐름의 예측가능성이 직접 근거로 쓰인다. 5년 고정 기준가격 구조가 한수원 수익 변동성을 줄이는 방향이라면 제안서의 재무 건전성 장에 인용할 수 있는 공개 근거가 생긴 셈이다. 다만 기준가격 수치가 공개되지 않아 실제 수익 영향은 아직 판단 근거가 없다.",
+   "sales_note_en": "KHNP's financial strength and funding terms are scored in overseas bids, and in projects that also ask for owner equity and export finance - Turkey's Sinop, Saudi Arabia - the predictability of the parent's cash flow is cited directly. If a five-year fixed reference price reduces KHNP's earnings volatility, that gives a publicly citable basis for the financial-standing section of a proposal. The reference price itself has not been disclosed, however, so there is as yet no basis for judging the actual effect on earnings.",
+   "related": [
+    "https://thetracker.co.kr/View.aspx?No=4319646"
+   ]
+  },
+  {
+   "id": "2026-11-19-11",
+   "title": "삼성물산, 영국 SMR 사업 본격화…현지 공급망 행사 개최 예정",
+   "title_ko": "삼성물산, 영국 SMR 사업 현지 공급망 구축 착수 — SGE·GE버노바히타치와 11월 24일 버밍엄 행사, 3개 부지 14기·4.2GW",
+   "title_en": "Samsung C&T starts building a UK supply chain for its SMR project, with a Birmingham event on 24 November",
+   "language": "ko",
+   "source": "더구루",
+   "url": "https://www.theguru.co.kr/news/article.html?no=109911",
+   "published": "2026-11-19",
+   "region": "domestic",
+   "category": "smr",
+   "countries": [
+    "KR",
+    "GB",
+    "PL"
+   ],
+   "importance": 3,
+   "summary_ko": "삼성물산이 영국 SMR 사업의 현지 공급망 구축에 나섰다고 11월 19일 보도됐다. 삼성물산과 폴란드 에너지기업 SGE, 노형 개발사 GE버노바히타치(GVH)는 현지시간 24일 잉글랜드 웨스트미들랜즈 버밍엄에서 공동으로 공급망 행사를 열어 기자재 제조사, 건설·엔지니어링사, 전문서비스사, 원자력 기술기업을 대상으로 현지 파트너를 발굴한다. 사업은 영국 3개 부지에 BWRX-300(GVH 개발 300MW급 비등수형 SMR) 14기·총 4.2GW를 건설하는 것으로 영국 전체 전력수요의 약 11%에 해당하며, 투자규모는 약 350억 파운드(약 62조원), 첫 호기 가동 목표는 2034년이다. 현재 영국 국영 원자력기구 GBE-N이 주도하는 예비 규제평가의 심층검토 단계에 들어가 있다. 삼성물산은 2026년 7월 참여 신청이 보도됐고, 9월 뉴욕에서 열린 애틀랜틱카운슬 원자력정책 정상회의에서 삼성물산·GE버노바·히타치·SGE 4사가 BWRX-300 배치전략 구체화와 조기 상용화를 위한 양해각서를 체결했다.",
+   "summary_en": "Samsung C&T has begun building a local supply chain for its UK small modular reactor project, reported on 19 November. Samsung C&T, Polish energy company SGE and reactor developer GE Vernova Hitachi (GVH) will jointly hold a supply chain event in Birmingham, West Midlands, on 24 November local time, to find local partners among component manufacturers, construction and engineering firms, professional service firms and nuclear technology companies. The project would build 14 BWRX-300 units - GVH's 300 MW-class boiling water SMR - totalling 4.2 GW across three UK sites, equal to about 11% of total UK electricity demand, at an investment of some GBP 35 billion (about KRW 62 trillion), with the first unit targeted to operate in 2034. It has entered detailed review of a preliminary regulatory assessment led by GBE-N, the UK state nuclear body. Samsung C&T's application to join was reported in July 2026, and in September the four companies - Samsung C&T, GE Vernova, Hitachi and SGE - signed a memorandum of understanding at an Atlantic Council nuclear energy policy summit in New York to refine the BWRX-300 deployment strategy and pursue early commercialisation.",
+   "sales_note": "국내 건설사가 유럽에서 노형사·현지 사업개발사와 3자 컨소시엄을 꾸려 공급망을 직접 조직하는 단계까지 왔다는 점이 핵심이다. 14기 반복건설은 기자재·시공 양쪽에서 표준화 물량이 나오는 구조이므로, 11월 24일 행사는 영국 현지 업체뿐 아니라 국내 기자재사에도 공급망 진입 시점을 가늠할 공개 창구다. 다만 투자규모는 같은 사업을 두고 보도된 수치가 엇갈려(본 기사 350억 파운드·약 62조원, 7월 보도 72조원) 확정치로 인용하기 어렵다.",
+   "sales_note_en": "The significant point is that a Korean contractor has reached the stage of organising a supply chain itself, in a three-way consortium with the reactor designer and a local developer in Europe. Building 14 units in sequence creates standardised volume in both equipment and construction, so the 24 November event is a public window on when supply chain entry opens - for Korean equipment makers as much as for British firms. The investment figure should not be cited as settled, however: reports on the same project diverge, GBP 35 billion or about KRW 62 trillion here against KRW 72 trillion in July."
+  },
+  {
+   "id": "2026-11-19-12",
+   "title": "산업부, 차관 주재 「한수원 추진계획 점검회의」 2차 회의 개최",
+   "title_ko": "산업부 차관 주재 한수원 추진계획 2차 점검회의 — 신규 시공사 선정 등 주단위 관리계획 연내 보고, 한·체코 장관급 4차 이행점검위 12월 10일 국내 개최",
+   "title_en": "Korea's industry ministry holds a second vice-ministerial review of KHNP's Dukovany plan, with the fourth Korea-Czech ministerial council set for 10 December",
+   "language": "ko",
+   "source": "산업통상부 (정책브리핑)",
+   "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789750",
+   "published": "2026-11-18",
+   "region": "domestic",
+   "category": "large",
+   "countries": [
+    "KR",
+    "CZ"
+   ],
+   "importance": 3,
+   "summary_ko": "산업통상부는 박동일 차관 주재로 11월 18일 대한상공회의소에서 제2차 「한수원 추진계획 점검회의」를 열었다. 11월 시작된 부처 비상관리체계의 일환으로, 11월 2일 1차 차관 주재 회의와 11월 12일 장관 주재 팀코리아 체코 원전사업 점검회의에 이어진 자리다. 한수원은 설계·인허가, 부지정보 검증, 숙소부지 선정, 신규 시공사 선정에 대한 주단위 세부관리계획을 2026년 말 보고를 목표로 수립 중이며 11월 3주차까지 세운 계획은 일정대로 이행되고 있다고 보고했다. 또 11월 5일 한·체코 국장급 영상회의와 11월 9~12일 체코 발주사 EDU II 방한 협의를 통해 정보공유·현안조율이 원활하다고 밝혔다. 차관은 핵심 공정 확보를 위해 계획을 엄정히 이행하고 품질·가격 약속을 지키면서 예상치 못한 일정 지연 위험에 대비해 진도를 앞당길 것을 지시하고, 12월 10일 국내에서 열리는 제4차 한·체코 장관급 두코바니 이행점검위원회와 월 1회 장관급·주 1회 국장급 협의 등 정부 간 채널 활용을 당부했다.",
+   "summary_en": "Korea's Ministry of Trade, Industry and Energy held the second review meeting on KHNP's project plan on 18 November at the Korea Chamber of Commerce and Industry, chaired by Vice Minister Park Dong-il. It forms part of the ministry's emergency management arrangements begun in November, following the first vice-ministerial meeting on 2 November and the minister-chaired Team Korea review of the Czech project on 12 November. KHNP reported that it is drawing up week-by-week management plans for design and licensing, site-information verification, accommodation site selection and selection of a new construction contractor, targeting a report by the end of 2026, and that plans set through the third week of November are being implemented on schedule. It also said information sharing and issue coordination are running smoothly, citing a Korea-Czech director-general video meeting on 5 November and talks with Czech client EDU II during its 9-12 November visit. The vice minister directed rigorous execution to secure the project's core milestones, told the company to pull progress forward as a hedge against unexpected schedule-delay risk while holding to its quality and price commitments, and urged use of government-to-government channels including the fourth Korea-Czech ministerial Dukovany implementation review council, to be held in Korea on 10 December, plus monthly ministerial and weekly director-general meetings.",
+   "sales_note": "10월 29일 시공계약 협상 종료 이후 발주처·규제기관의 관심이 '한국측이 일정과 품질을 지킬 수 있는가'로 옮겨 간 국면에서, 신규 시공사 선정이 2027년 7월 계약을 향한 연내 관리계획 보고로 구체화됐다. 시공·BOP 패키지 참여를 검토하는 쪽에서는 12월 10일 장관급 이행점검위원회가 입찰 조건·현지참여 요구 수준이 공개되는 가장 이른 시점이므로, 그 전후 발표를 일정 기준점으로 삼을 만하다. 숙소부지 선정이 관리 항목에 들어온 것은 현장 인력 투입 준비가 시작됐다는 신호다.",
+   "sales_note_en": "With the construction contract talks ended on 29 October, attention from the client and the regulator has shifted to whether the Korean side can hold schedule and quality - and the selection of a new contractor has now firmed up into a management plan due by the end of the year, pointing at a contract in July 2027. For anyone weighing a construction or balance-of-plant package, the 10 December ministerial review council is the earliest point at which bid conditions and the expected level of local participation are likely to surface, making announcements around it a useful reference date. The appearance of accommodation site selection among the managed items signals that preparation for mobilising site labour has begun."
+  },
+  {
+   "id": "2026-11-19-13",
+   "title": "포스코인터, 美 ARC-100용 'HALEU' 통합 공급망 구축…차세대 SMR 연료 사업 가속",
+   "title_ko": "[새 사실] 포스코인터내셔널–美 ARC 클린테크놀로지, ARC-100용 핵연료 공급·공급망 개발 MOU — 원료조달·농축·디컨버전·연료제조 전 과정 대상",
+   "title_en": "POSCO International signs an MOU with ARC Clean Technology on fuel supply and supply chain for the ARC-100",
+   "language": "ko",
+   "source": "더구루",
+   "url": "https://www.theguru.co.kr/news/article.html?no=109860",
+   "published": "2026-11-18",
+   "region": "domestic",
+   "category": "fuel",
+   "countries": [
+    "KR",
+    "US"
+   ],
+   "importance": 2,
+   "summary_ko": "직전 회차에 '보도 내 당사자 표기 불일치'로 남겨둔 ARC-100 핵연료 공급망 건의 국내 당사자가 포스코인터내셔널로 확인됐다. 포스코인터내셔널과 워싱턴DC 소재 미국 ARC 클린테크놀로지(ARC)는 선진로 핵연료 공급 및 공급망 개발에 관한 양해각서를 체결했고, ARC가 11월 18일 이를 알렸다. 포스코인터내셔널이 SMR 개발사와 맺은 첫 공식 MOU로, ARC 사업의 핵연료 공급사가 되는 방안을 함께 검토한다. 대상 범위는 우라늄 원료 조달·농축·디컨버전·핵연료 제조 전 과정이며 추가 사업협력도 논의 중이다. ARC-100은 액체 나트륨을 냉각재로 쓰는 100MW급 4세대 소듐냉각고속로로 HALEU(우라늄-235 농축도 5% 이상 20% 미만) 기반 우라늄-지르코늄 금속연료를 쓰고, 계통 전력과 AI 데이터센터 전력 공급 및 산업시설 고온 공정열 공급을 겨냥한다. 물량·일정·금액은 공개되지 않았고 기사는 참여방식·공급범위가 미정인 초기 단계라고 밝혔다.",
+   "summary_en": "The Korean party in the ARC-100 fuel supply chain story left open in the previous briefing, where the reporting was inconsistent about who had signed, is confirmed as POSCO International. POSCO International and Washington DC-based ARC Clean Technology have signed a memorandum of understanding on advanced reactor fuel supply and supply chain development, which ARC announced on 18 November. It is POSCO International's first formal MOU with an SMR developer, and the parties will consider the company becoming a fuel supplier for ARC's projects. The scope spans the whole chain - uranium raw material procurement, enrichment, de-conversion and fuel fabrication - with further business cooperation also under discussion. The ARC-100 is a 100 MW-class fourth-generation sodium-cooled fast reactor using liquid sodium as coolant and HALEU-based uranium-zirconium metal fuel, HALEU being uranium enriched to at least 5% but below 20% in uranium-235, aimed at grid power, AI data centre power and high-temperature process heat for industry. No volumes, schedule or value were disclosed, and the article describes the talks as at an early stage with the mode of participation and supply scope undecided.",
+   "sales_note": "선진로 사업에서 연료 확보가 기자재 납기와 무관하게 사업 일정의 상한을 정하는 제약이라는 점은 최근 우렌코–블뤼칼라 계약에서도 확인된 바다. 국내 상사가 원료조달부터 연료제조까지 통합 창구를 노리는 흐름은, 우리가 기자재·시공으로 참여하는 선진로 사업에서 연료 경로를 국내에서 함께 제시할 수 있는 조합이 생긴다는 뜻이다. 다만 농축·연료제조 실행 주체가 아직 특정되지 않아 현 단계에서 공급 보장 근거로는 쓸 수 없다.",
+   "sales_note_en": "That fuel procurement, not equipment lead times, sets the ceiling on an advanced reactor project's schedule was equally clear in the recent Urenco-Blykalla contract. A Korean trading house seeking an integrated window from raw material to fabrication means that, on advanced reactor projects entered through equipment or construction, a domestic fuel route can be offered alongside. The parties that would actually enrich and fabricate are not yet identified, however, so this cannot serve as evidence of secured supply at this stage."
+  },
+  {
+   "id": "2026-11-19-14",
+   "title": "美뉴욕전력청, 신규 원전 사업자 후보 10곳 선정…현대건설·DL이앤씨 협력 SMR 기업 다수 포함",
+   "title_ko": "뉴욕전력청 사전자격심사 통과 10곳 중 홀텍·테라파워·엑스에너지 — 현대건설·DL이앤씨·두산에너빌리티의 기존 협력관계 정리",
+   "title_en": "Holtec, TerraPower and X-energy among New York's ten qualified developers - mapping the Korean firms already tied to them",
+   "language": "ko",
+   "source": "더구루",
+   "url": "https://www.theguru.co.kr/news/article.html?no=109873",
+   "published": "2026-11-18",
+   "region": "domestic",
+   "category": "smr",
+   "countries": [
+    "KR",
+    "US"
+   ],
+   "importance": 2,
+   "summary_ko": "뉴욕전력청(NYPA)이 현지시간 11월 17일 공표한 뉴욕주 신규 원전 사전자격심사 통과 10곳에 홀텍 인터내셔널, 테라파워, 엑스에너지가 포함되면서 이들과 이미 협력관계를 맺은 국내 기업의 수혜가 거론된다고 11월 18일 보도됐다. 현대건설은 2021년 홀텍과 SMR 개발·사업 동반진출 협약을 맺고 미시간주 SMR 사업을 공동 추진 중이며, 2026년 8월 테라파워와 나트륨 원전 사업 기본협약을 맺어 최대 8기 규모 SMR 개발사업에서 설계·조달·시공(EPC) 파트너로 우선 참여할 권리를 확보했다. DL이앤씨는 2026년 3월 엑스에너지와 SMR 표준화 설계 계약을 체결했고 2023년 1월 2,000만 달러(약 270억원)를 투자했다. 두산에너빌리티는 2026년 3월 엑스에너지와 SMR 16기분 핵심 기자재 제작·공급의 구속력 있는 계약을 체결하고 2023년 1월 500만 달러(약 70억원)를 투자했다. SK이노베이션·SK㈜는 2022년 테라파워에 2억 5,000만 달러를 공동 투자해 10% 안팎 지분으로 2대 주주가 됐고, 한국수력원자력은 2026년 1월 SK이노베이션 보유 지분 일부를 약 4,000만 달러에 인수했다. 기사는 이들이 최종 사업자로 선정된다는 내용은 아니라고 밝혔다.",
+   "summary_en": "With Holtec International, TerraPower and X-energy among the ten developers the New York Power Authority said on 17 November local time had cleared pre-qualification for New York's new nuclear programme, reporting on 18 November set out the Korean firms already tied to them. Hyundai E&C signed an agreement with Holtec in 2021 on joint SMR development and market entry and is pursuing a Michigan SMR project with it, and in August 2026 signed a framework agreement with TerraPower for sodium reactor work securing a right of first participation as design, procurement and construction partner on a programme of up to eight units. DL E&C signed an SMR standardised design contract with X-energy in March 2026, having invested USD20 million (about KRW 27 billion) in January 2023. Doosan Enerbility signed a binding contract with X-energy in March 2026 to manufacture and supply key equipment for 16 SMR units, having invested USD5 million (about KRW 7 billion) in January 2023. SK Innovation and SK Inc jointly invested USD250 million in TerraPower in 2022 for a roughly 10% stake as second-largest shareholder, and KHNP acquired part of SK Innovation's holding for about USD40 million in January 2026. The article notes it does not report that any of these will be chosen as the final developer.",
+   "sales_note": "미국 주정부 발주에서 노형사 선정이 그대로 국내 기자재·EPC 수주로 이어지는 연결선이 문서화된 계약 단위로 확인된다 — 특히 두산의 16기분 기자재 공급은 구속력 있는 계약, 현대건설의 테라파워 건은 EPC 우선참여권이다. 뉴욕 사업의 노형 선정 결과가 국내 공급망 물량에 직접 반영되는 구조이므로, 부지·노형·파트너 선정(수개월 내 예정)은 노형사별로 어느 국내사가 묶여 있는지와 함께 추적할 필요가 있다.",
+   "sales_note_en": "The line from a US state programme's technology choice through to Korean equipment and EPC work is visible here in documented contract terms - Doosan's supply for 16 units is a binding contract, and Hyundai E&C's TerraPower arrangement carries a right of first participation as EPC. Because the technology decision on the New York project feeds straight into Korean supply chain volume, the coming choice of site, technology and development partner, promised within months, should be tracked together with which Korean firm is tied to which designer.",
+   "related": [
+    "https://www.world-nuclear-news.org/articles/new-york-names-contenders-for-next-step-of-nuclear-programme"
+   ]
+  },
+  {
+   "id": "2026-11-19-15",
+   "title": "IAEA mission sees commitment to safety at Shin Kori 2",
+   "title_ko": "[새 사실] IAEA 운영안전점검(OSART), 신고리 2호기 모범사례 3건·개선권고 2개 분야 — 최종보고서 3개월 내",
+   "title_en": "IAEA OSART finds three good practices at Shin Kori 2 and flags two areas for improvement",
+   "language": "en",
+   "source": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/iaea-mission-sees-commitment-to-safety-at-shin-kori-2",
+   "published": "2026-11-18",
+   "region": "domestic",
+   "category": "policy",
+   "countries": [
+    "KR",
+    "INT"
+   ],
+   "importance": 1,
+   "summary_ko": "11월 13일 회차에서 점검 일정과 정례화만 다뤘던 신고리 2호기 IAEA 운영안전점검(OSART)의 결과가 공개됐다. 16일간 한국 정부 요청으로 수행된 이번 점검에서 IAEA는 모범사례 3건을 꼽았다 — 현장운전원과 주제어실 운전원의 합동훈련용 가상 현장운전 시스템, 수작업과 오염 위험을 줄인 활성탄 여과기 폐기물 기계화 처리, 실시간 외부재해 정보를 통합해 발전소별 경보를 제공하는 통합재난감시체계다. 개선이 필요한 분야로는 산업안전 체계와 오염관리 체계·관행 2개가 제시됐다. 점검단은 중국·체코·프랑스·독일·스페인·UAE·영국·미국 전문가로 구성됐다. IAEA는 발전소 직원이 '지식과 전문성을 갖추고 운영안전과 신뢰성의 지속적 개선에 강하게 전념하고 있다'고 평가했고, 최종보고서는 3개월 내 전달된다. 신고리 2호기는 1,000MWe급 가압경수로로 2012년 상업운전을 시작했으며, 고리 부지 첫 OSART는 1983년 8월이었다.",
+   "summary_en": "Results are now out from the IAEA Operational Safety Review Team mission to Shin Kori 2, which the 13 November briefing covered only for its dates and the move to put it on a regular cycle. In the 16-day mission, carried out at the South Korean government's request, the IAEA identified three good practices: a virtual field operation system for joint training of field and control room operators; a mechanical process for activated carbon filter waste that cuts manual handling and contamination risk; and an integrated disaster monitoring system that consolidates real-time external hazard information and issues plant-specific warnings. Two areas were listed for further improvement: industrial safety arrangements, and contamination control arrangements and practices. The team drew experts from China, the Czech Republic, France, Germany, Spain, the UAE, the UK and the USA. The IAEA said plant staff were \"knowledgeable, professional and strongly committed to continuously improving operational safety and reliability of the plant\", and the final report is due within three months. Shin Kori 2 is a 1 GWe pressurised water reactor that began commercial operation in 2012; the first OSART at the Kori site was in August 1983.",
+   "sales_note": "국제기구가 제3국 전문가 8개국 구성으로 검증한 모범사례 3건은 해외 입찰의 운영·훈련 역량 입증에 그대로 쓸 수 있는 공개 근거다. 다만 산업안전과 오염관리 2개 분야가 개선 대상으로 공개됐으므로, 발주처 실사에서 같은 항목을 들여다볼 가능성에 대비해 최종보고서(3개월 내) 수령 후 후속조치 계획을 함께 준비해 두는 편이 낫다.",
+   "sales_note_en": "Three good practices verified by an international body with experts from eight countries are publicly citable evidence of operating and training capability in overseas bids. Two areas - industrial safety and contamination control - were also published as needing improvement, so with owner due diligence likely to probe the same items, it is worth preparing a follow-up action plan alongside receipt of the final report, due within three months.",
+   "related": [
+    "https://www.nucnet.org/news/iaea-team-welcomes-ageing-management-improvements-at-japan-s-mihama-3-11-3-2026"
+   ]
+  }
+ ]
+}

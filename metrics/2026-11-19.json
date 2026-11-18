@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-19",
+ "run_started": "2026-11-19T08:04:18+09:00",
+ "run_finished": "2026-11-19T08:30:10+09:00",
+ "run_minutes": 25.9,
+ "articles": 15,
+ "by_region": {
+  "overseas": 9,
+  "domestic": 6
+ },
+ "by_importance": {
+  "3": 3,
+  "2": 6,
+  "1": 6
+ },
+ "detection_lag_hours": {
+  "median": 23.1,
+  "max": 47.1,
+  "min": -0.9,
+  "n": 15
+ },
+ "detection_lag_note": "게재 시각이 날짜까지만 있는 기사는 그날 09:00(UTC+9)으로 간주해 run_started 와의 차이를 계산했다(§9 규칙). 음수는 run_started 이후(당일 09:00 이전) 게재분을 뜻한다 — 금차 국내 3건(차액계약·삼성물산 영국 SMR 기사는 11/19 07:5x 게재)이 해당한다.",
+ "sources_ok": [
+  "World Nuclear News (RSS)",
+  "NucNet (RSS)",
+  "POWER Magazine (RSS)",
+  "UK DESNZ gov.uk (Atom)",
+  "ANS Nuclear Newswire (목록)",
+  "TED 검색 API (api.ted.europa.eu)",
+  "UK Find a Tender OCDS API",
+  "더구루 (RSS)",
+  "더트래커 (RSS)",
+  "정책브리핑 korea.kr (원전·SMR·원자력 3회)",
+  "한국수력원자력 보도자료 게시판",
+  "한국전력 보도·설명자료 게시판",
+  "Anadolu Ajansı (튀르키예)",
+  "fermi.ee (에스토니아)",
+  "nyteknik.se",
+  "yle.fi",
+  "nos.nl / fd.nl",
+  "tenderned.nl",
+  "hankintailmoitukset.fi",
+  "canadabuys.canada.ca",
+  "sam.gov",
+  "ezamowienia.gov.pl",
+  "opg.com"
+ ],
+ "sources_failed": [
+  {
+   "name": "IAEA Top News 피드 (https://www.iaea.org/feeds/topnews)",
+   "reason": "403 — 크롤러 차단. iaea.org 는 sources.yaml `unreachable` 지정이라 본문을 열지 않고 WNN·검색으로 대체"
+  },
+  {
+   "name": "Nuclear Engineering International 피드 (https://www.neimagazine.com/feed)",
+   "reason": "301 → 리다이렉트 추종 후 200이나 최신 항목이 2026-06-16 에서 정체. 8회차 연속 기간 내 항목 0건 — 피드 주소 변경 의심, 보고서 '출처 점검 필요'에 등재"
+  },
+  {
+   "name": "정책브리핑 목록 (korea.kr, srchWord=SMR·원자력)",
+   "reason": "503 — WebFetch 2회 실패. curl(User-Agent 지정)로 재수집해 복구했으므로 수집 누락은 없음"
+  },
+  {
+   "name": "TED 공고 본문 (ted.europa.eu /pdf)",
+   "reason": "빈 응답 — 5회차 연속 본문 열람 불가. 검색 API 구조화 필드(title-proc·description-lot·deadline-receipt-tender-date-lot·total-value·classification-cpv)로 역무·마감·금액·CPV 를 대체 확정"
+  },
+  {
+   "name": "WebSearch allowed_domains 거부 4개 도메인",
+   "reason": "asahi.com·yomiuri.co.jp·di.se·hs.fi — 크롤러 차단 도메인. 일본은 nikkei.com·denkishimbun.com·jaif.or.jp, 스웨덴은 nyteknik.se, 핀란드는 yle.fi 로 대체 수행"
+  }
+ ],
+ "languages": {
+  "en": 8,
+  "tr": 1,
+  "fr": 1,
+  "ko": 5
+ },
+ "note": "수집 기간 2026-11-18 ~ 2026-11-19. 금차 신규 수집 경로 2건: ① TED 검색 API(api.ted.europa.eu/v3/notices/search)를 full-text + 발주처명 전수 질의로 사용해 11/17·11/18 게재분을 모두 열거(종전 WebSearch 색인 의존에서 전환) ② UK Find a Tender OCDS API(find-tender.service.gov.uk/api/1.0/ocdsReleasePackages)로 11/17 이후 공고 779건을 전수 조회. 직전 회차 과제였던 '11/18 TED 게재분 재조회'를 이행했다."
+}

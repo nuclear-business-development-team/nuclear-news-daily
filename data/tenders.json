@@ -1,47 +1,8 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
-  {
-   "country": "CZ",
-   "buyer": "ČEZ, a. s.",
-   "title": "중화(Neutralizace) 건물 49% 수산화나트륨 하역·저장 설비 재건 (A069)",
-   "title_en": "Rebuild of the 49% sodium hydroxide unloading and storage plant, Neutralisation building (A069)",
-   "scope": "49% 수산화나트륨 하역·저장 설비의 일부 기술설비 교체 및 영향 설비 조정. 안전·신뢰성 있는 운전 확보 목적. 절차는 공고 후 협상. 추정금액은 공고 데이터에 유효값이 없다",
-   "scope_en": "Replacement of parts of the technology for unloading and storing 49% sodium hydroxide, with consequent modifications to affected equipment, to secure safe and reliable operation. Negotiated procedure with prior call. The notice data carries no valid estimated value.",
-   "portal": "TED",
-   "notice_no": "701699-2026",
-   "published": "2026-10-12",
-   "deadline": "2026-11-18",
-   "url": "https://ted.europa.eu/en/notice/701699-2026/pdf"
-  },
-  {
-   "country": "CZ",
-   "buyer": "ČEZ, a. s.",
-   "title": "제2주발전동(2.HVB) SPACOM 100계열 보호계통 전면 교체 (G799)",
-   "title_en": "Complete replacement of SPACOM series 100 protection relays in the second main production block (G799)",
-   "scope": "설계도서 작성과 SPACOM 100계열 보호계전기 완전 교체를 낙찰자 비용·위험으로 수행한다. 절차는 공고 후 협상이고 계약기간은 98개월, 입찰 마감은 2026년 11월 18일 12시다. 추정금액은 공고에 공개되지 않았다. 10월 14일 게재된 동일 제목 공고(710622-2026)의 마감은 11월 17일이다.",
-   "scope_en": "Preparation of the design documentation and complete replacement of the SPACOM series 100 protection relays, at the contractor's own cost and risk. The procedure is negotiated with a call for competition, the contract runs 98 months and bids close at 12:00 on 18 November 2026. No estimated value is disclosed. A notice with the same title published on 14 October (710622-2026) carries a 17 November deadline.",
-   "portal": "TED",
-   "notice_no": "714978-2026",
-   "published": "2026-10-15",
-   "deadline": "2026-11-18",
-   "url": "https://ted.europa.eu/en/notice/714978-2026/pdf"
-  },
-  {
-   "country": "RO",
-   "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
-   "title": "체르나보다 2호기 가스크로마토그래프 계통 전면 개보수 (CR 45422)",
-   "title_en": "Complete retechnologisation of the gas chromatograph system in Cernavoda unit 2 (CR 45422)",
-   "scope": "2호기 가스크로마토그래프 계통 개보수에 필요한 기자재·부속 공급. 계통의 하드웨어·소프트웨어 일체 제작·공급과, 기존 계통 철거·설치(교체), 시험·기능시험·계통 인수, 제품 운송 및 발주처 인원 교육 등 부수 용역. 절차 open(공개입찰), CPV 38432210. 추정금액 532,100 — 통화 표기가 공고 구조화 데이터에 없음",
-   "scope_en": "Supply of the equipment and accessories needed to retechnologise the gas chromatograph system in unit 2: manufacture and supply of the system's complete hardware and software assembly, plus associated services covering removal and installation of the existing system, testing, functional trials and system acceptance, transport of the goods and training of the buyer's personnel. Open procedure; CPV 38432210. Estimated value 532,100, with no currency given in the notice's structured data",
-   "portal": "TED",
-   "notice_no": "749781-2026",
-   "published": "2026-10-29",
-   "deadline": "2026-11-18",
-   "url": "https://ted.europa.eu/en/notice/749781-2026/pdf"
-  },
   {
    "country": "CZ",
    "buyer": "ČEZ, a. s.",
@@ -173,19 +134,6 @@
    "url": "https://ted.europa.eu/en/notice/781257-2026/pdf"
   },
   {
-   "country": "GB",
-   "buyer": "UK Atomic Energy Authority",
-   "title": "H3AT 적합성평가기관(CAB)·제3자검사(TPI) 용역 사전공고 (T/100EV/26)",
-   "title_en": "H3AT Conformity Assessment Body and Third Party Inspection Services (T/100EV/26)",
-   "scope": "UKAS 인증 적합성평가기관(CAB) 용역과 제3자검사(TPI) 용역. UKCA 표시를 뒷받침하는 규제적합성평가와 인증 발급, EU 공인기관 또는 이에 상당한 인증을 근거로 한 CE 적합성평가, UKAEA를 대행하는 일반검사·기술평가와 비파괴검사(NDT)·압력설비·용접 작업 입회가 범위다. 영국·유럽·북미·중남미·호주·아시아·아프리카 지역 인력 동원 능력을 요구한다. 공개입찰, 추정금액 67만 5,000파운드(부가세 포함 81만 파운드), 질의마감 2026년 11월 16일, 조달문서는 uk.eu-supply.com에서 무료 공개된다.",
-   "scope_en": "Services of a UKAS-accredited Conformity Assessment Body together with Third Party Inspection services. The scope covers regulatory conformity assessment and certification supporting UKCA marking, CE conformity assessment on the basis of EU Notified Body appointment or equivalent accreditation, and general inspections, technical evaluations and the attendance and witnessing of non-destructive testing, pressure equipment and welding activities on UKAEA's behalf. Bidders must be able to mobilise personnel across the UK, Europe, North America, Central and South America, Australia, Asia and Africa. An open procedure with an estimated value of GBP 675,000 (GBP 810,000 including VAT); enquiries close 16 November 2026 and the procurement documents are freely available at uk.eu-supply.com.",
-   "portal": "UK Find a Tender",
-   "notice_no": "098513-2026",
-   "published": "2026-10-19",
-   "deadline": "2026-11-30",
-   "url": "https://www.find-tender.service.gov.uk/Notice/098513-2026"
-  },
-  {
    "country": "SI",
    "buyer": "Nuklearna elektrarna Krško d.o.o. (NEK)",
    "title": "슬로베니아 크르슈코 원전(NEK) — 안전 감압밸브(razbremenilni ventili) 교체품 구매",
@@ -210,6 +158,26 @@
    "published": "2026-11-09",
    "deadline": "2026-11-30",
    "url": "https://ted.europa.eu/en/notice/777294-2026/pdf"
+  },
+  {
+   "country": "GB",
+   "buyer": "UK Atomic Energy Authority",
+   "title": "H3AT 적합성평가기관(CAB)·제3자검사(TPI) 용역 사전공고 (T/100EV/26)",
+   "title_en": "H3AT Conformity Assessment Body and Third Party Inspection Services (T/100EV/26)",
+   "scope": "UKAS 인증 적합성평가기관(CAB) 용역과 제3자검사(TPI) 용역. UKCA 표시를 뒷받침하는 규제적합성평가와 인증 발급, EU 공인기관 또는 이에 상당한 인증을 근거로 한 CE 적합성평가, UKAEA를 대행하는 일반검사·기술평가와 비파괴검사(NDT)·압력설비·용접 작업 입회가 범위다. 영국·유럽·북미·중남미·호주·아시아·아프리카 지역 인력 동원 능력을 요구한다. 공개입찰, 추정금액 67만 5,000파운드(부가세 포함 81만 파운드), 질의마감 2026년 11월 16일, 조달문서는 uk.eu-supply.com에서 무료 공개된다.",
+   "scope_en": "Services of a UKAS-accredited Conformity Assessment Body together with Third Party Inspection services. The scope covers regulatory conformity assessment and certification supporting UKCA marking, CE conformity assessment on the basis of EU Notified Body appointment or equivalent accreditation, and general inspections, technical evaluations and the attendance and witnessing of non-destructive testing, pressure equipment and welding activities on UKAEA's behalf. Bidders must be able to mobilise personnel across the UK, Europe, North America, Central and South America, Australia, Asia and Africa. An open procedure with an estimated value of GBP 675,000 (GBP 810,000 including VAT); enquiries close 16 November 2026 and the procurement documents are freely available at uk.eu-supply.com.",
+   "portal": "UK Find a Tender",
+   "notice_no": "098513-2026",
+   "published": "2026-10-19",
+   "deadline": "2026-11-30",
+   "url": "https://www.find-tender.service.gov.uk/Notice/098513-2026"
+  },
+  {
+   "title": "헝가리 MVM 팍시 원전 — AUMA 제조 구동부품 공급 [기자재 단품, 원제조사 지정]",
+   "portal": "TED",
+   "notice_no": "794211-2026",
+   "deadline": "2026-11-30T12:00:00+01:00",
+   "url": "https://ted.europa.eu/en/notice/794211-2026/pdf"
   },
   {
    "country": "NL",
@@ -511,32 +479,6 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/106786-2026"
   },
   {
-   "country": "GB",
-   "buyer": "Nuclear Waste Services Limited",
-   "title": "영국 Nuclear Waste Services — 부지특성조사 전문용역 지원(SCPSS) 프레임워크 3개 로트",
-   "title_en": "Site Characterisation Professional Services Support (SCPSS) framework, three lots",
-   "scope": "부지특성조사 기획·기술자문 등 3개 로트 프레임워크. 추정 1,380만 파운드(부가세 제외). 마감일 공고 데이터 미기재",
-   "scope_en": "Three-lot framework covering site characterisation planning and technical advisory services. Estimated GBP 13.8 million excluding VAT. No submission deadline stated in the notice data",
-   "portal": "UK FTS",
-   "notice_no": "095106-2026",
-   "published": "2026-10-08",
-   "deadline": null,
-   "url": "https://www.find-tender.service.gov.uk/Notice/095106-2026"
-  },
-  {
-   "country": "GB",
-   "buyer": "Nuclear Restoration Services Limited",
-   "title": "저장수조 계통 저압 전원반 설계·시공·설치·시운전 일괄 (PME)",
-   "title_en": "Design, build, install and commissioning of ponds services switchboards (PME)",
-   "scope": "저장수조 계통의 저압 전원반과 부속 케이블 설비 신설. 낙찰자가 상세설계, 기자재 조달, 설치, 시험, 시운전을 수행하고 기존 전원 공급 경로 재배선을 포함한다. 주설계자와 주시공자 책임은 발주처가 유지한다. 추정금액 160만 파운드(부가세 포함 200만 파운드). 공고는 발주 준비(planning) 단계로 입찰 마감일이 아직 공고되지 않았다.",
-   "scope_en": "New low-voltage switchboards and associated cabling infrastructure for the ponds services system. The contractor carries out detailed design, procurement, installation, testing and commissioning, including re-routing of existing electrical supplies, while the buyer retains principal designer and principal contractor duties. Estimated value GBP 1.6 million (GBP 2.0 million including VAT). The notice is at planning stage and no bid deadline has been published.",
-   "portal": "UK Find a Tender",
-   "notice_no": "096664-2026",
-   "published": "2026-10-13",
-   "deadline": null,
-   "url": "https://www.find-tender.service.gov.uk/Notice/096664-2026"
-  },
-  {
    "country": "PL",
    "buyer": "Bechtel Polska Sp. z o.o.",
    "title": "AP1000 수직터빈펌프 33대 제작·공급 — 폴란드 AP1000 3기",
@@ -611,8 +553,34 @@
    "portal": "TED",
    "notice_no": "799064-2026",
    "published": "2026-11-17",
-   "deadline": "",
+   "deadline": null,
    "url": "https://ted.europa.eu/en/notice/799064-2026/pdf"
+  },
+  {
+   "country": "GB",
+   "buyer": "Nuclear Waste Services Limited",
+   "title": "영국 Nuclear Waste Services — 부지특성조사 전문용역 지원(SCPSS) 프레임워크 3개 로트",
+   "title_en": "Site Characterisation Professional Services Support (SCPSS) framework, three lots",
+   "scope": "부지특성조사 기획·기술자문 등 3개 로트 프레임워크. 추정 1,380만 파운드(부가세 제외). 마감일 공고 데이터 미기재",
+   "scope_en": "Three-lot framework covering site characterisation planning and technical advisory services. Estimated GBP 13.8 million excluding VAT. No submission deadline stated in the notice data",
+   "portal": "UK FTS",
+   "notice_no": "095106-2026",
+   "published": "2026-10-08",
+   "deadline": null,
+   "url": "https://www.find-tender.service.gov.uk/Notice/095106-2026"
+  },
+  {
+   "country": "GB",
+   "buyer": "Nuclear Restoration Services Limited",
+   "title": "저장수조 계통 저압 전원반 설계·시공·설치·시운전 일괄 (PME)",
+   "title_en": "Design, build, install and commissioning of ponds services switchboards (PME)",
+   "scope": "저장수조 계통의 저압 전원반과 부속 케이블 설비 신설. 낙찰자가 상세설계, 기자재 조달, 설치, 시험, 시운전을 수행하고 기존 전원 공급 경로 재배선을 포함한다. 주설계자와 주시공자 책임은 발주처가 유지한다. 추정금액 160만 파운드(부가세 포함 200만 파운드). 공고는 발주 준비(planning) 단계로 입찰 마감일이 아직 공고되지 않았다.",
+   "scope_en": "New low-voltage switchboards and associated cabling infrastructure for the ponds services system. The contractor carries out detailed design, procurement, installation, testing and commissioning, including re-routing of existing electrical supplies, while the buyer retains principal designer and principal contractor duties. Estimated value GBP 1.6 million (GBP 2.0 million including VAT). The notice is at planning stage and no bid deadline has been published.",
+   "portal": "UK Find a Tender",
+   "notice_no": "096664-2026",
+   "published": "2026-10-13",
+   "deadline": null,
+   "url": "https://www.find-tender.service.gov.uk/Notice/096664-2026"
   },
   {
    "country": "GB",
@@ -665,6 +633,19 @@
    "published": "2026-11-16",
    "deadline": null,
    "url": "https://ted.europa.eu/en/notice/794931-2026/pdf"
+  },
+  {
+   "country": "FR",
+   "buyer": "CEA MARCOULE",
+   "title": "프랑스 원자력청(CEA) 마르쿨 — LG1·HERA·CD 시설 공사현장·실험실 안전 지원 용역",
+   "portal": "TED",
+   "notice_no": "797938-2026",
+   "published": "2026-11-17",
+   "deadline": "2027-01-18",
+   "url": "https://ted.europa.eu/en/notice/797938-2026/pdf",
+   "title_en": "CEA Marcoule - safety assistance for worksites and laboratories at the LG1, HERA and CD facilities",
+   "scope": "SEMP 소관 시설(LG1·HERA·CD)의 공사현장·실험실 안전(sûreté) 지원 용역. CPV 71356200(기술지원 용역). 추정금액은 공고에 기재되지 않았다",
+   "scope_en": "Safety assistance services for worksites and laboratories at the LG1, HERA and CD installations under SEMP. CPV 71356200, technical assistance services. The notice states no estimated value."
   }
  ]
 }

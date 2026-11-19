@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-20",
+  "run_started": "2026-11-20T08:04:14+09:00",
+  "run_finished": "2026-11-20T08:16:00+09:00",
+  "run_minutes": 12,
+  "articles": 11,
+  "by_region": {
+    "overseas": 10,
+    "domestic": 1
+  },
+  "by_importance": {
+    "3": 1,
+    "2": 5,
+    "1": 5
+  },
+  "detection_lag_hours": {
+    "median": 23.1,
+    "max": 23.1,
+    "n": 11
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS, 엔티티 보정 후)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "ANS Nuclear Newswire",
+    "정책브리핑 korea.kr (원전·SMR)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "TED (EU 공공조달, API)",
+    "UK Find a Tender (OCDS API)",
+    "Nuclear Engineering International (RSS, 재요청 후)"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "empty_response — https://www.neimagazine.com/feed 1차 요청 0바이트, /feed/ 로 재요청 시 정상"
+    },
+    {
+      "name": "더트래커 (RSS)",
+      "reason": "redirect_empty — www 없는 도메인으로 302, 항목 0건"
+    },
+    {
+      "name": "TED 공고 본문 PDF/XML",
+      "reason": "202_async — 본문 PDF·XML 직접 요청이 202(비동기 생성)로 0바이트, 검색 API 필드로 대체 확인"
+    }
+  ],
+  "languages": {
+    "en": 7,
+    "sl": 1,
+    "cs": 1,
+    "ro": 1,
+    "sk": 1
+  },
+  "notes": "TED 11-20자 공표분 없음(11-19까지 반영). 검색엔진 색인 기반 날짜 지정 검색은 과거 기사를 최신으로 반환해 TED 검색 API·RSS 피드 게재일을 정본으로 사용."
+}

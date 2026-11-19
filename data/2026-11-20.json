@@ -1,0 +1,360 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T08:16:00+09:00",
+  "period": {
+    "from": "2026-11-19",
+    "to": "2026-11-20"
+  },
+  "overview_ko": "불가리아 국영 전력공사 NEK가 폴란드 SGE·현지 블루버드에너지와 GE버노바히타치 BWRX-300 도입 양해각서를 체결해, 웨스팅하우스 AP1000이 이미 선정된 코즐로두이 7·8호기와 별도의 SMR 경로가 공식화됐다 — SGE는 폴란드·영국에 이어 중동부 유럽 BWRX-300 거점을 또 하나 늘렸다. 같은 주에 IEA와 IAEA가 설비 전망을 동시 상향해(IEA 2050년 현행정책 825GWe, 종전 728GWe / IAEA 2050년 1,045GWe) 건설중 설비 약 90GW가 35년 만의 최대치임을 확인했으나, IEA는 상향분 상당 부분이 중국·미국에 있다고 못박았다. 발주 쪽에서는 네덜란드 신규원전 운영주체 NEON이 이용자 1,000명 규모 설계문서관리시스템을 630만 유로에 낙찰해 검토 단계에서 사업조직 구축 단계로 넘어갔고, 폴란드에서는 벡텔이 첫 원전 부지 1,000실 숙소 운영·정비 공고를 3일 만에 동일 내용으로 재게재했다. 가동원전 쪽은 크르슈코의 2025·2027년 대정비 묶음 계약 변경과 체르나보다·JAVYS의 소모품·수송화차 발주로 조용했다. 영업 관점: 중동부 유럽 SMR 창구가 SGE 한 회사로 수렴하는 추세이므로 폴란드·영국·불가리아를 하나의 파트너 축으로 보고 대응해야 하고, 네덜란드의 문서관리 플랫폼 확정과 폴란드의 숙소 O&M 재공고는 각각 설계·시공 발주가 열리기 전 발주처 인프라가 깔리는 선행지표다.",
+  "overview_en": "Bulgaria's state utility NEK signed a memorandum with Poland's SGE and local firm Blue Bird Energy to deploy GE Vernova Hitachi's BWRX-300, formalising an SMR route separate from Kozloduy 7 and 8 where Westinghouse's AP1000 is already selected - and adding another Central and Eastern European BWRX-300 foothold for SGE after Poland and the UK. In the same week the IEA and IAEA both raised their capacity projections - 825 GWe by 2050 under IEA Current Policies against 728 GWe before, and 1,045 GWe by 2050 from the IAEA - confirming that the nearly 90 GW under construction is the most in over 35 years, though the IEA placed much of the upside in China and the United States. On the procurement side, Dutch new-build entity NEON awarded a EUR 6.3 million engineering document management system sized for 1,000 users, moving from study to building a project organisation, while in Poland Bechtel republished its 1,000-room accommodation operation and maintenance notice unchanged after three days. The operating fleet was quiet, with a contract modification on Krsko's bundled 2025 and 2027 outage scope and consumables and transport-wagon tenders from Cernavoda and JAVYS. Sales angle: with the Central and Eastern European SMR gateway converging on SGE alone, Poland, the UK and Bulgaria should be worked as a single partner axis, while NEON fixing its document management platform and Bechtel reposting accommodation O&M are each leading indicators of client infrastructure being laid before design and construction packages open.",
+  "domestic_overview_ko": "삼성중공업이 미국 테서아토믹스와 대서양 횡단 원자력추진 LNG선 실증사업에 관한 상호 독점 전략협력 양해각서를 노르웨이에서 체결했다 — 삼성중공업은 테서의 독점 조선 파트너, 테서는 삼성중공업의 독점 원자로 파트너가 되고 적용 노형은 TRISO 연료·저압 용융염 냉각재를 쓰는 소형 불화염냉각 고온로 'Triton'(출력 미공개)이다. 정부·규제 쪽은 조용했다: 정책브리핑에 11월 19일 올라온 원전 관련 보도자료는 전날 다룬 정부승인차액계약 건뿐이고 11월 20일자 신규 발표는 없으며, 한수원·한전 보도자료 게시판의 기간 내 게시물은 모두 사내 프로그램·수상·업무협약 단신으로 선별 기준에서 제외했다. 영업 관점: 해상 원자력은 육상 SMR과 다른 발주·인증 경로(선급·기국)를 타므로 국내 조선·기자재 공급망이 이 축에서 특정 개발사와 독점으로 묶이는 흐름을 별도로 추적해야 하며, 두코바니 쪽은 12월 10일 제4차 한·체코 장관급 이행점검위원회가 다음 확인 시점이다.",
+  "domestic_overview_en": "Samsung Heavy Industries signed a mutually exclusive strategic collaboration memorandum in Norway with US firm Tesser Atomics on a demonstration project for a transatlantic nuclear-powered LNG carrier - SHI becomes Tesser's exclusive shipbuilder partner and Tesser becomes SHI's exclusive reactor partner, using Tesser's Triton, a compact fluoride-salt-cooled high-temperature reactor with TRISO fuel and a low-pressure molten salt coolant whose output is undisclosed. Government and regulatory activity was quiet: the only nuclear press release on the korea.kr policy briefing dated 19 November was the government-approved contract for difference already covered a day earlier, nothing new was posted for 20 November, and all KHNP and KEPCO board items in the period were internal programmes, awards and administrative memoranda excluded under the selection rules. Sales angle: marine nuclear follows procurement and certification routes - classification societies and flag states - distinct from land-based SMRs, so the Korean shipbuilding and equipment supply chain tying itself exclusively to single developers on this axis needs tracking separately, while on Dukovany the next checkpoint is the fourth Korea-Czech ministerial implementation review council on 10 December.",
+  "countries_pulse": [
+    {
+      "country": "BG",
+      "name_ko": "불가리아",
+      "name_en": "Bulgaria",
+      "stance": "expanding",
+      "signal": "국영 전력공사 NEK가 BWRX-300 양해각서 당사자로 들어와, 코즐로두이 AP1000과 별도의 SMR 경로가 공식화됐다.",
+      "signal_en": "State utility NEK has become a party to a BWRX-300 memorandum, formalising an SMR route separate from the AP1000 units at Kozloduy.",
+      "article_ids": [
+        "2026-11-20-01"
+      ]
+    },
+    {
+      "country": "PL",
+      "name_ko": "폴란드",
+      "name_en": "Poland",
+      "stance": "expanding",
+      "signal": "SGE가 불가리아로 BWRX-300 거점을 넓히는 한편, 벡텔은 첫 원전 부지 1,000실 숙소 O&M 공고를 3일 만에 재게재했다.",
+      "signal_en": "SGE is extending its BWRX-300 footprint into Bulgaria, while Bechtel republished the 1,000-room accommodation O&M notice for the first plant site after three days.",
+      "article_ids": [
+        "2026-11-20-01",
+        "2026-11-20-05"
+      ]
+    },
+    {
+      "country": "NL",
+      "name_ko": "네덜란드",
+      "name_en": "Netherlands",
+      "stance": "expanding",
+      "signal": "신규원전 운영주체 NEON이 이용자 1,000명 규모 설계문서관리시스템을 발주·낙찰 — 검토 단계에서 사업조직 구축 단계로 이동.",
+      "signal_en": "New-build entity NEON has tendered and awarded an engineering document management system sized for 1,000 users, moving from study to building a project organisation.",
+      "article_ids": [
+        "2026-11-20-04"
+      ]
+    },
+    {
+      "country": "CA",
+      "name_ko": "캐나다",
+      "name_en": "Canada",
+      "stance": "expanding",
+      "signal": "온타리오 4개 원전 사업군 경제효과 8,820억 캐나다달러 보고서 공개 — 자국 공급망 유지를 전제로 한 현지화 논리 강화.",
+      "signal_en": "A report putting four Ontario nuclear project streams at CAD 882 billion of GDP strengthens the local-content case built on sustaining the domestic supply chain.",
+      "article_ids": [
+        "2026-11-20-06"
+      ]
+    },
+    {
+      "country": "SI",
+      "name_ko": "슬로베니아",
+      "name_en": "Slovenia",
+      "stance": "steady",
+      "signal": "기조 유지 — 크르슈코 원전이 2025·2027년 대정비 묶음 계약의 원자로 RC계통 정비 역무를 변경계약으로 조정.",
+      "signal_en": "Policy unchanged - Krsko adjusted the reactor coolant system scope of its bundled 2025 and 2027 outage contract by modification.",
+      "article_ids": [
+        "2026-11-20-07"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "기조 유지 — 원자력안전위원회가 핵물질 미세입자 식별 실험분석을 기본협약으로 외부 조달(두코바니 인허가 신청 2027년 4월 예정).",
+      "signal_en": "Policy unchanged - the regulator SUJB is outsourcing nuclear material microparticle identification under a framework agreement, with the Dukovany licence application due in April 2027.",
+      "article_ids": [
+        "2026-11-20-08"
+      ]
+    },
+    {
+      "country": "RO",
+      "name_ko": "루마니아",
+      "name_en": "Romania",
+      "stance": "steady",
+      "signal": "기조 유지 — 체르나보다는 기자재·소모품 단품 공고가 이어지고 3·4호기 건설재개 본공사 발주는 아직 없다.",
+      "signal_en": "Policy unchanged - Cernavoda keeps issuing equipment and consumables notices, with no main works procurement yet for the restart of units 3 and 4.",
+      "article_ids": [
+        "2026-11-20-09"
+      ]
+    },
+    {
+      "country": "SK",
+      "name_ko": "슬로바키아",
+      "name_en": "Slovakia",
+      "stance": "steady",
+      "signal": "기조 유지 — JAVYS가 사용후핵연료·방폐물 수송화차 2027~2029년 정비 역무를 발주.",
+      "signal_en": "Policy unchanged - JAVYS tendered maintenance of spent fuel and radwaste transport wagons for 2027-2029.",
+      "article_ids": [
+        "2026-11-20-10"
+      ]
+    },
+    {
+      "country": "UA",
+      "name_ko": "우크라이나",
+      "name_en": "Ukraine",
+      "stance": "cautious",
+      "signal": "자포리자 원전이 11월 8일 27번째 외부전원 완전 상실로 송전선 1회선에 의존, 복구용 9차 휴전 논의 중.",
+      "signal_en": "Zaporizhzhia suffered its 27th complete loss of off-site power on 8 November and depends on a single line, with a ninth ceasefire under discussion to allow repairs.",
+      "article_ids": [
+        "2026-11-20-03"
+      ]
+    },
+    {
+      "country": "INT",
+      "name_ko": "국제기구",
+      "name_en": "International",
+      "stance": "expanding",
+      "signal": "IEA와 IAEA가 같은 주에 설비 전망을 동시 상향(IEA 2050년 현행정책 825GWe, IAEA 2050년 1,045GWe) — 건설중 설비는 35년 만의 최대 약 90GW.",
+      "signal_en": "The IEA and IAEA both raised capacity projections in the same week - 825 GWe by 2050 under IEA Current Policies and 1,045 GWe by 2050 from the IAEA - with nearly 90 GW under construction, the most in over 35 years.",
+      "article_ids": [
+        "2026-11-20-02",
+        "2026-11-20-03"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-20-01",
+      "region": "overseas",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/bulgarias-nek-signs-mou-for-potential-bwrx-300-projects",
+      "published": "2026-11-19",
+      "category": "smr",
+      "countries": [
+        "BG",
+        "PL"
+      ],
+      "importance": 3,
+      "title": "Bulgaria's NEK signs MoU for potential BWRX-300 projects",
+      "title_ko": "불가리아 국영 전력공사 NEK, BWRX-300 SMR 도입 양해각서 — 폴란드 SGE·현지 블루버드에너지와 3자 서명",
+      "title_en": "Bulgaria's NEK signs MoU for potential BWRX-300 projects",
+      "summary_ko": "불가리아 국영 전력공사 NEK가 폴란드 SGE(구 신토스그린에너지)와 현지 블루버드에너지와 함께 GE버노바히타치 BWRX-300(300MWe) 도입 양해각서를 11월 19일 이바 페트로바 에너지부 장관 입회로 체결했다. 3사는 부지·금융구조·사업수행모델과 인허가·규제 체계를 공동 검토하며, 부지·기수·일정은 아직 정해지지 않았다. 지난해 SGE–블루버드에너지 간 의향서(LOI)를 확대한 것으로, 국영 발주처가 당사자로 들어온 것이 새 사실이다(블루버드에너지 주요 주주는 글라브볼가르스트로이·아사렐-메데트).",
+      "summary_en": "Bulgaria's state utility NEK signed a memorandum of understanding on 19 November with Poland's SGE (formerly Synthos Green Energy) and local firm Blue Bird Energy to consider deploying GE Vernova Hitachi's 300 MWe BWRX-300, with energy minister Iva Petrova present. The three will jointly assess sites, financing structures, project delivery models and the licensing and regulatory framework; no site, unit count or schedule has been set. The deal expands a letter of intent signed last year between SGE and Blue Bird Energy - whose main shareholders are Glavbolgarstroy and Asarel-Medet - and the new element is that the state utility is now a party.",
+      "sales_note": "SGE가 폴란드·영국에 이어 불가리아까지 BWRX-300 지역 거점을 넓혀, 중동부 유럽 SMR 공급망 창구가 한 회사로 수렴하는 구도다. 국영 전력공사가 당사자로 들어온 만큼 부지·인허가 단계부터 공개 발주 절차가 나올 가능성이 커졌고, 이미 웨스팅하우스 AP1000이 선정된 코즐로두이 7·8호기(합계 2,300MW, 2035·2037년 가동 목표)와는 별도 경로로 기자재·시공 참여 기회를 봐야 한다.",
+      "sales_note_en": "With Poland and the UK already in hand, SGE is extending its BWRX-300 footprint into Bulgaria, concentrating the Central and Eastern European SMR supply-chain gateway in one company. Now that the state utility is a party, public procurement is more likely to open from the siting and licensing stage, and this is a separate route from Kozloduy 7 and 8 - 2,300 MW combined, targeted for 2035 and 2037 - where Westinghouse's AP1000 is already selected.",
+      "related": [
+        "https://www.powermag.com/bulgarian-group-has-deal-to-build-up-to-six-bwrx-300-smrs/"
+      ]
+    },
+    {
+      "id": "2026-11-20-02",
+      "region": "overseas",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/energy-crisis-reinforces-comeback-of-nuclear-power-says-iea",
+      "published": "2026-11-19",
+      "category": "policy",
+      "countries": [
+        "INT"
+      ],
+      "importance": 2,
+      "title": "Energy crisis reinforces comeback of nuclear power, says IEA",
+      "title_ko": "IEA 세계에너지전망 2026, 원자력 전망 상향 — 2050년 현행정책 825GWe(종전 728GWe), 건설중 설비 35년 만의 최대 약 90GW",
+      "title_en": "IEA raises nuclear outlook in World Energy Outlook 2026",
+      "summary_ko": "국제에너지기구(IEA)가 세계에너지전망(WEO) 2026에서 원자력 설비 전망을 일제히 상향했다. 2050년 기준 현행정책 시나리오 825GWe·공표정책 886GWe·넷제로 1,203GWe로, 종전 WEO 2025의 728GWe(현행정책·공표정책)와 1,079GWe(넷제로)보다 높다. 2024년 설비는 420GWe이며 연중 건설중 설비가 약 90GW로 35년 만의 최대치이고, 50개국 이상이 SMR을 포함한 원전 계획·목표를 갖고 있다. IEA는 2026년 중동 분쟁과 호르무즈 해협 교란을 상향 계기로 들며 \"1970년대의 메아리\"라 표현하고, 상향분 상당 부분이 중국·미국에 있다고 밝혔다.",
+      "summary_en": "The IEA raised its nuclear capacity projections across the board in World Energy Outlook 2026: by 2050 it now sees 825 GWe under Current Policies, 886 GWe under Stated Policies and 1,203 GWe under Net Zero, against 728 GWe and 1,079 GWe respectively in WEO 2025. Capacity stood at 420 GWe in 2024, nearly 90 GW was under construction at mid-year - the most in over 35 years - and more than 50 countries now hold nuclear plans or targets including SMRs. The IEA attributes the revision to the 2026 Middle East conflict and Strait of Hormuz disruptions, calling it \"an echo of the 1970s\", and places much of the upside in China and the United States.",
+      "sales_note": "발주 전망의 거시 근거가 한 단계 올라갔다는 점에서 수출금융·보증 협상에서 쓸 수 있는 공개 수치다. 다만 상향분이 중국·미국에 집중된다는 IEA 판단은 우리 주력 시장(중동부 유럽·중동)의 발주량이 자동으로 늘지는 않는다는 뜻이므로, 시장별 접근은 이 전망과 분리해 봐야 한다.",
+      "sales_note_en": "The macro case for future orders has moved up a notch, giving a citable public figure for export credit and guarantee discussions. But the IEA's placing of most upside in China and the United States means order volumes in our core markets - Central and Eastern Europe and the Middle East - will not rise automatically, so market-by-market strategy should be read separately from this outlook."
+    },
+    {
+      "id": "2026-11-20-03",
+      "region": "overseas",
+      "language": "en",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-11-19/article-8592/iaea-grossi-give-updates-on-ukraine-iran-north-korea-nuclear-power-growth-projections/",
+      "published": "2026-11-19",
+      "category": "policy",
+      "countries": [
+        "INT",
+        "UA",
+        "IR",
+        "KP"
+      ],
+      "importance": 2,
+      "title": "IAEA, Grossi give updates on Ukraine, Iran, North Korea, nuclear power growth projections",
+      "title_ko": "IAEA 이사회 — 2050년 설비 1,045GWe·2060년 1,284GWe 전망, 자포리자 27번째 외부전원 상실, 이란 검증 중단 18개월",
+      "title_en": "IAEA raises capacity projections at Board of Governors; Zaporizhzhia loses off-site power for 27th time",
+      "summary_ko": "IAEA 사무총장 그로시가 11월 18일 이사회 모두발언에서 원자력 설비 전망을 2050년 1,045GWe·2060년 1,284GWe(2025년의 약 3.4배)로, 저위 시나리오는 696GWe로 제시했다. 현재 31개국 419기·381GW가 가동 중이고 16개국에서 76기가 건설 중이며 그중 3기는 해당국 첫 호기로 합계 약 80GW를 더한다. 우크라이나 자포리자 원전은 11월 8일 27번째로 외부전원을 완전히 상실해 송전선 1회선에 의존하고 있고, 드니프로브스카 변전소와 750kV 선로 복구를 위한 9차 휴전이 논의 중이다. 이란은 부셰르를 제외하면 신고 핵물질·시설 정보와 접근이 없어 약 18개월간 농축우라늄 정확한 재고 파악이 끊겼고, 북한은 9월 중순 착공한 영변 농축시설 확장이 10월 말 외부공사를 마쳤다.",
+      "summary_en": "At the IAEA Board of Governors on 18 November, Director General Grossi put capacity projections at 1,045 GWe by 2050 and 1,284 GWe by 2060 - about 3.4 times the 2025 level - with a low case of 696 GWe. There are 419 reactors operating in 31 countries totalling 381 GW, and 76 under construction in 16 countries, three of them a first unit for their country, adding almost 80 GW. Ukraine's Zaporizhzhia plant suffered its 27th complete loss of off-site power on 8 November and now depends on a single line, with a ninth ceasefire under discussion to repair the Dniprovska substation and the 750 kV line; on Iran the Agency has had no information or access beyond Bushehr and has lacked an accurate enriched uranium count for about 18 months, while in North Korea external construction on the Yongbyon enrichment expansion, begun in mid-September, was completed in late October.",
+      "sales_note": "IAEA 전망치가 IEA와 같은 주에 동시 상향된 것은 발주국 정부 설득 자료로 묶어 쓸 수 있다. 자포리자의 반복적 외부전원 상실은 전시 원전 리스크 조항(계약상 불가항력·보험·계통연계 보증)의 실증 사례로 축적되고 있어, 동유럽 입찰 제안서의 리스크 장에서 참조 근거로 쓸 수 있다.",
+      "sales_note_en": "The IAEA raising its projections in the same week as the IEA gives a combined reference for persuading client governments. Zaporizhzhia's repeated loss of off-site power is accumulating as documented precedent for wartime nuclear risk provisions - force majeure, insurance, grid connection guarantees - and can be cited in the risk sections of Eastern European bid proposals."
+    },
+    {
+      "id": "2026-11-20-04",
+      "region": "overseas",
+      "language": "en",
+      "source": "EU 공공조달공고(TED)",
+      "url": "https://ted.europa.eu/en/notice/806305-2026/pdf",
+      "published": "2026-11-19",
+      "category": "policy",
+      "countries": [
+        "NL"
+      ],
+      "importance": 2,
+      "title": "DMS functionality and related services — Nucleaire Energie Organisatie Nederland B.V.",
+      "title_ko": "네덜란드 신규원전 운영주체 NEON, 설계환경용 문서관리시스템(DMS) 630만 유로에 노르웨이 Omega 365 낙찰 — 이용자 100명에서 1,000명으로 확대 전제",
+      "title_en": "Dutch new-build entity NEON awards EUR 6.3 million engineering document management system to Omega 365",
+      "summary_ko": "네덜란드 신규원전 운영주체 NEON(Nucleaire Energie Organisatie Nederland)이 설계환경용 문서관리시스템(DMS) 공급·구축 계약을 노르웨이 Omega 365 Norway AS에 낙찰한 사실이 11월 19일 EU 공공조달공고로 공표됐다. 계약금액은 630만 유로(추정가 650만 유로), 개방입찰이며 공고에 명시된 이용자 규모는 \"100명에서 1,000명으로 증가\"다. CPV는 72260000·72261000·72263000(소프트웨어 관련 용역) 계열이다.",
+      "summary_en": "A TED award notice published on 19 November shows NEON, the Dutch entity set up to own and operate new nuclear capacity, has awarded the supply and implementation of a document management system for an engineering environment to Omega 365 Norway AS. The contract is worth EUR 6.3 million against an estimated EUR 6.5 million, was let by open procedure, and the notice states a user base growing \"from 100 to 1,000 users\". CPV codes are in the 72260000 software services family.",
+      "sales_note": "발주처가 설계문서 관리 기반을 1,000명 규모로 미리 깔고 있다는 것은 네덜란드가 검토 단계에서 사업조직 구축 단계로 넘어갔다는 공개 신호다. 설계·시공 역무 발주가 열리기 전에 발주처의 문서·형상관리 플랫폼이 무엇인지 확정되므로, 향후 제안 시 요구될 데이터 연동·납품물 형식을 지금 확인해 두는 것이 유리하다.",
+      "sales_note_en": "A client laying in document management for 1,000 users is public evidence that the Netherlands has moved from study to building a project organisation. The owner's document and configuration management platform is being fixed before design and construction packages open, so it is worth establishing now what data integration and deliverable formats future bids will have to meet."
+    },
+    {
+      "id": "2026-11-20-05",
+      "region": "overseas",
+      "language": "en",
+      "source": "EU 공공조달공고(TED)",
+      "url": "https://ted.europa.eu/en/notice/806060-2026/pdf",
+      "published": "2026-11-19",
+      "category": "large",
+      "countries": [
+        "PL"
+      ],
+      "importance": 2,
+      "title": "1,000 Rooms Accommodation Facility – Operation and Maintenance (Bechtel Polska)",
+      "title_ko": "폴란드 벡텔, 첫 원전 부지 1,000실 숙소시설 운영·정비(O&M) 공고 재게재 — 11월 16일 공고와 동일 역무, 마감일 미기재",
+      "title_en": "Bechtel Polska republishes 1,000-room accommodation operation and maintenance notice",
+      "summary_ko": "폴란드 첫 원전의 EPC사 벡텔 폴란드가 1,000실 숙소시설 운영·정비(O&M) 용역 공고를 11월 19일 다시 게재했다. 발주처·제목·역무 설명·CPV(98341100 숙소 운영관리)·수행지(PL634 포모제)가 11월 16일 공고(794931-2026)와 모두 동일하고, 두 공고 모두 마감일과 추정금액이 기재되지 않았다. 입찰안내서(RFQ)는 제안서 질의서·역무범위·시방서·도면·데이터시트·계약조건·평가기준·일정을 포함해 벡텔 자체 공급사 포털(Digital Supply Chain System)로 발급된다.",
+      "summary_en": "Bechtel Polska, EPC contractor for Poland's first nuclear plant, republished its contract notice for operation and maintenance of a 1,000-room accommodation facility on 19 November. Buyer, title, scope text, CPV code 98341100 for accommodation management and place of performance PL634 in Pomerania are all identical to the notice of 16 November (794931-2026), and neither carries a deadline or estimated value. The RFQ - covering proposal questionnaire, scope of works, specifications, drawings, datasheets, terms and conditions, award criteria and schedule - is issued through Bechtel's own Digital Supply Chain System supplier portal.",
+      "sales_note": "같은 역무를 3일 만에 다시 올린 것은 공급사 응답이 충분하지 않았을 가능성을 시사하고, 숙소 1,000실 O&M이 별도 발주로 나오는 것은 현장 인력 투입이 임박했다는 선행지표다. 발주가 벡텔 자체 포털로만 집행되므로 폴란드 사업 참여를 보려면 공고 대응과 별개로 벡텔 공급사 등록을 먼저 해 두어야 한다.",
+      "sales_note_en": "Reposting the same scope after three days suggests supplier response may have been thin, and letting 1,000-room accommodation O&M as a standalone package is a leading indicator that site manpower mobilisation is close. Because the procurement runs only through Bechtel's own portal, anyone looking at the Polish project needs to complete Bechtel supplier registration ahead of, and separately from, responding to notices.",
+      "related": [
+        "https://ted.europa.eu/en/notice/794931-2026/pdf"
+      ]
+    },
+    {
+      "id": "2026-11-20-06",
+      "region": "overseas",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/new-nuclear-projects-offer-economic-advantages-for-ontario",
+      "published": "2026-11-19",
+      "category": "policy",
+      "countries": [
+        "CA"
+      ],
+      "importance": 1,
+      "title": "New nuclear projects offer economic advantages for Ontario",
+      "title_ko": "온타리오 원전 4개 사업 경제효과 보고서 — 캐나다 GDP 8,820억 캐나다달러·일자리 345만 인년, 브루스C가 2,596억 캐나다달러",
+      "title_en": "Report puts Ontario's four nuclear project streams at CAD 882 billion in national GDP",
+      "summary_ko": "캐나다제조업수출협회(CME)가 온타리오뉴클리어어드밴티지(ONA) 의뢰로 작성한 보고서 \"Turning Ontario's Nuclear Advantage into an Industrial Advantage\"가 11월 19일 공개됐다. 온타리오 7개 원전 사업군 중 4개(달링턴 SMR, 피커링 5~8호기 개보수, 브루스C, 웨슬리빌)를 합산해 캐나다 GDP 8,820억 캐나다달러·일자리 345만 인년(이 중 온타리오 내 8,061억 캐나다달러·294만 인년)을 제시했고, 사업별로는 달링턴 SMR 385억·피커링 개보수 416억·브루스C 2,596억 캐나다달러다. 일정은 달링턴 SMR 4기 2030년대 중반 가동, 피커링 개보수 9월 착수·2031~2032년 완료, 브루스C 2020년대 말~2040년대 중반 건설 가능으로 제시됐다.",
+      "summary_en": "A report by Canadian Manufacturers & Exporters, commissioned by Ontario's Nuclear Advantage, was released on 19 November. Covering four of Ontario's seven nuclear project streams - the Darlington SMR, the Pickering 5-8 refurbishment, Bruce C and Wesleyville - it puts their combined contribution at CAD 882 billion of national GDP and 3.45 million job-years, of which CAD 806.1 billion and 2.94 million job-years would stay in Ontario. By project it gives CAD 38.5 billion for the Darlington SMR, CAD 41.6 billion for the Pickering refurbishment and CAD 259.6 billion for Bruce C, with the four Darlington SMR units due in service by the mid-2030s, Pickering refurbishment started in September and completing in 2031-2032, and Bruce C buildable from the late 2020s to the mid-2040s subject to approvals.",
+      "sales_note": "캐나다가 자국 공급망 유지를 전제로 경제효과를 계산해 공개한 자료이므로, 현지화율 요구가 높아지는 방향의 근거로 읽힌다. 브루스C·웨슬리빌 대형 2개 사업은 아직 승인 전이라 노형·발주방식이 열려 있어, 북미 대형원전 축에서 중장기 추적 대상이다.",
+      "sales_note_en": "Canada has published an economic case built on the premise of sustaining its domestic supply chain, which reads as grounds for tighter local content requirements ahead. Bruce C and Wesleyville, the two large-reactor streams, remain pre-approval with technology and procurement route still open, making them medium-term targets to track on the North American large-reactor axis."
+    },
+    {
+      "id": "2026-11-20-07",
+      "region": "overseas",
+      "language": "sl",
+      "source": "EU 공공조달공고(TED)",
+      "url": "https://ted.europa.eu/en/notice/807182-2026/pdf",
+      "published": "2026-11-19",
+      "category": "large",
+      "countries": [
+        "SI"
+      ],
+      "importance": 1,
+      "title": "Izvedba remontnih del na reaktorju RC sistema za remont 2025 in 2027",
+      "title_ko": "슬로베니아 크르슈코 원전(NEK), 2025·2027년 대정비용 원자로 RC계통 정비공사 계약 변경공고",
+      "title_en": "Krsko plant modifies contract for reactor coolant system overhaul works covering the 2025 and 2027 outages",
+      "summary_ko": "슬로베니아 크르슈코 원전(NEK)이 2025년·2027년 대정비(remont)를 대상으로 한 원자로 RC계통 정비공사 계약의 변경공고(can-modif)를 11월 19일 EU 공공조달공고로 게재했다. 공고에 기재된 역무는 원자로 RC계통 정비공사 수행이며, 변경 사유·변경 금액은 공고 본문에서 확인되지 않았다.",
+      "summary_en": "Slovenia's Krsko nuclear plant published a contract modification notice on TED on 19 November covering reactor coolant system overhaul works for its 2025 and 2027 refuelling outages. The notice states the scope as execution of RC system overhaul works; the reason for the modification and its value are not confirmed in the notice text.",
+      "sales_note": "가동원전 대정비 역무가 복수 회차를 묶어 한 계약으로 운영되고 중간에 변경계약으로 조정되는 방식을 보여준다. 개보수·계속운전 축에서 유럽 발주처에 접근할 때는 단회 대정비 입찰이 아니라 복수 회차 묶음 계약의 변경 시점을 진입 지점으로 봐야 한다.",
+      "sales_note_en": "This shows operating-fleet outage work being run as a single contract bundling several outages and adjusted by modification in between. On the refurbishment and long-term operation axis, the entry point with European clients is the modification of a multi-outage bundle rather than a single-outage tender."
+    },
+    {
+      "id": "2026-11-20-08",
+      "region": "overseas",
+      "language": "cs",
+      "source": "EU 공공조달공고(TED)",
+      "url": "https://ted.europa.eu/en/notice/804153-2026/pdf",
+      "published": "2026-11-19",
+      "category": "fuel",
+      "countries": [
+        "CZ"
+      ],
+      "importance": 1,
+      "title": "Provádění identifikace mikročástic jaderných materiálů",
+      "title_ko": "체코 원자력안전위원회(SÚJB), 핵물질 미세입자 식별 실험분석 기본협약 입찰 — 661만 1,570코루나, 접수 12월 22일",
+      "title_en": "Czech regulator SUJB tenders a framework for laboratory identification of nuclear material microparticles",
+      "summary_ko": "체코 원자력안전위원회(SÚJB)가 핵물질 미세입자 식별을 위한 실험실 분석 및 관련 활동 수행 기본협약 입찰을 11월 19일 게재했다. 개방입찰이며 총액 661만 1,570코루나, 참가 접수 마감은 2026년 12월 22일 09:00이고 수행지는 제한이 없다(anywhere). CPV는 71900000·71600000(실험실 용역·시험분석 용역)이다.",
+      "summary_en": "The Czech nuclear regulator SUJB published an open tender on 19 November for a framework agreement covering laboratory analysis and identification of nuclear material microparticles and associated activities. The total value is CZK 6,611,570, the deadline for requests is 22 December 2026 at 09:00, and the place of performance is unrestricted. CPV codes are 71900000 and 71600000 for laboratory and testing services.",
+      "sales_note": "역무 범위 밖이지만, 체코 규제기관이 안전조치·핵물질 감식 역량을 외부 기본협약으로 조달하는 패턴을 보여준다. 두코바니 신규호기 인허가 심사가 2027년 4월 신청을 앞둔 국면에서 규제기관의 외부 용역 조달이 늘어나는지는 심사 체제 정비 속도를 보는 간접 지표가 된다.",
+      "sales_note_en": "Outside our scope of work, but it shows the Czech regulator buying safeguards and nuclear forensics capability through external framework agreements. With the Dukovany new-build licence application due in April 2027, whether the regulator's outsourcing grows is an indirect read on how fast it is building out review capacity."
+    },
+    {
+      "id": "2026-11-20-09",
+      "region": "overseas",
+      "language": "ro",
+      "source": "EU 공공조달공고(TED)",
+      "url": "https://ted.europa.eu/en/notice/806510-2026/pdf",
+      "published": "2026-11-19",
+      "category": "large",
+      "countries": [
+        "RO"
+      ],
+      "importance": 1,
+      "title": "Biocid si Servicii de biocidare pentru tratamentul antifouling a sistemului de apa tehnica de serviciu de la CNE Cernavoda in perioada 2027-2028, CR 45835",
+      "title_ko": "루마니아 누클레아렐렉트리카, 체르나보다 1·2호기 기술용수계통 방오(antifouling) 살생물제 공급·처리용역 — 41만 유로, 접수 12월 21일",
+      "title_en": "Nuclearelectrica tenders biocide supply and antifouling treatment for Cernavoda service water systems in 2027-2028",
+      "summary_ko": "루마니아 누클레아렐렉트리카가 체르나보다 1·2호기 기술용수(원수 냉각)계통의 방오 처리를 위한 살생물제 공급 및 처리용역 입찰을 11월 19일 게재했다(CR 45835, 2027~2028년 대상). 목적은 담치류 Dreissena polymorpha와 Corbicula fluminalis가 냉각계통 내부에 고착·번식하는 것을 막는 것이고, 첫 계약연도에는 살생물제 1만 8,000kg을 계약 후 최대 10주 내 납품해야 한다. 총액 41만 유로, 개방입찰, 접수 마감 2026년 12월 21일 15:00이다.",
+      "summary_en": "Romania's Nuclearelectrica published an open tender on 19 November for biocide supply and treatment services for antifouling of the service water (raw cooling water) systems at Cernavoda units 1 and 2 over 2027-2028 (reference CR 45835). The purpose is to prevent the mussels Dreissena polymorpha and Corbicula fluminalis settling and breeding inside the cooling systems, with 18,000 kg of biocide to be delivered within at most 10 weeks of contract award in the first contract year. The total value is EUR 410,000 with requests due by 21 December 2026 at 15:00.",
+      "sales_note": "역무 밖 소액 소모품 발주다. 다만 이 발주처는 전동기·오염감시기·연료용 선재·데이터센터 등 기자재 단품 공고만 반복하고 있어, 같은 발주처 공고에서 토건·설치·완공 역무 CPV(45000·71300 계열)가 처음 등장하는 시점이 체르나보다 3·4호기 완공 사업의 실질 개시 신호가 된다.",
+      "sales_note_en": "A low-value consumables tender outside our scope of work. This client, however, keeps issuing only single-item equipment notices - motors, contamination monitors, fuel wire rod, a data centre - so the first appearance of civil works, installation or unit-completion CPV codes (the 45000 and 71300 families) in its notices would mark the real start of the Cernavoda 3 and 4 completion project."
+    },
+    {
+      "id": "2026-11-20-10",
+      "region": "overseas",
+      "language": "sk",
+      "source": "EU 공공조달공고(TED)",
+      "url": "https://ted.europa.eu/en/notice/804584-2026/pdf",
+      "published": "2026-11-19",
+      "category": "fuel",
+      "countries": [
+        "SK"
+      ],
+      "importance": 1,
+      "title": "Opravy a technické kontroly prepravných a sprievodných vagónov VJP a RAO",
+      "title_ko": "슬로바키아 JAVYS, 사용후핵연료·방폐물 수송화차 수리·기술검사 입찰 — 23만 6,000유로, 2027~2029년, 접수 12월 22일",
+      "title_en": "Slovakia's JAVYS tenders repairs and technical inspections of spent fuel and radwaste transport wagons",
+      "summary_ko": "슬로바키아 원자력해체·폐기물 공사 JAVYS가 사용후핵연료(VJP)·방사성폐기물(RAO) 수송화차와 특수 수반차량의 수리 및 기술검사 입찰을 11월 19일 게재했다. 대상은 2027~2029년 Uaais 화차 3량, RILS계열 화차 4량, 수반차량 WLADmveer 1량의 기술검사와 수리·유지이며, 총액 23만 6,000유로, 개방입찰, 접수 마감 2026년 12월 22일 10:00이다.",
+      "summary_en": "Slovakia's decommissioning and waste company JAVYS published an open tender on 19 November for repairs and technical inspections of spent fuel and radioactive waste transport wagons and a special escort wagon. The scope covers technical inspections, repair and maintenance of three Uaais wagons, four RILS-series wagons and one WLADmveer escort wagon over 2027-2029, valued at EUR 236,000, with requests due by 22 December 2026 at 10:00.",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-11-20-11",
+      "region": "domestic",
+      "language": "en",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/samsung-tesser-to-collaborate-on-nuclear-power-lng-carrier",
+      "published": "2026-11-19",
+      "category": "smr",
+      "countries": [
+        "KR",
+        "US",
+        "NO"
+      ],
+      "importance": 2,
+      "title": "Samsung, Tesser to collaborate on nuclear-powered LNG carrier",
+      "title_ko": "삼성중공업–美 테서아토믹스, 원자력추진 LNG선 실증사업 독점 전략협력 양해각서 — 노르웨이에서 서명, 불화염냉각 고온로 'Triton' 적용",
+      "title_en": "Samsung Heavy Industries and Tesser Atomics sign exclusive MoU for a nuclear-powered LNG carrier demonstration",
+      "summary_ko": "삼성중공업이 미국 텍사스 소재 원자력 기술기업 테서아토믹스(Tesser Atomics)와 대서양 횡단 원자력추진 LNG선 실증사업에 관한 독점 전략협력 양해각서를 노르웨이에서 체결했다. 삼성중공업은 테서의 독점 조선 파트너가 되고 테서는 삼성중공업의 독점 원자로 파트너가 되는 상호 독점 구조이며, 양사는 선박 개념설계와 선박용 원자로 적용을 함께 개발한다. 적용 노형은 테서의 'Triton' — TRISO 연료·저압 용융염 냉각재·온라인 재장전을 쓰는 소형 불화염냉각 고온로(FHR)이고, 출력은 공개되지 않았다. 사업은 노르웨이 NuProship 연구사업에서 나와 테서가 참여한 SFI SAINT로 이어진다(테서 공동창업자 겸 CEO는 카이로스파워 공동창업자인 퍼 피터슨).",
+      "summary_en": "Samsung Heavy Industries has signed an exclusive strategic collaboration memorandum in Norway with Tesser Atomics, a Texas-based nuclear technology company, on a demonstration project for a transatlantic nuclear-powered LNG carrier. The arrangement is mutually exclusive - SHI becomes Tesser's exclusive shipbuilder partner and Tesser becomes SHI's exclusive reactor partner - and the two will jointly develop the ship concept and the marine reactor application. The reactor is Tesser's Triton, a compact fluoride-salt-cooled high-temperature reactor using TRISO fuel, a low-pressure molten salt coolant and online refuelling, with no power output disclosed. The project grew out of Norway's NuProship research programme and continues within SFI SAINT, which Tesser has joined; Tesser's co-founder and chief executive is Per Peterson, who also co-founded Kairos Power.",
+      "sales_note": "국내 조선사가 선박용 원자로 축에서 특정 개발사와 상호 독점으로 묶이는 첫 사례로, 해상 원자력 공급망의 짝짓기가 빠르게 정리되고 있음을 보여준다. 노르웨이 선박용 원자력추진계통(MarNuPS) 사업이 연구위원회 지원을 받은 직후 같은 생태계에서 독점 계약이 나온 흐름이므로, 해상 원자력은 육상 SMR과 별개의 발주·인증 경로(선급·기국)를 전제로 봐야 한다.",
+      "sales_note_en": "This is the first case of a Korean shipbuilder tying itself mutually and exclusively to a single developer on the marine reactor axis, showing how fast pairings in the floating nuclear supply chain are settling. It follows the Norwegian MarNuPS marine nuclear propulsion project winning research council funding, an exclusive deal emerging from the same ecosystem, so marine nuclear should be treated as having procurement and certification routes - classification societies and flag states - separate from land-based SMRs."
+    }
+  ]
+}

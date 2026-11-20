@@ -1,21 +1,8 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
   "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
   "tenders": [
-    {
-      "country": "BE",
-      "buyer": "European Defence Agency",
-      "title": "'EU 국방 에너지체계용 원자력 기술(NUCLEUS)' 연구·자문 용역 기본계약 (26.RTI.OP.102)",
-      "title_en": "Framework contract for the 'Nuclear Technologies for EU Defence Energy Systems (NUCLEUS)' study (26.RTI.OP.102)",
-      "scope": "선진 원자력 기술, 국방 에너지 복원력, 에너지 안보, 핵심 에너지 인프라 보호를 다루는 연구·자문 용역 기본계약. 과업은 연구·평가·전문가 자문·워크숍·분석 활동이며, 규제·인허가 체계, 핵연료 공급, 이행 경로, 사이버·하이브리드·물리보안, 역량 개발이 범위에 포함된다. 개방입찰, 재경쟁 없는 기본계약(fa-wo-rc), 공고 기재 추정금액 90만 유로, 입찰서 접수 마감 2026-11-20 17:00. CPV 75220000·73110000.",
-      "scope_en": "A framework contract for research and consulting services in the form of a study on advanced nuclear technologies, defence energy resilience, energy security and the protection of critical energy infrastructure. Tasks cover studies, assessments, expert consultations, workshops and analytical work, including regulatory and licensing frameworks, fuel supply, implementation pathways, cyber, hybrid and physical security, and capability development. Open procedure, framework agreement without reopening of competition, stated estimated value EUR 900,000, tenders due by 17:00 on 20 November 2026. CPV 75220000 and 73110000.",
-      "portal": "TED",
-      "notice_no": "782381-2026",
-      "published": "2026-11-10",
-      "deadline": "2026-11-20",
-      "url": "https://ted.europa.eu/en/notice/782381-2026/pdf"
-    },
     {
       "country": "DK",
       "buyer": "Danish Decommissioning",
@@ -607,6 +594,58 @@
       "published": "2026-11-19",
       "deadline": "2026-12-21",
       "url": "https://ted.europa.eu/en/notice/806510-2026/pdf"
+    },
+    {
+      "country": "FR",
+      "buyer": "EDF SA",
+      "title": "EPR2 팡리(Penly) 시뮬레이터 건물(BAT SIMULATEUR) 신축 전 공종 참가신청",
+      "title_en": "Call for applications - EPR2 Penly simulator building: all-trades construction of the HBU simulator building",
+      "scope": "EPR2 팡리 부지에 연면적 2,190㎡(이 중 1,065㎡는 1층 배치 필수)의 사무·다중이용(ERP) 건물을 신축하는 전 공종(tout corps d'états) 공사. 건물에는 운전 시뮬레이터 2기(주제어실 실물 복제형 1·이동형 1)를 각각 수용하는 교육실 2실, 전산실 1실, 준비·디브리핑실 5실, 가상현실실 1실, 업무석 65석, 40석 식당, 수유실, 테라스가 들어간다. 역무는 부지정비(VRD)·골조·승강기·마감·공조(CVC)·전기이며 가구는 옵션이다. 참가신청 접수 마감 2026-12-22 10:00(CET), CPV 45210000. 공고에 추정금액은 기재되지 않았다.",
+      "scope_en": "All-trades construction of a 2,190 m2 office and public-access (ERP) building at the EPR2 Penly site, of which 1,065 m2 must be on the ground floor. It will house two training rooms each holding an operating simulator - a full-scale replica of the control room and a transferable unit - plus a computer room, five preparation and debrief rooms, a virtual reality room, 65 workstations, a 40-seat canteen, a nursing room and a terrace. Scope covers site works (VRD), structure, lift, fit-out, HVAC and electrical, with furniture as an option. Requests to participate are due by 10:00 CET on 22 December 2026; CPV 45210000. The notice states no estimated value.",
+      "portal": "TED",
+      "notice_no": "810431-2026",
+      "published": "2026-11-20",
+      "deadline": "2026-12-22",
+      "url": "https://ted.europa.eu/en/notice/810431-2026/pdf"
+    },
+    {
+      "country": "GB",
+      "buyer": "UK Atomic Energy Authority",
+      "title": "컬햄 MRF 핫셀 라인 통합·시운전 및 유지보수 기본협약 (T/066MN/26)",
+      "title_en": "MRF Hot Cells Engineering and Maintenance Framework (T/066MN/26)",
+      "scope": "컬햄 소재연구시설(MRF)에 설치되는 핫셀 라인을 통합·시운전하고, 기본협약 기간 동안 유지보수·지원을 수행하며 발주처 요청 시 개선을 수행할 단일 공급사를 선정한다. 개방형 'Competitive flexible procedure'이며, 공고 기재 추정금액은 600만 파운드(부가세 포함 720만 파운드), 입찰 접수 마감은 2026-12-21 12:00(GMT)이다.",
+      "scope_en": "Selection of a single supplier to integrate and commission the hot cell line being fitted out at the Materials Research Facility at Culham, then maintain and support it for the life of the framework and make improvements on request. Open competitive flexible procedure; the notice states a value of GBP 6 million, GBP 7.2 million including VAT, with tenders due by 12:00 GMT on 21 December 2026.",
+      "portal": "UK Find a Tender",
+      "notice_no": "ocds-h6vhtk-07c0c5",
+      "published": "2026-11-20",
+      "deadline": "2026-12-21",
+      "url": "https://www.find-tender.service.gov.uk/Notice/ocds-h6vhtk-07c0c5"
+    },
+    {
+      "country": "SI",
+      "buyer": "Nuklearna elektrarna Krško d.o.o.",
+      "title": "크르슈코 원전 외부저장고·대정비 캠프 인력·물적 경비용역",
+      "title_en": "Technical and physical security of people and property at Krsko NPP's external warehouse and outage camp",
+      "scope": "슬로베니아 크르슈코 원전(NEK)이 외부저장고와 대정비 캠프를 대상으로 인력·물적 경비(기술적·물리적 보안) 용역을 발주했다. 입찰 접수 마감은 2026-12-10 11:00(CET)이다.",
+      "scope_en": "Krsko nuclear power plant in Slovenia is procuring technical and physical security services for people and property at its external warehouse and outage camp. Tenders are due by 11:00 CET on 10 December 2026.",
+      "portal": "TED",
+      "notice_no": "810283-2026",
+      "published": "2026-11-20",
+      "deadline": "2026-12-10",
+      "url": "https://ted.europa.eu/en/notice/810283-2026/pdf"
+    },
+    {
+      "country": "RO",
+      "buyer": "Societatea Nationala NUCLEARELECTRICA S.A.",
+      "title": "체르나보다 원전 전신 오염감시용 구역간 감시기 공급",
+      "title_en": "Interzonal whole-body contamination monitors for Cernavoda",
+      "scope": "루마니아 누클레아렐렉트리카가 체르나보다 원전의 전신 오염 관리를 위한 구역간(interzonal) 감시기를 공급 발주했다. 입찰 접수 마감은 2026-12-22 15:00(EET)이다.",
+      "scope_en": "Romania's Nuclearelectrica is procuring interzonal whole-body contamination monitors for Cernavoda. Tenders are due by 15:00 EET on 22 December 2026.",
+      "portal": "TED",
+      "notice_no": "810806-2026",
+      "published": "2026-11-20",
+      "deadline": "2026-12-22",
+      "url": "https://ted.europa.eu/en/notice/810806-2026/pdf"
     }
   ]
 }

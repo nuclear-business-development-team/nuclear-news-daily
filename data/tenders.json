@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
   "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
   "tenders": [
@@ -646,6 +646,58 @@
       "published": "2026-11-20",
       "deadline": "2026-12-22",
       "url": "https://ted.europa.eu/en/notice/810806-2026/pdf"
+    },
+    {
+      "country": "GB",
+      "buyer": "Nuclear Restoration Services Limited",
+      "title": "둔레이 수직구·사일로 중준위폐기물 인출용 공정셀 및 수직구 인출크레인 (사전시장조사)",
+      "title_en": "Shaft and Silo process cell including shaft retrieval crane, Dounreay (preliminary market engagement)",
+      "scope": "영국 원자력복원서비스(NRS)가 스코틀랜드 케이스네스 둔레이 부지의 기존 수직구·습식 사일로 중준위폐기물(ILW) 저장시설 해체용 인출설비 중 공정셀과 수직구 인출크레인에 대해 조달법 2023에 따른 사전시장조사를 공고했다. 공정셀은 인출 폐기물의 분류·감용 후 200ℓ 드럼 적입·그라우팅까지 수행하는 상호의존 설비군이다. 추정금액은 부가세 제외 1,800만 파운드(포함 2,160만 파운드)이며, 조달절차 개시가 아닌 정보제공·시장참여 목적으로 마감일이 없다.",
+      "scope_en": "The UK's Nuclear Restoration Services published a preliminary market engagement notice under the Procurement Act 2023 covering the process cell and shaft retrieval crane within the retrieval plant for decommissioning the legacy Shaft and wet Silo intermediate-level waste stores at Dounreay, Caithness, Scotland. The process cell is a series of interdependent plant items that sort and size-reduce retrieved waste before consignment and grouting into 200-litre drums. The estimated value is GBP 18 million excluding VAT, GBP 21.6 million including it; the notice is for information and engagement only, does not start a procurement procedure, and carries no deadline.",
+      "portal": "UK Find a Tender",
+      "notice_no": "110195-2026",
+      "published": "2026-11-20",
+      "deadline": null,
+      "url": "https://www.find-tender.service.gov.uk/Notice/110195-2026"
+    },
+    {
+      "country": "GB",
+      "buyer": "Nuclear Restoration Services Limited",
+      "title": "둔레이 사일로 인출암·공정 매니퓰레이터·수직구 진입플랫폼 설계·제작·공급 (사전시장조사)",
+      "title_en": "Shaft and Silo remote waste handling, retrieval and size reduction systems, Dounreay (preliminary market engagement)",
+      "scope": "영국 원자력복원서비스(NRS)가 둔레이 부지 수직구·사일로 중준위폐기물 인출·처리용 원격조작 특수장비의 설계·개발·제작·시험·공급에 대해 사전시장조사를 공고했다. 대상은 사일로 내부 폐기물 조작·감용용 인출암 'SWORD', 현장 개입용 수직구 진입장비 'SWIFT', 공정 매니퓰레이터다. 추정금액은 부가세 제외 1,800만 파운드(포함 2,160만 파운드)이며, 정보제공·시장참여 목적으로 마감일이 없다.",
+      "scope_en": "The UK's Nuclear Restoration Services published a preliminary market engagement notice for the design, development, manufacture, testing and supply of specialist remotely operated equipment to retrieve and process legacy intermediate-level waste from the Dounreay Shaft and Silo. It covers the Silo retrieval arm 'SWORD' for manipulating and size-reducing waste inside the silo, shaft intervention equipment 'SWIFT', and process manipulators. The estimated value is GBP 18 million excluding VAT, GBP 21.6 million including it, and the notice is for information and engagement only with no deadline.",
+      "portal": "UK Find a Tender",
+      "notice_no": "110194-2026",
+      "published": "2026-11-20",
+      "deadline": null,
+      "url": "https://www.find-tender.service.gov.uk/Notice/110194-2026"
+    },
+    {
+      "country": "GB",
+      "buyer": "UK Atomic Energy Authority",
+      "title": "삼중수소 분석용 버블러 시료채취계통 공급 (사전공고)",
+      "title_en": "Tritium bubbler sampling system (preliminary notice)",
+      "scope": "영국 원자력청(UKAEA)이 삼중수소 분석용 버블러 시료채취계통 공급과 관련해 시공사·중소기업·설계사·제조사의 참여 의향을 받는 사전 시장조사를 공고했다(참조번호 T/137MN/26). 추정금액은 공고에 기재되지 않았고 마감일이 없다.",
+      "scope_en": "The UK Atomic Energy Authority published a preliminary market engagement notice (reference T/137MN/26) inviting interest from contractors, SMEs, designers and manufacturers in supplying a bubbler sampling system for tritium analysis. The notice states no estimated value and carries no deadline.",
+      "portal": "UK Find a Tender",
+      "notice_no": "ocds-h6vhtk-07c0b7",
+      "published": "2026-11-20",
+      "deadline": null,
+      "url": "https://www.find-tender.service.gov.uk/Notice/ocds-h6vhtk-07c0b7"
+    },
+    {
+      "country": "GB",
+      "buyer": "Nuclear Waste Services Limited",
+      "title": "금속 방사성폐기물 처리용역 프레임워크 2028 (사전공고)",
+      "title_en": "Metallic radioactive waste treatment services framework 2028 (pipeline notice)",
+      "scope": "영국 Nuclear Waste Services가 금속 방사성폐기물 처리용역 프레임워크(2028년 체결 예정)에 대한 조달 파이프라인 사전공고를 냈다. 공고상 추정금액은 9,700만 파운드이며 마감일은 기재되지 않았다.",
+      "scope_en": "The UK's Nuclear Waste Services issued a procurement pipeline notice for a metallic radioactive waste treatment services framework expected to be let in 2028. The notice gives an estimated value of GBP 97 million and states no deadline.",
+      "portal": "UK Find a Tender",
+      "notice_no": "ocds-h6vhtk-07935d",
+      "published": null,
+      "deadline": null,
+      "url": "https://www.find-tender.service.gov.uk/Notice/ocds-h6vhtk-07935d"
     }
   ]
 }

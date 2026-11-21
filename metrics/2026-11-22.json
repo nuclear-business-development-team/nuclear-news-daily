@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-22",
+  "run_started": "2026-11-22T08:04:32+09:00",
+  "run_finished": "2026-11-22T08:19:09+09:00",
+  "run_minutes": 14.6,
+  "articles": 7,
+  "by_region": {
+    "overseas": 4,
+    "domestic": 3
+  },
+  "by_importance": {
+    "3": 1,
+    "2": 3,
+    "1": 3
+  },
+  "detection_lag_hours": {
+    "median": 47.1,
+    "max": 71.1,
+    "n": 7
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "IAEA Top News (RSS, 엔티티 보정 후)",
+    "더구루 (RSS)",
+    "더트래커 (RSS, 리디렉션 추적 후)",
+    "ANS Nuclear Newswire",
+    "정책브리핑 korea.kr (원전·원자력·SMR 3회)",
+    "한국수력원자력 보도자료",
+    "한국전력 보도·설명자료",
+    "TED API (ted.europa.eu/v3/notices/search)",
+    "UK Find a Tender OCDS API",
+    "아시아경제",
+    "WebSearch (현지어: cs·pl·sk·sl·tr·ru·vi·nl·fr·ko)"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "stale — HTTP 200이나 최신 항목 2026-06-16, 5개월 이상 갱신 정지"
+    },
+    {
+      "name": "더트래커 RSS (www.thetracker.co.kr)",
+      "reason": "301 redirect — 리디렉션 추적(-L) 후 복구, sources.yaml 주소 수정 필요"
+    },
+    {
+      "name": "irozhlas.cz 기사 본문",
+      "reason": "403"
+    },
+    {
+      "name": "energynews.pro (EDF EPR2 국가지원 기사)",
+      "reason": "403 CrowdSec — 익명 소스 기반 보도로 확인 불가, 미수록"
+    },
+    {
+      "name": "ted.europa.eu 공고 PDF·XML 직접 열람",
+      "reason": "WebFetch 빈 응답 / XML 202 — TED 검색 API로 대체 확인"
+    },
+    {
+      "name": "find-tender.service.gov.uk 공고 본문",
+      "reason": "403 — OCDS API로 대체 확인"
+    }
+  ],
+  "languages": {
+    "en": 2,
+    "ro": 1,
+    "sk": 1,
+    "ko": 3
+  }
+}

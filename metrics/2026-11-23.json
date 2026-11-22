@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-23",
+  "run_started": "2026-11-23T08:04:25+09:00",
+  "run_finished": "2026-11-23T08:26:17+09:00",
+  "run_minutes": 21.9,
+  "articles": 10,
+  "by_region": {
+    "overseas": 7,
+    "domestic": 3
+  },
+  "by_importance": {
+    "3": 1,
+    "2": 4,
+    "1": 5
+  },
+  "detection_lag_hours": {
+    "median": 47.1,
+    "max": 95.1,
+    "n": 10,
+    "note": "게재 시각이 날짜까지만 있는 건은 SKILL §9 규칙대로 그날 09:00(+09:00)으로 간주. TED 11-23자 공고 4건은 실행 시각(08:04)이 그 기준보다 앞서 계산상 -0.9시간이 나오므로 0으로 절삭해 집계했다(당일 포착)."
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "POWER Magazine (RSS)",
+    "IAEA Top News (RSS, 엔티티 보정 후)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS, -L 리디렉션 추적 후)",
+    "ANS Nuclear Newswire (목록 + 기사)",
+    "정책브리핑 korea.kr (원전·SMR·원자력 3회)",
+    "한국전력 보도·설명자료 게시판 (목록)",
+    "TED 검색 API (ted.europa.eu/v3/notices/search — 발주처명 43개 전수 질의 25건 + FT~ 다국어 질의 28건)",
+    "UK Find a Tender OCDS API (11-20~11-23, links.next 4페이지 전수)",
+    "전기신문 (electimes.com)",
+    "보안뉴스 (boannews.com)",
+    "khnpcesko.cz (KHNP 체코 법인 보도자료 목록)",
+    "kurzy.cz (KHNP 체코 보도자료 게재분)",
+    "WebSearch (현지어: cs·pl·ja·zh·ru·ro·fi·ko)"
+  ],
+  "sources_failed": [
+    {
+      "name": "한국수력원자력 보도자료 게시판 (www.khnp.co.kr/main/selectBbsNttList.do?bbsNo=71&key=2289)",
+      "reason": "404 — sources.yaml 등록 주소가 '요청하신 페이지를 찾을 수 없습니다' 반환. 개별 기사 주소(selectBbsNttView.do)는 정상이므로 목록 주소만 변경된 것으로 보임. 전일(11-22) 회차에는 정상이었으므로 금차 신규 장애"
+    },
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "stale — 301 추적 후 HTTP 200이나 최신 항목 2026-06-16, 5개월 이상 갱신 정지. 2026-11-22 회차에 이어 2회 연속"
+    },
+    {
+      "name": "ted.europa.eu 공고 PDF 직접 열람",
+      "reason": "HTTP 202 (PDF 생성 대기) / WebFetch 빈 응답 — TED 검색 API 상세 필드 질의로 대체 확인"
+    },
+    {
+      "name": "한국전력 보도자료 개별 기사 주소",
+      "reason": "오류 페이지 — 게시판이 javascript fn_Detail 호출로 직접 URL이 없어 언론 보도(보안뉴스·세계일보·아시아투데이)로 대체"
+    },
+    {
+      "name": "jsonschema (python 패키지)",
+      "reason": "미설치·오프라인으로 설치 불가 — schema/daily.schema.json 기준 required·enum·패턴·article_id 참조 정합성을 자체 스크립트로 수동 검증"
+    }
+  ],
+  "languages": {
+    "en": 2,
+    "cs": 2,
+    "fr": 2,
+    "it": 1,
+    "ko": 3
+  }
+}

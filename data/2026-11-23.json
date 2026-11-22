@@ -1,0 +1,286 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T08:04:25+09:00",
+  "period": {
+    "from": "2026-11-19",
+    "to": "2026-11-23"
+  },
+  "overview_ko": "주말(11월 21일 토·22일 일) 사이 해외 원자력 전문지에는 신규 게재가 없었고, 이번 회차 해외 수집은 TED가 11월 20일(금)·23일(월)자로 공표한 공고가 사실상 전부다 — 전문지 쪽은 축소 수집 회차다. 가장 큰 건은 체코 ČEZ가 두코바니 1~4호기 ŘSBE 제어계통의 계속운전 확보 턴키 공사를 4억 1,276만 코루나로 체코 ZAT a.s.에 낙찰한 것으로, 호기별 차이를 모두 반영하고 계통 투입 후 최소 20년간 예비품 공급을 보장하는 조건이 붙었다. 프랑스에서는 감사원이 EPR2 6기 사업비를 840억 유로로 재산정한 지 엿새 만에 EDF가 그라블린 EPR2 현장의 전기·통신 부대설비 공사를 8년 기본협약(한도 6,130만 유로, 1차 계약 744만 5,000유로)으로 CG3N OMEXOM PPG·CITEOS 2사에 낙찰해, 재원 논란과 별개로 현장 집행이 진행되고 있음을 보여줬다. 그 밖에 이탈리아 소진(SOGIN)이 해체 부지 방사선방호 계측기 정비용역 사전시장조사(201만 6,204유로)를, EU 공동연구센터(JRC) 카를스루에가 악티나이드 취급용 불활성 글러브박스 체인(65만 유로, 접수 12월 4일)을, 프랑스 ASNR이 CEA 카다라슈 ODE 시설 콘크리트 시료 파괴검사 기본협약(최대 30만 유로, 접수 12월 31일)을 냈고, 미국에서는 에너지부가 2050년까지 원자력 숙련인력 37만 5,000명 이상이 필요하다고 전망한 가운데 ORAU 주도 산학 로드맵(권고 70여 건)이 이행 단계에 들어갔다. 영업 관점: 두코바니 ŘSBE 건은 유럽 가동원전 개보수에서 '20년 예비품·기술지원 보증'이 입찰 참가의 실질 요건임을 보여주므로, 가동원전 개보수 접근 시 장기 공급보증을 계약조건으로 제시할 수 있는지를 먼저 정리해야 한다.",
+  "overview_en": "No overseas trade publication posted anything new over the weekend of 21-22 November, and this run's overseas haul is effectively everything TED published on Friday 20 and Monday 23 November - a reduced-collection run on the trade-press side. The largest item is CEZ's award to Czech supplier ZAT a.s., worth CZK 412,758,500, of a turnkey package securing long-term operation of the RSBE control system across Dukovany units 1-4, with spare parts to remain available for at least 20 years from deployment and unit-by-unit differences all accommodated. In France, six days after the state auditor restated the six-unit EPR2 programme at EUR 84 billion, EDF awarded the electrical and telecom enabling works at the Gravelines EPR2 site to CG3N OMEXOM PPG and CITEOS under an eight-year framework capped at EUR 61.3 million, with a first contract of EUR 7,445,000 - showing that site execution is proceeding regardless of the funding debate. Elsewhere, Italy's Sogin opened a preliminary market consultation for 'Full Risk' maintenance of radiation protection instrumentation at its decommissioning sites (EUR 2,016,204), the European Commission's JRC Karlsruhe tendered an inert glovebox chain for actinide handling (EUR 650,000, bids due 4 December), and France's ASNR tendered a framework for destructive examination of concrete samples at CEA Cadarache's ODE facility (up to EUR 300,000, bids due 31 December). In the United States, the Department of Energy projects a need for more than 375,000 skilled nuclear workers by 2050, and the ORAU-led academic roadmap with its 70-plus recommendations has entered implementation. Sales angle: the Dukovany RSBE award shows that a 20-year spares and technical support guarantee is in practice an entry condition for European operating-fleet refurbishment work, so any approach to that market should start by establishing whether we can offer such a long-term commitment contractually.",
+  "domestic_overview_ko": "체코 두코바니 신규원전 냉각탑 입찰이 MVM EGI·메트로스타브 컨소시엄과 JC 하몬·호흐티프 컨소시엄의 2파전으로 확인됐고, 한국수력원자력은 11월 18일부터 이틀간 현지 현장설명회를 열어 2027년 상반기 계약 체결을 목표로 하고 있다. 11월 19일 서명된 원전 정부승인차액계약은 가동 26기와 새울 3·4호기, 신한울 3·4호기를 합한 30기를 대상으로 해, 포스코가 추진해 온 원전 전력 기업 직접구매(PPA)는 사실상 막혔다. 한국전력은 11월 22일 사이버 침해로 한전ON 65만 487명과 전자조달시스템(SRM) 86만 9,761명 등 개인정보 152만 248건이 유출된 사실을 공개하고 대국민 사과문을 냈다. 영업 관점: 냉각탑은 국내 원전에 시공 실적이 없어 해외 전문업체만 경쟁하는 구도이므로, 한수원이 이번에 쌓는 발주·평가 실적과 뒤이어 열릴 보조기기(AE&M)·신규 시공 패키지가 국내 업체의 두코바니 진입 창구가 된다.",
+  "domestic_overview_en": "Two consortia are confirmed to be competing for the cooling towers at the new Dukovany units in Czechia - MVM EGI with Metrostav, and JC Hamon with Hochtief - and KHNP ran two days of on-site briefings from 18 November, aiming to sign the construction contract in the first half of 2027. The government-approved contract for difference (CfD) signed on 19 November covers 30 reactors: 26 in operation plus Saeul 3 and 4 and Shin-Hanul 3 and 4, which effectively closes the route POSCO had been pursuing to buy nuclear power directly under a corporate PPA. On 22 November KEPCO disclosed that a cyber intrusion leaked 1,520,248 personal data records - 650,487 users of its KEPCO ON customer portal and 869,761 users of its SRM e-procurement system - and issued a public apology. Sales angle: no Korean nuclear project has ever built cooling towers of this type, so only foreign specialists are bidding; the owner-side procurement record KHNP builds here, plus the auxiliary equipment (AE&M) and replacement construction packages still to open, is where Korean suppliers can enter Dukovany.",
+  "countries_pulse": [
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "신규 호기와 별개로 가동 4개 호기 계속운전 투자가 집행 중 — ŘSBE 제어계통 장기운전 확보 4억 1,276만 코루나(ZAT), 1종 비상전원 축전지 교체 1,754만 코루나(ČEZ ENERGOSERVIS). 두코바니 냉각탑 입찰은 외국 전문업체 2개 컨소시엄 경쟁으로 확정",
+      "signal_en": "Alongside the new units, investment in continued operation of the four existing units is being executed - CZK 412.8 million for long-term operation of the RSBE control system (ZAT) and CZK 17.5 million for Category I battery replacement (CEZ ENERGOSERVIS). The Dukovany cooling tower tender has settled into a contest between two foreign specialist consortia",
+      "article_ids": [
+        "2026-11-23-01",
+        "2026-11-23-04",
+        "2026-11-23-08"
+      ]
+    },
+    {
+      "country": "FR",
+      "name_ko": "프랑스",
+      "name_en": "France",
+      "stance": "steady",
+      "signal": "감사원의 EPR2 840억 유로 재산정 엿새 뒤 EDF가 그라블린 현장 전기·통신 부대설비를 8년 기본협약(한도 6,130만 유로)으로 낙찰 — 재원 논란과 별개로 현장 집행은 진행",
+      "signal_en": "Six days after the state auditor restated EPR2 at EUR 84 billion, EDF awarded the Gravelines site's electrical and telecom enabling works under an eight-year framework capped at EUR 61.3 million - site execution continues regardless of the funding debate",
+      "article_ids": [
+        "2026-11-23-02",
+        "2026-11-23-07"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "에너지부가 2050년까지 숙련인력 37만 5,000명 이상 필요로 전망, 산학 로드맵 70여 권고가 이행 단계로 — 확대 기조의 제약이 설계에서 인력으로 이동",
+      "signal_en": "DOE projects a need for more than 375,000 skilled workers by 2050 and the academic roadmap's 70-plus recommendations have entered implementation - the binding constraint on expansion is shifting from design to people",
+      "article_ids": [
+        "2026-11-23-05"
+      ]
+    },
+    {
+      "country": "IT",
+      "name_ko": "이탈리아",
+      "name_en": "Italy",
+      "stance": "steady",
+      "signal": "기조 유지 — 해체 공기업 소진(SOGIN)이 부지 방사선방호 계측기 'Full Risk' 정비용역(201만 6,204유로)을 사전시장조사 단계로 공개",
+      "signal_en": "Holding course - state decommissioning company Sogin has opened a preliminary market consultation for 'Full Risk' maintenance of radiation protection instrumentation at its sites, valued at EUR 2,016,204",
+      "article_ids": [
+        "2026-11-23-03"
+      ]
+    },
+    {
+      "country": "INT",
+      "name_ko": "국제기구",
+      "name_en": "International",
+      "stance": "steady",
+      "signal": "기조 유지 — EU 집행위 공동연구센터(JRC) 카를스루에가 악티나이드 취급용 불활성 글러브박스 체인 65만 유로를 발주, 연구 인프라 조달 지속",
+      "signal_en": "Holding course - the European Commission's JRC Karlsruhe is buying an inert glovebox chain for actinide handling at an estimated EUR 650,000, continuing steady research infrastructure procurement",
+      "article_ids": [
+        "2026-11-23-06"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-23-01",
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "language": "cs",
+      "title": "Akce 9130 – ZAJIŠTĚNÍ DLOUHODOBÉHO PROVOZU SYSTÉMU ŘSBE",
+      "title_en": "Action 9130 – Securing long-term operation of the RSBE control system (Dukovany NPP)",
+      "title_ko": "체코 ČEZ, 두코바니 1~4호기 ŘSBE 제어계통 계속운전 확보 공사 4억 1,276만 코루나로 ZAT에 낙찰 — 예비품 20년 공급 보장 턴키",
+      "source": "TED (EU 공공조달) — ČEZ, a. s.",
+      "url": "https://ted.europa.eu/en/notice/811768-2026/pdf",
+      "published": "2026-11-23",
+      "countries": [
+        "CZ"
+      ],
+      "summary_ko": "체코 ČEZ가 11월 23일 두코바니 원전 'Akce 9130 — ŘSBE 제어계통 장기운전 확보' 턴키 공사의 낙찰공고를 냈다. 두코바니 4개 호기 전체의 기존 ŘSBE 제어계통을 대상으로 ZAT-DV 공정스테이션 전량과 산업용 PC, 일부 통신망 구성품의 운전 가능성을 확보하는 역무이며, 호기별 차이를 모두 반영하고 계통 투입 시점부터 최소 20년간 예비품 공급이 가능해야 한다는 조건이 붙었다. 낙찰자는 체코 ZAT a.s., 계약금액은 4억 1,275만 8,500코루나이고 계약은 11월 18일 체결됐다. 발주 방식은 공고 후 협상절차다.",
+      "summary_en": "On 23 November Czechia's CEZ published the contract award notice for Action 9130, a turnkey package securing long-term operation of the existing RSBE control system at the Dukovany nuclear plant. The scope keeps all ZAT-DV process stations, industrial PCs and selected communications network components operable across all four units, accommodating the differences between units, and requires spare parts to remain available for at least 20 years from the system's deployment. The winner is Czech supplier ZAT a.s., the contract value is CZK 412,758,500 and the contract was concluded on 18 November. The procedure was negotiated with a prior call for competition.",
+      "sales_note": "두코바니 신규 호기 발주와 별개로 가동 4개 호기의 계속운전 투자가 수백억원 단위로 집행되고 있고, 제어계통처럼 원제작사 종속성이 큰 역무는 현지 전문업체(ZAT)가 20년 예비품 보장 조건으로 가져간다는 점이 확인된다. 유럽 가동원전 개보수 시장에 들어가려면 '장기 예비품·기술지원 보증'을 계약조건으로 제시할 수 있는지가 1차 관문이다.",
+      "sales_note_en": "Separately from the new-build packages, CEZ is spending at the scale of tens of millions of euros on continued operation of the four existing Dukovany units, and this award shows that work tied to an original equipment supplier, such as I&C, goes to a local specialist (ZAT) on a 20-year spares guarantee. Entering the European operating-fleet refurbishment market therefore starts with being able to offer long-term spares and technical support as a contractual commitment."
+    },
+    {
+      "id": "2026-11-23-02",
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "language": "fr",
+      "title": "Marché de travaux des réseaux secs électriques HTA/BT nécessaires au chantier EPR2 de Gravelines",
+      "title_en": "Works contract for the HV/LV dry electrical networks required for the Gravelines EPR2 construction site",
+      "title_ko": "프랑스 EDF, 그라블린 EPR2 건설현장 전기·통신 부대설비 공사 낙찰 — 기본협약 한도 6,130만 유로, 1차 계약 744만 5,000유로",
+      "source": "TED (EU 공공조달) — EDF SA",
+      "url": "https://ted.europa.eu/en/notice/812346-2026/pdf",
+      "published": "2026-11-23",
+      "countries": [
+        "FR"
+      ],
+      "summary_ko": "프랑스 EDF가 11월 23일 그라블린 EPR2 건설현장에 필요한 '건식 네트워크' 공사의 낙찰공고를 냈다. 역무는 현장 고압(HTA)·저압(BT) 전력망, 현장 도로 조명, 정보통신망, 장내 방송 및 화재감지 설비다. 기본협약 기간은 8년, 협약 최대금액은 6,130만 유로이며 이번에 공고된 계약금액은 744만 5,000유로다. 낙찰자는 프랑스 CG3N OMEXOM PPG와 CITEOS Boulogne sur Mer 2사이고 계약은 11월 16일 체결됐다. 발주 방식은 공고 후 협상절차다.",
+      "summary_en": "On 23 November EDF published the contract award notice for the dry-network works needed at the Gravelines EPR2 construction site: site high- and low-voltage power networks, road lighting, IT and telecom networks, public address and fire detection systems. The framework runs eight years with a maximum value of EUR 61.3 million, and the contract announced here is worth EUR 7,445,000. The winners are the French firms CG3N OMEXOM PPG and CITEOS Boulogne sur Mer, with the contract concluded on 16 November. The procedure was negotiated with a prior call for competition.",
+      "sales_note": "프랑스 감사원이 11월 17일 EPR2 6기 사업비를 840억 유로로 재산정하며 재원 문제를 지적했지만, 그라블린 현장은 가설 전력·통신망 같은 부대공사 계약이 실제로 체결되는 단계로 넘어갔다. 8년 기본협약에 한도 6,130만 유로를 걸어 현장 인프라를 길게 묶는 방식은 장기 대형 현장의 부대공사 발주 설계 참고사례가 된다.",
+      "sales_note_en": "Despite the French state auditor's 17 November restatement of the six-unit EPR2 programme at EUR 84 billion and its warning on funding, the Gravelines site has moved to actually signing the enabling works - temporary power, lighting and communications. Wrapping site infrastructure into an eight-year framework capped at EUR 61.3 million is a useful reference for how to structure enabling-works procurement on a long, large site."
+    },
+    {
+      "id": "2026-11-23-03",
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "it",
+      "title": "Avviso di consultazione preliminare di mercato ex art. 77 D. Lgs. 36/2023 per il \"Servizio per manutenzione Full Risk della strumentazione radioprotezione RTS Instruments per i Siti Sogin\"",
+      "title_en": "Preliminary market consultation for 'Full Risk' maintenance of RTS Instruments radiation protection instrumentation at Sogin sites",
+      "title_ko": "이탈리아 소진(SOGIN), 해체 부지 방사선방호 계측기 'Full Risk' 정비용역 사전시장조사 — 201만 6,204유로",
+      "source": "TED (EU 공공조달) — SOGIN S.p.A.",
+      "url": "https://ted.europa.eu/en/notice/812040-2026/pdf",
+      "published": "2026-11-23",
+      "countries": [
+        "IT"
+      ],
+      "summary_ko": "이탈리아 원자력시설 해체 공기업 소진(SOGIN)이 11월 23일 자사 부지의 RTS Instruments 제조 방사선방호 계측기에 대한 'Full Risk' 정비용역 조달절차를 준비하기 위한 사전시장조사 공고를 냈다(이탈리아 조달법 D.Lgs. 36/2023 제77조). 공고 기재금액은 201만 6,204유로이며, 본입찰 개시가 아닌 시장 협의 단계로 접수 마감일은 공고 데이터에 없다.",
+      "summary_en": "On 23 November Italy's state decommissioning company Sogin issued a preliminary market consultation notice, under article 77 of Italian procurement law D.Lgs. 36/2023, to prepare procurement of a 'Full Risk' maintenance service for RTS Instruments radiation protection instrumentation across its sites. The notice states a value of EUR 2,016,204. This is a market consultation rather than the opening of a tender, and the notice data carries no submission deadline.",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-11-23-04",
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "cs",
+      "title": "9801 Výměna akubaterií na 5. systémech ZN I. kategorie nEE05",
+      "title_en": "9801 Replacement of storage batteries on the five Category I essential power systems (nEE05), Dukovany NPP",
+      "title_ko": "체코 ČEZ, 두코바니 원전 1종 비상전원 5계통 축전지 교체 턴키를 자회사 ČEZ ENERGOSERVIS에 1,753만 9,000코루나로 낙찰",
+      "source": "TED (EU 공공조달) — ČEZ, a. s.",
+      "url": "https://ted.europa.eu/en/notice/811343-2026/pdf",
+      "published": "2026-11-23",
+      "countries": [
+        "CZ"
+      ],
+      "summary_ko": "체코 ČEZ가 11월 23일 두코바니 원전 '9801 1종(I. kategorie) 비상전원 5계통 nEE05 축전지 교체' 사업의 낙찰공고를 냈다. 보증수명이 끝난 기존 축전지를 동등 이상 성능의 신품으로 바꾸는 역무로, 설계도서 작성부터 일괄(턴키) 공급과 관련 설비·구조물·계통에 필요한 모든 부수 개조까지 포함한다. 낙찰자는 ČEZ 자회사인 ČEZ ENERGOSERVIS spol. s r.o.이고 계약금액은 1,753만 9,000코루나, 계약 체결일은 11월 9일이다. 발주 방식은 공고 후 협상절차다.",
+      "summary_en": "On 23 November Czechia's CEZ published the contract award notice for project 9801, replacement of storage batteries on the five Category I essential power systems (nEE05) at the Dukovany nuclear plant. The work replaces batteries whose guaranteed life has expired with new units of equal or better performance, turnkey from design documentation through to all consequential modifications needed on the affected equipment, structures and systems. The winner is CEZ's own subsidiary CEZ ENERGOSERVIS spol. s r.o., the value is CZK 17,539,000 and the contract was concluded on 9 November. The procedure was negotiated with a prior call for competition.",
+      "sales_note": "두코바니 가동호기의 안전등급 전원설비 교체까지 ČEZ 자회사가 수행하는 구조로, 체코 가동원전 정비 물량의 상당 부분이 그룹 내부에서 소화된다는 점을 보여준다. 체코 시장 접근은 가동호기 정비가 아니라 신규 호기 패키지 쪽에 집중하는 것이 현실적이다.",
+      "sales_note_en": "Even safety-class power equipment replacement at the operating Dukovany units goes to a CEZ subsidiary, showing that much of the Czech operating-fleet maintenance volume is absorbed inside the group. The realistic route into the Czech market is therefore the new-build packages rather than maintenance of the existing units."
+    },
+    {
+      "id": "2026-11-23-05",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 1,
+      "language": "en",
+      "title": "Building nuclear's next-gen workforce",
+      "title_en": "Building nuclear's next-gen workforce",
+      "title_ko": "미 에너지부 \"2050년까지 원자력 숙련인력 37만 5,000명 이상 필요\" — ORAU 주도 산학 로드맵, 권고 70여 건 이행 단계 진입",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-11-20/article-8538/building-nuclears-nextgen-workforce/",
+      "published": "2026-11-20",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "미국 원자력학회(ANS) 뉴스와이어가 11월 20일 게재한 기고에서 에너지부(DOE)는 2050년까지 원자력 분야에 숙련인력 37만 5,000명 이상이 필요할 것으로 전망했다. ORAU가 주도하는 민관 협력체 'Partnership for Nuclear Energy'가 2025년 9월 애틀랜타 ANS·NEI 공동 콘퍼런스에서 공개한 원자력 학술 로드맵(NEAR)은 진로 인식·인력 파이프라인·재정 지원·학술자원 협력 4개 영역에 70여 개 권고를 담았고, 이 가운데 진로 인식 분야 약 20개 권고를 6개 우선과제로 좁혀 과제별 실행계획을 수립했다. 인력개발센터(CEWD)의 에너지·천연자원(ENR) 진로군 체계는 30개 주 이상이 채택해 초·중·고 교육 적용 단계로 넘어갔고, ORAU는 2026년 5월 테네시 오크리지에서 전기·용접·배관 등 숙련기능직을 다룬 첫 'Pathway to Trades' 서밋을 북미건설노조(NABTU)·테네시원자력네트워크와 함께 열었다.",
+      "summary_en": "In a 20 November piece on ANS Nuclear Newswire, the Department of Energy is cited as projecting the nuclear sector will need more than 375,000 skilled workers by 2050. The Nuclear Energy Academic Roadmap (NEAR), developed by the ORAU-led public-private Partnership for Nuclear Energy and unveiled at the joint ANS-NEI conference in Atlanta in September 2025, carries more than 70 recommendations across four priority areas: career awareness, pipeline and pathway development, financial support, and academic resource collaboration. Some 20 career-awareness recommendations have been narrowed to six priorities, each with its own project plan. The Center for Energy Workforce Development's Energy and Natural Resources career cluster framework has been adopted by more than 30 states and is moving into K-12 implementation, and in May 2026 ORAU held its first Pathway to Trades summit in Oak Ridge, Tennessee, with North America's Building Trades Unions and the Tennessee Nuclear Network, focused on electricians, welders and plumbers.",
+      "sales_note": "미국 신규 건설 확대의 가장 큰 제약이 설계·인허가가 아니라 숙련인력 공급이라는 점을 발주 측 수치로 확인한 자료다. 대미 원전 사업 제안에서 자체 기능인력 투입 계획과 현지 훈련·노조 연계 방안을 공기 준수 근거로 제시하면 경쟁사와의 차별화 요소가 된다.",
+      "sales_note_en": "This puts an owner-side number on the fact that the binding constraint on US new build is craft labour, not design or licensing. Bids into the US market that spell out deployed craft labour plus local training and building-trades arrangements can use that as concrete evidence of schedule credibility against competitors."
+    },
+    {
+      "id": "2026-11-23-06",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 1,
+      "language": "en",
+      "title": "Germany – Laboratory, optical and precision equipments (excl. glasses) – Supply of an inert glovebox chain for the JRC Karlsruhe",
+      "title_en": "Germany – Laboratory, optical and precision equipments (excl. glasses) – Supply of an inert glovebox chain for the JRC Karlsruhe",
+      "title_ko": "EU 공동연구센터(JRC) 카를스루에, 악티나이드 취급용 불활성 글러브박스 체인 입찰 — 추정 65만 유로, 접수 12월 4일",
+      "source": "TED (EU 공공조달) — European Commission, DG JRC",
+      "url": "https://ted.europa.eu/en/notice/807925-2026/pdf",
+      "related": [
+        "https://ted.europa.eu/en/notice/809203-2026/pdf"
+      ],
+      "published": "2026-11-20",
+      "countries": [
+        "DE",
+        "INT"
+      ],
+      "summary_ko": "유럽연합 집행위원회 공동연구센터(JRC) 카를스루에가 11월 20일 방사성 핵종 취급용 불활성·부압 글러브박스 체인 공급 입찰을 공고했다(공고 807925-2026). 최고 순도의 분위기가 필요한 악티나이드 함유 유기금속 화합물 합성에 쓰이며, 설치는 독일 원자력시설에 적용되는 법적·기술적 지침을 모두 충족해야 한다. 추정금액은 65만 유로(부가세 제외), 개방입찰이고 접수 마감은 2026년 12월 4일, 계약기간은 36개월이다. 같은 날 동일 공급 건의 낙찰공고(809203-2026, 기간 32개월)도 게재됐으나 공고 데이터에 낙찰자는 표기되지 않았다.",
+      "summary_en": "On 20 November the European Commission's Joint Research Centre at Karlsruhe issued a contract notice (807925-2026) for the supply of an inert, under-pressure glovebox chain for handling radionuclides. The chain is used to synthesise actinide-bearing organometallic compounds that require the highest-purity atmospheric conditions, and the installation must meet all legal and technical instructions applying to nuclear installations in Germany. The estimated value is EUR 650,000, the procedure is open, bids are due 4 December 2026 and the contract runs 36 months. A contract award notice for the same supply (809203-2026, 32 months) was published the same day, but the notice data names no winner.",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-11-23-07",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 1,
+      "language": "fr",
+      "title": "France – Services d'ingénierie – Accord-cadre relatif à la réalisation d'examens destructifs et d'analyses sur des échantillons béton",
+      "title_en": "France – Engineering services – Framework agreement for destructive examinations and analyses on concrete samples",
+      "title_ko": "프랑스 원자력안전·방사선방호청(ASNR), CEA 카다라슈 ODE 시설 콘크리트 시료 파괴검사·분석 기본협약 입찰 — 최대 30만 유로, 접수 12월 31일",
+      "source": "TED (EU 공공조달) — Autorité de sûreté nucléaire et de radioprotection (ASNR)",
+      "url": "https://ted.europa.eu/en/notice/807701-2026/pdf",
+      "published": "2026-11-20",
+      "countries": [
+        "FR"
+      ],
+      "summary_ko": "프랑스 원자력안전·방사선방호청(ASNR)이 11월 20일 CEA 카다라슈 부지 ODE 시설의 굳지 않은·굳은 콘크리트 시료와 원재료를 대상으로 한 시료 채취·천공 메움·파괴검사·분석보고서 작성 기본협약 입찰을 공고했다(공고 807701-2026). 개방입찰이며 기본협약 최대금액은 30만 유로, 계약기간은 36개월, 접수 마감은 2026년 12월 31일이다. 발주 분류는 엔지니어링 용역(CPV 71300000)이다.",
+      "summary_en": "On 20 November France's nuclear safety and radiation protection authority ASNR issued a contract notice (807701-2026) for a framework agreement covering sampling, core-hole plugging, destructive examinations and analysis reports on fresh and hardened concrete specimens from the ODE installation at the CEA Cadarache site, as well as on raw materials. The procedure is open, the framework's maximum value is EUR 300,000, the term is 36 months and bids are due 31 December 2026. It is classified as engineering services (CPV 71300000).",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-11-23-08",
+      "region": "domestic",
+      "category": "large",
+      "importance": 3,
+      "language": "ko",
+      "title": "체코 두코바니원전 냉각탑 2파전…한수원, 후속발주 '착착'",
+      "title_en": "[New detail] Two consortia named in Dukovany cooling tower tender - MVM EGI/Metrostav vs JC Hamon/Hochtief, contract targeted for H1 2027",
+      "title_ko": "[새 사실] 체코 두코바니 냉각탑 입찰 2파전 — MVM EGI·메트로스타브 대 JC 하몬·호흐티프, 계약 2027년 상반기 목표",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=375054",
+      "related": [
+        "https://zpravy.kurzy.cz/882528-projekt-dukovany-postupuje-kupredu-khnp-predstavila-zajemcum-podrobnosti-tendru-na-chladici-veze/"
+      ],
+      "published": "2026-11-20",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "summary_ko": "[새 사실 = 입찰 참여 컨소시엄 이름] 한국수력원자력이 10월 26일 제한 경쟁 방식으로 띄운 체코 두코바니 신규원전 냉각탑 입찰에 MVM EGI·메트로스타브 컨소시엄과 JC 하몬·호흐티프 컨소시엄 2곳이 참여한 것으로 확인됐다. 한수원은 현지시간 11월 18일부터 이틀간 두 컨소시엄을 각각 현장으로 불러 두코바니 건설부지와 ČEZ가 운영하는 기존 1~4호기 냉각탑을 보여줬고, 평가를 거쳐 2027년 상반기 중 공사계약을 체결할 계획이다. 냉각탑은 터빈 복수기에서 나온 온배수 일부를 대형 열교환기에서 외기로 예냉한 뒤 탑부에서 살수·증발 냉각하는 하이브리드 방식으로, 국내 원전에는 시공 실적이 없어 해외 전문업체가 경쟁한다. 두코바니 사업은 2029년 착공, 5호기 2037년·6호기 2038년 가동이 목표이며, 한수원은 보조기기·자재(AE&M) 입찰설명회를 9월 16일 프라하·9월 30일 서울에서 열었고 10월 14일 체코 현지 한-체코 파트너십 프로그램에는 체코 50여 개사와 한국 17개사가 참여해 34건의 양해각서가 체결됐다. 장현승 한수원 두코바니원전사업본부장은 \"발주사와 합의한 일정을 완벽히 준수하는 것이 최우선 과제\"라고 말했다.",
+      "summary_en": "[New detail: the names of the bidding consortia] Two consortia are confirmed to be competing in the cooling tower tender KHNP launched on 26 October as a limited competitive procedure for the new Dukovany units in Czechia: MVM EGI with Metrostav, and JC Hamon with Hochtief. Over two days from 18 November local time KHNP brought each consortium to site separately, showing them the Dukovany construction area and the existing cooling towers of units 1-4 operated by CEZ, and plans to sign the construction contract in the first half of 2027 after evaluation. The towers are a hybrid design in which part of the warm condenser cooling water is pre-cooled against ambient air in large heat exchangers before being sprayed and evaporatively cooled in the tower section - a type never built on a Korean nuclear project, which is why only foreign specialists are bidding. Dukovany targets construction start in 2029 with unit 5 operating in 2037 and unit 6 in 2038. KHNP held auxiliary equipment and materials (AE&M) bidder briefings in Prague on 16 September and in Seoul on 30 September, and a Korea-Czechia partnership programme held in Czechia on 14 October drew some 50 Czech and 17 Korean companies and produced 34 memoranda of understanding. Jang Hyun-seung, head of KHNP's Dukovany project division, said that perfectly meeting the schedule agreed with the client is the top priority.",
+      "sales_note": "냉각탑처럼 국내 실적이 없는 패키지는 한수원이 해외 전문업체를 직접 평가·발주하면서 발주자 측 관리 역량을 쌓는 구간이다. 두코바니 후속 패키지(AE&M, 그리고 결렬된 시공 컨소시엄을 대체할 신규 시공 입찰)가 순차로 열리므로, 국내 업체는 발주처 요구서식·품질체계 선경험을 근거로 조기에 자격심사 라인에 들어가 두는 것이 유리하다.",
+      "sales_note_en": "On packages with no Korean track record, such as these cooling towers, KHNP is building owner-side procurement and evaluation capability by assessing foreign specialists directly. With the follow-on Dukovany packages opening in sequence - AE&M, and the fresh construction tender replacing the collapsed consortium - Korean suppliers do well to get onto qualification lists early, leaning on prior experience with the client's document formats and quality system."
+    },
+    {
+      "id": "2026-11-23-09",
+      "region": "domestic",
+      "category": "policy",
+      "importance": 2,
+      "language": "ko",
+      "title": "한전, '한전ON'·조달망 뚫려 개인정보 152만여건 유출... 주민번호·카드번호까지 털려",
+      "title_en": "KEPCO discloses 1.52 million leaked personal data records from cyber intrusion into KEPCO ON and its e-procurement system",
+      "title_ko": "한국전력, 사이버 침해로 개인정보 152만 248건 유출 — 한전ON 65만·전자조달시스템(SRM) 87만, 대국민 사과",
+      "source": "보안뉴스",
+      "url": "http://www.boannews.com/news/articleView.html?idxno=147429",
+      "related": [
+        "https://www.segye.com/newsView/20261122509605",
+        "https://www.asiatoday.co.kr/kn/view.php?key=20261122010008514"
+      ],
+      "published": "2026-11-22",
+      "countries": [
+        "KR"
+      ],
+      "summary_ko": "한국전력이 11월 22일 사이버 침해로 개인정보 152만 248건이 유출된 사실을 공개하고 김동철 사장 명의의 대국민 사과문을 냈다. 고객 포털 '한전ON' 이용자 65만 487명분에서는 고객번호·성명·주민(외국인)등록번호·전화번호·주소·은행명·계좌번호·예금주·카드사·카드번호·카드소유자명·요금정보 12개 항목이 유출됐고, 전자조달시스템(SRM)에서는 업체 대표자 42만 6,827명분 4개 항목(성명·주민등록번호·이메일·업체 주소)과 한전·업체 직원 44만 2,934명분 6개 항목(성명·부서·사번·휴대전화·이메일·회사 전화)이 빠져나갔다. 한전은 11월 20일 외부의 비정상 접속 시도를 확인해 악성 IP를 차단하고 일부 외부 서비스를 중단했으며, 개인정보보호위원회에 신고하고 경찰에 수사를 의뢰했다. 국가정보원·기후에너지환경부가 외부 보안 전문가와 함께 원인을 조사 중이고, 현재까지 확인된 2차 피해는 없으며 금융정보가 포함된 만큼 금융당국과 악용 가능성을 검토하겠다고 밝혔다. 기사에 원전 운영계통이나 전력계통 설비가 영향을 받았다는 내용은 없다.",
+      "summary_en": "On 22 November KEPCO disclosed that a cyber intrusion leaked 1,520,248 personal data records and issued a public apology under the name of chief executive Kim Dong-cheol. From its KEPCO ON customer portal, 12 data fields were exposed for 650,487 users - customer number, name, resident or foreigner registration number, phone, address, bank name, account number, account holder, card company, card number, cardholder name and billing information. From the SRM e-procurement system, four fields were exposed for 426,827 company representatives (name, resident registration number, email, company address) and six fields for 442,934 KEPCO and supplier employees (name, department, employee ID, mobile, email, office phone). KEPCO confirmed abnormal external access attempts on 20 November, blocked the malicious IP addresses and suspended some external services, reported the breach to the Personal Information Protection Commission and referred the case to police. The National Intelligence Service and the Ministry of Climate, Energy and Environment are investigating the cause with outside security experts. KEPCO says no secondary damage has been confirmed so far and that, because financial data was involved, it will review misuse risk with financial regulators. The article does not report any impact on nuclear plant or grid operating systems.",
+      "sales_note": "유출 경로에 전자조달시스템(SRM)이 포함돼 협력업체 대표·직원 정보까지 노출된 점이 원전 수출 측면의 리스크다. 해외 발주처 자격심사와 입찰 평가에서 공급망 사이버보안 체계를 항목으로 요구하는 사례가 늘고 있어, 한전·한수원 공동 수주 구도에서는 재발 방지 조치와 보안 인증 현황을 선제적으로 정리해 둘 필요가 있다.",
+      "sales_note_en": "The risk for nuclear export work is that the breach reached the SRM e-procurement system, exposing supplier representatives and staff. Overseas clients increasingly score supply-chain cyber security in qualification and bid evaluation, so under the joint KEPCO-KHNP bidding structure it is worth documenting remediation measures and security certification status in advance."
+    },
+    {
+      "id": "2026-11-23-10",
+      "region": "domestic",
+      "category": "policy",
+      "importance": 2,
+      "language": "ko",
+      "title": "포스코의 PPA 길 꽉 막혔다…원전 30기 '통계약'이 쐐기",
+      "title_en": "[New detail] Korea's nuclear CfD covers 30 reactors, effectively closing POSCO's route to a nuclear corporate PPA",
+      "title_ko": "[새 사실] 원전 정부승인차액계약 대상 30기 확인 — 포스코의 원전 전력 직접구매(PPA) 사실상 차단",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374987",
+      "published": "2026-11-19",
+      "countries": [
+        "KR"
+      ],
+      "summary_ko": "[새 사실 = 차액계약 적용 호기 범위와 기업 PPA 영향] 11월 19일 서명된 원전 정부승인차액계약(VC)의 적용 대상이 가동 중 26기와 시운전 중인 새울 3호기, 건설 중인 새울 4호기·신한울 3·4호기를 합한 30기로 확인됐다. 전력을 시장에 판 뒤 사전에 정한 기준가격과 시장가격의 차액을 정산하는 구조이며 2027년 1월 1일부터 5년간 적용된다. 이로써 포스코가 수소환원제철(HyREX)용 전력을 원전에서 직접 구매하려던 구상은 사실상 길이 막혔다. 포스코는 청정수소 20만 톤·철강 200만 톤 기준 연 11TWh가 필요해 이용률 90%로 환산하면 약 1.4GW 원전이 필요하고, 같은 전력을 해상풍력으로는 약 5GW·태양광으로는 약 8GW가 든다. 이재명 대통령은 특정 철강사가 원전 혜택을 가져가는 것은 '특혜'이며 다른 기업도 뒤따를 것이라고 밝혔고, 정부도 원전의 안전·폐기물 비용을 국민이 부담하는 만큼 체리피킹 우려가 있다는 입장이다. 앞서 4월에는 AIDC 특별법의 LNG 관련 PPA 예외 조항도 부처 반대로 최종안에서 빠졌다.",
+      "summary_en": "[New detail: which reactors the CfD covers, and the effect on corporate PPAs] The government-approved contract for difference (VC) signed on 19 November covers 30 reactors - 26 in operation, Saeul 3 in commissioning, and Saeul 4 and Shin-Hanul 3 and 4 under construction. Power is sold into the market and the gap between a pre-set reference price and the market price is settled; the scheme runs for five years from 1 January 2027. That effectively closes the route POSCO had been pursuing to buy nuclear power directly for hydrogen-reduction steelmaking (HyREX). POSCO needs about 11 TWh a year to make roughly 200,000 tonnes of clean hydrogen for 2 million tonnes of steel, which at 90% utilisation implies about 1.4 GW of nuclear capacity, against roughly 5 GW of offshore wind or 8 GW of solar for the same output. President Lee Jae-myung said letting one steelmaker capture nuclear's benefits would be an exceptional privilege that other firms would follow, and the ministry has argued that cherry-picking is a concern while the public carries nuclear's safety and waste costs. In April an LNG-related PPA exemption in the AIDC special act was likewise dropped from the final bill over ministry objections.",
+      "sales_note": "원전 전력을 기업이 직접 사가는 통로가 막히면 국내 원전 매출은 차액계약으로 안정되는 대신 신규 수요 기반 확대는 제한된다. 해외 제안에서는 정부 승인 차액계약으로 사업자 수익이 제도적으로 보장되는 구조를 한국 원전 운영·재무 안정성의 근거 자료로 쓸 수 있다.",
+      "sales_note_en": "Closing the direct corporate purchase route stabilises domestic nuclear revenue through the CfD but limits growth in the demand base. In overseas bids, the fact that an operator's revenue is institutionally underwritten by a government-approved CfD is usable evidence of the financial stability of Korean nuclear operations."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
   "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
   "tenders": [
@@ -698,6 +698,45 @@
       "published": null,
       "deadline": null,
       "url": "https://www.find-tender.service.gov.uk/Notice/ocds-h6vhtk-07935d"
+    },
+    {
+      "country": "DE",
+      "buyer": "European Commission, DG JRC – Joint Research Centre (Karlsruhe)",
+      "title": "악티나이드 취급용 불활성 글러브박스 체인 공급",
+      "title_en": "Supply of an inert glovebox chain for the JRC Karlsruhe",
+      "scope": "방사성 핵종 취급용 불활성·부압 글러브박스 체인 공급. 최고 순도 분위기가 필요한 악티나이드 함유 유기금속 화합물 합성에 사용되며, 설치는 독일 원자력시설에 적용되는 법적·기술적 지침을 충족해야 한다. 추정금액 650,000 EUR, 개방입찰, 계약기간 36개월. 같은 날 동일 공급 건의 낙찰공고(809203-2026)도 게재됨",
+      "scope_en": "Supply of an inert, under-pressure glovebox chain for handling radionuclides, used to synthesise actinide-bearing organometallic compounds requiring the highest-purity atmospheric conditions; the installation must meet all legal and technical instructions applying to nuclear installations in Germany. Estimated value EUR 650,000, open procedure, 36-month term. A contract award notice for the same supply (809203-2026) was published the same day.",
+      "portal": "TED",
+      "notice_no": "807925-2026",
+      "published": "2026-11-20",
+      "deadline": "2026-12-04",
+      "url": "https://ted.europa.eu/en/notice/807925-2026/pdf"
+    },
+    {
+      "country": "FR",
+      "buyer": "Autorité de sûreté nucléaire et de radioprotection (ASNR)",
+      "title": "콘크리트 시료 파괴검사·분석 기본협약 (CEA 카다라슈 ODE 시설)",
+      "title_en": "Framework agreement for destructive examinations and analyses on concrete samples (ODE facility, CEA Cadarache)",
+      "scope": "CEA 카다라슈 부지 ODE 시설의 굳지 않은·굳은 콘크리트 시료 및 원재료에 대한 시료 채취, 천공 메움, 파괴검사, 분석보고서 작성. 개방입찰, 기본협약 최대금액 300,000 EUR, 계약기간 36개월. 엔지니어링 용역(CPV 71300000)",
+      "scope_en": "Sampling, core-hole plugging, destructive examination and analysis reporting on fresh and hardened concrete specimens from the ODE installation at the CEA Cadarache site, and on raw materials. Open procedure, framework maximum EUR 300,000, 36-month term. Classified as engineering services (CPV 71300000).",
+      "portal": "TED",
+      "notice_no": "807701-2026",
+      "published": "2026-11-20",
+      "deadline": "2026-12-31",
+      "url": "https://ted.europa.eu/en/notice/807701-2026/pdf"
+    },
+    {
+      "country": "IT",
+      "buyer": "SOGIN S.p.A.",
+      "title": "해체 부지 방사선방호 계측기(RTS Instruments) 'Full Risk' 정비용역 — 사전시장조사",
+      "title_en": "'Full Risk' maintenance of RTS Instruments radiation protection instrumentation at Sogin sites — preliminary market consultation",
+      "scope": "소진(SOGIN) 부지의 RTS Instruments 제조 방사선방호 계측기에 대한 'Full Risk' 정비용역 조달절차 준비를 위한 사전시장조사(이탈리아 조달법 D.Lgs. 36/2023 제77조). 공고 기재금액 2,016,204 EUR. 본입찰 개시가 아닌 시장 협의 단계로 공고 데이터에 접수 마감일 없음",
+      "scope_en": "Preliminary market consultation under article 77 of Italian procurement law D.Lgs. 36/2023, to prepare procurement of a 'Full Risk' maintenance service for RTS Instruments radiation protection instrumentation across Sogin's sites. Notice states EUR 2,016,204. This is a market consultation rather than the opening of a tender, and the notice data carries no submission deadline.",
+      "portal": "TED",
+      "notice_no": "812040-2026",
+      "published": "2026-11-23",
+      "deadline": null,
+      "url": "https://ted.europa.eu/en/notice/812040-2026/pdf"
     }
   ]
 }

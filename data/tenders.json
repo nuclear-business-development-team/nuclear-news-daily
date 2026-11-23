@@ -1,21 +1,8 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
   "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
   "tenders": [
-    {
-      "country": "DK",
-      "buyer": "Danish Decommissioning",
-      "title": "방사선 오염 검출 모니터 3대(+발주처 재량 2대) 및 부속품·용역·정비",
-      "title_en": "Procurement of radiation contamination detection monitors and associated goods, services and maintenance",
-      "scope": "방사선 검출장비 3대와 부속품 일체. 발주처 재량으로 2대 추가 구매 가능하며 확정 물량은 아니다. 공고 기재 금액 375,000 EUR (2026-10-27 TED 743086-2026 으로 재게재되며 마감 연장)",
-      "scope_en": "Three radiation detection devices with all necessary accessories; two further devices may be purchased at the buyer's discretion and are not a guaranteed commitment. Notice states EUR 375,000 (re-published as TED 743086-2026 on 2026-10-27 with an extended deadline)",
-      "portal": "TED",
-      "notice_no": "684493-2026",
-      "published": "2026-10-05",
-      "deadline": "2026-11-23",
-      "url": "https://ted.europa.eu/en/notice/684493-2026/pdf"
-    },
     {
       "country": "RO",
       "buyer": "Societatea Naţională NUCLEARELECTRICA S.A.",
@@ -737,6 +724,71 @@
       "published": "2026-11-23",
       "deadline": null,
       "url": "https://ted.europa.eu/en/notice/812040-2026/pdf"
+    },
+    {
+      "country": "BE",
+      "buyer": "SCK•CEN (Belgian Nuclear Research Centre)",
+      "title": "1차계통 케이블 포설 기본협약",
+      "title_en": "Framework agreement - primary systems cabling",
+      "scope": "1차계통 케이블 포설 기본협약. 공고 분류는 케이블 포설 설치공사(CPV 45314310 계열)이며 공고 본문 설명은 제목과 동일한 한 줄로만 기재됐다. 절차는 개방입찰, 참가서 접수 마감 2026-12-14 10:00 CET. 추정금액은 공고에 기재되지 않았다.",
+      "scope_en": "Framework agreement for primary systems cabling, classified under installation of cable laying. The notice description repeats the title with no further scope detail. Open procedure, requests due 10:00 CET on 14 December 2026. No estimated value is stated in the notice.",
+      "portal": "TED",
+      "notice_no": "814466-2026",
+      "published": "2026-11-24",
+      "deadline": "2026-12-14T10:00:00+01:00",
+      "url": "https://ted.europa.eu/en/notice/814466-2026/pdf"
+    },
+    {
+      "country": "FR",
+      "buyer": "EDF SA",
+      "title": "가동원전 계측제어(Contrôle-Commande) 신규계약 기본협약 — 남서·중부 권역 통합사(lot intégrateur)",
+      "title_en": "Framework agreement for new I&C contracts - integrator lot, South-West and Centre region",
+      "scope": "EDF의 '신규 계측제어(Contrôle-Commande) 계약' 기본협약 중 남서·중부(Sud-Ouest et Centre) 권역을 담당하는 통합사(lot intégrateur) 역무. 공고 분류는 검사·제어장치 정비 용역이다. 참가서 접수 마감 2027-01-08 12:00 CET, 추정금액은 공고에 기재되지 않았다.",
+      "scope_en": "The integrator lot for the South-West and Centre geographic region within EDF's framework agreement for its new instrumentation and control contracts, classified under repair and maintenance services of checking apparatus. Requests are due 12:00 CET on 8 January 2027; no estimated value is stated in the notice.",
+      "portal": "TED",
+      "notice_no": "816587-2026",
+      "published": "2026-11-24",
+      "deadline": "2027-01-08T12:00:00+01:00",
+      "url": "https://ted.europa.eu/en/notice/816587-2026/pdf"
+    },
+    {
+      "country": "IT",
+      "buyer": "SOGIN S.p.A.",
+      "title": "해체 부지 방사선방호 계측기(Berthold) 'Full Risk' 정비용역 — 사전시장조사",
+      "title_en": "'Full Risk' maintenance of Berthold radiation protection instrumentation at Sogin sites — preliminary market consultation",
+      "scope": "소진(SOGIN) 부지의 베르톨트(Berthold) 제조 방사선방호 계측기에 대한 'Full Risk' 정비용역 조달절차 준비를 위한 사전시장조사(이탈리아 조달법 D.Lgs. 36/2023 제77조). 공고 기재금액 2,637,759 EUR. 본입찰 개시가 아닌 시장 협의 단계로 공고 데이터에 접수 마감일이 없다.",
+      "scope_en": "Preliminary market consultation under article 77 of Italian procurement law D.Lgs. 36/2023, to prepare procurement of 'Full Risk' maintenance for Berthold-made radiation protection instrumentation across Sogin's sites. The notice states EUR 2,637,759. It is a market consultation rather than the opening of a tender, and the notice data carries no submission deadline.",
+      "portal": "TED",
+      "notice_no": "815508-2026",
+      "published": "2026-11-24",
+      "deadline": null,
+      "url": "https://ted.europa.eu/en/notice/815508-2026/pdf"
+    },
+    {
+      "country": "PL",
+      "buyer": "Narodowe Centrum Badań Jądrowych Ośrodek Radioizotopów POLATOM",
+      "title": "수송포장 구성품(금속 드럼) 공급",
+      "title_en": "Supply of transport packaging components - metal drums",
+      "scope": "폴란드 국립원자력연구센터 방사성동위원소센터 POLATOM용 수송포장 구성품인 금속 드럼(bęben·hobok) 공급. 절차는 개방입찰, 접수 마감 2026-12-30 12:00 CET, 공고 분류는 금속 드럼(CPV 44616000)이다. 추정금액은 공고에 기재되지 않았다.",
+      "scope_en": "Supply of transport packaging components - metal drums - for the POLATOM Radioisotope Centre of Poland's National Centre for Nuclear Research. Open procedure, requests due 12:00 CET on 30 December 2026, classified under metal drums (CPV 44616000). No estimated value is stated in the notice.",
+      "portal": "TED",
+      "notice_no": "812896-2026",
+      "published": "2026-11-23",
+      "deadline": "2026-12-30T12:00:00+01:00",
+      "url": "https://ted.europa.eu/en/notice/812896-2026/pdf"
+    },
+    {
+      "country": "GB",
+      "buyer": "UK Atomic Energy Authority",
+      "title": "LIBRTI RISE 원격점검(무인기·드론) 요구사항 — 사전공고",
+      "title_en": "LIBRTI RISE (Remote Inspection for Safe Entry) UAV/drone requirements — planning notice",
+      "scope": "핵융합 관련 시설을 운전한 뒤 방사선·열적 조건, 설비 상태, 환경 조건과 인체 출입 적합성을 원격으로 확인해 근거 기반 출입 결정을 내리는 역량(RISE)의 개발·실증. 공고는 기존 방식이 직원의 직접 출입을 요구해 불필요한 피폭과 출입 결정 지연을 낳는다고 기재했다. 공고 단계는 planning(사전시장조사)이고 표기 금액은 세금 포함 250,000 GBP, 접수일은 설정되지 않았다.",
+      "scope_en": "Development and demonstration of a remote inspection capability (RISE) so that decisions on personnel access to potentially hazardous fusion-related facilities after operation can be made on evidence, covering radiological, thermal, equipment and environmental conditions. The notice states that traditional methods require staff to enter to gather that information, risking unnecessary exposure and delaying access decisions. The notice is at planning stage with a stated value of GBP 250,000 including tax and no submission date set.",
+      "portal": "UK Find a Tender",
+      "notice_no": "ocds-h6vhtk-07c1c5",
+      "published": "2026-11-23",
+      "deadline": null,
+      "url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07c1c5"
     }
   ]
 }

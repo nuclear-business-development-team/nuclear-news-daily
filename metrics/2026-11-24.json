@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-24",
+  "run_started": "2026-11-24T08:04:16+09:00",
+  "run_finished": "2026-11-24T08:29:36+09:00",
+  "run_minutes": 25,
+  "articles": 21,
+  "by_region": {
+    "overseas": 16,
+    "domestic": 5
+  },
+  "by_importance": {
+    "3": 1,
+    "2": 10,
+    "1": 10
+  },
+  "detection_lag_hours": {
+    "median": 23.07,
+    "max": 23.07,
+    "n": 21
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS, 보정 파싱)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "ANS Nuclear Newswire (목록 페이지)",
+    "TED 검색 API (발주처명 59개사 전수 질의 + FT~ 보조)",
+    "UK Find a Tender (OCDS API)",
+    "정책브리핑 korea.kr (원전·SMR·원자력 3회)",
+    "한국수력원자력 보도자료 게시판",
+    "한국전력 보도·설명자료 게시판",
+    "더구루 (RSS)",
+    "더트래커 (RSS, 리다이렉트 추적)"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "stale — 최신 항목 2026-06-16자로 고정, 기간 내 기여 0"
+    },
+    {
+      "name": "IAEA Top News (RSS) 표준 파싱",
+      "reason": "XML undefined entity (line 55) — 보정 파싱으로 복구"
+    },
+    {
+      "name": "더트래커 RSS (www.thetracker.co.kr)",
+      "reason": "302 redirect — 리다이렉트 추적으로 복구"
+    },
+    {
+      "name": "원자력안전위원회 보도자료 본문 (korea.kr newsId=156790370)",
+      "reason": "본문이 PDF·HWPX 첨부로만 제공 — 내용 확인 실패, 기사 제외"
+    },
+    {
+      "name": "현지어 뉴스 검색 15개국 (CZ·PL·SK·SI·NL·SE·FR·TR·SA·AE·KZ·UZ·VN·PH·IN)",
+      "reason": "검색엔진 색인 지연 — 기간 내(11-23~11-24) 신규 기사 0건"
+    },
+    {
+      "name": "oenergetice.cz 두코바니 기사",
+      "reason": "검색 결과 상위 노출 기사가 2025-10-22자 — 기간 밖으로 판정 제외"
+    }
+  ],
+  "languages": {
+    "sl": 2,
+    "bg": 1,
+    "fr": 2,
+    "en": 9,
+    "it": 1,
+    "pl": 2,
+    "ko": 4
+  }
+}

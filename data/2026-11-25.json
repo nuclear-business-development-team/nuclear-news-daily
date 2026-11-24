@@ -1,0 +1,572 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T08:21:00+09:00",
+  "period": {
+    "from": "2026-11-24",
+    "to": "2026-11-25"
+  },
+  "overview_ko": "유럽 양대 신규 대형원전 사업의 계약 일정이 같은 날 윤곽을 드러냈다. 폴란드 PEJ 사장은 1호기 EPC 본계약을 내년 초 서명하고 2028년 4분기 착공·2036년 가동한다고 밝혔고(총사업비 약 470억 달러, 자금 집행 2028년부터), EDF는 EPR2 6기 토목공사 약 140억 유로를 뱅시·부이그·에파주·NGE·파야 5사 컨소시엄과 마무리해 11월 말 이사회 승인 후 12월 최종투자결정을 노린다. 미국에서는 상원이 원자력 인허가 개정 4건(무쟁점 공청회 선택화, 농축시설 인허가 전 착공 허용 등)을 담은 인허가 개혁법안을 62대 33으로 가결했고, 다우 롱모트 Xe-100 건설허가의 세부조건(건설완료 2033년, 다우 예비투자결정 2027년, 엑스에너지 ARDP 총액 21억 5,000만 달러)이 공개됐다. 연료 쪽에서는 미국 유일 재래식 제련소 가동 중단으로 3분기 우라늄 생산이 78% 급감했고, 스탠더드뉴클리어가 테네시·아이다호 TRISO 공장 안전분석을 에너지부에 제출했다. 영국은 에너지안보부·국방부·재무부 공동 장관서한으로 규제검토 이행을 재확인했고, 셀라필드·AWE·UK퓨전에너지의 발주가 이어졌다. 영업 관점: 폴란드는 2027년 상반기, 프랑스는 12월 FID 직후가 각각 기자재·설비 패키지 진입 창구이며, 프랑스는 토목이 현지 5사로 닫힌 만큼 기계·전기·계측제어·BOP 후속 발주에 초점을 맞춰야 한다.",
+  "overview_en": "Contract timetables for Europe's two biggest new-build programmes came into view on the same day. Poland's PEJ CEO said the Unit 1 EPC contract will be signed in early 2027, with construction from Q4 2028 and operation in 2036 (about USD 47 billion total, funding from 2028), while EDF is finalising a roughly EUR 14 billion civil works package for six EPR2 units with a Vinci-Bouygues-Eiffage-NGE-Fayat consortium, aiming for board approval by end-November and a final investment decision in December. In the US, the Senate passed a permitting reform bill 62-33 carrying four nuclear licensing changes, including making uncontested NRC hearings optional and letting enrichment facilities start construction before licensing, and the terms of the Long Mott Xe-100 construction permit emerged (construction completion in 2033, a Dow preliminary investment decision in 2027, X-energy's ARDP award rising to USD 2.15 billion). On fuel, US uranium output fell 78% in Q3 after the country's only conventional mill stopped processing, and Standard Nuclear filed safety analyses for its Tennessee and Idaho TRISO plants with the DOE. The UK reaffirmed implementation of its Nuclear Regulatory Review in a joint DESNZ-MOD-Treasury ministerial letter, alongside continued awards from Sellafield, AWE and UK Fusion Energy. Sales angle: the entry windows for equipment and plant packages are the first half of 2027 in Poland and the period right after the December FID in France - and since French civil works are closed off to a five-member local consortium, the focus there should be the follow-on mechanical, electrical, I&C and balance-of-plant procurement.",
+  "domestic_overview_ko": "해외 수주 관련 신규 발표는 없었고, 국내 동향은 선박 원자력과 기관 리스크 관리로 갈렸다. 삼성중공업은 미 테서아토믹스·노르웨이 선급 DNV·노르웨이과기대와 원자력추진 LNG선 실증 4자 양해각서를 맺어 11월 19일 테서와의 독점 협력에 선급·연구기관을 더했고, 개념설계·안전성평가·승인계획 로드맵을 먼저 작성한다. 한국전력은 다크웹 게시물을 근거로 한 '입찰자료 유출' 의혹에 대해 해커와 협상한 사실이 없고 군·정부시설 정보는 나라장터 공개 제재정보와 일치한다고 반박했으며, 앞서 인정한 152만 248건 개인정보 유출의 통지는 완료했다고 밝혔다. 한국수력원자력은 한전KDN·네이버클라우드와 AI 업무협약을 맺고 원전 운영 데이터로 학습한 생성형 AI 플랫폼 'Hy-NuRI'를 공개했다. 영업 관점: 로이드선급에 이어 DNV까지 해양 원자력 인증 경로에 들어온 것은 조선–원자력 연계 역무의 수출 레퍼런스가 쌓이는 신호이고, 반면 발주처 조달 플랫폼 보안 문제는 해외 자격심사에서 팀코리아 신뢰도 질의로 번질 수 있어 대응 경과를 따라가야 한다.",
+  "domestic_overview_en": "There were no new announcements on overseas awards; domestic news split between marine nuclear and institutional risk management. Samsung Heavy Industries signed a four-party MOU with Tesser Atomics (US), Norwegian class society DNV and NTNU on a nuclear-powered LNG carrier demonstration, adding a class society and a research institution to its 19 November exclusive tie-up with Tesser, and the parties will first draft a roadmap for concept design, safety assessment and the approval plan. KEPCO rebutted claims of leaked bid documents based on a dark-web posting, saying it never negotiated with the hacker and that the military and government facility data matches publicly listed debarment records, and that notification of the 1,520,248 leaked personal records it had already acknowledged is complete. KHNP signed an AI cooperation agreement with KEPCO KDN and Naver Cloud and unveiled Hy-NuRI, a generative AI platform trained on plant operations data. Sales angle: DNV joining Lloyd's Register on the marine nuclear certification path signals accumulating export references for combined shipbuilding-nuclear scope, while security of owner procurement platforms could turn into Team Korea credibility questions in overseas prequalification and warrants tracking.",
+  "countries_pulse": [
+    {
+      "country": "PL",
+      "name_ko": "폴란드",
+      "name_en": "Poland",
+      "stance": "expanding",
+      "signal": "사업주 PEJ가 1호기 EPC 본계약 내년 초 서명·2028년 4분기 착공·2036년 가동을 공개 확약, 자금 집행은 2028년부터",
+      "signal_en": "Owner PEJ publicly committed to signing the Unit 1 EPC contract in early 2027, construction from Q4 2028 and operation in 2036, with funding flowing from 2028",
+      "article_ids": [
+        "2026-11-25-01"
+      ]
+    },
+    {
+      "country": "FR",
+      "name_ko": "프랑스",
+      "name_en": "France",
+      "stance": "steady",
+      "signal": "EPR2 6기 토목 약 140억 유로를 현지 건설 5사 컨소시엄으로 묶어 11월 말 이사회 승인 추진, 12월 최종투자결정 전망이나 EU 국가보조 승인은 미결",
+      "signal_en": "The roughly EUR 14 billion civil works scope for six EPR2 units is being consolidated into a five-member French consortium for board approval by end-November, with a December FID expected but EU state aid clearance still pending",
+      "article_ids": [
+        "2026-11-25-02",
+        "2026-11-25-15"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "상원이 원자력 인허가 개정 4건을 담은 인허가 개혁법안 62대 33 가결(하원 처리 불확실), 롱모트 Xe-100 건설허가 조건 공개, 3분기 우라늄 생산 78% 감소",
+      "signal_en": "The Senate passed a permitting reform bill 62-33 carrying four nuclear licensing changes (House passage uncertain), the Long Mott Xe-100 permit terms emerged, and Q3 uranium output fell 78%",
+      "article_ids": [
+        "2026-11-25-04",
+        "2026-11-25-03",
+        "2026-11-25-07",
+        "2026-11-25-08",
+        "2026-11-25-11"
+      ]
+    },
+    {
+      "country": "GB",
+      "name_ko": "영국",
+      "name_en": "United Kingdom",
+      "stance": "expanding",
+      "signal": "에너지안보탄소중립부·국방부·재무부 공동 장관서한으로 원자력 규제검토 이행 1년 재확인, 셀라필드 초기엔지니어링 기본협약 10개사 낙찰과 AWE 해체 사전공고",
+      "signal_en": "A joint DESNZ-MOD-Treasury ministerial letter reaffirmed one year of Nuclear Regulatory Review implementation, alongside Sellafield's ten-supplier early-engineering framework award and an AWE decommissioning planning notice",
+      "article_ids": [
+        "2026-11-25-05",
+        "2026-11-25-12",
+        "2026-11-25-13",
+        "2026-11-25-14"
+      ]
+    },
+    {
+      "country": "IN",
+      "name_ko": "인도",
+      "name_en": "India",
+      "stance": "expanding",
+      "signal": "규제기관이 라자스탄 8호기 최초 임계 접근 허가, 카이가 1호기는 600일 냉각재채널 교체 후 임계 복귀",
+      "signal_en": "The regulator cleared RAPP-8 for first approach to criticality, and Kaiga 1 returned to criticality after a 600-day coolant channel replacement",
+      "article_ids": [
+        "2026-11-25-06"
+      ]
+    },
+    {
+      "country": "FI",
+      "name_ko": "핀란드",
+      "name_en": "Finland",
+      "stance": "expanding",
+      "signal": "포시바가 10월 운영허가 취득 후 캡슐화시설까지 3km 전 구간 시험수송 완료, 세계 첫 고준위 심층처분장 시운전 진행",
+      "signal_en": "After receiving its operating licence in October, Posiva completed a full 3 km test transport to the encapsulation plant as commissioning of the world's first deep high-level waste repository proceeds",
+      "article_ids": [
+        "2026-11-25-09"
+      ]
+    },
+    {
+      "country": "DE",
+      "name_ko": "독일",
+      "name_en": "Germany",
+      "stance": "retreating",
+      "signal": "기조 유지 — 신규 발주는 해체·최종처분 영역에 한정(KTE 방사선방호 계측 점검 95만 유로, BGE 콘라트 처분장 지하 살수차 3대)",
+      "signal_en": "Stance unchanged - new procurement is confined to decommissioning and final disposal (KTE's EUR 950,400 radiation protection instrumentation checks and BGE's three underground sprinkler vehicles for Konrad)",
+      "article_ids": [
+        "2026-11-25-16",
+        "2026-11-25-17"
+      ]
+    },
+    {
+      "country": "BD",
+      "name_ko": "방글라데시",
+      "name_en": "Bangladesh",
+      "stance": "expanding",
+      "signal": "루프푸르 1호기가 11월 17일 첫 송전에 이어 23일 2차 시험송전 개시(300~350MW, 10~24시간)",
+      "signal_en": "Rooppur 1 began a second trial supply on 23 November (300-350 MW for 10-24 hours) after first feeding the grid on 17 November",
+      "article_ids": [
+        "2026-11-25-18"
+      ]
+    },
+    {
+      "country": "ZM",
+      "name_ko": "잠비아",
+      "name_en": "Zambia",
+      "stance": "expanding",
+      "signal": "IAEA 통합검토(INIR) 수행 — 내각이 2025년 프로그램 지속을 원칙 승인한 상태로, 조정체계·국가전략보고서·법체계 보완 권고",
+      "signal_en": "An IAEA Integrated Nuclear Infrastructure Review was carried out; with cabinet having approved continuation in principle in 2025, the team recommended strengthening coordination, finalising the national strategy report and enhancing the legal framework",
+      "article_ids": [
+        "2026-11-25-10"
+      ]
+    },
+    {
+      "country": "INT",
+      "name_ko": "국제기구",
+      "name_en": "International",
+      "stance": "expanding",
+      "signal": "IAEA가 아프리카 신규 진입국(잠비아) 기반시설 검토를 이어가며 이집트·케냐·모로코·러시아·남아공 전문가를 투입",
+      "signal_en": "The IAEA continued infrastructure reviews for African newcomers, drawing experts from Egypt, Kenya, Morocco, Russia and South Africa into the Zambia mission",
+      "article_ids": [
+        "2026-11-25-10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-25-01",
+      "region": "overseas",
+      "category": "large",
+      "importance": 3,
+      "language": "ko",
+      "title": "폴란드, 내년 초 美 웨스팅하우스와 원전 계약 예정...두산에너빌 수주 기대감",
+      "title_ko": "폴란드, 내년 초 美 웨스팅하우스와 원전 계약 예정...두산에너빌 수주 기대감",
+      "title_en": "Poland's PEJ says EPC contract with Westinghouse-Bechtel to be signed in early 2027, construction from Q4 2028",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=110104",
+      "published": "2026-11-24",
+      "countries": [
+        "PL",
+        "US"
+      ],
+      "summary_ko": "폴란드 첫 원전 사업주 PEJ의 마레크 보슈치크 사장이 11월 23일(현지시간) 블룸버그 인터뷰에서 1호기 EPC 본계약을 내년 초 서명한다고 밝혔다. 포메라니아 3,750MW 3기 사업으로 총사업비 약 470억 달러이며, 착공은 2028년 4분기, 1호기 가동 2036년, 2·3호기 2037~2038년 목표다. 자금은 2028년부터 집행되고 국가예산 약 600억 즈워티에 미 수출입은행 차관 등 차입을 더하며, 금융기관의 참여 의향이 필요 규모를 이미 넘었다고 했다.",
+      "summary_en": "Marek Woszczyk, CEO of Poland's nuclear owner PEJ, told Bloomberg on 23 November that the EPC contract for the first plant will be signed in early 2027. The 3,750 MW three-unit project in Pomerania is costed at about USD 47 billion, with construction starting in Q4 2028 and Unit 1 operating in 2036, followed by Units 2 and 3 in 2037-2038. Funding flows from 2028, combining roughly PLN 60 billion of state budget with borrowing including a US EXIM loan; Woszczyk said lender interest already exceeds the amount needed.",
+      "sales_note": "장납기 기자재(LLI) 발주가 이미 시작된 상태에서 EPC 본계약 시점이 '내년 초'로 공표됐다 — 폴란드 1호기의 기자재·하도급 패키지 진입 창구가 2027년 상반기에 집중된다는 뜻이다. 보슈치크가 \"관련 제품을 만들 수 있는 공장이 세계적으로 적다\"며 발주 쇄도와 숙련인력 경쟁을 언급한 점은 공급 측 협상력이 올라가 있음을 시사한다.",
+      "sales_note_en": "With long-lead item procurement already under way, a publicly stated early-2027 EPC signing concentrates the window for equipment and subcontract packages in the first half of 2027. Woszczyk's remark that few factories worldwide can supply the relevant products, alongside rushed orders and fierce competition for skilled labour, points to rising bargaining power on the supply side.",
+      "related": [
+        "https://www.world-nuclear-news.org/articles/partners-prepare-to-procure-long-lead-items-for-polish-plant"
+      ]
+    },
+    {
+      "id": "2026-11-25-02",
+      "region": "overseas",
+      "category": "large",
+      "importance": 3,
+      "language": "fr",
+      "title": "EPR2 : EDF négocie un contrat de génie civil de 14 Md€",
+      "title_ko": "[지난 회차 누락 보완] EDF, EPR2 6기 토목공사 약 140억 유로 컨소시엄 협상 — 뱅시·부이그·에파주·NGE·파야, 11월 말 이사회 승인 후 12월 최종투자결정",
+      "title_en": "EDF in talks on a ~EUR 14 billion civil works contract for six EPR2 reactors with Vinci, Bouygues, Eiffage, NGE and Fayat",
+      "source": "Batiweb",
+      "url": "https://www.batiweb.com/actualites/construction/edf-epr2-contrat-genie-civil-14-milliards-49639",
+      "published": "2026-11-18",
+      "countries": [
+        "FR"
+      ],
+      "summary_ko": "레제코 보도를 받아, EDF가 EPR2 6기 토목공사를 뱅시·부이그·에파주·NGE·파야 5사 컨소시엄과 마무리 중이라고 전했다. 금액은 2020년 경제조건 약 120억 유로, 현재가치 약 140억 유로로 6기 총사업비 728억 유로의 약 6분의 1에 해당한다. EDF 이사회 승인은 11월 말까지로 예정돼 있고, 그 다음 단계인 6기 최종투자결정(FID)은 12월로 전망된다. 1·2호기는 팡리(2038년 가동), 이후 그라블린·뷔제 순이다. EDF는 금액을 확인하지 않았고 \"협의가 진행 중\"이라는 입장이다.",
+      "summary_en": "Citing Les Echos, the report says EDF is finalising the civil works package for six EPR2 reactors with a consortium of Vinci, Bouygues, Eiffage, NGE and Fayat. The value is about EUR 12 billion at 2020 economic conditions, or close to EUR 14 billion in current money - roughly one sixth of the EUR 72.8 billion programme cost. EDF's board is due to approve it by the end of November, with the final investment decision on all six units expected in December. The first pair is at Penly (operation 2038), followed by Gravelines and then Bugey. EDF has not confirmed the figure and says talks continue.",
+      "sales_note": "유럽 최대 신규 대형원전 사업의 토목 역무가 프랑스 건설 5사 단일 컨소시엄으로 묶이는 구도다 — 프랑스 국내 신규 건설에서 외국 EPC·토목사의 진입 여지는 사실상 닫혔다고 봐야 한다. 반면 12월 FID가 성립하면 2027년부터 기계·전기·계측제어·BOP 기자재 발주가 본격화되므로, 당사가 겨냥할 지점은 토목이 아니라 그 후속 설비 패키지다.",
+      "sales_note_en": "The civil works scope on Europe's largest new-build programme is being consolidated into a single five-member French consortium, effectively closing the door to foreign EPC and civil contractors in French domestic new build. If the December FID holds, however, mechanical, electrical, I&C and balance-of-plant procurement ramps up from 2027 - so the opening to target is the follow-on equipment packages, not the civil scope.",
+      "related": [
+        "https://www.lemoniteur.fr/electricite/nucleaire/edf-sapprete-a-signer-un-contrat-dun-montant-de-14-milliards-deuros-avec-bouygues-eiffage-vinci-nge-et-fayat-pour-la-construction-des-futurs-epr2.2PDDQPRJP5ENHK27RIDU47KIZQ.html"
+      ]
+    },
+    {
+      "id": "2026-11-25-03",
+      "region": "overseas",
+      "category": "smr",
+      "importance": 2,
+      "language": "en",
+      "title": "Landmark NRC Construction Permit Ushers in Next Phase for Dow's Xe-100 HTGR Nuclear Project",
+      "title_ko": "[새 사실] 다우 롱모트 Xe-100 건설허가 세부 공개 — 건설완료 시한 2033년, 다우 예비투자결정 2027년, 엑스에너지 ARDP 총액 21억 5,000만 달러로 증액",
+      "title_en": "[New detail] Terms of the Long Mott construction permit emerge: construction completion window in 2033, Dow preliminary investment decision in 2027, X-energy's ARDP award rising to USD 2.15 billion",
+      "source": "POWER Magazine",
+      "url": "https://www.powermag.com/landmark-nrc-construction-permit-ushers-in-next-phase-for-dows-xe-100-htgr-nuclear-project/",
+      "published": "2026-11-24",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "11월 9일 발급된 미 NRC 건설허가(CPAR-3)의 조건이 공개됐다. 허가는 건설완료 시점을 2033년 7월 1일~12월 31일로 못박았고, 안전 관련 기초 콘크리트 타설 전에 홍수방호 설계 완료를 NRC에 통보해야 한다. 다우는 2027년 예비투자결정을 검토한 뒤 별도의 최종투자결정을 내릴 계획이며, 엑스에너지는 가동 약 2년 전 운영허가를 신청한다. 노형은 Xe-100 4기(각 200MWt·80MWe, 합계 800MWt·320MWe)로 텍사스 캘훈카운티 시드리프트 부지 약 1,537에이커에 들어서고, 운전은 넥스트에라에너지리소스 자회사가 맡는다. 엑스에너지 ARDP 총 지원액은 21억 5,000만 달러로 오르며 2026년 9월까지 누적 집행은 6억 1,800만 달러다.",
+      "summary_en": "The terms of the US NRC construction permit (CPAR-3) issued on 9 November have come to light. The permit fixes construction completion between 1 July and 31 December 2033, and requires Long Mott to notify the NRC that flood protection designs are ready before safety-significant foundation concrete is placed. Dow expects to weigh a preliminary investment decision in 2027 before a separate final decision, and X-energy will file its operating licence application about two years before commissioning. The plant is four Xe-100 units (200 MWth / 80 MWe each; 800 MWth / 320 MWe total) on about 1,537 acres at Dow's Seadrift site in Calhoun County, Texas, to be operated by a NextEra Energy Resources subsidiary. X-energy says its total ARDP award is set to rise to USD 2.15 billion, with USD 618 million reimbursed through September 2026.",
+      "sales_note": "두산에너빌리티(증기발생기 소재·주기기)와 DL이앤씨가 엑스에너지에 지분·공급으로 묶여 있는 만큼, 다우의 예비투자결정 시점(2027년)이 국내 공급사 물량 확정의 분기점이 된다. 건설허가가 건설 확약은 아니라는 다우의 단서, 그리고 2033년 건설완료 시한을 함께 읽으면 제작 발주는 2027~2028년에 몰릴 가능성이 크다.",
+      "sales_note_en": "With Doosan Enerbility (steam generator materials and main equipment) and DL E&C tied to X-energy through equity and supply, Dow's 2027 preliminary investment decision becomes the inflection point for firming up Korean supplier volumes. Read together with Dow's caveat that the permit is not a commitment to build and the 2033 construction-completion deadline, fabrication orders are likely to cluster in 2027-2028."
+    },
+    {
+      "id": "2026-11-25-04",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 2,
+      "language": "en",
+      "title": "Senate approves permitting bill with nuclear energy amendments—what's next?",
+      "title_ko": "美 상원, 원자력 인허가 개정 4건 포함한 초당적 인허가 개혁법안(BAAJA) 62대 33 가결 — 하원 레임덕 회기로",
+      "title_en": "US Senate passes bipartisan permitting reform bill 62-33 with four nuclear licensing amendments; House next in the lame-duck session",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-11-24/article-8616/senate-approves-permitting-bill-with-nuclear-energy-amendmentswhats-next/",
+      "published": "2026-11-24",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "상원이 11월 19일 초당적 미국부담경감·일자리법(BAAJA)을 62대 33으로 가결했다. 올가을 하원을 통과한 원자력 인허가 6개 법안 중 4건이 상원 수정안으로 반영됐다 — ①NRC 인허가 심사의 무쟁점 공청회를 의무에서 선택으로, ②우라늄 농축시설은 인허가 발급 전 착공 허용(다른 핵연료주기시설과 동일), ③NRC 직원 보수 개선, ④에너지부의 원자력시설 승인활동 연례보고 의무화다. 하원 처리 전망은 불확실하다. NEPA·청정수법·역사보존법 요건을 바꾼다는 이유로 환경단체·원주민 부족이 반대하고, 일부 민주당 의원은 민주당이 다수를 쥐는 1월 새 의회를 기다리자는 입장이다. 의회는 추수감사절 이후 12월 11일까지 예산안을 처리해야 한다.",
+      "summary_en": "The Senate passed the Bipartisan American Affordability and Jobs Act 62-33 on 19 November. Four of the six nuclear permitting bills the House passed this autumn have Senate counterparts in the amended text: uncontested hearings in NRC licensing reviews become optional rather than mandatory; enrichment facilities may begin construction before their licence is issued, aligning them with other fuel-cycle facilities; NRC staff pay is improved to compete with private employers; and the Energy Secretary must report annually to the congressional energy committees on DOE nuclear facility authorisations. The House path is uncertain - environmental groups and Native American tribes object to changes to NEPA, the Clean Water Act and the National Historic Preservation Act, and some Democrats prefer to wait for the new Congress they will control in January. Congress must also pass a funding bill by 11 December.",
+      "sales_note": "농축시설 인허가 전 착공 허용은 미국 내 HALEU·농축 설비 투자 일정을 앞당기는 조항이라 연료공급망 진입 시점 판단에 직접 영향을 준다. 다만 하원 통과가 불확실하고 1월 의회 교체 변수가 있어, 2027년 상반기까지는 '현행 규제 기준'으로 일정을 잡는 것이 안전하다.",
+      "sales_note_en": "Allowing enrichment facilities to start construction before licensing would pull forward US HALEU and enrichment investment schedules, which bears directly on timing for entering that fuel supply chain. But with House passage uncertain and a change of Congress in January, planning to the current regulatory baseline remains the safer assumption through the first half of 2027."
+    },
+    {
+      "id": "2026-11-25-05",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 2,
+      "language": "en",
+      "title": "Nuclear Regulatory Review: joint ministerial letter to industry",
+      "title_ko": "英 정부, 원자력 규제검토 1년 공동 장관서한 발송 — 에너지안보탄소중립부·국방부·재무부 공동, 이행 지속 확약",
+      "title_en": "UK ministers issue joint letter to industry marking one year of the Nuclear Regulatory Review",
+      "source": "UK DESNZ (gov.uk)",
+      "url": "https://www.gov.uk/government/publications/nuclear-regulatory-review-joint-ministerial-letter-to-industry",
+      "published": "2026-11-24",
+      "countries": [
+        "GB"
+      ],
+      "summary_ko": "영국 에너지안보탄소중립부(DESNZ)·국방부(MOD)·재무부(HM Treasury) 장관들이 11월 23일자 공동서한을 원자력 업계 최고경영자와 인허가 의무자(dutyholder)에게 보냈다. 원자력 규제검토 발표 1년을 계기로 이행 의지를 재확인하고, 정부·규제기관·업계의 진전을 인정하며 공동 대응을 계속하자는 내용이다. 서한 본문(3쪽 PDF)의 세부 조치와 기한은 공개 페이지에 기재되지 않았다.",
+      "summary_en": "Ministers from DESNZ, the Ministry of Defence and HM Treasury sent a joint letter dated 23 November to nuclear sector CEOs and dutyholders. Marking one year since the Nuclear Regulatory Review was published, it reaffirms the government's commitment to implementing the review, recognises progress by government, regulators and industry, and urges continued collective action. The published page does not set out the specific measures or deadlines contained in the three-page letter.",
+      "sales_note": "영국은 롤스로이스 SMR·대형원전 양쪽에서 규제 처리속도가 사업 일정의 핵심 변수다. 재무부·국방부가 함께 서명한 것은 민수·군수 원자력 규제를 한 묶음으로 가속하겠다는 신호로, 영국 공급망·인허가 지원 역무의 수요가 이어질 근거가 된다.",
+      "sales_note_en": "In the UK, regulatory throughput is the critical schedule variable for both Rolls-Royce SMR and large new build. HM Treasury and the MOD co-signing signals an intent to accelerate civil and defence nuclear regulation together, supporting continued demand for UK supply-chain and licensing-support services."
+    },
+    {
+      "id": "2026-11-25-06",
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "language": "en",
+      "title": "Start-up milestones for Indian plants",
+      "title_ko": "인도 라자스탄 8호기 최초 임계 접근 허가(AERB, 11월 19일)·카이가 1호기 600일 개보수 후 임계 — 각 700MWe·200MWe PHWR",
+      "title_en": "India: AERB clears RAPP-8 for first approach to criticality, and Kaiga 1 goes critical after a 600-day refurbishment",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/start-up-milestones-for-indian-plants",
+      "published": "2026-11-24",
+      "countries": [
+        "IN"
+      ],
+      "summary_ko": "인도 원자력규제위원회(AERB)가 11월 19일 라자스탄 8호기(RAPP-8, 인도 설계 700MWe 가압중수로)의 최초 임계 접근을 허가했다. 핵연료 장전은 9월 19일 시작됐고, 계통연결·상업운전에는 추가 규제승인이 필요하다. 별건으로 카이가 1호기(200MWe PHWR)가 11월 22일 새벽 개보수 정지 후 임계에 도달했다. 이 호기는 2025년 4월 1일 냉각재 채널·급수관 교체를 위해 정지했고, 인도원자력발전공사(NPCIL)는 공사에 600일이 걸렸다고 밝혔다.",
+      "summary_en": "India's Atomic Energy Regulatory Board granted permission on 19 November for the first approach to criticality at Rajasthan Unit 8 (RAPP-8), an indigenous 700 MWe pressurised heavy water reactor. Fuel loading began on 19 September, and grid connection and commercial operation need further regulatory approval. Separately, Kaiga 1 (200 MWe PHWR) reached criticality in the early hours of 22 November after a refurbishment outage. The unit was shut down on 1 April 2025 to replace coolant channels and feeders, work NPCIL says took 600 days.",
+      "sales_note": "인도는 자국 PHWR 신규 건설과 계속운전 개보수를 동시에 돌리는 드문 시장이다. 카이가 1호기 600일 냉각재채널 교체 실적은 국내 계속운전 개보수 공기와 직접 비교할 수 있는 지표이므로, 개보수 역무 입찰에서 공기 경쟁력을 제시할 때 참고치로 쓸 만하다.",
+      "sales_note_en": "India is one of the few markets running indigenous PHWR new build and life-extension refurbishment at the same time. The 600-day coolant channel replacement at Kaiga 1 is a directly comparable schedule benchmark for refurbishment work, useful as a reference point when arguing schedule competitiveness in modernisation tenders."
+    },
+    {
+      "id": "2026-11-25-07",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 2,
+      "language": "en",
+      "title": "White Mesa mill to resume processing as US uranium production falls",
+      "title_ko": "美 유일 재래식 우라늄 제련소 화이트메사, 12월 처리 재개 — 3분기 미국 생산 24만 3,673파운드로 78% 급감",
+      "title_en": "White Mesa mill to resume uranium processing in December as US output falls 78% in Q3",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/white-mesa-mill-to-resume-processing-as-us-uranium-production-falls",
+      "published": "2026-11-24",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "미국 에너지정보청(EIA) 분기 자료에 따르면 2026년 3분기 미국 우라늄 생산은 24만 3,673파운드 U3O8(93.7tU)로 78% 줄었다. 에너지퓨얼스가 6월 화이트메사 제련소(유타주, 미국 유일 가동 재래식 제련소)의 우라늄 처리를 멈추고 희토류로 전환한 데 따른 것으로, 1분기 생산은 108만 7,504파운드였다. 회사는 12월부터 처리 캠페인을 재개해 약 100만 파운드 U3O8을 생산할 계획이며 이 물량으로 2028년까지의 공급계약을 충당한다. 이후 2027년 대부분과 2028년 일부는 다시 희토류를 처리한다. 애리조나 피뇬플레인 광산 감산을 메우기 위해 월윈드(콜로라도, 2028년 첫 생산)·에너지퀸·불프로그·니컬스랜치를 추진해 연 약 125만 파운드를 더할 계획이다.",
+      "summary_en": "EIA quarterly data show US uranium output fell 78% in Q3 2026 to 243,673 lb U3O8 (93.7 tU), after Energy Fuels halted uranium processing at the White Mesa mill in Utah - the only operating conventional US mill - in June and switched it to rare earth elements; Q1 output had been 1,087,504 lb. The company plans a processing campaign from December 2026 yielding about 1 million lb U3O8, enough to cover existing supply contracts through 2028, before the mill returns to rare earths for much of 2027 and into 2028. To replace declining output from the Pinyon Plain mine in Arizona, it is advancing Whirlwind (Colorado, first production 2028), Energy Queen, Bullfrog and Nichols Ranch, together worth about 1.25 million lb a year.",
+      "sales_note": "미국 내 천연우라늄 생산이 제련소 1곳의 운영 선택에 좌우되는 구조가 수치로 확인됐다. 대미 원전 사업·수출금융 협의에서 연료 공급 안정성을 논할 때, 농축·변환 단계뿐 아니라 제련 단계의 병목도 함께 짚어야 한다.",
+      "sales_note_en": "The figures confirm how far US natural uranium output depends on the operating choices of a single mill. In discussions of US nuclear projects and export finance, fuel supply security needs to account for the milling bottleneck, not just conversion and enrichment."
+    },
+    {
+      "id": "2026-11-25-08",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 2,
+      "language": "en",
+      "title": "Key step in licensing of US TRISO fuel facilities",
+      "title_ko": "스탠더드뉴클리어, 테네시·아이다호 TRISO 핵연료 제조시설 문서화안전분석(DSA) 美 에너지부 제출 — 2027년 납기 대응",
+      "title_en": "Standard Nuclear submits Documented Safety Analyses for its Tennessee and Idaho TRISO fuel plants to the DOE",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/key-step-in-licensing-of-us-triso-fuel-facilities",
+      "published": "2026-11-24",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "노형 비특정 TRISO 연료 생산사 스탠더드뉴클리어가 미 에너지부에 문서화안전분석(DSA)을 제출했다 — 테네시 SN-TN은 11월 6일, 아이다호 SN-ID는 11월 12일이다. DSA는 에너지부 승인절차에서 가장 포괄적인 최종 안전분석으로, 두 시설은 위험등급 2(Hazard Category 2)이며 설계는 사실상 동일하다. 에너지부는 2026년 7월 두 시설의 예비 DSA를 승인했고, 회사는 오크리지 SN-0에서 이미 에너지부 승인하에 HALEU TRISO를 생산하고 있다. 회사는 DSA 승인이 나면 기존 2027년 연료 생산 주문을 소화할 수 있다고 밝혔다.",
+      "summary_en": "Standard Nuclear, which describes itself as a reactor-agnostic TRISO fuel producer, has submitted Documented Safety Analyses to the US Department of Energy - for SN-TN in Tennessee on 6 November and SN-ID in Idaho on 12 November. The DSA is the final and most comprehensive safety analysis in the DOE authorisation process; both are Hazard Category 2 facilities of essentially identical design. The DOE approved preliminary DSAs for both in July 2026, and the company already runs DOE-authorised HALEU TRISO production at SN-0 in Oak Ridge. It says approval would let it meet existing 2027 fuel production orders.",
+      "sales_note": "TRISO 공급처가 트라이소-X(엑스에너지) 외로 넓어지고 있다는 신호다. 고온가스로 계열 사업에서 연료 조달을 단일 개발사에 묶지 않을 수 있게 되므로, 국내 기업이 참여하는 HTGR 사업의 연료 리스크 평가 조건이 달라진다.",
+      "sales_note_en": "A signal that TRISO supply is broadening beyond TRISO-X (X-energy). High-temperature gas reactor projects need no longer tie fuel procurement to a single developer, which changes the fuel-risk assessment for HTGR projects involving Korean companies."
+    },
+    {
+      "id": "2026-11-25-09",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 1,
+      "language": "en",
+      "title": "Posiva completes test transport at encapsulation plant",
+      "title_ko": "핀란드 포시바, 올킬루오토 캡슐화시설까지 3km 전 구간 수송용기 시험수송 완료 — 10월 운영허가 취득, 처분용기 3,300개·연 최대 60개",
+      "title_en": "Posiva completes a 3 km test transport to the Olkiluoto encapsulation plant",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/posiva-completes-test-transport-at-encapsulation-plant",
+      "published": "2026-11-24",
+      "countries": [
+        "FI"
+      ],
+      "summary_ko": "핀란드 방폐물관리회사 포시바가 사용후핵연료 수송용기를 캡슐화시설까지 운반하는 시험수송을 마쳤다. 전 구간을 처음 주행해 거리를 수백 미터에서 약 3km로 늘렸고, 용기에 실제 연료는 넣지 않았다. 포시바는 2021년 12월 운영허가를 신청(2024년 3월~2070년 말)해 2026년 10월 허가를 받았으나 시설은 아직 시운전 단계다. 날짜 미정의 2차 시험에서는 실제 수송용기의 연료 위치를 써서 연료이송기 작동을 시험하고 관리구역 절차를 발동한다. 처분용기는 총 3,300개, 연 최대 60개를 처리하며 처분은 2120년대까지 이어진 뒤 매립·폐쇄한다.",
+      "summary_en": "Finland's Posiva has completed a test transport of a transfer cask to its encapsulation plant, running the full route for the first time and extending the distance from a few hundred metres to about 3 km; the cask held no actual fuel. Posiva applied for an operating licence in December 2021 (covering March 2024 to end-2070) and received it in October 2026, but the facilities are not yet commissioned. A second test run, date still to be set, will test fuel transfer machine operations using an actual cask's fuel positions and activate controlled-area procedures. The plant will handle about 3,300 disposal canisters at a maximum of 60 a year, with disposal running into the 2120s before backfilling and closure.",
+      "sales_note": "세계 첫 고준위 심층처분장이 실제 운영 직전 단계로 넘어가고 있다. 국내 사용후핵연료 저장·처분 인허가 논의에서 참조 선례로서의 가치가 커지며, 해외 입찰에서 백엔드 해법 유무를 묻는 발주처 질의에 쓸 수 있는 근거가 된다.",
+      "sales_note_en": "The world's first deep geological repository for high-level waste is moving to the brink of actual operation. Its value as a reference precedent grows for Korea's own spent fuel storage and disposal licensing debate, and it gives usable material for answering owner queries about back-end solutions in overseas bids."
+    },
+    {
+      "id": "2026-11-25-10",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 1,
+      "language": "en",
+      "title": "Zambia planning for development of nuclear energy",
+      "title_ko": "IAEA, 잠비아 원자력 기반시설 통합검토(INIR) 수행 — 조정체계 강화·국가전략보고서 확정·법체계 보완 권고",
+      "title_en": "IAEA conducts an Integrated Nuclear Infrastructure Review in Zambia",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/zambia-plans-for-developing-nuclear-energy-programme-reviewed-by-iaea",
+      "published": "2026-11-24",
+      "countries": [
+        "ZM",
+        "INT"
+      ],
+      "summary_ko": "IAEA가 11월 첫째 주 잠비아에서 원자력 기반시설 통합검토(INIR) 임무를 수행했다. 이집트·케냐·모로코·러시아·남아공 전문가 5명과 IAEA 직원 4명이 참여했고 IAEA 수석원자력기술자 존 하다드가 단장을 맡았다. 잠비아 내각은 2025년 원자력발전 프로그램 지속을 원칙 승인하고 관계기관에 준비작업 착수를 지시했다. 검토단은 프로그램 조정체계 강화, 국가전략보고서 확정, 법체계 보완, 재원·인력 수요 정의를 권고했다. 수력 의존을 낮추고 저탄소 기저부하를 확보하는 것이 목적이며, 국가 목표는 발전설비 1만MW 확대다. 원전 용량·일정 목표는 제시되지 않았다.",
+      "summary_en": "The IAEA carried out an Integrated Nuclear Infrastructure Review mission in Zambia in the first week of November, with five experts from Egypt, Kenya, Morocco, Russia and South Africa plus four IAEA staff, led by senior nuclear engineer John Haddad. Zambia's cabinet approved in principle in 2025 that the nuclear power programme should continue and directed institutions to begin preparatory work. The team recommended strengthening the programme's coordination mechanism, finalising the national strategy report, enhancing the legal framework and defining funding and human resource needs. The aim is to cut reliance on hydropower and secure low-carbon baseload; the national goal is to add 10,000 MW of generating capacity. No nuclear-specific capacity or schedule target was given.",
+      "sales_note": "아프리카 신규 진입국의 INIR 단계는 수주 가능 시점이 멀지만, 러시아·남아공 전문가가 검토단에 들어간 구성 자체가 향후 공급 경쟁 구도를 미리 보여준다. 당분간은 추적만 하고 자원 투입은 보류할 단계다.",
+      "sales_note_en": "An INIR-stage African newcomer is far from award, but the presence of Russian and South African experts on the review team previews the likely supply competition. For now this warrants tracking rather than resource commitment."
+    },
+    {
+      "id": "2026-11-25-11",
+      "region": "overseas",
+      "category": "smr",
+      "importance": 1,
+      "language": "en",
+      "title": "NASA solicits lunar reactor proposals",
+      "title_ko": "美 NASA, 달 표면 20kWe 핵분열 발전시스템 'LR-1' 제안요청 — HALEU·폐쇄 브레이턴, 2030년 12월 발사 준비 목표",
+      "title_en": "NASA solicits proposals for LR-1, a 20 kWe lunar surface fission power system",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-11-24/article-8617/nasa-solicits-lunar-reactor-proposals/",
+      "published": "2026-11-24",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "NASA 우주원자로부가 달 표면 기반시설용 소형 핵분열 발전시스템 LR-1의 기본설계·하드웨어 실증 제안을 업계에 요청했다. 요구사항은 단일 고장 후에도 유지되는 20kWe 출력, 폐쇄 브레이턴 변환과 고순도 저농축우라늄(HALEU), 1km 거리 승무원 피폭을 달 배경방사선 대비 연 5rem 이하로 막는 차폐, 간헐 통신·무정비 조건에서 5년 이상 연속 자동 운전, 14.75일 이상 암흑기를 포함한 달 남극 운용, 임무 종료 시 수동 정지 상태 확보다. 납품물은 열수송·동력변환·열방출·전력관리를 열진공에서 실증하는 비핵 공학시험기(ETU)이며 발사 전 무출력 임계시험이 허용된다. 선정 업체는 18개월 안에 방사선 피폭시험과 전기가열 통합시험을 포함한 하드웨어 실증을 끝내야 하고, 발사 준비 목표는 2030년 12월이다. 규제는 에너지부 안전기준(DOE-STD-1271 승인경로)을 따른다. 제안 마감과 계약 규모는 기사에 없다.",
+      "summary_en": "NASA's Space Reactors Division has asked industry for proposals to develop LR-1, a small fission power system for lunar surface infrastructure, covering preliminary design and hardware demonstration. Requirements include 20 kWe maintained after a single failure, closed Brayton conversion and HALEU fuel, shielding so that crew 1 km away receive no more than 5 rem above lunar background per year, at least five years of continuous automatic operation with intermittent Earth communications and no maintenance, operation at the lunar south pole including at least 14.75 days of darkness, and a safe passive shutdown state at mission end. Deliverables include a nonnuclear Engineering Test Unit demonstrating heat transport, power conversion, heat rejection and power management in a thermal-vacuum environment, with a zero-power critical test permitted before launch. Selected contractors have 18 months for radiation exposure testing and all hardware demonstrations including an electrically heated integrated systems test, with a launch-ready target of December 2030. DOE safety standards apply via the DOE-STD-1271 authorisation pathway. The article does not give the proposal deadline or award value.",
+      "sales_note": "우주용 초소형 원자로는 당사 사업범위와 직접 겹치지 않지만, HALEU 수요와 마이크로원자로 제조 역량을 미국 내에서 끌어올리는 또 하나의 공공 수요다. 래디언트·아이다호국립연구소 계열 공급망 동향을 볼 때 참고 지표로 둔다.",
+      "sales_note_en": "Space microreactors do not overlap directly with our scope, but they are another source of public demand pulling US HALEU consumption and microreactor manufacturing capability upward - a useful indicator when reading supply-chain moves around Radiant and the Idaho National Laboratory orbit."
+    },
+    {
+      "id": "2026-11-25-12",
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "en",
+      "title": "Building decommissioning",
+      "title_ko": "英 원자력무기연구소(AWE), 시설 등급 재분류용 건물 해체·오염제거 공사 사전공고 — 900만 파운드(세금 포함 1,080만)",
+      "title_en": "UK Atomic Weapons Establishment plans a GBP 9 million building decommissioning and decontamination contract",
+      "source": "UK Find a Tender",
+      "url": "https://www.find-tender.service.gov.uk/Notice/ocds-h6vhtk-07c2a3",
+      "published": "2026-11-24",
+      "countries": [
+        "GB"
+      ],
+      "summary_ko": "영국 원자력무기연구소(AWE)가 시설을 재분류할 수 있도록 지정 범위를 해체·오염제거하는 공사를 사전공고(planning)로 올렸다. 최종 상태는 남아 있는 주요 설비·유틸리티를 모두 철거한 상태다. 추정금액은 900만 파운드(세금 포함 1,080만 파운드)이며 접수 마감일은 공고에 기재되지 않았다.",
+      "summary_en": "The UK Atomic Weapons Establishment has published a planning notice for works to decommission and decontaminate a defined scope so the facility can be reclassified. The end state removes all remaining major plant and services. The estimated value is GBP 9 million (GBP 10.8 million including tax); the notice gives no submission deadline.",
+      "sales_note": "영국 해체 시장이 민수(셀라필드·NRS)에 이어 국방 부문에서도 패키지를 쏟아내고 있다. 다만 AWE는 국방 보안요건 때문에 외국 업체 진입 장벽이 가장 높은 발주처이므로, 직접 수주보다 영국 현지사와의 하도급 구도로 접근할 사안이다.",
+      "sales_note_en": "The UK decommissioning market is now issuing packages from the defence side as well as civil (Sellafield, NRS). AWE carries the highest barriers to foreign entry because of defence security requirements, so this is a case for subcontracting through a UK local firm rather than direct award."
+    },
+    {
+      "id": "2026-11-25-13",
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "en",
+      "title": "Enabling Innovation Framework",
+      "title_ko": "英 셀라필드, 'Enabling Innovation Framework 5' 기본협약 2,000만 파운드(세금 포함 2,400만) 10개사 낙찰 — 트락테벨·WSP 등",
+      "title_en": "Sellafield awards its GBP 20 million Enabling Innovation Framework 5 to ten suppliers including Tractebel and WSP",
+      "source": "UK Find a Tender",
+      "url": "https://www.find-tender.service.gov.uk/Notice/ocds-h6vhtk-051549",
+      "published": "2026-11-24",
+      "countries": [
+        "GB"
+      ],
+      "summary_ko": "셀라필드가 'Enabling Innovation Framework 5'(EIF 5) 기본협약을 10개사에 낙찰했다. 금액은 2,000만 파운드(세금 포함 2,400만 파운드)이며 역무는 문제 정의·구조화, 기술검토(study), 기능요건 작성, 사업타당성 자료(business case) 준비, 표적 사업·과제 개입 지원이다. 낙찰사는 NSG 엔바이런멘털, DBD, 이던 컨설팅, 글리즈, 하디움, 리액트 엔지니어링, RED 엔지니어링, 트락테벨 엔지니어링, 웨스트레이크스 엔지니어링, WSP UK다.",
+      "summary_en": "Sellafield has awarded its Enabling Innovation Framework 5 to ten suppliers, worth GBP 20 million (GBP 24 million including tax). The scope covers problem framing, studies, developing functional requirements, preparing business cases and targeted project and task interventions. The awardees are NSG Environmental, DBD, Eadon Consulting, Gleeds, Hardium, React Engineering, RED Engineering, Tractebel Engineering, Westlakes Engineering and WSP UK.",
+      "sales_note": "영국 발주처가 개념검토·타당성조사·기능요건 작성 같은 초기 엔지니어링을 다수공급자 기본협약으로 묶어 조달하는 방식이 반복되고 있다. 팀이 목표하는 FEED·기본설계 역무도 같은 통로로 열리므로, 영국 시장은 단건 입찰보다 기본협약 등재 전략이 맞다.",
+      "sales_note_en": "UK owners keep procuring early engineering - concept studies, feasibility work, functional requirements - through multi-supplier frameworks. The FEED and basic design scope the team is targeting opens through the same channel, so the right UK strategy is getting onto frameworks rather than chasing individual tenders."
+    },
+    {
+      "id": "2026-11-25-14",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 1,
+      "language": "en",
+      "title": "Multi-staged Depressed Collector Gyrotron for Fusion Applications",
+      "title_ko": "英 UK퓨전에너지, STEP용 다단 감압집전형 자이로트론 설계·제작성 용역 684만 파운드 낙찰 — 마이크로웨이브파워프로덕츠·뮤웨이브",
+      "title_en": "UK Fusion Energy awards a GBP 6.84 million gyrotron development contract for STEP",
+      "source": "UK Find a Tender",
+      "url": "https://www.find-tender.service.gov.uk/Notice/ocds-h6vhtk-067a0c",
+      "published": "2026-11-24",
+      "countries": [
+        "GB"
+      ],
+      "summary_ko": "UK퓨전에너지(UKFE)가 STEP 핵융합 실증로에 쓸 다단 감압집전형(multi-staged depressed collector) 자이로트론의 설계와 제작성을 진전시키는 용역을 낙찰했다. 세금 포함 684만 파운드이며 미국 마이크로웨이브파워프로덕츠와 영국 뮤웨이브가 수주했다.",
+      "summary_en": "UK Fusion Energy has awarded a contract to progress the design and manufacturability of a multi-staged depressed collector gyrotron for fusion applications, to be used in STEP. The award is GBP 6.84 million including tax, to Microwave Power Products (US) and MuWave (UK).",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-11-25-15",
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "fr",
+      "title": "Appel à Manifestation d'Intérêt pour Solution pour mobilité télécom_chantiers EPR2",
+      "title_ko": "프랑스 EDF, EPR2 건설현장 통신 이동성 솔루션 관심표명 요청(AMI) 공고 — 사전정보공고, 마감일 미기재",
+      "title_en": "EDF issues a call for expressions of interest for telecom mobility solutions at EPR2 construction sites",
+      "source": "TED",
+      "url": "https://ted.europa.eu/en/notice/815412-2026/pdf",
+      "published": "2026-11-24",
+      "countries": [
+        "FR"
+      ],
+      "summary_ko": "EDF가 EPR2 건설현장용 통신 이동성(mobilité télécom) 솔루션에 대한 관심표명 요청(AMI)을 TED에 사전정보공고(pin-only)로 올렸다. 분류는 통신망이며 공고에 역무 상세와 접수 마감일은 기재되지 않았다.",
+      "summary_en": "EDF has published a call for expressions of interest (AMI) on TED for telecom mobility solutions at EPR2 construction sites, as a prior-information (pin-only) notice classified under telecommunications networks. The notice gives no scope detail or submission deadline.",
+      "sales_note": "EPR2 현장 운영 인프라 조달이 시작됐다는 신호로, 12월 최종투자결정을 앞두고 EDF가 현장 입주 준비를 진행하고 있음을 뒷받침한다.",
+      "sales_note_en": "A signal that procurement of EPR2 site operating infrastructure has begun, supporting the view that EDF is preparing site mobilisation ahead of the December final investment decision."
+    },
+    {
+      "id": "2026-11-25-16",
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "de",
+      "title": "Kontrolle der Strahlenschutzinstrumentierung in den Anlagen der KTE",
+      "title_ko": "독일 카를스루에 원자력해체회사(KTE), 보유 시설 방사선방호 계측설비 점검용역 2027~2030년 95만 400유로 낙찰",
+      "title_en": "Germany's KTE Karlsruhe awards a EUR 950,400 contract to check radiation protection instrumentation at its facilities for 2027-2030",
+      "source": "TED",
+      "url": "https://ted.europa.eu/en/notice/815191-2026/pdf",
+      "published": "2026-11-24",
+      "countries": [
+        "DE"
+      ],
+      "summary_ko": "독일 카를스루에 원자력해체회사(KTE Kerntechnische Entsorgung Karlsruhe)가 자사 시설의 방사선방호 계측설비 점검용역을 낙찰했다. 기간은 2027~2030년, 체결 총액은 95만 400유로다.",
+      "summary_en": "KTE Kerntechnische Entsorgung Karlsruhe has awarded a contract to check radiation protection instrumentation across its facilities for the years 2027 to 2030, with a total value of EUR 950,400.",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-11-25-17",
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "de",
+      "title": "Lieferung von drei Berieselungsfahrzeugen für unter Tage",
+      "title_ko": "독일 연방최종처분공사(BGE), 콘라트 방폐물 처분장용 지하 살수차 3대 공급 입찰 — 접수 2027년 1월 11일",
+      "title_en": "Germany's BGE tenders three underground sprinkler vehicles for the Konrad repository",
+      "source": "TED",
+      "url": "https://ted.europa.eu/en/notice/815973-2026/pdf",
+      "published": "2026-11-24",
+      "countries": [
+        "DE"
+      ],
+      "summary_ko": "독일 연방최종처분공사(BGE)가 옛 콘라트 철광산에 건설 중인 방사성폐기물 처분장에 쓸 디젤 지하 살수차 3대 공급 입찰을 올렸다. 차량은 지하에 이미 있는 마이텍(Maytec) AR-L 55-1/KWS 롤오프 덤프시스템과 호환되는 양산 근접 베이스 차량과 살수장치를 얹은 운반함 2개 조립체로 구성된다. 접수 마감은 2027년 1월 11일 11시다.",
+      "summary_en": "Germany's Bundesgesellschaft fuer Endlagerung (BGE) has tendered the supply of three diesel underground sprinkler vehicles for the radioactive waste repository being built in the former Konrad iron ore mine. Each consists of a near-series carrier vehicle compatible with the Maytec AR-L 55-1/KWS roll-off tipper system already in use underground, plus a transport trough with the sprinkler unit. Bids are due by 11:00 on 11 January 2027.",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-11-25-18",
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "en",
+      "title": "Rooppur nuclear power plant begins second trial electricity supply to national grid",
+      "title_ko": "[새 사실] 방글라데시 루프푸르 1호기, 11월 23일 2차 시험송전 개시 — 11월 17일 1차 약 350MW에 이어 300~350MW를 10~24시간 공급",
+      "title_en": "[New detail] Bangladesh's Rooppur 1 starts a second trial power supply to the grid on 23 November",
+      "source": "The Business Standard",
+      "url": "https://www.tbsnews.net/economy/energy/rooppur-nuclear-power-plant-begins-second-trial-electricity-supply-national-grid",
+      "published": "2026-11-23",
+      "countries": [
+        "BD"
+      ],
+      "summary_ko": "루프푸르 1호기(VVER-1200)가 11월 23일 국가계통에 2차 시험송전을 시작했다. 11월 17일 1차로 약 350MW를 처음 보낸 데 이어, 사업 관계자는 이번에 300~350MW를 10~24시간 시험 공급한다고 밝혔다.",
+      "summary_en": "Rooppur Unit 1 (VVER-1200) began a second trial supply of electricity to Bangladesh's national grid on 23 November, after first feeding about 350 MW on 17 November. Project officials said around 300-350 MW would be supplied on a trial basis for 10 to 24 hours.",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-11-25-19",
+      "region": "domestic",
+      "category": "smr",
+      "importance": 2,
+      "language": "ko",
+      "title": "삼성중공업, '원자력 LNG선' 개발 속도전…노르웨이선급 합류",
+      "title_ko": "[새 사실] 삼성중공업–테서아토믹스–DNV–노르웨이과기대 4자 MOU — 원자력추진 LNG선 실증, 개념설계·안전성평가·승인계획 로드맵 우선 작성",
+      "title_en": "[New detail] Samsung Heavy Industries, Tesser Atomics, DNV and NTNU sign a four-party MOU on a nuclear-powered LNG carrier demonstration",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=110140",
+      "published": "2026-11-24",
+      "countries": [
+        "KR",
+        "NO",
+        "US"
+      ],
+      "summary_ko": "삼성중공업이 미 테서아토믹스, 노르웨이 선급 DNV, 노르웨이과학기술대(NTNU)와 원자력추진 LNG선 실증사업 4자 양해각서를 맺었다. 삼성중공업은 선박 설계와 원자로 시스템 통합, 건조 타당성·공법 검토를 맡고, 테서는 원자로·발전설비 개발과 안전성평가·인허가, DNV는 위험요소 식별과 안전성평가 체계·선급인증·기술검증 절차 수립, NTNU는 연구 컨소시엄 구성·재원 확보와 타당성조사·시뮬레이션·시험을 담당한다. 4자는 실증선의 개념설계·안전성평가·승인계획 로드맵을 먼저 작성한다. 11월 19일 삼성중공업–테서의 독점 전략협력 MOU에 더해진 것으로, 노형은 테서의 선박용 불화염냉각 고온로(FHR)다. 목표는 미–유럽 LNG 터미널을 잇는 대서양 항로 상업 운항이며, 설계는 이후 컨테이너선 등 다른 선종으로 확장할 수 있게 한다. NTNU 주도 SFI SAINT 연구사업(노르웨이연구위원회 지원)과 연계되고 개념설계는 같은 사업 내 다른 과제의 기준 모델로 쓰인다.",
+      "summary_en": "Samsung Heavy Industries has signed a four-party memorandum of understanding with Tesser Atomics (US), Norwegian class society DNV and the Norwegian University of Science and Technology on a nuclear-powered LNG carrier demonstration project. SHI leads ship design and reactor system integration and assesses build feasibility and construction methods; Tesser develops the reactor and power plant equipment and handles safety assessment and licensing; DNV identifies hazards and builds the safety assessment framework, class certification and technical verification procedures; NTNU organises the research consortium, secures funding and runs feasibility studies, simulation, modelling and testing. The four will first draft a roadmap covering concept design, safety assessment and the approval plan. It adds to the exclusive SHI-Tesser strategic MOU of 19 November; the reactor is Tesser's marine fluoride-salt-cooled high-temperature reactor. The target is commercial service on the Atlantic route linking US and European LNG terminals, with the design adaptable later to other ship types such as container ships. The project is linked to the NTNU-led SFI SAINT programme funded by the Research Council of Norway, and the concept design is to serve as a reference model for other projects in that programme.",
+      "sales_note": "선급(DNV)과 대학 연구컨소시엄이 초기 단계부터 들어온 구성은 '기술 실증'이 아니라 인증 경로 확보를 노린 포석이다. 로이드선급 규칙 승인(11월 20일)에 이어 DNV까지 움직여 해양 원자력의 선급 기준이 복수화되는 흐름이며, 국내 조선·원자력 연계 역무의 수출 레퍼런스가 쌓이는 경로로 봐야 한다.",
+      "sales_note_en": "Bringing a class society (DNV) and a university research consortium in from the earliest stage is a move to secure a certification pathway, not merely to demonstrate technology. Following Lloyd's Register's rule approval on 20 November, DNV's involvement means class standards for marine nuclear are multiplying - a route through which Korean shipbuilding-nuclear export references accumulate.",
+      "related": [
+        "https://www.world-nuclear-news.org/articles/samsung-tesser-to-collaborate-on-nuclear-powered-lng-carrier"
+      ]
+    },
+    {
+      "id": "2026-11-25-20",
+      "region": "domestic",
+      "category": "policy",
+      "importance": 2,
+      "language": "ko",
+      "title": "한전, 추가 정보 유출 의혹 일축…\"군·정부시설 정보는 공개자료\"",
+      "title_ko": "한전, 다크웹 '입찰자료 확보' 주장 일축 — \"해커와 협상 사실 없고 군·정부시설 정보는 나라장터 공개 제재정보와 일치\", 152만명 통지 완료",
+      "title_en": "KEPCO rejects dark-web claims of leaked bid data, saying the military and government facility information matches publicly listed debarment records",
+      "source": "머니투데이방송",
+      "url": "https://news.mtn.co.kr/article/2026112416291053649",
+      "published": "2026-11-24",
+      "countries": [
+        "KR"
+      ],
+      "summary_ko": "한국전력이 11월 24일 보도설명자료를 내고 다크웹 게시물을 근거로 한 추가 유출 의혹을 반박했다. 다크포럼스에 11월 19일 올라온 게시물에서 작성자는 한전 외부 이용자 개인정보 59만여 건과 공급업체·입찰 자료를 확보했다고 주장했고, 일부 보도는 해커가 군·정부시설 입찰 정보를 갖고 한전과 협상 중이라고 전했다. 한전은 해커와 협상한 사실은 없고 탈취 정보의 진위를 확인하기 위해 접촉했을 뿐이며, 군·정부시설 관련 정보는 조달청 나라장터에 공개된 부정당업자 제재정보와 일치함을 확인했다고 밝혔다. 한전은 앞서 11월 22일 사이버 침해로 152만 248건의 개인정보가 유출됐음을 인정했고, 대상자 152만명에게 이메일·문자 통지를 마쳤다고 했다.",
+      "summary_en": "KEPCO issued an explanatory statement on 24 November rebutting claims of a further leak based on a dark-web posting. A post on DarkForums dated 19 November claimed to hold personal data on some 590,000 external KEPCO users plus supplier and bid documents, and some reports said the hacker held military and government facility bid information and was negotiating with KEPCO. KEPCO said it never negotiated with the hacker and only made contact to verify the authenticity of the stolen data, and that the military and government facility information matches debarment records publicly listed on the national procurement portal. KEPCO had already acknowledged on 22 November that 1,520,248 personal records were leaked in the cyber intrusion, and said notification to the 1.52 million affected people by email and text is complete.",
+      "sales_note": "전자조달시스템(SRM) 경유 가능성이 거론된 만큼, 발주처 조달 플랫폼의 입찰정보 보안이 쟁점으로 올라왔다. 해외 발주처 자격심사에서 정보보안 요건이 강화되는 추세이고 한전·한수원의 사이버 사고 이력은 팀코리아 전체의 신뢰도 질의로 번질 수 있어, 대응 경과를 추적할 필요가 있다.",
+      "sales_note_en": "With KEPCO's e-procurement system (SRM) raised as a possible route, the security of bid information on owner procurement platforms has become an issue. Information security requirements in overseas prequalification are tightening, and KEPCO and KHNP cyber incidents can turn into credibility questions aimed at Team Korea as a whole, so the response warrants tracking.",
+      "related": [
+        "https://www.dailysecu.com/news/articleView.html?idxno=209634",
+        "https://zdnet.co.kr/view/?no=20261121133800"
+      ]
+    },
+    {
+      "id": "2026-11-25-21",
+      "region": "domestic",
+      "category": "policy",
+      "importance": 1,
+      "language": "ko",
+      "title": "한국수력원자력, 한전KDN·네이버클라우드와 AI 기술협력 강화",
+      "title_ko": "한수원, 한전KDN·네이버클라우드와 AI 업무협약 — 생성형 AI 플랫폼 'Hy-NuRI' 공개, AI 에이전트 기반 과제 발굴·인프라 지원",
+      "title_en": "KHNP signs an AI cooperation agreement with KEPCO KDN and Naver Cloud and unveils its Hy-NuRI generative AI platform",
+      "source": "더트래커",
+      "url": "https://thetracker.co.kr/View.aspx?No=4327073",
+      "published": "2026-11-24",
+      "countries": [
+        "KR"
+      ],
+      "summary_ko": "한국수력원자력이 11월 24일 경주 본사에서 한전KDN·네이버클라우드와 업무협약을 맺었다. 3자는 업무혁신 전략 수립, AI 에이전트 기반 AI 전환 과제 발굴·지원, AI 인프라·서비스 기술지원, AI 활용의 안전성·신뢰성 확보 기반 구축에 협력한다. 같은 자리에서 원전 운영 등 내부 업무데이터로 학습한 생성형 AI 플랫폼 'Hy-NuRI'를 공개하고 사내 공모에서 뽑은 고효과 활용사례 10건을 발표했다. 김회천 사장은 AI를 기반으로 한 원전 안전 운영 체계 마련에도 힘쓰겠다고 밝혔다.",
+      "summary_en": "KHNP signed a business cooperation agreement with KEPCO KDN and Naver Cloud at its Gyeongju headquarters on 24 November. The three will work together on business innovation strategy, identifying and supporting AI-agent-based transformation projects, technical support for AI infrastructure and services, and building a foundation for safe and reliable AI use. At the same event KHNP unveiled Hy-NuRI, a generative AI platform trained on internal work data including nuclear plant operations, and presented ten high-impact use cases selected from an internal contest. CEO Kim Hoe-cheon said the company would also work to build an AI-based nuclear safety operations framework.",
+      "sales_note": "",
+      "sales_note_en": ""
+    }
+  ]
+}

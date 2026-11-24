@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-25",
+  "run_started": "2026-11-25T08:04:21+09:00",
+  "run_finished": "2026-11-25T08:40:00+09:00",
+  "run_minutes": 36,
+  "articles": 21,
+  "by_region": { "overseas": 18, "domestic": 3 },
+  "by_importance": { "3": 2, "2": 8, "1": 11 },
+  "detection_lag_hours": { "median": 23.1, "max": 167.1, "n": 21 },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "ANS Nuclear Newswire (목록 페이지)",
+    "더구루 (RSS)",
+    "더트래커 (RSS, 리다이렉트 후)",
+    "TED 검색 API (발주처명 61개사 + FT~ 18개 용어)",
+    "UK Find a Tender (OCDS API, 6페이지 511건)",
+    "CanadaBuys 개방공고 CSV",
+    "정책브리핑 korea.kr (원전·SMR·원자력 3회 검색)",
+    "한국수력원자력 보도자료 게시판",
+    "한국전력 보도·설명자료 게시판 (목록)",
+    "Batiweb",
+    "The Business Standard"
+  ],
+  "sources_failed": [
+    { "name": "Nuclear Engineering International RSS", "reason": "리다이렉트 미처리 시 0바이트, -L 처리 후에도 최신 항목이 2026-06-16자로 고정 (6회차 이상 기여 없음)" },
+    { "name": "핀란드 Hilma 공개 API", "reason": "404 (11회차 연속)" },
+    { "name": "nrc.nl", "reason": "User-Agent 차단 — allowed_domains 질의가 HTTP 400으로 실패" },
+    { "name": "di.se", "reason": "User-Agent 차단 — allowed_domains 질의가 HTTP 400으로 실패" },
+    { "name": "lemonde.fr", "reason": "User-Agent 차단 — allowed_domains 질의가 HTTP 400으로 실패" },
+    { "name": "lesechos.fr", "reason": "User-Agent 차단 — allowed_domains 질의가 HTTP 400으로 실패" },
+    { "name": "hnonline.sk", "reason": "User-Agent 차단 — allowed_domains 질의가 HTTP 400으로 실패" },
+    { "name": "energynews.pro", "reason": "CrowdSec 브라우저 검증 페이지만 반환 — 본문 판독 불가" },
+    { "name": "한국전력 보도·설명자료 개별 글", "reason": "목록은 정상이나 개별 글 링크가 javascript 호출이라 고정 URL 없음 — 11-24자 보도설명 본문 확인 불가, 언론 보도로 대체" },
+    { "name": "reuters.com", "reason": "sources.yaml unreachable 등재 — 프랑스 EPR2 최종투자결정 11-24자 보도 1차 확인 불가, 수치 미수록" },
+    { "name": "SAM.gov · Etimad · SPPC · e-Zamówienia · Riigihanked · TenderNed · 체코 NEN · UK Contracts Finder", "reason": "JavaScript 포털 — 검색엔진 색인분이 전부 2026년 9월 이전 게재로 당일 감시 불가 (구조적 한계)" },
+    { "name": "jsonschema 모듈", "reason": "egress 제한으로 설치 불가 — 스키마 검증을 필수필드·enum·패턴·id 유일성·article_ids 참조 수동 대조로 대체" }
+  ],
+  "languages": { "en": 13, "ko": 4, "fr": 2, "de": 2 }
+}

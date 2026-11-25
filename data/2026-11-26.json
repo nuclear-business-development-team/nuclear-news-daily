@@ -1,0 +1,333 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T09:05:00+09:00",
+  "period": {
+    "from": "2026-11-25",
+    "to": "2026-11-26"
+  },
+  "overview_ko": "오늘 해외는 '설계사가 공급망을 먼저 닫는다'는 흐름이 두 건으로 확인됐다. 웨스팅하우스가 BWXT 캐나다에 AP1000 증기발생기·원자로내부구조물 실증품 제작 자격인증 계약을 발주해 북미 주기기 공급선을 복수화했고(폴란드·우크라이나·불가리아가 계약 단계), 프라마톰은 르크뢰조에 약 1억 유로를 들인 원자로내부구조물 전용 공장을 준공해 프랑스 EPR2 6기 물량을 국내로 묶었다. 중국 CGN은 타이산 3호기(화룡1호) 원자로섬 최초 콘크리트를 타설해 올해 네 번째 착공을 기록했다. 신규 시장에서는 가나가 2027년 1월~2028년 12월 원전 준비에 2억 달러를 배정하고 2028년 12월까지 설계·조달·시공·금융(EPCF) 계약 서명을 목표로 제시했으며, 100% 국유 운영 방침 아래 로사톰·CNNC가 선행 협정을 쥐고 있다. 연료·후행주기에서는 미 사바나리버 H캐니언이 사용후연료에서 최대 22.8톤 HALEU를 회수하는 준비에 들어갔고, ARPA-E가 딥아이솔레이션 범용 처분용기 상용화에 최대 2,000만 달러를 확정했다. 영업 관점: AP1000·EPR2 모두 주기기·토목이 설계사와 발주국 현지로 선점되는 구도가 뚜렷하므로 당사 접점은 FID 이후 열리는 기계·전기·계측제어·BOP 후속 발주로 좁히고, 가나처럼 EPCF로 발주하는 신규 시장에는 수출금융을 묶은 패키지가 아니면 진입이 어렵다.",
+  "overview_en": "Overseas today, two items confirmed the same pattern: reactor designers are closing their supply chains first. Westinghouse awarded BWXT Canada manufacturing qualification contracts for AP1000 steam generator and reactor internals demonstration pieces, diversifying North American heavy-component supply while units in Poland, Ukraine and Bulgaria sit at contract stage. Framatome inaugurated a roughly EUR100 million workshop at Le Creusot dedicated to reactor vessel internals, tying France's six-unit EPR2 volume to a domestic plant. China General Nuclear poured first concrete for the nuclear island of Taishan 3 (Hualong One), its fourth construction start this year. In newcomer markets, Ghana allocated USD200 million from January 2027 to December 2028 to prepare its first plant and set December 2028 as the target for signing an engineering, procurement, construction and financing (EPCF) contract, under a 100% state ownership policy, with Rosatom and CNNC already holding prior agreements. On the fuel and back-end side, Savannah River's H Canyon began preparations to recover up to 22.8 tonnes of HALEU from used fuel, and ARPA-E finalised up to USD20 million for commercialising Deep Isolation's Universal Canister System. Sales angle: with heavy components and civil works on both AP1000 and EPR2 being locked up by the designer and the host country, our realistic entry point narrows to the mechanical, electrical, I&C and balance-of-plant packages that open after FID, and in EPCF markets such as Ghana an offer without bundled export finance will not get in.",
+  "domestic_overview_ko": "체코 두코바니에서 현지화율 '산정 기준'이 쟁점으로 떠올랐다. 한수원은 체코 기업 참여율 산정 방법론을 마련하는 연구를 발주하면서 60% 목표는 유지한다고 ČTK에 밝혔고, 한국 측이 계약을 주지 않고 60%를 보고할 방법을 찾는다는 아크투알네 보도는 사실이 아니라고 반박했다. 카렐 하블리체크 부총리 겸 산업장관은 총 계약금액 기준 비율만 인정하겠다고 밝혔는데, 그 기준이면 체코 기업 수주액이 지난해 가격 기준 2,000억 코루나를 넘어야 한다(2기 총사업비 4,070억 코루나). 국내에서는 한국전력이 152만 248건 개인정보 유출의 2차 피해를 막기 위한 '3단계 선제적 보호대책'을 가동했다. 영업 관점: 현지화 약속은 수주 이후 산정식 다툼으로 번지는 전형적 리스크이므로, 당사 해외 제안서에서는 산정식·검증주체·기준시점을 처음부터 계약문서에 명시하는 설계가 필요하다.",
+  "domestic_overview_en": "At Dukovany, the method of calculating the localisation rate has become the live issue. KHNP told CTK it has commissioned a study to establish a methodology for measuring the Czech supplier share while keeping its 60% target, and rejected as untrue an Aktualne.cz report that the Korean side was looking for a way to report 60% without awarding that share of contracts. Deputy Prime Minister and Industry Minister Karel Havlicek said only the share of total contract value will be recognised, which would require Czech orders above CZK 200 billion at last year's prices against a CZK 407 billion cost for the two units. Domestically, KEPCO activated a three-stage pre-emptive protection plan against secondary harm from the leak of 1,520,248 personal data records. Sales angle: localisation pledges typically turn into post-award arguments over the formula, so our overseas proposals should fix the calculation method, the verifying party and the reference date in the contract documents from the start.",
+  "countries_pulse": [
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "두코바니 사업 자체는 2029년 착공·2036년 완공 일정을 유지하나, 정부가 현지화율을 '총 계약금액 기준'으로만 인정하겠다고 공개 선언하며 공급사 배분 압박을 높였다.",
+      "signal_en": "The Dukovany schedule holds at 2029 construction start and 2036 completion, but the government has publicly insisted the localisation rate be measured only as a share of total contract value, raising pressure on supplier allocation.",
+      "article_ids": [
+        "2026-11-26-10"
+      ]
+    },
+    {
+      "country": "CN",
+      "name_ko": "중국",
+      "name_en": "China",
+      "stance": "expanding",
+      "signal": "타이산 3호기 최초 콘크리트로 올해 네 번째 착공 — 2025년 4월 승인 10기의 집행이 계획대로 이어지고 있다.",
+      "signal_en": "First concrete at Taishan 3 marks the fourth construction start this year, with the ten reactors approved in April 2025 being executed on schedule.",
+      "article_ids": [
+        "2026-11-26-01"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "AP1000 주기기 공급선 복수화(BWXT 캐나다 자격인증)와 함께, HALEU 회수·사용후연료 처분용기 상용화에 정부 자금이 연달아 투입됐다.",
+      "signal_en": "Alongside diversifying AP1000 heavy-component supply through BWXT Canada qualification, federal money went into HALEU recovery and commercialising a used-fuel disposal canister.",
+      "article_ids": [
+        "2026-11-26-02",
+        "2026-11-26-06",
+        "2026-11-26-07",
+        "2026-11-26-09"
+      ]
+    },
+    {
+      "country": "CA",
+      "name_ko": "캐나다",
+      "name_en": "Canada",
+      "stance": "expanding",
+      "signal": "BWXT 캐나다가 웨스팅하우스 AP1000 증기발생기·원자로내부구조물 자격인증 대상이 되며 캐나다 주기기 공급망이 서방 대형원전 수출 물량에 편입되기 시작했다.",
+      "signal_en": "With BWXT Canada entering Westinghouse's AP1000 qualification for steam generators and reactor internals, the Canadian heavy-component base is being folded into Western large-reactor export volume.",
+      "article_ids": [
+        "2026-11-26-02"
+      ]
+    },
+    {
+      "country": "FR",
+      "name_ko": "프랑스",
+      "name_en": "France",
+      "stance": "expanding",
+      "signal": "12월 EPR2 최종투자결정을 앞두고 프라마톰이 르크뢰조 원자로내부구조물 공장을 준공 — 토목에 이어 주기기까지 국내 공급망으로 닫히는 구도.",
+      "signal_en": "Ahead of the December EPR2 final investment decision, Framatome inaugurated its Le Creusot reactor internals workshop, extending the pattern of closing the supply chain domestically from civil works to heavy components.",
+      "article_ids": [
+        "2026-11-26-04"
+      ]
+    },
+    {
+      "country": "GH",
+      "name_ko": "가나",
+      "name_en": "Ghana",
+      "stance": "expanding",
+      "signal": "2027년 예산에서 원전 준비비 2억 달러를 처음 배정하고 2028년 12월 EPCF 계약 서명을 목표로 제시 — 100% 국유 운영 방침 확정.",
+      "signal_en": "The 2027 Budget allocates USD200 million for nuclear preparation for the first time and sets December 2028 for signing an EPCF contract, with 100% state ownership confirmed.",
+      "article_ids": [
+        "2026-11-26-03"
+      ]
+    },
+    {
+      "country": "RO",
+      "name_ko": "루마니아",
+      "name_en": "Romania",
+      "stance": "expanding",
+      "signal": "납냉각 고속로 ALFRED 실증용 납 850톤 조달이 낙찰되며 EU 자금 기반 실증 단계 집행이 가시화됐다.",
+      "signal_en": "The award of 850 tonnes of lead for the ALFRED lead-cooled fast reactor demonstration shows EU-funded demonstration work moving into execution.",
+      "article_ids": [
+        "2026-11-26-05"
+      ]
+    },
+    {
+      "country": "RU",
+      "name_ko": "러시아",
+      "name_en": "Russia",
+      "stance": "expanding",
+      "signal": "기조 유지 — 레닌그라드 II-3호기 증기발생기 4기 현장 인도, MBIR 고속연구로 증기발생기 2기 제작 완료로 국내 신규건설·연구로 공정이 계획대로 진행 중.",
+      "signal_en": "Steady course: four steam generators delivered for Leningrad II-3 and two completed for the MBIR fast research reactor show domestic new build and research reactor work proceeding to plan.",
+      "article_ids": [
+        "2026-11-26-08"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-26-01",
+      "region": "overseas",
+      "category": "large",
+      "importance": 3,
+      "language": "en",
+      "title": "Construction of third unit at Taishan begins",
+      "title_ko": "중국 CGN, 타이산 3호기 원자로섬 최초 콘크리트 타설 — 올해 네 번째 착공 호기",
+      "title_en": "Construction of third unit at Taishan begins",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/construction-of-third-unit-at-taishan-begins",
+      "published": "2026-11-25",
+      "countries": [
+        "CN"
+      ],
+      "summary_ko": "중국광핵집단(CGN)이 광둥성 타이산 원전 3호기 원자로섬의 최초 콘크리트를 타설해 토건 공사에 착수했다고 11월 25일 밝혔다. 타이산 3·4호기는 화룡1호(HPR1000) 2기로 2단계 사업이며, 2025년 4월 27일 리창 총리 주재 국무원이 승인한 신규 10기에 포함됐다. CGN이 올해 착공한 네 번째 호기다.",
+      "summary_en": "China General Nuclear poured first concrete for the nuclear island of Taishan unit 3 on 25 November, starting civil construction. Units 3 and 4 are two HPR1000 (Hualong One) reactors forming phase II of the six-unit site, and were among the ten reactors approved by the State Council on 27 April 2025. It is CGN's fourth construction start this year.",
+      "sales_note": "중국이 연 4기 착공 속도를 유지하면서 화룡1호의 연속 건설 실적이 쌓이고 있다. 사우디·튀르키예 등 가격 경쟁이 핵심인 시장에서 CNNC·CGN의 공기·단가 레퍼런스가 계속 강화되는 흐름으로, 당사 제안서의 공기 신뢰성 논거를 실적 기반으로 더 구체화할 필요가 있다.",
+      "sales_note_en": "China is sustaining four construction starts a year, steadily building a continuous-build record for the Hualong One. In price-driven markets such as Saudi Arabia and Turkey, CNNC/CGN schedule and cost references keep strengthening, so our schedule-credibility argument needs to rest on comparably concrete delivery data."
+    },
+    {
+      "id": "2026-11-26-02",
+      "region": "overseas",
+      "category": "large",
+      "importance": 3,
+      "language": "en",
+      "title": "Westinghouse to qualify BWXT for AP1000 component manufacture",
+      "title_ko": "웨스팅하우스, BWXT 캐나다에 AP1000 주기기 제작 자격인증 계약 발주 — 증기발생기·원자로내부구조물 실증품 제작",
+      "title_en": "Westinghouse awards BWXT Canada AP1000 manufacturing qualification contracts",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/bwxt-awarded-ap1000-manufacturing-qualification-contracts",
+      "published": "2026-11-25",
+      "countries": [
+        "CA",
+        "US"
+      ],
+      "summary_ko": "웨스팅하우스가 BWXT 캐나다를 AP1000 주기기 제작 공급사로 인증하기 위한 제작 자격인증 계약을 발주했다고 11월 25일 발표했다. 온타리오주 케임브리지 공장에서 증기발생기 실증품을, 펜실베이니아주 요크 공장에서 원자로내부구조물을 제작한다. BWXT는 최근 케임브리지 공장 확장에 8,000만 캐나다달러(5,600만 달러)를 투입했으며, 계약금액과 일정은 공개되지 않았다. AP1000은 미국·중국에서 6기가 가동 중이고 중국에서 14기가 건설 중이며, 폴란드·우크라이나·불가리아에서 계약 단계가 진행 중이다.",
+      "summary_en": "Westinghouse announced on 25 November that it has awarded BWXT Canada manufacturing qualification contracts to fabricate demonstration pieces for AP1000 key components: steam generators at BWXT's Cambridge, Ontario plant and reactor vessel internals at its York, Pennsylvania plant. BWXT recently completed a CAD80 million (USD56 million) expansion at Cambridge. Contract value and timeline were not disclosed. Six AP1000s operate in the USA and China, 14 are under construction in China, and units in Poland, Ukraine and Bulgaria are at various contract stages.",
+      "sales_note": "웨스팅하우스가 AP1000 주기기 공급선을 북미 쪽으로 복수화하는 움직임이다. 폴란드·불가리아 등 당사가 보는 유럽 신규건설의 증기발생기·원자로내부구조물 물량이 설계사 주도로 사전 배분될 수 있다는 뜻이므로, 국내 주기기사의 AP1000 공급사 지위 확보 시점을 앞당겨 볼 필요가 있다.",
+      "sales_note_en": "Westinghouse is diversifying AP1000 heavy-component supply toward North America. Steam generator and reactor internals volumes for European new build we are tracking in Poland and Bulgaria may be pre-allocated by the designer, so Korean heavy-component suppliers should move earlier to secure AP1000 qualified-supplier status."
+    },
+    {
+      "id": "2026-11-26-03",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 3,
+      "language": "en",
+      "title": "Ghana invests heavily in nuclear",
+      "title_ko": "가나, 2027~2028년 원전 준비에 2억 달러 투입 — 2028년 12월 EPCF 계약 체결 목표, 100% 국유 운영",
+      "title_en": "Ghana budgets USD200 million to prepare first nuclear plant, targets EPCF contract by December 2028",
+      "source": "Nuclear Engineering International",
+      "url": "https://www.neimagazine.com/news/ghana-invests-heavily-in-nuclear/",
+      "published": "2026-11-25",
+      "countries": [
+        "GH"
+      ],
+      "summary_ko": "가나 재무장관 카시엘 아토 포슨이 2027년 예산에서 2027년 1월~2028년 12월 첫 원전 준비에 2억 달러를 투입한다고 밝혔다. 부지조사·노형 선정·환경평가·인허가가 대상이며, 100억 달러 '신경제' 구상 아래 에너지 부문 22억 달러 배정의 일부다. 준비 단계의 목표는 2028년 12월까지 설계·조달·시공·금융(EPCF) 계약 서명이다. 발전소는 민자(IPP)가 아닌 100% 국유로 하고 파트너는 기술·엔지니어링·금융을 공급한다. 우선 부지는 서부주 느수반, 예비 부지는 중부주 오보탄이며 과학인력 2,000명 이상을 양성한다.",
+      "summary_en": "Ghana's Finance Minister Cassiel Ato Forson said in the 2027 Budget that the country will spend USD200 million from January 2027 to December 2028 preparing its first nuclear plant, covering site studies, technology selection, environmental assessment and licensing. It sits within a USD2.2 billion energy allocation under a USD10 billion 'New Economy' agenda. The preparatory phase targets signature of an engineering, procurement, construction and financing (EPCF) contract by December 2028. The plant will be 100% state-owned rather than an IPP, with partners supplying technology, engineering and financing. Nsuban in the Western Region is the preferred site, Obotan in the Central Region the backup, and more than 2,000 scientists will be trained.",
+      "sales_note": "발주 방식이 EPCF(금융 포함)로 명시된 점이 핵심이다. 로사톰(2,000MWe 협의)·CNNC(HPR1000 1,200MWe)가 선행 협정을 보유한 상태에서 한국도 과거 관심을 표명한 시장이므로, 2027년 노형 선정 전 수출금융(수출입은행·무역보험) 패키지를 묶은 접근이 아니면 진입 창구가 닫힐 수 있다.",
+      "sales_note_en": "The decisive feature is that the award is framed as EPCF, with financing bundled in. With Rosatom (2,000 MWe talks) and CNNC (1,200 MWe HPR1000) already holding prior agreements, and Korea among the parties that previously expressed interest, an approach that pairs the technology offer with Korean export finance is needed before technology selection in 2027, or the window closes."
+    },
+    {
+      "id": "2026-11-26-04",
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "language": "en",
+      "title": "Framatome enhances its capacity for reactor internals",
+      "title_ko": "프라마톰, 르크뢰조에 원자로내부구조물 전용 공장 준공 — 약 1억 유로 투자, EPR2 6기 공급용",
+      "title_en": "Framatome inaugurates EUR100 million reactor internals workshop at Le Creusot",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/framatome-enhances-its-capacity-for-reactor-internals",
+      "published": "2026-11-25",
+      "countries": [
+        "FR"
+      ],
+      "summary_ko": "프라마톰이 11월 24일 프랑스 르크뢰조 공장 안에 원자로압력용기 내부구조물 제작·조립 전용 공장을 준공했다. 투자액은 약 1억 유로(1억 1,000만 달러), 산업용 면적 약 1만 5,000㎡로 대형 기계가공·용접·조립 설비를 갖췄고 약 50명을 신규 채용했다. 내부구조물 1세트 조립에 약 7,600개 부품이 들어간다. 프랑스 EPR2 6기 건설 계획에 공급하며, 첫 생산은 2026년 7월 시작됐고 첫 인도는 2032년 예정이다.",
+      "summary_en": "Framatome inaugurated a dedicated workshop for manufacturing and assembling reactor pressure vessel internals at its Le Creusot site in France on 24 November. The investment was close to EUR100 million (USD110 million) across about 15,000 square metres fitted with large-scale machining, welding and assembly equipment, creating around 50 jobs. Each set of internals involves assembling nearly 7,600 pieces. The workshop supplies France's six-unit EPR2 programme; first production began in July 2026 and initial deliveries are scheduled from 2032.",
+      "sales_note": "EDF가 12월 EPR2 최종투자결정을 앞두고 토목에 이어 원자로 주기기까지 프랑스 국내 공급망으로 닫는 흐름이 확인된다. 프랑스 신규건설에서 당사 접점은 주기기·토목이 아니라 FID 이후 열릴 기계·전기·계측제어·BOP 후속 발주로 한정해 보는 것이 타당하다.",
+      "sales_note_en": "Ahead of EDF's December final investment decision on EPR2, the pattern of closing the supply chain inside France now extends from civil works to reactor heavy components. Our realistic entry point in French new build is therefore not heavy components or civil works but the mechanical, electrical, I&C and balance-of-plant packages that open after FID."
+    },
+    {
+      "id": "2026-11-26-05",
+      "region": "overseas",
+      "category": "smr",
+      "importance": 2,
+      "language": "ro",
+      "title": "Plumb 850 tone — proiectul 4ALFRED",
+      "title_ko": "루마니아 RATEN, 납냉각 고속로 ALFRED 실증용 납 850톤 조달 낙찰 — 추정금액 931만 6,000레이",
+      "title_en": "Romania's RATEN awards 850-tonne lead supply for the ALFRED lead-cooled fast reactor programme",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/818367-2026/pdf",
+      "published": "2026-11-25",
+      "countries": [
+        "RO"
+      ],
+      "summary_ko": "루마니아 원자력에너지기술공사(RATEN)가 납 850톤 공급 낙찰공고를 11월 25일 게재했다. 추정금액은 931만 6,000레이다. 납냉각 고속로(LFR) 기술 실증 사업 '4ALFRED'(2021~2027 스마트성장·디지털화·금융수단 프로그램)의 HELENA-2·ELF·HANDS-ON·Meltin'Pot 실험설비에서 재료·부품 거동 특성평가, 냉각·계측·안전계통 시험, 수치모델 검증에 쓰인다. 공고는 이 실험이 ALFRED 실증로의 인허가 절차를 뒷받침하기 위한 것이라고 밝혔다.",
+      "summary_en": "Romania's RATEN (Regia Autonoma Tehnologii pentru Energia Nucleara) published a contract award notice on 25 November for the supply of 850 tonnes of lead, with an estimated value of RON 9,316,000. The lead is for the 4ALFRED project under Romania's 2021-2027 Smart Growth, Digitalisation and Financial Instruments Programme, and will be used in the HELENA-2, ELF, HANDS-ON and Meltin'Pot facilities for materials and component behaviour testing, trials of LFR-specific cooling, measurement and safety systems, and validation of numerical models. The notice states the work supports the licensing process for the ALFRED demonstration reactor.",
+      "sales_note": "유럽 납냉각로 진영이 실증 단계 조달에 실제 예산을 집행하기 시작했다는 신호다. 스웨덴 블뤼칼라의 HALEU 농축계약(11월 17일)과 묶어 보면 LFR 계열의 공급망 발주가 2027년 전후로 구체화될 가능성이 있어, 선진로 기자재 접근 대상 목록에 ALFRED를 추가해 둘 필요가 있다.",
+      "sales_note_en": "This signals that Europe's lead-cooled fast reactor camp is now spending real budget on demonstration-stage procurement. Read together with Blykalla's HALEU enrichment contract of 17 November, LFR supply-chain awards may take shape around 2027, so ALFRED is worth adding to the advanced-reactor component target list."
+    },
+    {
+      "id": "2026-11-26-06",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 2,
+      "language": "en",
+      "title": "SRS prepares for HALEU production",
+      "title_ko": "미 사바나리버 H캐니언, HALEU 생산 준비 착수 — 보유 사용후연료에서 최대 22.8톤 회수 전망",
+      "title_en": "Savannah River's H Canyon prepares to produce HALEU, with up to 22.8 tonnes recoverable",
+      "source": "Nuclear Engineering International",
+      "url": "https://www.neimagazine.com/news/srs-prepares-for-haleu-production/",
+      "published": "2026-11-25",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "미 에너지부 사바나리버 사이트(SRS)의 H캐니언 시설이 차세대 원자로용 고순도 저농축우라늄(HALEU) 생산을 위한 화학·기계적 준비에 들어갔다. 회수 우라늄을 천연우라늄과 혼합해 상업 파트너에게 공급하는 FUEL 임무의 일부다. 보유 사용후연료에서 최대 22.8톤의 HALEU를 얻을 수 있고 L베이슨 저장 사용후연료의 약 80%에서 우라늄을 회수할 계획이다. 2011년경부터 가동을 멈췄던 농축우라늄 저장탱크를 재가동했으며, 2022년 이전 H캐니언은 회수 우라늄으로 상업로용 저농축우라늄 301톤을 생산한 실적이 있다.",
+      "summary_en": "H Canyon at the US Department of Energy's Savannah River Site has begun chemical and mechanical preparations to produce high-assay low-enriched uranium (HALEU) for advanced reactors. Recovered uranium will be blended with natural uranium for commercial partners under the FUEL mission. Existing used fuel at the site could yield up to 22.8 tonnes of HALEU, and uranium is to be recovered from about 80% of the used fuel stored in L Basin. An enriched uranium storage tank idle since around 2011 has been returned to service. Before 2022, H Canyon's recovered uranium produced 301 tonnes of low-enriched uranium for commercial power reactors.",
+      "sales_note": "미국이 농축 신증설이 아닌 사용후연료 회수 경로로 HALEU 공급을 보강하는 방향이다. HALEU 수급을 전제로 한 선진로 사업의 일정 리스크가 다소 완화되는 쪽이므로, SMR·선진로 기자재 제안 시 연료 조달 리스크 평가를 미국 정부 회수 물량까지 포함해 갱신할 필요가 있다.",
+      "sales_note_en": "The USA is reinforcing HALEU supply through used-fuel recovery rather than new enrichment capacity alone. That modestly eases schedule risk for advanced reactor projects premised on HALEU availability, so fuel-supply risk assessments in our SMR and advanced-reactor proposals should be updated to include US government recovered material."
+    },
+    {
+      "id": "2026-11-26-07",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 2,
+      "language": "en",
+      "title": "DOE funding drives Deep Isolation pilot",
+      "title_ko": "미 ARPA-E, 딥아이솔레이션 범용 처분용기(UCS) 상용화에 최대 2,000만 달러 — 총사업비 4,747만 달러, 3년",
+      "title_en": "ARPA-E commits up to USD20 million to Deep Isolation's Universal Canister System pilot",
+      "source": "Nuclear Engineering International",
+      "url": "https://www.neimagazine.com/news/doe-funding-drives-deep-isolation-pilot/",
+      "published": "2026-11-25",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "미 에너지부 고등연구계획국-에너지(ARPA-E)가 SCALEUP Ready 사업으로 딥아이솔레이션 뉴클리어 자회사와 3년 협약을 확정했다. 사용후핵연료·고준위폐기물의 저장·수송·처분을 겸하는 범용 처분용기(UCS)를 검증 시제품에서 상용 수준으로 끌어올리는 것이 목표다. 총사업비 4,747만 달러 중 ARPA-E가 최대 2,000만 달러(약 42%)를 기술 성과지표·중간관문 연계 실비정산으로 지원하고, 나머지 2,747만 달러는 회사가 부담한다. 기간은 2026년 11월 19일~2029년 11월 18일이며, 비방사성 상용 실증은 텍사스주 캐머런에서 수행하고 웨스팅하우스 eVinci 마이크로원자로 사용후연료의 저장·수송 적용도 함께 검토한다.",
+      "summary_en": "The US Department of Energy's ARPA-E has finalised a three-year cooperative agreement with a Deep Isolation Nuclear subsidiary under its SCALEUP Ready program to take the Universal Canister System, which stores, transports and disposes of used fuel and high-level waste, from validated prototype to commercial readiness. ARPA-E provides up to USD20 million, about 42% of the USD47.47 million approved project cost, reimbursed against technical milestones and go/no-go gates, with Deep Isolation covering USD27.47 million. The term runs 19 November 2026 to 18 November 2029, with a non-radioactive commercial pilot at Cameron, Texas, and work with Westinghouse on storage and transport of used fuel from its eVinci microreactor.",
+      "sales_note": "마이크로원자로의 사용후연료 처리 해법이 정부 자금으로 상용화 단계에 들어갔다. 발주처가 SMR·마이크로원자로 제안서에서 후행 핵주기 대응을 요구하는 추세가 강해질 수 있으므로, 당사 제안 구성에 사용후연료 저장·수송 솔루션 파트너를 포함할지 검토할 시점이다.",
+      "sales_note_en": "A back-end solution for microreactor used fuel has entered commercialisation with government funding. Buyers are likely to press harder on back-end fuel cycle answers in SMR and microreactor proposals, so it is worth deciding whether our offers should include a used-fuel storage and transport partner."
+    },
+    {
+      "id": "2026-11-26-08",
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "en",
+      "title": "Steam generators progress for Leningrad II and MBIR",
+      "title_ko": "러시아 레닌그라드 II-3호기 증기발생기 4기 현장 인도, MBIR 고속연구로용 2기 제작 완료",
+      "title_en": "Four steam generators delivered for Leningrad II-3; two completed for the MBIR fast research reactor",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/steam-generator-progress-for-lenningrad-ii-and-mbir",
+      "published": "2026-11-25",
+      "countries": [
+        "RU"
+      ],
+      "summary_ko": "로사톰이 레닌그라드 원전 신규 단계 3호기용 증기발생기 4기를 현장에 인도해 설치 전 검사에 들어갔다고 밝혔다. 각 기는 길이 13m·직경 4.2m 원통형으로 4기 합계 1,300톤을 넘고, 1기당 직경 16mm 전열관 약 1만 1,000개와 전열면적 6,000㎡를 갖는다. 설치는 2027년, 원자로용기 설치는 2027년 3분기 예정이며 최초 콘크리트는 2024년 3월 타설됐다. 별도로 지오포돌스크가 디미트로프그라드 다목적 고속연구로 MBIR(150MWt·MOX연료)용 역류형 증기발생기 2기 제작을 마쳐 2호기를 현장으로 발송했고, MBIR 가동은 2027년 예정이다.",
+      "summary_en": "Rosatom said four steam generators have been delivered to the site for the third unit of the new phase at the Leningrad plant, for inspection ahead of installation in 2027. Each is cylindrical, 13 m long and 4.2 m in diameter, together weighing over 1,300 tonnes, with about 11,000 heat-exchange tubes of 16 mm diameter and 6,000 square metres of heating surface each. Reactor vessel installation is set for Q3 2027; first concrete was poured in March 2024. Separately, ZiO-Podolsk has completed two reverse-flow steam generators for the MBIR multipurpose fast research reactor (150 MWt, MOX fuel) at Dimitrovgrad, shipping the second to site, with MBIR operation scheduled for 2027.",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-11-26-09",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 1,
+      "language": "en",
+      "title": "INL chooses Guidedwave for fuel canister monitoring demo at SONGS",
+      "title_ko": "미 아이다호국립연구소, 산오노프레 사용후연료 용기 상시감시 실증에 가이디드웨이브 음향방출 기술 선정",
+      "title_en": "INL selects Guidedwave's acoustic emission monitoring for a used-fuel canister demo at SONGS",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-11-24/article-8615/inl-chooses-guidedwave-for-fuel-canister-monitoring-demo-at-songs/",
+      "published": "2026-11-24",
+      "countries": [
+        "US"
+      ],
+      "summary_ko": "아이다호국립연구소(INL) 사용후연료연구센터가 사용후연료 저장용기의 연속·자동 감시 실증 기술로 가이디드웨이브의 음향방출(AE) 감시 기술을 선정했다. 실증은 2027년 2월부터 1년간 캘리포니아 산오노프레(SONGS)에서 전기히터를 넣은 모의 홀텍 UMAX 용기(방폐물 미장입)로 수행한다. 중소기업혁신연구(SBIR)·원자력대학프로그램(NEUP) 수상 기업 가운데 선정됐고 계약금액은 공개되지 않았다.",
+      "summary_en": "Idaho National Laboratory's Center for Used Fuel Research has selected Guidedwave's acoustic emission monitoring technology for a demonstration of continuous, automated monitoring of used-fuel storage canisters. The one-year demonstration begins in February 2027 at the San Onofre Nuclear Generating Station in California, using a simulated Holtec UMAX canister fitted with electric heaters and containing no waste. Guidedwave was chosen from among SBIR and NEUP award winners; contract value was not disclosed.",
+      "sales_note": "",
+      "sales_note_en": ""
+    },
+    {
+      "id": "2026-11-26-10",
+      "region": "domestic",
+      "category": "large",
+      "importance": 3,
+      "language": "ko",
+      "title": "체코 언론, 한수원 두코바니 현지화율 정조준…한수원 \"60% 목표 유지\"",
+      "title_ko": "체코 언론, 한수원 두코바니 현지화율 정조준…한수원 \"60% 목표 유지\"·산정기준 연구 발주",
+      "title_en": "KHNP commissions a study to define how the Czech supplier share at Dukovany is measured, reaffirming the 60% target",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=110166",
+      "published": "2026-11-25",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "summary_ko": "한수원이 두코바니 신규원전 사업의 체코 기업 참여율 산정 방법론을 마련하기 위한 연구를 발주하고 기존 60% 목표는 유지한다고 체코 통신사 ČTK에 밝혔다(11월 24일). 연구는 유럽의 비교 가능한 사업을 분석해 국제 관행에 맞는 객관적 산정법을 만드는 것이 목표다. 한수원 대변인 보이테흐 메라비는 한국 매체 보도를 인용해 '한국 측이 계약을 주지 않고 60%를 보고할 방법을 찾는다'고 한 아크투알네 보도를 사실이 아니라고 반박했다. 카렐 하블리체크 부총리 겸 산업장관은 체코 참여 축소는 수용 불가이며 총 계약금액 기준 비율만 인정한다고 밝혔고, 그 기준이면 체코 기업 수주액이 지난해 가격 기준 2,000억 코루나를 넘어야 한다. 2기 총사업비는 지난해 가격 기준 4,070억 코루나이며 1호기 착공 2029년·완공 2036년 일정이다.",
+      "summary_en": "KHNP told the Czech news agency ČTK on 24 November that it has commissioned a study to establish a methodology for calculating the Czech industry share in the Dukovany new build, and that its 60% target is unchanged. The study is to analyse comparable European projects to produce an objective, internationally consistent calculation method. KHNP spokesperson Vojtech Meravy rejected as untrue an Aktualne.cz report, citing Korean media, that Korean firms were seeking a way to report 60% without awarding that share of contracts. Deputy Prime Minister and Industry Minister Karel Havlicek said reducing Czech participation is unacceptable and that only the share of total contract value counts, which would require Czech orders above CZK 200 billion at last year's prices. The two units are costed at CZK 407 billion at last year's prices, with construction start in 2029 and completion in 2036.",
+      "sales_note": "현지화율 '산정 기준'이 쟁점으로 올라선 것은 수주 이후 단계의 전형적 리스크다. 발주국이 총 계약금액 기준만 인정하겠다고 공개 선언하면 간접효과·기술이전을 분모에 넣는 방식이 봉쇄되므로, 당사가 참여하는 해외 사업 제안서에서도 현지화 약속은 산정식·검증주체·기준시점을 처음부터 계약문서에 명시하는 방식으로 설계해야 한다. 체코 시공사 재선정(2027년 7월 목표)과 맞물려 체코 현지 업체 몫이 늘어나는 방향의 압력이 커진 점도 패키지 구성 시 고려할 변수다.",
+      "sales_note_en": "A dispute over how the localisation rate is measured is a classic post-award risk. Once the host country publicly insists that only the share of total contract value counts, counting indirect effects or technology transfer in the denominator is foreclosed. Localisation commitments in our own overseas bids should therefore fix the formula, the verifying party and the reference date in the contract documents from the outset. With the Czech builder re-selection targeted for July 2027, pressure to enlarge the local share is also a variable for package design.",
+      "related": [
+        "https://oenergetice.cz/jaderne-elektrarny/khnp-si-necha-spocitat-podil-ceskych-firem-na-dukovanech-slibuje-60-procent",
+        "https://www.g-enews.com/article/Global-Biz/2026/11/2026112506552941102bd56fbc3c_1"
+      ]
+    },
+    {
+      "id": "2026-11-26-11",
+      "region": "domestic",
+      "category": "policy",
+      "importance": 1,
+      "language": "ko",
+      "title": "한전, '고객정보 유출 2차피해, 끝까지 막는다' 안내부터 보상까지…'3단계 선제적 보호대책' 즉시 가동",
+      "title_ko": "한전, 개인정보 유출 2차피해 '3단계 선제적 보호대책' 가동 — 안내·예방부터 보상까지",
+      "title_en": "KEPCO activates a three-stage protection plan against secondary harm from its customer data breach",
+      "source": "한국전력",
+      "url": "https://www.kepco.co.kr/home/media/newsroom/pr/boardList.do",
+      "published": "2026-11-25",
+      "countries": [
+        "KR"
+      ],
+      "summary_ko": "한국전력이 11월 25일 고객정보 유출에 따른 2차 피해를 막기 위한 '3단계 선제적 보호대책'을 즉시 가동한다고 밝혔다. 안내·예방 조치부터 피해 발생 시 보상까지를 단계로 묶은 대책이다. 앞서 한전은 한전ON·전자조달시스템(SRM)에서 개인정보 152만 248건이 유출된 사실을 확인하고 대상자 통지를 마쳤으며, 다크웹에 입찰자료가 포함됐다는 주장은 사실과 다르다고 설명한 바 있다.",
+      "summary_en": "KEPCO said on 25 November that it is immediately activating a three-stage pre-emptive protection plan against secondary harm from its customer data breach, running from notification and prevention measures through to compensation where damage occurs. KEPCO had previously confirmed the leak of 1,520,248 personal data records from its KEPCO:ON and electronic procurement (SRM) systems, completed notification of those affected, and stated that claims that bidding documents were among the leaked data were inaccurate.",
+      "sales_note": "전자조달시스템이 유출 경로에 포함된 만큼 해외 발주처·파트너가 입찰정보 보안을 실사 항목으로 제기할 가능성이 있다. 진행 중인 해외 입찰에서 정보보안 질의가 들어올 경우에 대비한 설명 자료를 미리 준비해 둘 필요가 있다.",
+      "sales_note_en": "Because the procurement system was among the affected channels, overseas buyers and partners may raise bid-information security in due diligence. It is worth preparing explanatory material in advance in case information-security questions arise in live overseas tenders."
+    }
+  ]
+}

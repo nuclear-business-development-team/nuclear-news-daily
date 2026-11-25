@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-26",
+  "run_started": "2026-11-26T08:04:29+09:00",
+  "run_finished": "2026-11-26T09:30:00+09:00",
+  "run_minutes": 86,
+  "articles": 11,
+  "by_region": {
+    "overseas": 9,
+    "domestic": 2
+  },
+  "by_importance": {
+    "3": 4,
+    "2": 4,
+    "1": 3
+  },
+  "detection_lag_hours": {
+    "median": 23.07,
+    "max": 47.07,
+    "n": 11
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "ANS Nuclear Newswire (목록)",
+    "Nuclear Engineering International (뉴스 목록 페이지)",
+    "oEnergetice.cz (목록)",
+    "정책브리핑 korea.kr (원전·SMR·원자력)",
+    "한국수력원자력 보도자료 게시판",
+    "한국전력 보도·설명자료 게시판",
+    "TED 검색 API (발주처명 61 + FT~ 18)",
+    "UK Find a Tender OCDS API",
+    "CanadaBuys 개방공고 CSV"
+  ],
+  "sources_failed": [
+    {
+      "name": "핀란드 Hilma 공개 API (api.hankintailmoitukset.fi)",
+      "reason": "404 — 12회차 연속. /api/v1·/pub-api/v1·/public/v1·/v1 모두 404이고 루트만 {\"APIM\":\"ok\"} 응답 → 구독키 필요 추정. Fortum·TVO·Posiva·Helen은 TED 발주처명 질의로 부분 보완"
+    },
+    {
+      "name": "NucNet 홈페이지 목록",
+      "reason": "목록 최신 항목이 2026-05-11자에서 정지 — RSS로 대체"
+    },
+    {
+      "name": "Nuclear Engineering International RSS",
+      "reason": "기간 내 0건 (피드 갱신 지연) — 뉴스 목록 페이지로 대체해 11-25자 3건 회수"
+    },
+    {
+      "name": "World Nuclear News RSS 1차 시도",
+      "reason": "TLS 연결 실패(curl 35) — 재시도 1회로 정상 수신"
+    },
+    {
+      "name": "더트래커 RSS 1차 시도",
+      "reason": "HTTP 302 리다이렉트 — -L 재시도로 정상 수신"
+    },
+    {
+      "name": "일반 WebSearch 날짜 질의 (영문·국문)",
+      "reason": "검색 색인이 당일(11-25~26) 기사를 반환하지 않고 과거 기사를 '최신'으로 노출 — 금차 신규 기사 11건은 전부 RSS·목록 페이지·TED API로 확보"
+    }
+  ],
+  "languages": {
+    "en": 8,
+    "ro": 1,
+    "ko": 2
+  }
+}

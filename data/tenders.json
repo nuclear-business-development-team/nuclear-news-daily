@@ -1,21 +1,8 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "note": "원자력 관련 공개 발주 공고 모아보기. 등급·내부 판단은 담지 않는다. 상세·마감은 반드시 원문으로 확인.",
  "note_en": "A digest of public nuclear procurement notices. No internal assessment. Always verify details and deadlines against the original notice.",
  "tenders": [
-  {
-   "country": "LT",
-   "buyer": "Valstybės įmonė Ignalinos atominė elektrinė",
-   "title": "고화처리 저준위폐기물 포장용기 방사선학적 특성평가 설비 소프트웨어 갱신",
-   "title_en": "Software upgrade for the facility that radiologically characterises cemented low-level waste packages",
-   "scope": "해체가 진행 중인 이그날리나 원전에서, 고화처리된 저준위폐기물 포장용기의 방사선학적 특성평가 설비에 쓰이는 소프트웨어를 갱신하는 조달이다. CPV 48710000(백업·복구 소프트웨어 패키지)·80500000(교육훈련 서비스). 추정금액은 공고에 기재되지 않았다.",
-   "scope_en": "At the Ignalina plant, now under decommissioning, this procurement upgrades the software used by the facility that radiologically characterises cemented low-level waste packages. CPV 48710000 (backup or recovery software package) and 80500000 (training services). No estimated value is stated in the notice.",
-   "portal": "TED",
-   "notice_no": "730767-2026",
-   "published": "2026-10-22",
-   "deadline": "2026-11-25",
-   "url": "https://ted.europa.eu/en/notice/730767-2026/pdf"
-  },
   {
    "country": "SK",
    "buyer": "Jadrová a vyraďovacia spoločnosť, a.s. (JAVYS)",
@@ -815,6 +802,45 @@
    "published": "2026-11-24",
    "deadline": "2027-01-11",
    "url": "https://ted.europa.eu/en/notice/815973-2026/pdf"
+  },
+  {
+   "country": "ES",
+   "buyer": "Empresa Nacional de Residuos Radiactivos, S.A., S.M.E. (ENRESA)",
+   "title": "반데요스 I 원자력시설 해체 공사감리·공사감독·안전보건조정 용역",
+   "title_en": "Works direction, works supervision and health and safety coordination for the Vandellos I nuclear installation",
+   "scope": "해체가 진행 중인 반데요스 I 원자력시설의 공사감리(dirección de obras)·공사감독·안전보건조정 용역이다. 로트 1이 공사감리 역무이며, 낙찰공고로 접수는 종료됐다. 추정금액 38만 7,516.61유로, 낙찰금액 25만 6,164.80유로로 INGENIERIA ESTUDIOS Y PROYECTOS EUROPEOS, S.L.이 낙찰받았다.",
+   "scope_en": "Works direction, works supervision and health and safety coordination for the Vandellos I nuclear installation, which is under decommissioning. Lot 1 covers works direction. This is a contract award notice, so submissions are closed. The estimated value was EUR 387,516.61 and the contract was awarded at EUR 256,164.80 to INGENIERIA ESTUDIOS Y PROYECTOS EUROPEOS, S.L.",
+   "portal": "TED",
+   "notice_no": "818173-2026",
+   "published": "2026-11-25",
+   "deadline": null,
+   "url": "https://ted.europa.eu/en/notice/818173-2026/pdf"
+  },
+  {
+   "country": "LT",
+   "buyer": "Valstybės įmonė Ignalinos atominė elektrinė",
+   "title": "고화처리 저준위폐기물 포장용기 방사선학적 특성평가 설비 소프트웨어 갱신 (재공고)",
+   "title_en": "Software upgrade for the facility that radiologically characterises cemented low-level waste packages (re-tender)",
+   "scope": "해체가 진행 중인 이그날리나 원전에서, 고화처리된 저준위폐기물 포장용기의 방사선학적 특성평가 설비에 쓰이는 소프트웨어를 갱신하는 조달이다. 구매번호 3753. 접수 마감은 2026년 12월 8일 9시이며 추정금액은 공고에 기재되지 않았다.",
+   "scope_en": "At the Ignalina plant, now under decommissioning, this procurement upgrades the software used by the facility that radiologically characterises cemented low-level waste packages. Purchase number 3753. Submissions close at 09:00 on 8 December 2026; no estimated value is stated in the notice.",
+   "portal": "TED",
+   "notice_no": "818940-2026",
+   "published": "2026-11-25",
+   "deadline": "2026-12-08",
+   "url": "https://ted.europa.eu/en/notice/818940-2026/pdf"
+  },
+  {
+   "country": "IT",
+   "buyer": "SOGIN S.p.A.",
+   "title": "해체 부지 방사선방호 계측기(Mirion·Nuvia·Curtiss-Wright) 'Full Risk' 정비용역 사전시장조사",
+   "title_en": "Preliminary market consultation for 'Full Risk' maintenance of Mirion, Nuvia and Curtiss-Wright radiation protection instrumentation at SOGIN sites",
+   "scope": "소진이 보유한 해체 부지의 Mirion·Nuvia·Curtiss-Wright 제작 방사선방호 계측기에 대한 'Full Risk' 정비용역 조달 절차를 준비하기 위한 사전시장조사다(이탈리아 조달법 제77조). 총액은 105만 2,556.05유로로 기재됐고 접수일은 공고에 없다.",
+   "scope_en": "A preliminary market consultation under Article 77 of Italy's procurement code, preparing the procurement of 'Full Risk' maintenance for Mirion, Nuvia and Curtiss-Wright radiation protection instrumentation at SOGIN sites. The notice states a total value of EUR 1,052,556.05 and gives no submission date.",
+   "portal": "TED",
+   "notice_no": "819173-2026",
+   "published": "2026-11-25",
+   "deadline": null,
+   "url": "https://ted.europa.eu/en/notice/819173-2026/pdf"
   }
  ]
 }

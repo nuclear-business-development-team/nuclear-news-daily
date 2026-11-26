@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-27",
+  "run_started": "2026-11-27T08:04:42+09:00",
+  "run_finished": "2026-11-27T08:21:40+09:00",
+  "run_minutes": 17,
+  "articles": 17,
+  "by_region": {
+    "overseas": 14,
+    "domestic": 3
+  },
+  "by_importance": {
+    "3": 2,
+    "2": 8,
+    "1": 7
+  },
+  "detection_lag_hours": {
+    "median": 23.08,
+    "max": 23.08,
+    "n": 17
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "더트래커 (RSS)",
+    "Nuclear Engineering International (뉴스 목록 페이지)",
+    "정책브리핑 korea.kr (원전 검색)",
+    "한국수력원자력 보도자료 게시판",
+    "한국전력 보도·설명자료 게시판",
+    "TED 검색 API (발주처명 63 + FT~ 21)",
+    "UK Find a Tender OCDS API (8페이지·800건)",
+    "CanadaBuys 개방공고 CSV (914건)",
+    "에너지데일리·에너지신문 (체코 점검회의 본문 보완)",
+    "e15.cz / ČTK (체코 현지 공급 확대)"
+  ],
+  "sources_failed": [
+    {
+      "name": "Nuclear Engineering International RSS (neimagazine.com/feed)",
+      "reason": "HTTP 301 → -L 재시도 후 200이나 전 항목 pubDate가 2026-06-16으로 고정 출력(피드 날짜 메타데이터 오류). 게재일을 신뢰할 수 없어 뉴스 목록 페이지로 대체 확인 — 목록 최신 5건이 모두 기수집분이어서 금차 신규 0건. 2회차 연속 동일 증상"
+    },
+    {
+      "name": "핀란드 Hilma 공개 API (api.hankintailmoitukset.fi)",
+      "reason": "404 — 13회차 연속. 구독키 필요로 확정. 핀란드 주요 발주처는 EU 기준액 이상 공고가 TED에 중복 게재되어 TED 발주처명 질의로 보완되며, 수집 공백은 기준액 미만 공고로 한정"
+    },
+    {
+      "name": "더트래커 RSS 1차 시도",
+      "reason": "HTTP 301 리다이렉트 — -L 재시도로 정상 수신(50건)"
+    },
+    {
+      "name": "theedgesingapore.com (베트남 PDP8 기사)",
+      "reason": "HTTP 403 — 같은 사건을 businessmirror.com.ph(접근 가능)로 대체 확인하고 Bloomberg 원문은 related로만 기재"
+    },
+    {
+      "name": "korea.kr 보도자료 본문 (산업부 체코 점검회의·원안위 제2026-19회)",
+      "reason": "본문이 HWPX·PDF 첨부에만 있어 웹페이지에서 제목·일자·담당과만 확인 — 산업부 건은 에너지데일리·에너지신문 보도로 본문 보완, 원안위 건은 안건명까지만 확인(대상 시설·의결 결과는 미확인이라 기사에 쓰지 않음)"
+    },
+    {
+      "name": "일반 WebSearch 날짜 질의 (영문·국문·현지어 8건)",
+      "reason": "검색 색인이 11-26~27자 기사를 반환하지 않고 과거 기사를 '최신'으로 노출(체코·폴란드·핀란드·에스토니아·캐나다·사우디·중앙아 질의 모두 과거분). 금차 신규 기사 17건은 전부 RSS·목록 페이지·TED/UK FTS API·현지 매체 직접 확인으로 확보"
+    },
+    {
+      "name": "jsonschema (pip 설치)",
+      "reason": "모듈 설치 실패(의존성 referencing·rpds-py는 충족) — schema/daily.schema.json의 required·enum·pattern 및 countries_pulse.article_ids 참조 정합성을 전수 수기 검증 스크립트로 동등 확인(PASSED)"
+    }
+  ],
+  "languages": {
+    "cs": 2,
+    "en": 7,
+    "fr": 2,
+    "ko": 3,
+    "sk": 2,
+    "sl": 1
+  }
+}

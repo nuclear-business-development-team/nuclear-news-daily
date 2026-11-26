@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-11-27",
+      "article_count": 17,
+      "headline_ko": "시공사 공백에도 정부가 두코바니 일정을 공개적으로 붙들었다 — 김정관 산업통상부 장관이 11월 26일 한전 남서울본부에서 한수원·한전기술·한전원자력연료·한전KPS와 제2차 팀코리아 점검회의를 열어, 11월 20일 대우건설·두산에너빌리티 컨소시엄과의 시공 협력협약이 공식 종료된 뒤의 신규 시공사 선정과 사업 연속성을 점검하고 2027년 4월 건설허가 신청·2029년 11월 착공을 핵심 일정으로 확인했으며, 12월 중 하블리체크 체코 제1부총리 방한에 맞춰 12월 10일 제4차 두코바니 이행점검 협의체가 열린다(11월 첫째 주 비상관리체제 가동 이후 네 번째 점검). 같은 날 체코 현지 보도에서는 한수원의 현지 공급 확대 윤곽이 드러났다 — 두산스코다파워가 신규 2개 호기 증기터빈 공급에 이미 합의한 상태에서 터빈홀 보조기기로 범위 확대가 유력하게 거론되고, 스코다JS는 ASME 인증을 취득해 보조기기·자재 4개 패키지의 한수원 공급사 등록을 진행 중이며, 펌프·복수기는 아직 협상 중인 핵심 패키지로 남아 BOP 기자재에서 현지사와 경합할 실질 구간이 됐다. 해외에서는 베트남 산업무역부가 전력개발계획 개정 초안에서 닌투언 1호기 2037~2038년·2호기 2039~2040년을 제시해 현행 2030~2035년 목표를 최소 2년 뒤로 미루는 안을 의견수렴에 올렸으나, EVN(2034~2035년)과 한국 기술 파트너와 2호기를 추진하는 페트로베트남(2035~2036년)이 단축안으로 맞서 아직 확정 단계는 아니다.",
+      "headline_en": "Seoul publicly holds the Dukovany clock despite having no builder: Industry Minister Kim Jung-kwan's second Team Korea review on 26 November reaffirmed an April 2027 licence application and a November 2029 construction start after the Daewoo-Doosan construction agreement formally ended on 20 November, with the fourth implementation council set for 10 December — while Czech reporting the same day showed KHNP widening local supply to Plzen, leaving pumps and condensers as the balance-of-plant packages still up for grabs. In Vietnam, the industry ministry's draft power plan would slip Ninh Thuan 1 to 2037-2038 and unit 2 to 2039-2040, at least two years beyond the current target, with EVN and Petrovietnam pushing back."
+    },
+    {
       "date": "2026-11-26",
       "article_count": 11,
       "headline_ko": "설계사가 공급망을 먼저 닫는다 — 웨스팅하우스가 BWXT 캐나다에 AP1000 증기발생기·원자로내부구조물 제작 자격인증 계약을 발주해 북미 주기기 공급선을 복수화했고(폴란드·우크라이나·불가리아가 계약 단계, 케임브리지 공장 8,000만 캐나다달러 확장 직후), 프라마톰은 르크뢰조에 약 1억 유로·1만 5,000㎡ 원자로내부구조물 전용 공장을 준공해 프랑스 EPR2 6기 물량(첫 인도 2032년)을 국내로 묶었다 — 12월 EPR2 최종투자결정을 앞두고 토목에 이어 주기기까지 발주국 현지로 닫히는 구도여서 당사 접점은 FID 이후 열릴 기계·전기·계측제어·BOP 후속 발주로 좁혀진다. 국내에서는 두코바니 현지화율의 '산정 기준'이 쟁점으로 올라섰다 — 한수원이 체코 기업 참여율 산정 방법론 연구를 발주하며 60% 목표 유지를 재확인한 반면, 하블리체크 체코 부총리 겸 산업장관은 총 계약금액 기준 비율만 인정하겠다고 밝혀 지난해 가격 기준 2,000억 코루나(2기 총사업비 4,070억 코루나) 이상의 체코 수주가 필요해졌다.",

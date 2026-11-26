@@ -1,0 +1,501 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T08:18:40+09:00",
+  "period": {
+    "from": "2026-11-26",
+    "to": "2026-11-27"
+  },
+  "overview_ko": "베트남이 첫 원전 가동 목표를 2035년에서 2037~2040년으로 늦추는 전력개발계획 개정 초안을 의견수렴에 올려, 동남아 최대 신규 시장의 발주 시계가 뒤로 밀릴 가능성이 공식 문서로 처음 드러났다 — 산업무역부는 타당성조사 완료 후 가동까지 최소 약 12년이 필요하다는 추정을 근거로 닌투언 1호기 2037~2038년·2호기 2039~2040년을 제시했으나, EVN은 2034~2035년, 한국 기술 파트너와 2호기를 추진하는 페트로베트남은 2035~2036년 단축안으로 맞서고 있어 아직 확정 단계는 아니다. 반대 방향에서는 리투아니아가 2009년 이그날리나 폐쇄 이후 처음으로 원전 재도입을 공식화해 2028년 상반기 의회 제출을 예고하고 SMR을 기저부하 후보로 지목했고(노형·공급사 미정), 중국 톈완 8호기는 고온기능시험을 마치고 초기 연료를 반입해 8기 약 9.1GW의 세계 최대 단지 완성에 한 걸음 더 다가섰다. 공급망 쪽에서는 두 가지 상반된 신호가 동시에 나왔다 — 로사톰이 BN-800에 2회 재순환 MOX를 장전해 '상업용 대형로 최초의 폐쇄연료주기 실증'을 주장한 반면, 미 와이오밍 랜스 우라늄 ISR 사업은 운전·제어계통 사이버 침해로 조업을 멈춰 2027년 생산 전망의 영향조차 아직 판단하지 못하고 있다. 유럽 발주에서는 EDF가 12월 EPR2 최종투자결정 직전에 팡리 부지 예방 고고학 발굴과 5개 부지 환경 사전측정을 공고해 부지 선행역무까지 현지 조달로 내려보냈고, 슬로바키아는 보후니체 3·4호기 비상디젤발전기 제어·진단 교체를 장기운전 목적으로 현지 VUJE에 추정치의 약 1.5배인 478만 유로로 낙찰했다. 영업 관점: 베트남 지연은 '초안' 단계이고 발주처(EVN·페트로베트남)가 단축안으로 맞서는 구도이므로 사전자격 준비를 늦추기보다 입장차를 추적할 국면이며, 노형이 비어 있는 리투아니아는 지금이 기술 중립 단계여서 조기 접촉 가치가 가장 크다.",
+  "overview_en": "Vietnam has put out for consultation a draft power plan revision that would move its first nuclear operation from 2035 to the 2037-2040 range, the first time an official document has signalled that the procurement clock in Southeast Asia's largest new market may slip. The industry ministry proposes 2037-2038 for Ninh Thuan 1 and 2039-2040 for Ninh Thuan 2, citing estimates that at least about 12 years are needed from completion of the feasibility study to operation; EVN counters with 2034-2035 and Petrovietnam, developing unit 2 with a South Korean technology partner, with 2035-2036, so nothing is settled. Pointing the other way, Lithuania has formalised a return to nuclear for the first time since Ignalina closed in 2009, flagging a plan to parliament in the first half of 2028 and naming SMRs as a baseload candidate with no design or vendor chosen, while China's Tianwan 8 completed hot functional tests and received its initial fuel load, moving the eight-unit, roughly 9.1 GW site closer to becoming the world's largest. The supply chain produced two opposing signals at once: Rosatom loaded twice-recycled MOX into the BN-800 and claimed the first closed fuel cycle demonstration in a commercial high-capacity reactor, while the Lance ISR uranium project in Wyoming halted operations after a cyber intrusion into its operating and control systems and cannot yet judge the effect on its 2027 production outlook. In European procurement, EDF tendered preventive archaeological excavation at Penly and anticipatory environmental measurements at five sites just before the December EPR2 final investment decision, pushing even site-enabling work through local contracting, and Slovakia awarded replacement of emergency diesel generator control and diagnostics at Bohunice 3 and 4 for long-term operation to local firm VUJE at EUR 4.79 million, about 1.5 times the estimate. Sales angle: the Vietnamese delay is still a draft and the owners, EVN and Petrovietnam, are pushing back with earlier dates, so this is a moment to track the gap rather than slow pre-qualification, while Lithuania, with no design selected, is at its most technology-neutral and is where early contact is worth most.",
+  "domestic_overview_ko": "시공사 공백 속에서 정부가 체코 두코바니 일정을 공개적으로 붙들었다 — 김정관 산업통상부 장관은 11월 26일 한전 남서울본부에서 한수원·한전기술·한전원자력연료·한전KPS와 제2차 팀코리아 점검회의를 열어, 11월 20일 대우건설·두산에너빌리티 컨소시엄과의 시공 협력협약이 공식 종료된 뒤의 신규 시공사 선정과 사업 연속성을 점검하고 2027년 4월 건설허가 신청·2029년 11월 착공을 핵심 일정으로 확인했다. 산업부는 11월 첫째 주부터 비상관리체제를 가동해 이번이 네 번째 점검(차관 11월 2일·18일, 장관 1차 11월 12일)이며, 12월 중 하블리체크 체코 제1부총리 방한에 맞춰 12월 10일 제4차 두코바니 이행점검 협의체가 열린다. 같은 날 체코 현지 보도에서는 한수원의 현지 공급 확대 윤곽이 드러났다 — 두산스코다파워가 신규 2개 호기 증기터빈 공급에 이미 합의한 상태에서 터빈홀 보조기기로 범위 확대가 유력하게 거론되고, 스코다JS는 ASME 인증을 취득해 보조기기·자재 4개 패키지의 한수원 공급사 등록을 진행 중이며 펌프·복수기는 아직 협상 중인 핵심 패키지로 남아 있다. 원안위는 제2026-19회 회의에서 '원자력이용시설 운영 변경허가(안)' 1건을 심의했으나 대상 시설과 의결 결과는 공개 본문에 없다. 영업 관점: 현지화율 '산정 기준'이 쟁점으로 올라선 국면에서 한수원이 체코 수주로 집계될 패키지를 터빈·보조기기·자재로 구체화하는 중이므로, 미계약 상태인 펌프·복수기가 BOP 기자재에서 현지사와 경합하거나 하도급으로 들어갈 수 있는 실질 구간이고, 스코다JS의 ASME 취득은 규격 적합성만으로는 더 이상 차별화가 안 된다는 뜻이어서 공기·가격·실적으로 승부처를 옮겨야 한다.",
+  "domestic_overview_en": "With no construction contractor in place, the Korean government publicly held the line on the Czech Dukovany schedule. Industry Minister Kim Jung-kwan chaired a second Team Korea review on 26 November at KEPCO's Namseoul headquarters with KHNP, KEPCO E&C, KEPCO Nuclear Fuel and KEPCO KPS, examining selection of a new contractor and business continuity after the construction cooperation agreement with the Daewoo E&C - Doosan Enerbility consortium formally ended on 20 November, and confirming an April 2027 construction licence application and a November 2029 construction start as the key milestones. The ministry has run an emergency management system since the first week of November and this was its fourth review, after vice-ministerial sessions on 2 and 18 November and the first ministerial meeting on 12 November; the fourth Dukovany implementation review council meets on 10 December, timed to Czech First Deputy Prime Minister Havlicek's December visit. Czech reporting the same day set out the shape of KHNP's widening local supply: Doosan Skoda Power has already agreed to supply the steam turbines for both new units, with an extension into turbine hall auxiliary equipment described as likely, while Skoda JS has obtained ASME certification and is going through KHNP supplier registration for four auxiliary equipment and materials packages - and pumps and condensers remain key packages still under negotiation. The Nuclear Safety and Security Commission deliberated one item, a draft nuclear facility operating licence change, at its 19th meeting of 2026, without naming the facility or stating the outcome in the published text. Sales angle: with the method of counting local content now the contested point, KHNP is giving concrete shape to the packages that will count as Czech-awarded in turbines, auxiliary equipment and materials, which makes the still-uncontracted pumps and condensers the real opening to compete with or subcontract to local firms in balance-of-plant equipment - and Skoda JS obtaining ASME certification means code compliance alone no longer differentiates, so the contest has to move to schedule, price and track record.",
+  "countries_pulse": [
+    {
+      "country": "VN",
+      "name_ko": "베트남",
+      "name_en": "Vietnam",
+      "stance": "cautious",
+      "signal": "산업무역부가 전력개발계획 개정 초안에서 닌투언 1·2호기 가동을 2037~2040년으로 늦추는 안 제시 — 현행 2030~2035년 대비 최소 2년 후퇴, EVN·페트로베트남은 단축안으로 맞섬",
+      "signal_en": "The industry ministry's draft power plan revision would push Ninh Thuan 1 and 2 to 2037-2040, at least two years later than the current 2030-2035 window, with EVN and Petrovietnam countering with accelerated dates",
+      "article_ids": [
+        "2026-11-27-01"
+      ]
+    },
+    {
+      "country": "CN",
+      "name_ko": "중국",
+      "name_en": "China",
+      "stance": "expanding",
+      "signal": "톈완 8호기 고온기능시험 완료·초기 연료 반입, 7호기 연내 상업운전 예상 — 8기 완공 시 약 9.1GW로 세계 최대 단지",
+      "signal_en": "Tianwan 8 completed hot functional tests and received its initial fuel load, with unit 7 expected in commercial operation this year, taking the site to about 9.1 GW and the world's largest",
+      "article_ids": [
+        "2026-11-27-02"
+      ]
+    },
+    {
+      "country": "LT",
+      "name_ko": "리투아니아",
+      "name_en": "Lithuania",
+      "stance": "expanding",
+      "signal": "에너지부 장관이 SMR 기저부하 검토를 공개 확인, 2028년 상반기 원전 재도입안 의회 제출 계획 — 2009년 이그날리나 폐쇄 후 첫 신규 추진, 노형·공급사 미정",
+      "signal_en": "The energy minister publicly confirmed that SMRs are under review for baseload, with a nuclear plan to go to parliament in the first half of 2028 - the first new-build push since Ignalina closed in 2009, with no design or vendor chosen",
+      "article_ids": [
+        "2026-11-27-03"
+      ]
+    },
+    {
+      "country": "FR",
+      "name_ko": "프랑스",
+      "name_en": "France",
+      "stance": "expanding",
+      "signal": "12월 EPR2 최종투자결정 직전, EDF가 팡리 부지 예방 고고학 발굴과 5개 부지 환경 사전측정을 발주 단계로 올림 — 부지 선행역무까지 현지 조달로 진행",
+      "signal_en": "Just before the December EPR2 final investment decision, EDF has brought preventive archaeological excavation at Penly and anticipatory environmental measurements at five sites to procurement, with site-enabling work also going through local contracting",
+      "article_ids": [
+        "2026-11-27-06",
+        "2026-11-27-10"
+      ]
+    },
+    {
+      "country": "RU",
+      "name_ko": "러시아",
+      "name_en": "Russia",
+      "stance": "expanding",
+      "signal": "BN-800에 2회 재순환 MOX 집합체 장전 — 로사톰이 '상업용 대형로 최초의 폐쇄연료주기 실증'으로 규정하고 BN-1200M으로 연결",
+      "signal_en": "A twice-recycled MOX assembly was loaded into the BN-800, which Rosatom frames as the first closed fuel cycle demonstration in a commercial high-capacity reactor and a step toward the BN-1200M",
+      "article_ids": [
+        "2026-11-27-05"
+      ]
+    },
+    {
+      "country": "US",
+      "name_ko": "미국",
+      "name_en": "United States",
+      "stance": "expanding",
+      "signal": "와이오밍 랜스 우라늄 ISR 사업이 운전·제어계통 사이버 침해로 조업 중단 — 3분기 재래식 우라늄 생산 급감에 이어 상류 공급 불확실성 가중",
+      "signal_en": "The Lance ISR uranium project in Wyoming suspended operations after a cyber intrusion into its operating and control systems, adding upstream supply uncertainty on top of a sharp third-quarter fall in conventional uranium output",
+      "article_ids": [
+        "2026-11-27-04"
+      ]
+    },
+    {
+      "country": "SK",
+      "name_ko": "슬로바키아",
+      "name_en": "Slovakia",
+      "stance": "steady",
+      "signal": "보후니체 3·4호기 비상디젤발전기 제어·진단 교체를 장기운전 목적으로 현지 VUJE에 478만 유로 낙찰(추정 대비 약 50% 상회) — 계속운전 물량이 현지 유자격사로 집중",
+      "signal_en": "Replacement of emergency diesel generator control and diagnostics at Bohunice 3 and 4 was awarded for long-term operation to local firm VUJE at EUR 4.79 million, about 50% above estimate, concentrating continued-operation work with qualified local suppliers",
+      "article_ids": [
+        "2026-11-27-07",
+        "2026-11-27-14"
+      ]
+    },
+    {
+      "country": "GB",
+      "name_ko": "영국",
+      "name_en": "United Kingdom",
+      "stance": "steady",
+      "signal": "셀라필드가 해체 중준위폐기물용기 전용 수송설비 설계·제작 사전시장조사 착수(100만 파운드) — 해체 분야 설계+제작 묶음 발주 지속",
+      "signal_en": "Sellafield opened preliminary market engagement for design and manufacture of a dedicated decommissioning waste container transporter fleet at GBP 1.0 million, continuing bundled design-plus-manufacture procurement in decommissioning",
+      "article_ids": [
+        "2026-11-27-08"
+      ]
+    },
+    {
+      "country": "CZ",
+      "name_ko": "체코",
+      "name_en": "Czechia",
+      "stance": "expanding",
+      "signal": "두코바니 신규 호기 현지 공급이 플젠 업체로 확대(두산스코다파워 증기터빈 합의, 스코다JS ASME 취득·4개 패키지 등록 진행)되는 한편, 같은 부지권역 방폐물 처분 운영은 현지 NUVIA에 7,727만 코루나로 낙찰",
+      "signal_en": "Local supply for the new Dukovany units is widening to Plzen firms - a steam turbine agreement with Doosan Skoda Power and Skoda JS obtaining ASME certification while registering for four packages - while operation of the waste repository in the same site area went to local firm NUVIA at CZK 77.3 million",
+      "article_ids": [
+        "2026-11-27-12",
+        "2026-11-27-16"
+      ]
+    },
+    {
+      "country": "SI",
+      "name_ko": "슬로베니아",
+      "name_en": "Slovenia",
+      "stance": "steady",
+      "signal": "크르슈코 원전 TP1 개량·NSR 6.3kV 루프 케이블 포설 입찰(접수 2027년 1월 13일) — JEK2와 별개로 가동호기 개보수 발주 지속",
+      "signal_en": "Krsko tendered TP1 refurbishment and NSR 6.3 kV loop cabling with bids due 13 January 2027, continuing refurbishment procurement at the operating unit separately from JEK2",
+      "article_ids": [
+        "2026-11-27-11"
+      ]
+    },
+    {
+      "country": "BE",
+      "name_ko": "벨기에",
+      "name_en": "Belgium",
+      "stance": "steady",
+      "signal": "SCK CEN이 MYRRHA 1단계(MINERVA) 100MeV 선형가속기 기자재 2건을 약 340만 유로에 낙찰 — 선진로 실증 인프라 기자재 조달이 단계별로 진행",
+      "signal_en": "SCK CEN awarded two equipment packages worth about EUR 3.4 million for the MYRRHA Phase I (MINERVA) 100 MeV LINAC, with equipment procurement for advanced reactor demonstration infrastructure proceeding in phases",
+      "article_ids": [
+        "2026-11-27-13"
+      ]
+    },
+    {
+      "country": "INT",
+      "name_ko": "국제기구",
+      "name_en": "International",
+      "stance": "steady",
+      "signal": "세계원자력협회가 극저선량 규제 개편 입장문 발표 — 비례성 강화·LNT 단독 적용 배제·실무적 하한선 설정 등 5개 권고를 ICRP·규제기관에 제시",
+      "signal_en": "The World Nuclear Association issued a position statement on reforming very low-dose regulation, putting five recommendations to the ICRP and regulators including greater proportionality, not relying on LNT alone, and setting a practical cut-off",
+      "article_ids": [
+        "2026-11-27-09"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-27-01",
+      "region": "overseas",
+      "category": "large",
+      "importance": 3,
+      "language": "en",
+      "title": "Vietnam weighs delaying nuclear power plants beyond 2035 target",
+      "title_en": "Vietnam weighs delaying nuclear power plants beyond 2035 target",
+      "title_ko": "베트남 산업무역부, 첫 원전 가동 2035년 목표 연기 검토 — 닌투언 1호 2037~2038년·2호 2039~2040년 전력개발계획 개정 초안",
+      "source": "BusinessMirror (Bloomberg)",
+      "url": "https://businessmirror.com.ph/2026/11/26/vietnam-weighs-delaying-nuclear-power-plants-beyond-2035-target/",
+      "published": "2026-11-26",
+      "countries": [
+        "VN"
+      ],
+      "summary_ko": "베트남 산업무역부가 전력개발계획(PDP8) 개정 초안에서 첫 원전 가동 시점을 닌투언 1호기 2037~2038년, 2호기 2039~2040년으로 늦추는 안을 제시해 의견수렴에 들어갔다. 현행 개정 PDP8은 두 사업 모두 2030~2035년 가동을 규정하고 있어, 초안대로라면 최소 2년 이상 후퇴한다. 러시아 로사톰 등 사업 참여측이 타당성조사 완료 후 가동까지 최소 약 12년이 필요하다고 본 것이 근거로, 베트남전력공사(EVN)는 정책 여건이 뒷받침되면 2034~2035년 가동이 가능하다는 입장을 유지하고 있고 한국 기술 파트너와 2호기를 추진하는 페트로베트남은 2035~2036년을 단축 목표로 제시했다. 최종 결정 시점은 공개되지 않았다.",
+      "summary_en": "Vietnam's Ministry of Industry and Trade has put a draft revision of the power development plan (PDP8) out for consultation that would push the first nuclear units back to 2037-2038 for Ninh Thuan 1 and 2039-2040 for Ninh Thuan 2. The current revised PDP8 requires both plants to operate between 2030 and 2035, so the draft represents a slip of at least two years. The ministry cites estimates, including from Russia's Rosatom, that at least about 12 years are needed from completion of the feasibility study to operation. State utility EVN maintains that 2034-2035 is achievable with favourable policy conditions, while Petrovietnam, developing Ninh Thuan 2 with a South Korean technology partner, has proposed an accelerated 2035-2036. No date has been given for a final decision.",
+      "sales_note": "베트남은 2호기를 한국 기술 파트너와 추진해 온 시장이어서 발주 시점이 2년 이상 밀리면 당사 수주 파이프라인의 중기 일정도 함께 조정이 필요하다. 다만 아직 '초안·의견수렴' 단계이고 EVN·페트로베트남이 단축안을 들고 맞서는 구도이므로, 확정 전까지는 기자재·설계 사전자격 준비를 늦추기보다 발주처별 입장차를 추적하는 쪽이 유리하다.",
+      "sales_note_en": "Vietnam is a market where Ninh Thuan 2 has been pursued with a Korean technology partner, so a slip of two years or more would push out the medium-term schedule in our pipeline. The proposal is still a draft out for consultation, with EVN and Petrovietnam pressing accelerated dates, so until it is settled it is better to track the gap between the parties than to slow pre-qualification work on equipment and engineering.",
+      "related": [
+        "https://www.bloomberg.com/news/articles/2026-11-26/vietnam-weighs-delaying-nuclear-power-plants-beyond-2035-target",
+        "https://constructionreviewonline.com/ninh-thuan-nuclear-power-plant-timeline-delayed-past-2035-under-revised-vietnam-energy-plan/"
+      ]
+    },
+    {
+      "id": "2026-11-27-02",
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "language": "en",
+      "title": "Tianwan moves step closer to becoming world's biggest nuclear power plant",
+      "title_en": "Tianwan moves step closer to becoming world's biggest nuclear power plant",
+      "title_ko": "중국 톈완 8호기 고온기능시험 완료·초기 장전연료 반입 — 8기 완공 시 약 9.1GW로 세계 최대 원전 단지",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/Tianwan-moving-step-closer-becoming-worlds-biggest-nuclear-power-plant",
+      "published": "2026-11-26",
+      "countries": [
+        "CN"
+      ],
+      "summary_ko": "중국핵전(CNNP)이 11월 25일 톈완 8호기(VVER-1200) 고온기능시험을 완료하고 초기 장전용 핵연료를 현장에 반입했다고 밝혔다. 8호기는 2022년 2월 착공해 10월에 저온기능시험을 마쳤으며, 7호기는 연내 상업운전 진입이 예상된다. 운영사는 중국핵공업집단(CNNC) 50%·중국전력투자 30%·장쑤궈신 20% 합작사인 장쑤핵전이고, 8기가 모두 가동하면 설비용량 약 9.1GW로 세계 최대 원전 단지가 된다.",
+      "summary_en": "China National Nuclear Power said hot functional tests at Tianwan 8 (VVER-1200) were completed on 25 November and the initial fuel load has been delivered to site. Unit 8 began construction in February 2022 and completed cold tests in October; unit 7 is expected to enter commercial operation within the year. The operator is Jiangsu Nuclear Power, a joint venture of CNNC (50%), China Power Investment (30%) and Jiangsu Guoxin (20%). With all eight units running the site reaches about 9.1 GW, making it the world's largest nuclear power plant.",
+      "sales_note": "러시아 노형(VVER-1200)과 중국 노형이 한 부지에 혼재한 단지가 세계 최대 규모로 완성되는 사례로, 발주처가 복수 노형·복수 공급국을 한 부지에서 운용하는 모델의 실적 근거가 된다. 복수 노형 혼재 부지를 검토하는 신규 진입국(튀르키예·이집트 등) 제안서에서 참조 레퍼런스로 활용할 수 있다.",
+      "sales_note_en": "This is the world's largest nuclear site being completed with Russian (VVER-1200) and Chinese designs side by side, which strengthens the evidence base for owners operating multiple designs and multiple supplier countries on one site. It can be cited as a reference in proposals to newcomer countries weighing mixed-design sites, such as Türkiye and Egypt."
+    },
+    {
+      "id": "2026-11-27-03",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 2,
+      "language": "ko",
+      "title": "리투아니아, 2028년 원전 재도입안 의회 제출 추진…SMR 건설 검토",
+      "title_en": "Lithuania to put nuclear restart plan to parliament in 2028, eyeing SMRs for baseload",
+      "title_ko": "리투아니아, 2028년 상반기 원전 재도입안 의회 제출 추진 — SMR로 기저부하 충당 검토",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=110210",
+      "published": "2026-11-26",
+      "countries": [
+        "LT"
+      ],
+      "summary_ko": "루카스 사비츠카스 리투아니아 에너지부 장관이 11월 25일(현지시간) 재생에너지 변동성을 메울 기저부하로 소형모듈원자로(SMR)를 검토하고 있다고 밝혔으며, 정부는 2028년 상반기에 원전 도입안을 의회에 제출할 계획이다. 리투아니아는 2009년 말 소련제 마지막 원자로를 폐쇄한 뒤 전력 수요의 약 70%를 수입해 왔고, 재생에너지 확충으로 자급에 근접한 상태다. 장관은 유력 부지의 지질조사가 완료됐고 주민 지지·규제기관·근거법률·전문인력이 갖춰져 있다고 설명했으나 개발사·공급사는 거론하지 않았다.",
+      "summary_en": "Lithuanian Energy Minister Lukas Savickas said on 25 November local time that small modular reactors are under consideration as the baseload needed to offset renewable variability, and the government plans to put a nuclear plan to parliament in the first half of 2028. Lithuania shut its last Soviet-era reactor at the end of 2009 and has since imported roughly 70% of its electricity demand, approaching self-sufficiency through a renewables buildout. The minister said geological surveys of a promising site are complete and that community support, regulatory bodies, enabling legislation and skilled personnel are in place, but named no developer or vendor.",
+      "sales_note": "발트 3국에서 에스토니아에 이어 두 번째로 SMR 기저부하 수요가 공식화된 신호다. 노형·공급사가 아직 비어 있고 의회 제출까지 1년 반이 남아 기술 중립 단계이므로, i-SMR 및 국내 기자재의 사전 포지셔닝 창구로 조기 접촉 가치가 있다. 다만 리투아니아는 이그날리나 해체 경험만 있고 신규 건설 실적이 없어 발주 역량·금융 구조가 변수다.",
+      "sales_note_en": "This is the second formal signal of SMR baseload demand in the Baltics after Estonia. No design or vendor has been named and parliament will not see the plan for another 18 months, so the market is still technology-neutral and worth early contact to position i-SMR and Korean equipment. Lithuania's only recent nuclear experience is Ignalina decommissioning, however, so owner capability and financing structure remain open variables."
+    },
+    {
+      "id": "2026-11-27-04",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 2,
+      "language": "en",
+      "title": "Lance operations suspended after cybersecurity incident",
+      "title_en": "Lance operations suspended after cybersecurity incident",
+      "title_ko": "미 와이오밍 랜스 우라늄 ISR 사업, 사이버 침해로 조업 중단 — 페닌슐라에너지, 2027년 생산 전망 영향 판단 유보",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/lance-operations-suspended-after-cybersecurity-incident",
+      "published": "2026-11-26",
+      "countries": [
+        "US",
+        "AU"
+      ],
+      "summary_ko": "호주 페닌슐라에너지의 자회사 스트라타에너지가 운영하는 미 와이오밍 랜스 우라늄 현지용출(ISR) 사업이 사이버 침해로 조업을 일시 중단했다. 11월 20일 오전 플랜트·정호(wellfield) 운전·제어계통에서 침해를 확인하고 해당 계통을 분리했으며, 11월 25일 호주증권거래소에 공시했다. 현재까지 조사로는 영향이 운전·제어계통에 한정되고 미국·호주의 급여·재무 등 관리계통은 영향이 없으며, 복구·검증 프로그램을 마치고 안전한 재개가 확인될 때까지 중단을 유지한다. 9월 기준 광물자원량은 U3O8 5,900만 파운드(2만 2,694톤U)이고, 회사는 2027년 생산 전망에 중대한 영향이 있을지 아직 판단할 수 없다고 밝혔다.",
+      "summary_en": "The Lance in-situ recovery uranium project in Wyoming, operated by Strata Energy for Australia's Peninsula Energy, has suspended operations after a cybersecurity incident. Strata identified the intrusion in the plant and wellfield operating and control systems on the morning of 20 November and isolated the affected systems, disclosing it to the ASX on 25 November. Investigations so far indicate the impact is limited to those operating and control systems, with corporate and administrative systems in the USA and Australia, including payroll and financial administration, unaffected. Operations stay suspended until a recovery and verification programme is complete. The September mineral resource estimate is 59.0 million pounds U3O8 (22,694 tU), and the company says it cannot yet determine whether its CY2027 production guidance will be materially affected.",
+      "sales_note": "원전 운영사가 아닌 연료 상류(우라늄 채광)에서 운전·제어계통(OT) 침해로 조업이 멈춘 사례로, 연료 공급망 실사 항목에 광산·제련 단계의 OT 보안을 넣어야 하는 근거가 된다. 미국 내 재래식 우라늄 생산이 이미 3분기에 급감한 상황과 겹쳐 2027년 전후 서구권 우라늄 공급의 하방 변수로 추적할 필요가 있다.",
+      "sales_note_en": "This is a case where an OT intrusion halted production upstream in the fuel cycle - uranium mining - rather than at a reactor operator, which supports adding mine and mill OT security to fuel supply chain due diligence. Coming on top of an already sharp drop in US conventional uranium output in the third quarter, it is worth tracking as a downside variable for Western uranium supply around 2027."
+    },
+    {
+      "id": "2026-11-27-05",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 2,
+      "language": "en",
+      "title": "Twice-recycled fuel loaded into BN-800 fast neutron reactor",
+      "title_en": "Twice-recycled fuel loaded into BN-800 fast neutron reactor",
+      "title_ko": "러시아 벨로야르스크 BN-800에 2회 재순환 MOX 연료집합체 장전 — 로사톰 \"상업용 대형로 최초의 폐쇄연료주기 실증\"",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/twice-recycled-fuel-loaded-into-bn-800-fast-neutron-reactor",
+      "published": "2026-11-26",
+      "countries": [
+        "RU"
+      ],
+      "summary_ko": "로사톰이 벨로야르스크 4호기 BN-800(소듐냉각 고속로, 약 820MWe)에 이미 한 차례 노내 연소를 마친 MOX 집합체에서 회수한 플루토늄으로 제작한 시험용 집합체 1체를 장전했다. 로사톰은 상업용 대형 원자로에서 폐쇄연료주기 개념의 성립성을 처음 실증한 것이라며, 기존 1단계 재순환과 달리 다회 재순환이 우라늄 자원 제약을 없애는 핵심이라고 설명했다. 플루토늄 회수 공정을 최적화해 공정 단계를 줄였다고 밝혔고, 차세대 BN-1200M으로 이어지는 단계로 제시했다. 집합체 수는 1체 외에 추가 수치가 공개되지 않았다.",
+      "summary_en": "Rosatom has loaded a single experimental fuel assembly into the BN-800 (Beloyarsk 4, a sodium-cooled fast reactor of about 820 MWe) made with plutonium recovered from a MOX assembly that had already completed a full cycle in the reactor. Rosatom says it is the first demonstration in a commercial high-capacity reactor that the closed fuel cycle concept is viable, and that multi-cycle recycling - unlike the earlier single-step route - is what removes the uranium resource constraint. It says an optimised plutonium recovery process cut the number of processing steps, and presents the step as leading to the next-generation BN-1200M. No figures beyond the single assembly were disclosed.",
+      "sales_note": "러시아가 '사용후연료를 자원으로 되돌리는' 서사를 고속로 실증으로 뒷받침하면서, 처분장 부지 확보가 어려운 신규 진입국에 폐쇄연료주기를 묶어 파는 로사톰의 패키지 경쟁력이 강화된다. 경수로+직접처분을 전제로 하는 우리 제안에서는 사용후연료 관리 대안(건식저장 실적·재활용 선택지 유보)을 별도 항목으로 보강해 대응할 필요가 있다.",
+      "sales_note_en": "By backing the narrative of returning spent fuel to the resource base with a fast reactor demonstration, Rosatom strengthens the competitiveness of packages that bundle a closed fuel cycle for newcomer countries that struggle to site a repository. Our proposals, which assume light water reactors plus direct disposal, need a reinforced separate section on spent fuel management options - dry storage track record and keeping a recycling option open."
+    },
+    {
+      "id": "2026-11-27-06",
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "language": "fr",
+      "title": "Marché de fouilles archéologiques préventives sur le site de Penly - Zone Lombardie MEH",
+      "title_en": "EDF tenders preventive archaeological excavation at the Penly EPR2 site (Zone Lombardie MEH)",
+      "title_ko": "프랑스 EDF, EPR2 1·2호기 부지 팡리(Penly) '롬바르디 MEH' 구역 사전 예방 고고학 발굴 입찰 — 접수 12월 28일",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/821434-2026/pdf",
+      "published": "2026-11-26",
+      "countries": [
+        "FR"
+      ],
+      "summary_ko": "EDF가 EPR2 1·2호기 건설 부지인 팡리(프티코 코뮌) '롬바르디 MEH' 구역의 구조물 건설에 앞서 시행하는 예방 고고학 발굴 용역을 공고했다. 프랑스 문화유산법 R523-39조 이하가 정한 예방 발굴에 해당하며, 접수 마감은 2026년 12월 28일 11시다. 추정금액은 공고에 기재되지 않았다.",
+      "summary_en": "EDF has tendered preventive archaeological excavation ahead of structural construction in the 'Zone Lombardie MEH' at Penly (commune of Petit-Caux), the site of EPR2 units 1 and 2. The work falls under preventive excavation as defined by Article R523-39 and following of the French heritage code. Bids are due at 11:00 on 28 December 2026. No estimated value is given in the notice.",
+      "sales_note": "12월 EPR2 최종투자결정을 앞두고 EDF가 부지 선행역무(고고학 발굴)를 이미 발주 단계로 올렸다는 뜻으로, 1·2호기 팡리의 착공 준비가 실제 조달로 내려오고 있음을 확인해 준다. 토목 5사 컨소시엄에 이어 부지 선행역무까지 프랑스 현지로 닫히는 흐름이어서 당사 접점은 FID 이후 기계·전기·계측제어·BOP 후속 발주에 한정된다는 판단을 유지한다.",
+      "sales_note_en": "Ahead of the December EPR2 final investment decision, EDF has already brought site-enabling work - archaeological excavation - to the procurement stage, confirming that construction preparation at Penly units 1 and 2 is translating into actual contracts. With site-enabling work closing around French suppliers after the five-company civil works consortium, our assessment stands that our access is confined to mechanical, electrical, I&C and balance-of-plant packages following FID."
+    },
+    {
+      "id": "2026-11-27-07",
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "language": "sk",
+      "title": "Automatika a diagnostický systém dieselgenerátorov",
+      "title_en": "Slovenské elektrárne awards diesel generator automation and diagnostics replacement at Bohunice units 3 and 4",
+      "title_ko": "슬로바키아 Slovenské elektrárne, 야슬로브스케 보후니체 3·4호기 비상디젤발전기 6기 자동화(제어계통)·진단계통 교체 낙찰 — VUJE, 계약액 478만 8,122유로",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/823871-2026/pdf",
+      "published": "2026-11-26",
+      "countries": [
+        "SK"
+      ],
+      "summary_ko": "슬로바키아 전력공사(Slovenské elektrárne)가 야슬로브스케 보후니체 원전(EBO) 3·4호기 비상디젤발전기 DG1~DG6 6기의 자동화(제어계통)·기기 및 진단계통 구성품 교체와 시운전을 발주해 현지 엔지니어링사 VUJE에 낙찰했다. 추정금액은 318만 6,900유로, 체결금액은 478만 8,122유로로 추정을 약 50% 상회했다. 발주 목적은 호기의 신뢰성 있는 장기운전(LTO) 확보로 명시됐다.",
+      "summary_en": "Slovenské elektrárne has awarded the replacement and commissioning of automation (control system), equipment and diagnostic system components for the six emergency diesel generators DG1-DG6 at Jaslovské Bohunice units 3 and 4 to the Slovak engineering firm VUJE. The estimated value was EUR 3,186,900 and the contract was concluded at EUR 4,788,122, about 50% above the estimate. The notice states the purpose as securing reliable long term operation (LTO) of the units.",
+      "sales_note": "계속운전을 겨냥한 안전계통 제어·진단 교체가 현지 엔지니어링사(VUJE)로 직행하고 체결액이 추정을 50% 넘긴 점은, 슬로바키아 계속운전 시장이 가격보다 현지 유자격 업체 보유 여부로 갈린다는 신호다. 11월 24일 확인된 한국무역보험공사–슬로바키아 수출입은행 업무협약으로 금융 접점은 열렸으므로, 단독 응찰보다 VUJE 등 현지 유자격사와의 하도급·컨소시엄 경로를 전제로 접근하는 편이 현실적이다.",
+      "sales_note_en": "Control and diagnostics replacement aimed at continued operation going straight to a local engineering firm (VUJE), at a price 50% above the estimate, signals that the Slovak long-term-operation market turns on holding local qualified suppliers rather than on price. With the financing channel opened by the Korea Trade Insurance Corporation - Eximbank of Slovakia agreement confirmed on 24 November, approaching through subcontracting or consortium routes with qualified local firms such as VUJE is more realistic than bidding alone."
+    },
+    {
+      "id": "2026-11-27-08",
+      "region": "overseas",
+      "category": "large",
+      "importance": 2,
+      "language": "en",
+      "title": "Procurement of Trailers",
+      "title_en": "Sellafield begins market engagement for design and manufacture of a DCC transporter fleet",
+      "title_ko": "영국 셀라필드, 해체 중준위폐기물용기(DCC) 전용 수송설비 설계·제작 사전시장조사 — 100만 파운드(세금 포함 120만)",
+      "source": "UK Find a Tender",
+      "url": "https://www.find-tender.service.gov.uk/Notice/112179-2026",
+      "published": "2026-11-26",
+      "countries": [
+        "GB"
+      ],
+      "summary_ko": "셀라필드가 해체 중준위폐기물용기(Decommissioning CHILW Container, DCC) 전용 수송설비 조달을 위한 사전시장조사(planning) 공고를 냈다. 범위는 수송설비 상세설계·엔지니어링과 차대(fleet) 제작·조립이며, 환경차폐·환기 설비와 차폐 설비를 포함한다. 추정금액은 100만 파운드(세금 포함 120만 파운드)이고 입찰 접수 마감일은 아직 기재되지 않았다.",
+      "summary_en": "Sellafield has issued a planning notice for preliminary market engagement on procuring a dedicated transport capability for Decommissioning CHILW Containers (DCC). The scope covers detailed transporter design and engineering plus manufacture and assembly of the transporter fleet, including environmental protection and ventilation provisions and shielding provisions. The estimated value is GBP 1.0 million (GBP 1.2 million gross) and no bid deadline is yet stated.",
+      "sales_note": "설계와 제작을 한 공고에 묶은 영국 해체 물량으로, 규모는 작지만 셀라필드 공급사 등록을 여는 진입 공고 유형이다. 사전시장조사 단계여서 요구사항 형성에 의견을 낼 수 있는 시점이므로, 영국 해체·방폐물 분야 실적을 쌓으려면 본공고 전 참여가 유리하다.",
+      "sales_note_en": "This is UK decommissioning work that bundles design with manufacture - small in value but the type of entry notice that opens Sellafield supplier registration. It is still at preliminary market engagement, when requirements can still be shaped, so participating before the full notice is advantageous for building a UK decommissioning and waste track record."
+    },
+    {
+      "id": "2026-11-27-09",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 1,
+      "language": "en",
+      "title": "New approach to very low radiation doses needed, says nuclear industry",
+      "title_en": "New approach to very low radiation doses needed, says nuclear industry",
+      "title_ko": "세계원자력협회(WNA), 극저선량 규제 개편 입장문 발표 — '실무적 하한선 설정' 등 5개 권고",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/articles/nuclear-industry-calls-for-new-approach-to-very-low-radiation-doses",
+      "published": "2026-11-26",
+      "countries": [
+        "INT"
+      ],
+      "summary_ko": "세계원자력협회(WNA)가 극저선량 피폭 규제를 개편하라는 입장문과 기술보고서 'Decision-Making at Very Low Doses'를 냈다. 음식·환경·항공 피폭은 규제하지 않는 반면 인위적 계획피폭은 크기와 무관하게 규제하는 '이중기준'을 끝내야 한다는 취지다. 권고는 ①위험기반 단계적 접근 ②국제방사선방호위원회(ICRP) 차기 일반권고에 비례성 반영 ③최소화가 아닌 최적화 ④선형무문턱(LNT) 모델을 유일한 입력으로 쓰지 않도록 불확실성 인정 ⑤추가 규제노력이 불필요한 실무적 하한선 설정 등 5개다. 건강영향의 명확한 역학적 근거는 약 100mSv 이상에서만 확인되고 세계 평균 자연방사선은 연 약 3mSv라고 제시했으며, 하한선의 구체적 수치는 제시하지 않았다.",
+      "summary_en": "The World Nuclear Association has issued a position statement and a supporting technical report, Decision-Making at Very Low Doses, calling for reform of how very low-dose exposures are regulated. It argues for ending a double standard whereby doses from food, the environment and flights are not controlled while planned human-made exposures are regulated regardless of size. The five recommendations are: a simpler graded risk-informed approach; greater prominence for proportionality, including in the next ICRP General Recommendations; optimisation rather than minimisation; acknowledging uncertainty so that the linear no-threshold model is not the only input; and setting a practical cut-off below which no further regulatory effort is needed. It notes clear epidemiological evidence of risk only above about 100 mSv and average natural background of about 3 mSv per year, and gives no numerical value for the proposed cut-off.",
+      "sales_note": "극저선량 규제가 완화되면 해체·방폐물 처리와 부지 해제(clearance) 물량의 단위원가·공정이 함께 내려가 해체 시장 수익성 전제가 바뀐다. 다만 ICRP 차기 권고 반영을 전제한 중장기 의제여서 당장의 입찰 조건 변화로 보기는 이르다.",
+      "sales_note_en": "Easing very low-dose regulation would lower unit costs and schedules for decommissioning, waste treatment and site clearance volumes together, changing the profitability assumptions of the decommissioning market. It is a medium- to long-term agenda contingent on the next ICRP recommendations, however, so it is early to treat it as a change in current bid conditions."
+    },
+    {
+      "id": "2026-11-27-10",
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "fr",
+      "title": "EDF - Mesures anticipatrices dans l'environnement des Centrales Nucléaires",
+      "title_en": "EDF tenders anticipatory environmental measurements around five nuclear sites",
+      "title_ko": "프랑스 EDF, 원전 5개 부지(그라블린·팔뤼엘·팡리·플라망빌·블라예) 환경 사전측정 용역 입찰 — 접수 12월 22일",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/822217-2026/pdf",
+      "published": "2026-11-26",
+      "countries": [
+        "FR"
+      ],
+      "summary_ko": "EDF가 그라블린·팔뤼엘·팡리·플라망빌·블라예 5개 원전 부지 주변의 환경 사전측정(mesures anticipatrices) 용역을 공고했다. 범위는 해상 또는 하구 시료 채취와 기수·해수 현장측정, 시료 운반, 수급사 실험실에서의 화학·물리화학 분석이다. 접수 마감은 2026년 12월 22일 11시이고 추정금액은 기재되지 않았다.",
+      "summary_en": "EDF has tendered anticipatory environmental measurement services around five nuclear sites: Gravelines, Paluel, Penly, Flamanville and Blayais. The scope covers sampling at sea or on estuary edges, in situ measurement of brackish and sea water, transporting samples, and chemical and physico-chemical analysis in the contractor's laboratory. Bids are due at 11:00 on 22 December 2026, with no estimated value stated.",
+      "sales_note": "대상 5개 부지에 EPR2 1차 부지인 팡리와 후속 부지 그라블린이 포함돼 있어, 신규 건설 전 환경 기준선 확보 절차가 복수 부지에서 동시에 돌아가고 있음을 보여 준다. 역무 자체는 분석용역이라 당사 범위 밖이지만 EPR2 후속 부지 일정의 선행지표로 추적 가치가 있다.",
+      "sales_note_en": "The five sites include Penly, the first EPR2 site, and Gravelines, a follow-on site, showing that baseline environmental work ahead of new build is running at several sites at once. The scope itself is analytical services and outside ours, but it is worth tracking as a leading indicator of the schedule for follow-on EPR2 sites."
+    },
+    {
+      "id": "2026-11-27-11",
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "sl",
+      "title": "Prenova TP1 in kabliranje NSR 6,3 kV zanke na območju NEK",
+      "title_en": "Krsko NPP tenders TP1 refurbishment and cabling of the NSR 6.3 kV loop",
+      "title_ko": "슬로베니아 크르슈코 원전(NEK), 변전설비 TP1 개량 및 NSR 6.3kV 루프 케이블 포설 입찰 — 접수 2027년 1월 13일",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/824316-2026/pdf",
+      "published": "2026-11-26",
+      "countries": [
+        "SI"
+      ],
+      "summary_ko": "크르슈코 원전(NEK)이 부지 내 TP1 개량(prenova)과 NSR 6.3kV 루프 케이블 포설 공사를 공고했다. 입찰 접수 마감은 2027년 1월 13일 9시이며 추정금액은 공고에 기재되지 않았다.",
+      "summary_en": "Krsko nuclear power plant (NEK) has tendered the refurbishment of TP1 and the cabling of the NSR 6.3 kV loop on the plant site. Bids are due at 09:00 on 13 January 2027. No estimated value is given in the notice.",
+      "sales_note": "크르슈코 가동호기의 전기설비 개량 물량이 계속 나오고 있어, 슬로베니아는 JEK2 신규 사업과 별개로 개보수 발주가 꾸준한 시장임을 보여 준다. 접수까지 약 7주가 남아 전기·케이블 공종 현지 파트너를 통한 참여 검토 여지가 있다.",
+      "sales_note_en": "A steady flow of electrical upgrade work at the operating Krsko unit shows Slovenia as a market with consistent refurbishment procurement separate from the new-build JEK2 project. With about seven weeks to the deadline there is room to consider participating through a local partner in electrical and cabling trades."
+    },
+    {
+      "id": "2026-11-27-12",
+      "region": "overseas",
+      "category": "fuel",
+      "importance": 1,
+      "language": "cs",
+      "title": "Zajištění služeb provozu Úložiště radioaktivních odpadů Dukovany",
+      "title_en": "SURAO awards operation of the Dukovany radioactive waste repository to NUVIA",
+      "title_ko": "체코 방사성폐기물처분청(SÚRAO), 두코바니 방폐물 처분시설 운영 서비스 낙찰 — NUVIA, 체결액 7,726만 6,783코루나(추정 3,600만)",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/821408-2026/pdf",
+      "published": "2026-11-26",
+      "countries": [
+        "CZ"
+      ],
+      "summary_ko": "체코 방사성폐기물처분청(SÚRAO)이 두코바니 방폐물 처분시설의 종합 운영 서비스를 공고해 현지 업체 NUVIA에 낙찰했다. 범위는 처분시설 운영, 방폐물 포장용기 처분, 관련 시설·설비 관리·유지보수와 방사선 감시·인수물성 측정 지원이다. 추정금액은 3,600만 코루나, 체결금액은 7,726만 6,783코루나다.",
+      "summary_en": "The Czech Radioactive Waste Repository Authority (SURAO) has tendered and awarded comprehensive operating services for the Dukovany radioactive waste repository to the local firm NUVIA. The scope covers repository operation, emplacement of waste packages, and management and maintenance of the related buildings and equipment, including support for radiation monitoring and measurement of the properties of accepted waste. The estimated value was CZK 36 million and the contract was concluded at CZK 77,266,783.",
+      "sales_note": "두코바니 신규 호기와 같은 부지권역의 방폐물 처분 운영이 현지 업체로 묶이는 사례로, 체코 원자력 관련 운영·용역 물량의 현지 배분 경향을 다시 확인해 준다. 당사 범위 밖이지만 두코바니 현지화율 산정 논의에서 '어떤 역무가 체코 수주로 집계되는가'의 선례로 참고할 수 있다.",
+      "sales_note_en": "Waste repository operation in the same site area as the new Dukovany units going to a local firm again confirms the tendency for Czech nuclear operating and service volumes to be allocated locally. It is outside our scope but can be cited as a precedent in the Dukovany localisation debate over which work counts as Czech-awarded."
+    },
+    {
+      "id": "2026-11-27-13",
+      "region": "overseas",
+      "category": "policy",
+      "importance": 1,
+      "language": "en",
+      "title": "DC Power Converters Uni-polar / Vacuum Armature for MYRRHA Phase I (MINERVA) 100 MeV proton LINAC",
+      "title_en": "SCK CEN awards DC power converters and vacuum armature for the MYRRHA Phase I (MINERVA) 100 MeV LINAC",
+      "title_ko": "벨기에 원자력연구센터(SCK CEN), MYRRHA 1단계(MINERVA) 100MeV 양성자 선형가속기용 단극 DC 전력변환기·진공 아마추어 2건 낙찰 — 합계 약 340만 유로",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/821645-2026/pdf",
+      "published": "2026-11-26",
+      "countries": [
+        "BE"
+      ],
+      "summary_ko": "벨기에 원자력연구센터(SCK CEN)가 가속기구동 미임계 실증로 MYRRHA 1단계(MINERVA) 100MeV 양성자 선형가속기용 기자재 2건을 낙찰했다. 단극 DC 전력변환기는 C.N. Rood에 119만 945.7유로, 진공 아마추어(관·플랜지·벨로즈·엘보 등 개량 표준품과 챔버·탱크·매니폴드 등 비표준품)는 VACOM에 221만 유로로 체결됐다.",
+      "summary_en": "Belgium's nuclear research centre SCK CEN has awarded two equipment packages for the 100 MeV proton LINAC of MYRRHA Phase I (MINERVA), its accelerator-driven subcritical demonstration facility. Unipolar DC power converters went to C.N. Rood at EUR 1,190,946, and vacuum armature - modified standard parts such as pipes, flanges, bellows and elbows plus non-standard chambers, tanks and manifolds - went to VACOM at EUR 2,210,000.",
+      "sales_note": "가속기구동 시스템(ADS)용 기자재가 유럽 진공·전력기기 전문업체로 분산 발주되는 구도로, 당사 범위 밖이다. 다만 MYRRHA가 단계별 조달로 넘어갔다는 점은 유럽 선진로 실증 인프라의 기자재 발주가 본격화되는 신호로 볼 수 있다.",
+      "sales_note_en": "Equipment for the accelerator-driven system is being split among European vacuum and power equipment specialists, and is outside our scope. That MYRRHA has moved into phased procurement does, however, signal that equipment ordering for European advanced reactor demonstration infrastructure is getting under way."
+    },
+    {
+      "id": "2026-11-27-14",
+      "region": "overseas",
+      "category": "large",
+      "importance": 1,
+      "language": "sk",
+      "title": "Opravy, údržba a kontroly protipožiarnych zariadení",
+      "title_en": "JAVYS re-tenders inspection, maintenance and repair of fire protection systems",
+      "title_ko": "슬로바키아 JAVYS, 고정식 소화설비(SHZ) 예방정비·검사 및 비계획 수리 재공고 — 추정 10만 9,359유로, 접수 12월 4일",
+      "source": "TED (EU 공공조달)",
+      "url": "https://ted.europa.eu/en/notice/822363-2026/pdf",
+      "published": "2026-11-26",
+      "countries": [
+        "SK"
+      ],
+      "summary_ko": "슬로바키아 원자력해체·방폐물관리공사(JAVYS)가 고정식 소화설비(SHZ)의 예방정비(월·분기·반기·연간 검사)와 비계획 수리, 법규·기술조건 준수를 위한 특수작업을 공고했다. 추정금액은 10만 9,359유로, 기재된 총액은 27만 7,119유로이고 접수 마감은 2026년 12월 4일 12시다. 직전 동일 역무 공고(781257-2026)는 11월 26일 마감됐다.",
+      "summary_en": "JAVYS, Slovakia's nuclear decommissioning and waste management company, has tendered preventive maintenance (monthly, quarterly, half-yearly and annual inspections) and unplanned repairs of fixed fire suppression systems (SHZ), plus special activities required to comply with legislation and technical conditions. The estimated value is EUR 109,359 against a stated total of EUR 277,119, and bids are due at 12:00 on 4 December 2026. The preceding notice for the same scope (781257-2026) closed on 26 November.",
+      "sales_note": "직전 공고가 마감된 다음 날 동일 역무가 다시 올라온 재공고로, 소규모 정비 역무에서 유찰·재공고가 반복되는 패턴이다. 당사 범위 밖이다.",
+      "sales_note_en": "The same scope reappearing the day after the previous notice closed is a re-tender, part of a pattern of failed tenders and re-advertisement in small maintenance packages. It is outside our scope."
+    },
+    {
+      "id": "2026-11-27-15",
+      "region": "domestic",
+      "category": "policy",
+      "importance": 3,
+      "language": "ko",
+      "title": "산업부 장관, 체코 원전사업 계획의 철저한 이행과 체코와의 신뢰 공고화 방안 점검",
+      "title_en": "Korean industry minister chairs second Team Korea review of the Czech nuclear project",
+      "title_ko": "산업부 장관, 제2차 팀코리아 체코 원전 점검회의 — 12월 10일 제4차 두코바니 이행점검 협의체, 2027년 4월 건설허가 신청·2029년 11월 착공 일정 점검",
+      "source": "정책브리핑 (산업통상부)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791027",
+      "published": "2026-11-26",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "summary_ko": "김정관 산업통상부 장관이 11월 26일 서울 여의도 한전 남서울본부에서 한국수력원자력·한전기술·한전원자력연료·한전KPS 등 팀코리아 공기업과 제2차 체코 원전사업 점검회의를 열었다. 11월 20일 한수원과 대우건설·두산에너빌리티 컨소시엄의 시공 협력협약이 공식 종료된 뒤 신규 시공사 선정과 사업 연속성 확보, 핵심 일정 준수를 점검했다. 산업부는 11월 첫째 주부터 비상관리체제를 가동해 차관 주재 점검(11월 2일·18일)과 장관 주재 1차 회의(11월 12일)에 이어 네 번째로 진행 상황을 점검했다. 12월 중 카렐 하블리체크 체코 제1부총리 겸 산업장관의 방한에 맞춰 12월 10일 제4차 두코바니 이행점검 협의체가 열릴 예정이고, 팀코리아는 2027년 4월 건설허가 신청과 2029년 11월 착공을 핵심 일정으로 점검했다.",
+      "summary_en": "Industry Minister Kim Jung-kwan chaired a second Team Korea review of the Czech nuclear project on 26 November at KEPCO's Namseoul headquarters in Yeouido, Seoul, with the state-owned participants KHNP, KEPCO E&C, KEPCO Nuclear Fuel and KEPCO KPS. Following the formal end on 20 November of the construction cooperation agreement between KHNP and the Daewoo E&C - Doosan Enerbility consortium, the meeting reviewed selection of a new construction contractor, measures to secure business continuity, and adherence to key schedule milestones. The ministry has run an emergency management system since the first week of November, and this was its fourth progress review after vice-ministerial reviews on 2 and 18 November and the first ministerial meeting on 12 November. The fourth Dukovany implementation review council is scheduled for 10 December, timed to a December visit by Czech First Deputy Prime Minister and Industry Minister Karel Havlicek; Team Korea reviewed an April 2027 construction licence application and a November 2029 construction start as the key milestones.",
+      "sales_note": "시공사 공백 상태에서도 정부가 2027년 4월 건설허가 신청·2029년 11월 착공을 공개 일정으로 유지한 것은, 신규 시공사 선정을 그 일정 안에 끼워 넣겠다는 뜻이다. 12월 10일 협의체와 하블리체크 방한이 체코 측 신뢰 회복의 분수령이므로, 시공·기자재 패키지 재편을 노리는 쪽에서는 이 시점 전후의 발주 구조 발표를 주시해야 한다. 체코 기업 동반 방한에 맞춰 공급망 협력 확대가 함께 추진되는 점도 현지 파트너링 창구로 활용 가치가 있다.",
+      "sales_note_en": "Keeping an April 2027 licence application and November 2029 construction start as publicly stated milestones despite having no construction contractor means the government intends to fit selection of a new contractor inside that schedule. The 10 December council and Havlicek's visit are the pivot for restoring Czech confidence, so anyone targeting a reshuffle of construction and equipment packages should watch for announcements on the contracting structure around that date. The parallel push to expand supply chain cooperation with the Czech companies travelling with Havlicek is also worth using as a local partnering channel.",
+      "related": [
+        "https://www.energydaily.co.kr/news/articleView.html?idxno=205534",
+        "https://www.energy-news.co.kr/news/articleView.html?idxno=230124"
+      ]
+    },
+    {
+      "id": "2026-11-27-16",
+      "region": "domestic",
+      "category": "large",
+      "importance": 2,
+      "language": "cs",
+      "title": "Korejci rozšiřují spolupráci s českými firmami. Další zakázka pro Dukovany míří do Plzně",
+      "title_en": "Koreans widen cooperation with Czech firms as more Dukovany work heads to Plzen",
+      "title_ko": "[새 사실] 한수원, 두코바니 체코 현지 공급 확대 — 두산스코다파워가 양 호기 증기터빈 공급 합의, 터빈홀 보조기기로 확대 유력, 스코다JS는 ASME 취득 후 4개 패키지 공급사 등록 진행",
+      "source": "e15.cz (ČTK)",
+      "url": "https://www.e15.cz/byznys/korejci-rozsiruji-spolupraci-s-ceskymi-firmami-dalsi-zakazka-pro-dukovany-miri-do-plzne-1437641",
+      "published": "2026-11-26",
+      "countries": [
+        "KR",
+        "CZ"
+      ],
+      "summary_ko": "한수원이 두코바니 5·6호기 물량의 체코 현지 공급을 플젠 업체들로 넓히고 있다. 두산스코다파워는 이미 한수원과 신규 2개 호기 증기터빈 공급에 합의한 상태이고, 터빈홀 보조기기로 범위를 넓히는 방안이 유력하게(zřejmě) 거론되며 한수원은 계약 체결을 향한 준비가 진행 중이라고 밝혔다. 펌프와 복수기는 아직 협상 중인 핵심 패키지로 남아 있다. 스코다JS는 ASME 인증을 취득했고 보조기기·자재 4개 패키지에 대한 한수원 공급사 등록 절차를 밟고 있으며 두산에너빌리티와 주기기 공급도 검토 중이다. 개별 수주금액은 공개되지 않았고, 기사에 나온 4,070억 코루나는 지난해 가격 기준 2기 총건설비다.",
+      "summary_en": "KHNP is widening local Czech supply for Dukovany 5 and 6 to firms in Plzen. Doosan Skoda Power has already agreed with KHNP to supply the steam turbines for both new units, and extending its scope to turbine hall auxiliary equipment is described as likely, with KHNP saying preparations are heading toward a contract. Pumps and condensers remain key packages still under negotiation. Skoda JS has obtained ASME certification and is going through KHNP supplier registration for four auxiliary equipment and materials packages, and is also exploring main reactor component supply with Doosan Enerbility. No individual contract values were disclosed; the CZK 407 billion in the article is the cost of building both units at last year's prices.",
+      "sales_note": "현지화율 산정 기준이 쟁점이 된 상황에서 한수원이 '체코 수주'로 집계될 수 있는 패키지를 터빈·보조기기·자재 쪽으로 구체화하고 있다는 뜻이다. 아직 미계약인 펌프·복수기가 BOP 기자재의 핵심이어서, 체코 현지사와 경합하거나 하도급으로 들어갈 수 있는 구간이 바로 이 지점이다. 스코다JS의 ASME 취득은 현지 업체가 한국·미국 규격 요건을 빠르게 충족해 오고 있음을 보여 주므로, 규격 적합성만으로는 더 이상 차별화가 어렵다는 점을 전제로 공기·가격·실적 쪽 강점을 세우는 편이 낫다.",
+      "sales_note_en": "With the method of counting local content now contested, this means KHNP is giving concrete shape to the packages that can be counted as Czech-awarded, in turbines, auxiliary equipment and materials. Pumps and condensers, still uncontracted, are core balance-of-plant equipment, and that is exactly where there is room either to compete with Czech firms or to enter as a subcontractor. Skoda JS obtaining ASME certification shows local firms meeting Korean and US code requirements quickly, so it is better to build the case on schedule, price and track record on the assumption that code compliance alone no longer differentiates."
+    },
+    {
+      "id": "2026-11-27-17",
+      "region": "domestic",
+      "category": "policy",
+      "importance": 1,
+      "language": "ko",
+      "title": "제2026-19회 원자력안전위원회 개최",
+      "title_en": "Nuclear Safety and Security Commission holds its 19th meeting of 2026",
+      "title_ko": "제2026-19회 원자력안전위원회 — '원자력이용시설 운영 변경허가(안)' 심의",
+      "source": "정책브리핑 (원자력안전위원회)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790944",
+      "published": "2026-11-26",
+      "countries": [
+        "KR"
+      ],
+      "summary_ko": "원자력안전위원회가 11월 26일 제2026-19회 회의를 열어 '원자력이용시설 운영 변경허가(안)' 1건을 심의의결 안건으로 올렸다. 공개된 보도자료 본문에는 대상 호기·시설이 특정돼 있지 않고 의결 결과도 기재되지 않았다.",
+      "summary_en": "The Nuclear Safety and Security Commission held its 19th meeting of 2026 on 26 November, with one item for deliberation and resolution: a draft change to the operating licence of a nuclear facility. The published release does not identify the unit or facility concerned and does not state the outcome.",
+      "sales_note": ""
+    }
+  ]
+}

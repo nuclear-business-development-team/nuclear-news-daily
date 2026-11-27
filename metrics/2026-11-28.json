@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-28",
+  "run_started": "2026-11-28T08:04:29+09:00",
+  "run_finished": "2026-11-28T08:45:00+09:00",
+  "run_minutes": 41,
+  "articles": 13,
+  "by_region": {
+    "overseas": 11,
+    "domestic": 2
+  },
+  "by_importance": {
+    "3": 3,
+    "2": 6,
+    "1": 4
+  },
+  "detection_lag_hours": {
+    "median": 23.07,
+    "max": 47.07,
+    "n": 13
+  },
+  "sources_ok": [
+    "World Nuclear News (RSS)",
+    "NucNet (RSS)",
+    "IAEA Top News (RSS)",
+    "POWER Magazine (RSS)",
+    "UK DESNZ gov.uk (Atom)",
+    "더구루 (RSS)",
+    "정책브리핑 korea.kr (원전·SMR·원자력 3회 검색)",
+    "EU TED 검색 API (발주처명 67질의 + FT~ 21용어)",
+    "UK Find a Tender OCDS API (10페이지·928건)",
+    "CanadaBuys 개방공고 CSV (918건)",
+    "New Civil Engineer",
+    "에너지데일리",
+    "teraz.sk (TASR)"
+  ],
+  "sources_failed": [
+    {
+      "name": "한국수력원자력 보도자료 게시판",
+      "reason": "JS 렌더링 — 목록 HTML에 게시물 행 0건. 정책브리핑으로 대체"
+    },
+    {
+      "name": "한국전력 보도·설명자료 게시판",
+      "reason": "JS 렌더링 — 목록 HTML에 게시물 행 0건. 정책브리핑으로 대체"
+    },
+    {
+      "name": "Nuclear Engineering International (RSS)",
+      "reason": "응답 본문 0바이트 (2회 시도)"
+    },
+    {
+      "name": "더트래커 (RSS)",
+      "reason": "응답 154바이트 — 항목 0건"
+    },
+    {
+      "name": "TED 공고 PDF·XML 직접 다운로드",
+      "reason": "본문 0바이트·빈 페이지 — 세부 확인은 검색 API 필드 질의로 대체"
+    },
+    {
+      "name": "핀란드 Hilma 공개 API",
+      "reason": "404 — 14회차 연속, 구독키 필요로 확정"
+    },
+    {
+      "name": "rolls-royce-smr.com 공급망 페이지",
+      "reason": "403"
+    },
+    {
+      "name": "SAM.gov · TenderNed · 체코 NEN · UK Contracts Finder · OPG",
+      "reason": "JavaScript 포털 — 구조적 당일 감시 불가. 금차 질의 미수행"
+    },
+    {
+      "name": "일반 WebSearch 날짜 질의 (영문·국문·체코어·폴란드어 6건)",
+      "reason": "색인이 11-27~28자를 반환하지 않고 과거 기사를 '최신'으로 노출 — 금차 기사는 전량 RSS·공식 발표·조달 API로 확보"
+    },
+    {
+      "name": "WebSearch allowed_domains 거부",
+      "reason": "hnonline.sk · di.se · dn.se · svd.se 는 에이전트 접근 차단 도메인 — 슬로바키아어·스웨덴어 현지 질의 2건 축소 수행"
+    }
+  ],
+  "languages": {
+    "en": 7,
+    "ko": 3,
+    "cs": 1,
+    "it": 1,
+    "ro": 1
+  },
+  "notes": "수집 기간을 2026-11-26~28로 넓혔다(직전 브리핑 11-27, 주말로 창이 좁아 11-26자 미수집분 보완). 검토 대상은 TED 발주처명 축 23건 + TED FT~ 축 111건 중 정밀검토 1건 + UK FTS 원자력 키워드 15건 + CanadaBuys 원자력 키워드 6건(전부 기간 밖) + RSS 피드 기간 내 11건(WNN 10·NucNet 1) + 정책브리핑 3회 검색 + 더구루 피드 1건이고, 이 중 13건을 기사로 실었다. ★ 중복 제외 1건: TED 826340-2026(슬로바키아 JESS 보후니체 AP1000 FEED 웨스팅하우스 낙찰공고, 11-27 공표)은 같은 낙찰 건이 11-10 회차에 TED 782412-2026으로 이미 수집된 사안이어서 제외했다 — 추정금액 450만 8,310유로·계약 체결 '26-10-28·사전 공고 없는 협상절차·용역기간 6개월·낙찰자가 모두 기존 기록과 일치하는 번호만 다른 재공표다. 금차 회차에서 이 건을 '신규 긴급'으로 1차 판정해 속보를 발송한 뒤 교차 조회로 중복임을 확인하고 정정 통지했으며, 재발 방지 절차(공고번호 대신 발주처명·계약 체결일·낙찰자·추정금액 4값 교차 조회, 속보 발송 전 교차 조회 선행)를 비공개 운영 기록에 명문화했다. ★ 기간 오판 차단 1건: NucNet 피드가 pubDate 2026-11-27로 반환한 'Nucleoeléctrica Argentina–Candu Energy' 건은 교차 확인 결과 2025년 11월 MOU여서 제외했다(NucNet 피드 pubDate는 게재일이 아니라 편집 추천 시점). 그 밖의 제외는 TED FT~ 축 부분문자열 오탐 110건(건수 과다로 유형만 기록), TED 발주처명 축 비원자력·범위 밖 오탐 17건, UK FTS 범위 밖 5건·기 알림분 재공표 2건, NEK 크르슈코 TP1 재공표 1건(824615-2026, 11-27 알림분 824316-2026과 동일 역무·동일 마감)이다."
+}
